@@ -1,0 +1,304 @@
+State,Statecode,Ward,Wardcode,Lga,Lgacode,Name,Type,X,Y,Population,Target.Household.Count,Recommended.Access.Categories,DecileByHH
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,HA_4,HA,8.166232,9.476883,2,5,grid - Intensification,3
+Kaduna,KD,Asso,KD0701,Jema'A,19007,HA_13,HA,8.187498,9.412514,44,6,grid - Intensification,3
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,HA_6,HA,8.281363,9.479855,63,7,grid - Intensification,3
+Kaduna,KD,Barde,KD0703,Jema'A,19007,HA_20,HA,8.100811,9.360074,50,6,grid - Intensification,3
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,Ungwar Christopher/Rugar Sale,HA,8.172515,9.481355,20,5,grid - Intensification,3
+Kaduna,KD,Takau,KD0712,Jema'A,19007,Unguwan Yanshi,HA,8.271638,9.568629,940,37,grid - Intensification,3
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Banauje,HA,8.21679,9.39491,1011,39,grid - Intensification,4
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Kola,HA,8.098094,9.414092,4872,177,grid - Intensification,4
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Fangala,BUA,8.114264,9.355215,2362,88,grid - Intensification,4
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Fari,HA,8.193783,9.383822,3097,114,grid - Intensification,4
+Kaduna,KD,Kafanchan A,KD0707,Jema'A,19007,Kafanchan A,BUA,8.28969,9.58172,23974,721,grid - Intensification,4
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,Chipto,BUA,8.386204,9.470262,21506,770,grid - Intensification,4
+Kaduna,KD,Maigizo,KD0711,Jema'A,19007,Bayan Loko,BUA,8.302195,9.592817,6998,213,grid - Intensification,4
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,Kpaih,HA,8.100981,9.472722,6890,249,grid - Intensification,4
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Unguwar Makama,BUA,8.319658,9.509906,3023,111,grid - Intensification,4
+Kaduna,KD,Kafanchan B,KD0708,Jema'A,19007,Kafanchan B,BUA,8.296206,9.583603,19161,578,grid - Intensification,4
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_19,HA,8.214672,9.376614,57,6,grid - Intensification,4
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,Kagoma,BUA,8.175483,9.50725,7731,279,grid - Intensification,4
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,HA_17,HA,8.30538,9.551652,1337,49,grid - Intensification,4
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_12,HA,8.226141,9.367533,59,13,grid,4
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Fada,BUA,8.233346,9.345526,11789,423,grid - Intensification,5
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Ambam,HA,8.319417,9.52842,1889,70,grid - Intensification,5
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,Dogon Fili,BUA,8.450797,9.45756,2135,79,grid - Intensification,5
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Kussom,SSA,8.175432,9.335896,365,16,grid - Intensification,5
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,HA_1,HA,8.139908,9.484206,744,30,grid - Intensification,5
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Unguwan Likita Boka,BUA,8.208539,9.385804,3646,133,grid - Intensification,5
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,Ha Gah,HA,8.149289,9.487509,5734,207,grid - Intensification,5
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,Kanufi Ii,HA,8.401431,9.461302,281,49,grid,5
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,Unguwar Sarki,HA,8.470429,9.465565,3634,133,grid - Intensification,5
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Bakin Kogi 2,HA,8.272523,9.490904,2694,99,grid - Intensification,5
+Kaduna,KD,Maigizo,KD0711,Jema'A,19007,Aduan 4,HA,8.311606,9.604974,1844,68,grid - Intensification,5
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Hakogo,BUA,8.165821,9.433391,3773,137,grid - Intensification,5
+Kaduna,KD,Asso,KD0701,Jema'A,19007,HA_14,HA,8.188294,9.421693,326,15,grid - Intensification,5
+Kaduna,KD,Maigizo,KD0711,Jema'A,19007,Ungwan Galadima,BUA,8.315593,9.598129,1980,63,grid - Intensification,5
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,Karamin Gada,SSA,8.420834,9.463982,158,30,grid,5
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,HA_11,HA,8.190218,9.521574,100,8,grid - Intensification,5
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,Ungwar Bongos,HA,8.153494,9.541392,368,65,grid,5
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Atuka Gada,SSA,8.428234,9.461896,155,29,grid,5
+Kaduna,KD,Takau,KD0712,Jema'A,19007,Unguwan Musa,HA,8.302476,9.562351,958,38,grid - Intensification,5
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Unguwan Lamba,HA,8.224613,9.377475,767,133,grid,5
+Kaduna,KD,Takau,KD0712,Jema'A,19007,Bala Waje,BUA,8.301959,9.57543,3498,109,grid - Intensification,5
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Khibom,HA,8.107582,9.398403,4111,150,grid - Intensification,5
+Kaduna,KD,Maigizo,KD0711,Jema'A,19007,Zibin,HA,8.313523,9.57402,608,23,grid - Intensification,5
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Faifum,HA,8.03219,9.332057,825,34,grid - Intensification,5
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Unguwar Alkali,SSA,8.292135,9.541379,94,8,grid - Intensification,5
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,HA_3,HA,8.162401,9.486362,471,19,grid - Intensification,5
+Kaduna,KD,Maigizo,KD0711,Jema'A,19007,Ungwan Maigizo,BUA,8.328481,9.591825,269,11,grid - Intensification,5
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Kaura,SSA,8.289898,9.539367,240,12,grid - Intensification,5
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Delle,HA,8.224851,9.40584,1295,48,grid - Intensification,5
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Three Quarters,HA,8.231376,9.355602,521,20,grid - Intensification,5
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Ungwar Bulus,HA,8.309625,9.545543,172,10,grid - Intensification,6
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Shock,HA,8.276497,9.517157,309,14,grid - Intensification,6
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Unguwan Bebe,HA,8.227075,9.361975,159,31,grid,6
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Unguwan Moroa,HA,8.215516,9.357171,1285,221,grid,6
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Unguwan Sangom,BUA,8.044922,9.345452,1136,196,grid,6
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,HA_8,HA,8.184299,9.512473,128,9,grid - Intensification,6
+Kaduna,KD,Takau,KD0712,Jema'A,19007,Unguwan Ladan,HA,8.267475,9.562038,329,15,grid - Intensification,6
+Kaduna,KD,Takau,KD0712,Jema'A,19007,Unguwan Zamani,HA,8.257416,9.564089,1432,246,grid,6
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Unguwar Makama,HA,8.274586,9.560972,5781,209,grid - Intensification,6
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Hayin Gada,HA,8.376908,9.463525,749,30,grid - Intensification,6
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,HA_4,HA,8.381436,9.453423,6,6,grid,6
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Sabon Garin Kibam,HA,8.367908,9.431249,194,37,grid,6
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,HA_12,HA,8.360692,9.422155,164,32,grid,6
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Unguwar Gwamma Godogodo,BUA,8.354731,9.431613,10211,1738,grid,6
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Unguwar Makera Fulani,HA,8.346274,9.431077,195,37,grid,6
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Arusuwa,HA,8.340122,9.434958,4191,715,grid,6
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,Ungwar Ahmadu,HA,8.170633,9.493927,701,27,grid - Intensification,6
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Kirezop,HA,8.025514,9.340326,336,15,grid - Intensification,6
+Kaduna,KD,Asso,KD0701,Jema'A,19007,HA_6,HA,8.159166,9.433262,208,11,grid - Intensification,6
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_18,HA,8.231402,9.404654,56,6,grid - Intensification,6
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Ardo Mato,HA,8.246938,9.416425,2525,432,grid,6
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Kinsako,BUA,8.031568,9.314268,1024,40,grid - Intensification,6
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Atuku,HA,8.48143,9.487575,1133,195,grid,6
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Mile One,HA,8.239972,9.357886,817,141,grid,6
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_11,HA,8.236971,9.363307,124,22,grid,6
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_14,HA,8.240862,9.371012,236,42,grid,6
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Kembera Bayan Gari,SSA,8.238761,9.378911,164,32,grid,6
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Kembera Bakin Titi,SSA,8.240079,9.379599,109,20,grid,6
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Amere,BUA,8.244786,9.384634,1637,281,grid,6
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Rugar Ardo Baje,HA,8.355924,9.41649,111,20,grid,6
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Unguwar Madaki Kamfani,HA,8.362195,9.406039,2499,427,grid,6
+Kaduna,KD,Kafanchan B,KD0708,Jema'A,19007,HA_1,HA,8.28787,9.597324,221,11,grid - Intensification,7
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Unguwar Kagoma,HA,8.356912,9.399411,1237,213,grid,7
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Nko,HA,8.291646,9.548143,371,16,grid - Intensification,7
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,HA_8,HA,8.355571,9.389396,58,13,grid,7
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Rugar Abubakar Arak Iii,HA,8.364377,9.385668,393,69,grid,7
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,HA_9,HA,8.36981,9.394684,135,24,grid,7
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,"Unguwar Malam, Unguwar Anju",HA,8.377168,9.391663,206,38,grid,7
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Unguwar Dakaci Bisalla,HA,8.381905,9.388832,1578,271,grid,7
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Unguwar Hausawa Akwa,HA,8.385492,9.39551,1090,188,grid,7
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,HA_3,HA,8.359982,9.372986,50,12,grid,7
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,HA_6,HA,8.348572,9.375668,42,11,grid,7
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Rugar Ninte Madaki,SSA,8.343696,9.378016,87,17,grid,7
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Ninte Madaki,SSA,8.334836,9.384299,138,25,grid,7
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Ninte Sarki,HA,8.330375,9.374646,1990,341,grid,7
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,HA_10,HA,8.328812,9.396423,42,11,grid,7
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Unguwar Audu,HA,8.328089,9.400002,674,117,grid,7
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Mante,HA,8.316219,9.401872,4067,694,grid,7
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,HA_6,HA,8.393435,9.479293,170,10,grid - Intensification,7
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,Ha Kyat,HA,8.126635,9.480763,818,33,grid - Intensification,7
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Birka 1,HA,8.296416,9.532042,2340,87,grid - Intensification,7
+Kaduna,KD,Maigizo,KD0711,Jema'A,19007,Unguwan Waziri,HA,8.320876,9.602875,268,13,grid - Intensification,7
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Pham,SSA,8.122224,9.429235,318,14,grid - Intensification,7
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Wazo,SSA,8.1263,9.427973,262,13,grid - Intensification,7
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Unguwan Wella,HA,8.033835,9.3117,1961,72,grid - Intensification,7
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Unguwar Moto,SSA,8.315402,9.537556,149,9,grid - Intensification,7
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,Unguwar Aku,BUA,8.506615,9.492477,6372,230,grid - Intensification,7
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_22,HA,8.194975,9.407871,943,37,grid - Intensification,7
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Khidok,SSA,8.033542,9.354356,192,11,grid - Intensification,7
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Galma,HA,8.032961,9.292005,443,78,grid,7
+Kaduna,KD,Barde,KD0703,Jema'A,19007,HA_8,HA,8.038263,9.279069,177,34,grid,7
+Kaduna,KD,Barde,KD0703,Jema'A,19007,HA_7,HA,8.049361,9.271725,354,63,grid,7
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Angwan Ayaba,BUA,8.051713,9.274403,942,163,grid,7
+Kaduna,KD,Takau,KD0712,Jema'A,19007,HA_1,HA,8.324064,9.550604,26,8,grid,8
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,HA_11,HA,8.382382,9.486142,120,8,grid - Intensification,8
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,HA_8,HA,8.387446,9.487733,128,9,grid - Intensification,8
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,HA_7,HA,8.384193,9.493107,51,12,grid,8
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,Pasakori,HA,8.386447,9.499663,1280,220,grid,8
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Barmo Gada,HA,8.435036,9.459062,389,68,grid,8
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,Ungwar Dadi,HA,8.088622,9.473753,123,8,grid - Intensification,8
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,Ban,HA,8.087676,9.489971,812,141,grid,8
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Ambam,SSA,8.319254,9.529099,168,10,grid - Intensification,8
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,Forest Camp,HA,8.540799,9.50594,298,53,grid,8
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Katsak-I,HA,8.532148,9.518077,685,119,grid,8
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Tajak-Ii,HA,8.553706,9.52523,900,156,grid,8
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,Nimbia,HA,8.570384,9.507689,1094,188,grid,8
+Kaduna,KD,Barde,KD0703,Jema'A,19007,HA_10,HA,8.099041,9.348136,215,40,grid,8
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Unguwa Ninzom Day 4,HA,8.089018,9.329692,73,15,grid,8
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Unguwa Kaduma,BUA,8.08211,9.334155,1191,205,grid,8
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Kponfa,HA,8.062879,9.330869,734,127,grid,8
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Sabon Gari,HA,8.168475,9.385658,583,101,grid,8
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Mailafiya,HA,8.169346,9.395493,464,82,grid,8
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Ungwa Baiya,HA,8.441582,9.46686,28,9,grid,8
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Atuku Tozo,HA,8.444999,9.479936,822,142,grid,8
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Ungwa Joseph,HA,8.461509,9.482139,1009,175,grid,8
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,HA_5,HA,8.303235,9.387226,81,16,grid,8
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Zankan Kwano,HA,8.296396,9.390581,1575,270,grid,8
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Musa Shanono,HA,8.497707,9.507223,458,80,grid,8
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Kupi Sakiyo,HA,8.509423,9.519798,1534,263,grid,8
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Unguwan Hassan,BUA,8.187365,9.425496,2728,100,grid - Intensification,8
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Misisi,HA,8.381542,9.506018,747,130,grid,8
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Unguwan Mada,HA,8.231265,9.340716,3886,141,grid - Intensification,8
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_9,HA,8.224568,9.32298,28,9,grid,8
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_8,HA,8.230401,9.320196,107,20,grid,8
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Rugar Ardo Manu,HA,8.228056,9.31413,346,62,grid,8
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Unguwar Ibrahim,SSA,8.224079,9.295707,120,22,grid,8
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Dogon Awo,HA,8.232003,9.288243,730,127,grid,8
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Rugar Alhaji Wili,SSA,8.223901,9.278971,51,12,grid,8
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Gindin Dutse,HA,8.21909,9.284252,1202,207,grid,8
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_4,HA,8.22097,9.274481,130,23,grid,8
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Kogum Tsakiya,HA,8.222849,9.264605,1543,265,grid,8
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Ardo Ibrahim,SSA,8.243098,9.391582,108,20,grid,8
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Rugar Ardo Bammi,SSA,8.242583,9.392343,107,20,grid,8
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_7,HA,8.234451,9.269917,26,8,grid,8
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Sarkin Mata,SSA,8.245673,9.260627,120,22,grid,8
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Unguwar Ninzo Kogum,HA,8.23627,9.254717,1894,325,grid,8
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Unguwar Kogum,BUA,8.226522,9.250087,4498,767,grid,8
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_1,HA,8.228387,9.246412,347,62,grid,8
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Ardo Ussaini,HA,8.317176,9.496735,528,20,grid - Intensification,8
+Kaduna,KD,Takau,KD0712,Jema'A,19007,Unguwan Zibin,HA,8.319306,9.560889,95,8,grid - Intensification,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Rugan Saidu Magami,HA,8.160162,9.38886,306,55,grid,9
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,HA_1,HA,8.399304,9.4816,31,6,grid - Intensification,9
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Sabon Gari,HA,8.404916,9.489166,417,73,grid,9
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Kukum Gida,HA,8.409365,9.499885,52,12,grid,9
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Ungwa Ali,HA,8.41563,9.507247,263,46,grid,9
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,HA_2,HA,8.419341,9.514917,121,22,grid,9
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Ungwa Madaki,HA,8.413431,9.516886,741,129,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Unguwan Ibrahim,HA,8.172869,9.360043,153,29,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Rugan Ganje,HA,8.167606,9.364741,219,40,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Unguwan Sabo,HA,8.165,9.371059,197,37,grid,9
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Kariyo Jagindi,SSA,8.198402,9.419484,247,12,grid - Intensification,9
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,HA_4,HA,8.283234,9.38591,79,16,grid,9
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_15,HA,8.281039,9.380888,74,15,grid,9
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Dangwa B,HA,8.283882,9.374289,1361,234,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Tudun Wada,HA,8.156596,9.378924,558,97,grid,9
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Ungwa Duniya,HA,8.443361,9.494704,169,33,grid,9
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Ungwa Bature,HA,8.439644,9.498342,129,23,grid,9
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,HA_4,HA,8.430992,9.50135,40,10,grid,9
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Tafan Gida,HA,8.425134,9.493079,601,105,grid,9
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Manyi Tafan,HA,8.429519,9.483244,379,67,grid,9
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Rafin Dadi,HA,8.279528,9.509965,503,20,grid - Intensification,9
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Unguwar Kantiok,HA,8.239786,9.248221,237,43,grid,9
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Unguwan Chawai,HA,8.246872,9.363686,220,40,grid,9
+Kaduna,KD,Maigizo,KD0711,Jema'A,19007,Zikpak,HA,8.317477,9.586137,659,25,grid - Intensification,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Kuladas,SSA,8.126687,9.426196,492,20,grid - Intensification,9
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Unguwar Somi Sama,SSA,8.336209,9.402645,212,39,grid,9
+Kaduna,KD,Maigizo,KD0711,Jema'A,19007,Mayi Kali,HA,8.323415,9.560412,95,18,grid,9
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,Ungwar Tanko,HA,8.18409,9.494738,823,34,grid - Intensification,9
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,Ungwar Christopher,HA,8.185589,9.477903,442,78,grid,9
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,Unguwar Joseph,HA,8.210892,9.463156,742,129,grid,9
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Rugar Ahmadu Sabon Gari,HA,8.375,9.426157,198,37,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Rugar Tashi,HA,8.188624,9.346503,370,66,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Marmara,SSA,8.197719,9.351438,68,14,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Tsintsiya,SSA,8.204919,9.348248,156,30,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Bido,HA,8.205107,9.340997,135,24,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Bido,SSA,8.205199,9.338289,336,61,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Unguwar Yaro,HA,8.194075,9.329111,156,30,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,U/Sanda,HA,8.1952,9.316864,597,104,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Kurmin Zaki,HA,8.199758,9.310857,702,122,grid,9
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Gadop,HA,8.009944,9.319928,543,95,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Achiarege,SSA,8.185243,9.302815,216,40,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Aka2,HA,8.179458,9.294736,244,44,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Aka1,SSA,8.179831,9.286672,90,18,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Unguwar Sule,HA,8.170825,9.282313,471,83,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Unguwar Koko,SSA,8.165936,9.283464,187,36,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Unguwar Habu,HA,8.169258,9.289918,368,65,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,HA_2,HA,8.161654,9.274531,477,84,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Yuli,HA,8.163742,9.267202,1178,203,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Ade,HA,8.161241,9.250896,964,166,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Mada Gabas,SSA,8.167329,9.250239,158,30,grid,9
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Ha Mangu 1,HA,8.107457,9.379976,2352,87,grid - Intensification,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,HA_3,HA,8.170996,9.301577,261,46,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Unguwar Giwa,HA,8.169376,9.317051,185,35,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Rugar Buba,HA,8.159158,9.313731,144,26,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Unguwar Jatau,HA,8.157186,9.327369,572,100,grid,9
+Kaduna,KD,Kagoma,KD0709,Jema'A,19007,HA_6,HA,8.171216,9.520566,208,11,grid - Intensification,9
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Birjam,HA,8.271449,9.507442,65,7,grid - Intensification,9
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,HA_13,HA,8.388406,9.511701,169,33,grid,9
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,HA_15,HA,8.387481,9.521226,96,18,grid,9
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Tudun Wada,HA,8.36991,9.522113,426,75,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,HA_9,HA,8.143404,9.386863,130,23,grid,9
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Unguwan Tukura,HA,8.147359,9.409785,638,111,grid,9
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Janda,HA,8.291369,9.295806,859,149,grid,9
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_5,HA,8.308256,9.302347,74,15,grid,9
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_6,HA,8.315905,9.313117,185,35,grid,9
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Unguwan Kafinta,HA,8.301799,9.315488,988,171,grid,9
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Njebi Gbum,SSA,8.00644,9.320002,68,14,grid,10
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Kajere,HA,8.16192,9.235644,140,25,grid,10
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Unguwan Isah,HA,8.157823,9.23123,124,22,grid,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,HA_1,HA,8.086076,9.236574,465,82,grid,10
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Tudun Wada,SSA,8.357436,9.440328,113,21,grid,10
+Kaduna,KD,Takau,KD0712,Jema'A,19007,Unguwan Luka,HA,8.248039,9.571885,574,22,grid - Intensification,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Ha Dyeik,HA,8.124817,9.351932,1373,51,grid - Intensification,10
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Baraki 2,HA,8.272778,9.485043,995,39,grid - Intensification,10
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Rugar Ardo Haruna,HA,8.336621,9.422759,249,44,grid,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Harima,HA,8.074265,9.375471,479,84,grid,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Hayin Allu,SSA,8.207116,9.253019,74,15,grid,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Hayin Goho,SSA,8.205303,9.252773,219,40,grid,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_2,HA,8.200547,9.259752,137,24,grid,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_3,HA,8.202923,9.246684,94,18,grid,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Patake,HA,8.190835,9.2525,172,33,grid,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Hayin Raga,HA,8.20063,9.294396,193,36,grid,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Unguwar Mangoro,HA,8.199825,9.283513,198,37,grid,10
+Kaduna,KD,Asso,KD0701,Jema'A,19007,HA_7,HA,8.140888,9.364386,284,50,grid,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_21,HA,8.242478,9.34698,115,8,grid - Intensification,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_10,HA,8.249063,9.348161,189,36,grid,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Dangwa A,SSA,8.280415,9.36924,284,50,grid,10
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Abashia,HA,8.146426,9.27141,176,34,grid,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Kabo Ll Day 1,HA,8.124613,9.281195,150,28,grid,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,HA_4,HA,8.113672,9.263522,191,36,grid,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Dundu Day 1,HA,8.12755,9.256324,278,49,grid,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Mada Ade,HA,8.136398,9.249856,333,60,grid,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,HA_5,HA,8.10734,9.267438,248,44,grid,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Fankyop,HA,7.99077,9.310625,93,18,grid,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,HA_9,HA,7.986181,9.318185,234,42,grid,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,HA_6,HA,8.087345,9.269108,499,88,grid,10
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Rugar Audu,HA,8.142953,9.330366,182,35,grid,10
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,Kanufi 1,HA,8.497237,9.474828,1363,51,grid - Intensification,10
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,Rugar Alhaji Mukaka Nindem,HA,8.327854,9.422456,77,16,grid,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Kabo L Day 2,HA,8.126957,9.290273,94,18,grid,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Unguwan Pah,SSA,8.216313,9.343805,124,22,grid,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Rugan Fulani Dare,HA,8.290863,9.357869,63,14,grid,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Unguwan Magaji,HA,8.277996,9.336616,386,68,grid,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,HA_14,HA,8.106315,9.408442,109,8,grid - Intensification,10
+Kaduna,KD,Asso,KD0701,Jema'A,19007,Gwanje,HA,8.156037,9.287598,106,20,grid,10
+Kaduna,KD,Takau,KD0712,Jema'A,19007,Unguwan Manyi,HA,8.315132,9.561413,119,8,grid - Intensification,10
+Kaduna,KD,Asso,KD0701,Jema'A,19007,HA_10,HA,8.194838,9.422686,310,14,grid - Intensification,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,HA_3,HA,8.073195,9.261771,144,26,grid,10
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Tudun Wada,SSA,8.315135,9.541223,158,10,grid - Intensification,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_16,HA,8.301016,9.363824,106,20,grid,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Unguwa Ali Day 3,HA,8.097549,9.292891,188,36,grid,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_20,HA,8.208144,9.416445,24,6,grid - Intensification,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Rugar Adamu,HA,8.214586,9.414083,121,22,grid,10
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Dangoma,BUA,8.316841,9.488678,2177,80,grid - Intensification,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Ruga Haro,HA,8.047775,9.308348,91,18,grid,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,HA_12,HA,8.051281,9.300819,59,13,grid,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,HA_13,HA,8.057906,9.309847,42,11,grid,10
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,HA_5,HA,8.413007,9.467955,14,7,grid,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Ruga Bokolo,HA,8.061664,9.296296,34,10,grid,10
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Manyi Kanjung,HA,8.398983,9.492672,379,16,grid - Intensification,10
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,HA_3,HA,8.393106,9.448256,54,12,grid,10
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,HA_5,HA,8.31873,9.481792,38,6,grid - Intensification,10
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,HA_3,HA,8.311554,9.480215,6,5,grid - Intensification,10
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,HA_4,HA,8.306914,9.482345,60,7,grid - Intensification,10
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Rugar Sabo,HA,8.303198,9.489488,204,11,grid - Intensification,10
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,HA_7,HA,8.29518,9.484683,105,20,grid,10
+Kaduna,KD,Barde,KD0703,Jema'A,19007,Ruga Alhaji Maikudi,SSA,8.124091,9.340076,40,10,grid,10
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Ungwa Felise,HA,8.488577,9.519987,73,15,grid,10
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,HA_14,HA,8.334697,9.523957,18,7,grid,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_24,HA,8.25736,9.411277,32,9,grid,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,Banauje Maduru,SSA,8.213331,9.397279,88,7,grid - Intensification,10
+Kaduna,KD,Atuku,KD0702,Jema'A,19007,Ungwa Tafiya,HA,8.490087,9.529937,14,7,grid,10
+Kaduna,KD,Takau,KD0712,Jema'A,19007,Unguwan Bulus,HA,8.320629,9.569906,237,12,grid - Intensification,10
+Kaduna,KD,Asso,KD0701,Jema'A,19007,HA_16,HA,8.190603,9.428767,69,7,grid - Intensification,10
+Kaduna,KD,Jagindi,KD0706,Jema'A,19007,HA_17,HA,8.228882,9.393131,209,11,grid - Intensification,10
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,Ardo,HA,8.320426,9.540784,59,7,grid - Intensification,10
+Kaduna,KD,Gidan Waya,KD0704,Jema'A,19007,HA_2,HA,8.470208,9.448327,22,8,grid,10
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,HA_10,HA,8.311752,9.492652,8,5,grid - Intensification,10
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,HA_11,HA,8.414834,9.402204,2,5,off-grid,NA
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,HA_1,HA,8.333494,9.339446,38,10,mini-grid,NA
+Kaduna,KD,Godogodo,KD0705,Jema'A,19007,HA_7,HA,8.412318,9.385988,2,5,off-grid,NA
+Kaduna,KD,Barde,KD0703,Jema'A,19007,HA_2,HA,8.10758,9.24165,18,7,mini-grid,NA
+Kaduna,KD,Kaninkon,KD0710,Jema'A,19007,HA_1,HA,8.2528,9.463202,26,8,mini-grid,NA

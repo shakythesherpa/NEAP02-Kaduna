@@ -1,0 +1,529 @@
+State,Statecode,Ward,Wardcode,Lga,Lgacode,Name,Type,X,Y,Population,Target.Household.Count,Recommended.Access.Categories,DecileByHH
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,HA_1,HA,8.366009,9.796804,33,6,grid - Intensification,3
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Zonkwa Central,BUA,8.292999,9.783956,27953,1000,grid - Intensification,3
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Nauta,HA,8.120667,9.997885,2032,75,grid - Intensification,3
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Fadan Kaje Saint Marry,HA,8.358062,9.757508,3272,120,grid - Intensification,3
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Ramai,HA,8.27621,9.793759,2309,86,grid - Intensification,3
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Kolosok,HA,8.173723,9.851982,528,92,grid,3
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Unguwan Duguru,HA,8.295128,9.864208,1857,69,grid - Intensification,4
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwan Wakili,BUA,8.390468,9.821985,5762,208,grid - Intensification,4
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Unguwan Tokan Kawai,BUA,8.299093,9.929059,4668,169,grid - Intensification,4
+Kaduna,KD,Zaman Dabo,KD2208,Zangon Kataf,19022,Kurmin Masara,SSA,8.455055,9.855467,123,8,grid - Intensification,4
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Zuturung Pama,HA,8.192153,9.793862,1464,55,grid - Intensification,4
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Sakwak,HA,8.237142,9.661638,2181,81,grid - Intensification,4
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwar Alama,BUA,8.185235,9.894931,6529,236,grid - Intensification,4
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Unguwar Ayyah,HA,8.294142,9.830916,1077,41,grid - Intensification,4
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Wadon,HA,8.324072,9.744037,1411,53,grid - Intensification,4
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Holy Family,HA,8.250762,9.766054,4273,155,grid - Intensification,4
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Kajah Yari Kpunyai,HA,8.215694,9.601242,1545,59,grid - Intensification,4
+Kaduna,KD,Zaman Dabo,KD2208,Zangon Kataf,19022,Kan Kurmi,HA,8.458916,9.856942,3153,116,grid - Intensification,4
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Tachet,HA,8.323216,9.694627,643,112,grid,4
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Sania,HA,8.282991,9.892233,2732,100,grid - Intensification,4
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Unguwan Auta,BUA,8.276506,9.574613,8065,245,grid - Intensification,4
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Sabon Gari 1,HA,8.292981,9.915425,245,12,grid - Intensification,4
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Kari Vake,HA,8.318753,9.766577,7284,263,grid - Intensification,4
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Samaru,BUA,8.386745,9.752946,13712,492,grid - Intensification,4
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Unguwar Juji Tsakiya,BUA,8.377199,9.78453,2825,103,grid - Intensification,4
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Mangui,SSA,8.220571,9.589109,254,12,grid - Intensification,4
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Karyi Maza,HA,8.219574,9.612539,1947,71,grid - Intensification,4
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Bafai 2,SSA,8.288258,9.877321,180,10,grid - Intensification,4
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Kamakakum,HA,8.326193,9.710722,3512,128,grid - Intensification,4
+Kaduna,KD,Zaman Dabo,KD2208,Zangon Kataf,19022,Kibori,HA,8.424746,9.84481,2426,415,grid,4
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,HA_3,HA,8.304528,9.791725,430,18,grid - Intensification,4
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Zagom Gajere,HA,8.174078,9.862568,635,111,grid,5
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Lenak,HA,8.146044,9.820912,645,24,grid - Intensification,5
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Zuturung Sarki,HA,8.166132,9.790255,807,33,grid - Intensification,5
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Chiroma,SSA,8.136061,9.995165,109,20,grid,5
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Unguwar Masat,HA,8.295162,9.807078,1514,260,grid,5
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Rugar Ardo Jemo,HA,8.294593,9.843827,5161,187,grid - Intensification,5
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Bakin Lamba,HA,8.171231,9.934425,433,76,grid,5
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Kafom,HA,8.139213,9.829898,1311,48,grid - Intensification,5
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Unguwan Hausawa,HA,8.22529,9.586519,3619,132,grid - Intensification,5
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,HA_1,HA,8.330067,9.763533,107,8,grid - Intensification,5
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Unguwan Zabiya,HA,8.263959,9.576895,3392,124,grid - Intensification,5
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Aruwara,HA,8.198621,9.543495,534,21,grid - Intensification,5
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,HA_1,HA,8.190133,9.525786,225,12,grid - Intensification,5
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Achayak,HA,8.315272,9.798409,2446,418,grid,5
+Kaduna,KD,Zango Urban,KD2209,Zangon Kataf,19022,River Basin,HA,8.41372,9.843802,243,43,grid,5
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,New Barrack,HA,8.211497,9.563282,263,13,grid - Intensification,5
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Katak Agbang Ali,HA,8.3347,9.725218,1098,189,grid,5
+Kaduna,KD,Zaman Dabo,KD2208,Zangon Kataf,19022,Atisa,HA,8.435796,9.853118,152,29,grid,5
+Kaduna,KD,Zango Urban,KD2209,Zangon Kataf,19022,Unguwan Sulubawa,BUA,8.405897,9.835289,5789,209,grid - Intensification,5
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Katak Zakwo,HA,8.232762,9.563751,2320,397,grid,5
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,HA_4,HA,8.200345,9.608313,85,7,grid - Intensification,5
+Kaduna,KD,Zaman Dabo,KD2208,Zangon Kataf,19022,Atak Agba'at,HA,8.45051,9.854742,370,16,grid - Intensification,5
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Atayu,HA,8.201663,9.550262,582,22,grid - Intensification,5
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Unguwar Danbaki2,HA,8.298277,9.79815,354,63,grid,5
+Kaduna,KD,Zango Urban,KD2209,Zangon Kataf,19022,Zango Market,SSA,8.411603,9.830465,74,7,grid - Intensification,6
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,HA_6,HA,8.172991,9.615536,39,6,grid - Intensification,6
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Shakon,HA,8.218923,9.632115,219,11,grid - Intensification,6
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Gidan Gada,HA,8.172599,9.828151,117,8,grid - Intensification,6
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Zibuong 2,SSA,8.221393,9.587172,244,12,grid - Intensification,6
+Kaduna,KD,Zango Urban,KD2209,Zangon Kataf,19022,Barrack,HA,8.399851,9.833277,1044,40,grid - Intensification,6
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Fadia Bakut,HA,8.228969,9.77804,406,17,grid - Intensification,6
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,HA_4,HA,8.233384,9.650512,185,10,grid - Intensification,6
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Kazanstock,HA,8.339348,9.752567,755,131,grid,6
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Unguwar Dauke,HA,8.288275,9.779929,632,24,grid - Intensification,6
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Anchuna,HA,8.133096,9.989852,184,35,grid,6
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Kamanyitum,HA,8.255585,9.762472,221,11,grid - Intensification,6
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Unguwar Mayin Kukwak,HA,8.266621,9.753211,235,42,grid,6
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Tsohon Gida,HA,8.27446,9.753349,1676,288,grid,6
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Nhok,HA,8.280353,9.760202,1425,245,grid,6
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Bafai,SSA,8.287068,9.880046,109,8,grid - Intensification,6
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Bvontong,HA,8.242783,9.680832,282,13,grid - Intensification,6
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Unguwar Biri,HA,8.254356,9.684591,113,21,grid,6
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Farman Dutse,HA,8.250489,9.693128,2779,475,grid,6
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwan Rohogo,HA,8.382593,9.857984,2747,100,grid - Intensification,6
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Kurfi,HA,8.41838,9.824016,455,18,grid - Intensification,6
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Kashuwu,HA,8.338008,9.729864,312,56,grid,6
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_2,HA,8.191308,9.878435,66,14,grid,6
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Unguwar Duniya,HA,8.424581,9.767972,1626,62,grid - Intensification,6
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Madawa I,HA,8.425062,9.759175,472,19,grid - Intensification,6
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Unguwar Gora Dauda,HA,8.425148,9.750516,597,104,grid,6
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Mamachu,HA,8.43669,9.746211,990,171,grid,6
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Kacecere Tyap,HA,8.445862,9.729621,541,94,grid,6
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Magauri,HA,8.438036,9.725789,969,167,grid,6
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Rugar Fulani Bako,HA,8.440195,9.715193,440,77,grid,6
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Tsobiyom,HA,8.459179,9.714427,2670,457,grid,6
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Awak,SSA,8.465118,9.714226,180,35,grid,6
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Mabodam,SSA,8.468265,9.715223,117,21,grid,6
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Mayi Machi,HA,8.473172,9.719294,666,116,grid,6
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Madodo,HA,8.486666,9.710553,1858,319,grid,6
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Zaku,HA,8.156676,9.85827,1166,201,grid,6
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Unguwar Gora,HA,8.429121,9.805176,988,171,grid,6
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Tafawa Balewa Memorial College,HA,8.388014,9.764318,2,5,grid - Intensification,6
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Anguwan Hausawa,BUA,8.176617,9.814703,4069,148,grid - Intensification,6
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Unguwan Hakimi,HA,8.286596,9.607545,2611,446,grid,7
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Kpong,HA,8.315985,9.681434,13408,481,grid - Intensification,7
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Rebvok,HA,8.309725,9.723077,1001,173,grid,7
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Arata'at,HA,8.161028,9.618579,548,21,grid - Intensification,7
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Shaishok,HA,8.147579,9.624894,1601,275,grid,7
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Arubuzun,HA,8.142073,9.635992,727,126,grid,7
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Tuwan,HA,8.337234,9.659759,436,76,grid,7
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Unguwan Kajere,HA,8.344541,9.653959,107,20,grid,7
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,HA_6,HA,8.216994,9.795939,48,12,grid,7
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Fadia Mugu,HA,8.231819,9.80643,926,160,grid,7
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,HA_9,HA,8.236775,9.807139,48,12,grid,7
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Fadia Guda,HA,8.248226,9.802499,888,154,grid,7
+Kaduna,KD,Zaman Dabo,KD2208,Zangon Kataf,19022,Zaman Dabo,HA,8.457285,9.851667,2304,85,grid - Intensification,7
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwar Alulu,HA,8.183765,9.904509,656,25,grid - Intensification,7
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,HA_2,HA,8.418065,9.737632,84,17,grid,7
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Kurmin Dawaki 2,HA,8.413825,9.721415,1376,236,grid,7
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Unguwan Fada A,HA,8.186308,9.612434,432,18,grid - Intensification,7
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwa Adamu,HA,8.445297,9.810604,884,35,grid - Intensification,7
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Ma'ayock,HA,8.449614,9.795631,673,117,grid,7
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwar Hakimi,HA,8.455828,9.787379,294,52,grid,7
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Rugan Ja'afaru,HA,8.446445,9.782553,902,156,grid,7
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Magoge,HA,8.460702,9.773338,960,166,grid,7
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,HA_2,HA,8.371959,9.866535,112,8,grid - Intensification,7
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Unguwar Tachio,HA,8.376974,9.878779,1461,251,grid,7
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,HA_4,HA,8.366058,9.890449,164,32,grid,7
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Yagbak,HA,8.36592,9.899775,1019,176,grid,7
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Unguwar Peter,HA,8.372698,9.899895,1016,176,grid,7
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Warkan,HA,8.35245,9.886299,1002,173,grid,7
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Fadar Ikulu,HA,8.197519,9.912658,777,135,grid,7
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Unguwan Sarki Rikawan,HA,8.169897,9.599492,353,63,grid,7
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Rikawan Kufai,HA,8.179444,9.596582,880,152,grid,7
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Dichu Barang,HA,8.278038,9.604417,267,47,grid,7
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Zauru 2,HA,8.272841,9.602373,542,94,grid,7
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Unguwan Dakare,HA,8.211074,9.592083,2688,98,grid - Intensification,7
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Gwagiri,HA,8.116081,9.684451,396,69,grid,7
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Anvut,HA,8.127182,9.694493,87,17,grid,7
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Achin,HA,8.138626,9.690298,1119,193,grid,7
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Boro 2,HA,8.145971,9.698449,543,95,grid,7
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_2,HA,8.15297,9.699137,58,13,grid,7
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Hayin Jari,HA,8.164046,9.699108,192,36,grid,7
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Rakabam,HA,8.177012,9.699248,4317,736,grid,7
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Kumi,HA,8.177571,9.688602,1242,213,grid,7
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Rugan Alhaji Habu,HA,8.168231,9.717304,184,35,grid,7
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Sakwam,HA,8.163227,9.723688,1289,222,grid,7
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Tudun Wada,HA,8.159245,9.592899,81,16,grid,7
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Unguwan Duniya,HA,8.156214,9.601662,264,46,grid,7
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,HA_2,HA,8.275731,9.621173,149,28,grid,7
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,HA_1,HA,8.268556,9.626334,916,158,grid,7
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Zuturung,HA,8.28091,9.624285,608,106,grid,8
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Karamin Zagom,HA,8.180813,9.884613,354,15,grid - Intensification,8
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwar Yelwa,HA,8.169659,9.891635,937,162,grid,8
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Unguwan Primary Afana,HA,8.206706,9.570176,620,23,grid - Intensification,8
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Atak Awak,SSA,8.465569,9.717117,78,16,grid,8
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Matari,SSA,8.466741,9.719504,126,23,grid,8
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Manyimiyan,SSA,8.466377,9.723426,200,37,grid,8
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwar Bijimi,HA,8.159814,9.889264,1171,202,grid,8
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Gidan Abubakar Jafaaru,HA,8.357303,9.866172,193,36,grid,8
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Kurmin Gandu,HA,8.350581,9.864734,363,65,grid,8
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Bafai Gida,HA,8.336798,9.860534,699,121,grid,8
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,HA_7,HA,8.345665,9.848496,117,21,grid,8
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Aza Makut,HA,8.353878,9.843113,1051,181,grid,8
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Gora Gida,HA,8.329583,9.844706,1342,231,grid,8
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Duchiokwo 1,HA,8.264111,9.593707,471,83,grid,8
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwan Mudi Fulani,HA,8.380226,9.798371,828,34,grid - Intensification,8
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Madobiya,HA,8.346539,9.665534,261,46,grid,8
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Kazabaju,HA,8.352362,9.672626,476,84,grid,8
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Maniya,HA,8.359233,9.689064,704,122,grid,8
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Ramin Kura,HA,8.419452,9.926476,463,81,grid,8
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Kigudu,HA,8.41884,9.937732,1287,221,grid,8
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwan Bala,HA,8.419741,9.910243,238,43,grid,8
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Magwafan,HA,8.414756,9.895683,412,72,grid,8
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Sako,HA,8.406199,9.884121,1058,182,grid,8
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwan Mission Gefen Sako,HA,8.413727,9.87554,2199,376,grid,8
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,HA_3,HA,8.209414,9.530531,69,15,grid,8
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,HA_2,HA,8.219427,9.522444,914,158,grid,8
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Unguwan Rana,HA,8.307317,9.68042,295,14,grid - Intensification,8
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Madakiya Kufai,HA,8.295836,9.679966,555,97,grid,8
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Bvompang Attaga,SSA,8.289593,9.676612,174,34,grid,8
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Kauraje,HA,8.282631,9.682766,575,100,grid,8
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Unguwan Kayit,HA,8.307902,9.620262,866,35,grid - Intensification,8
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Margada,HA,8.492907,9.721441,277,49,grid,8
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Jakumba I,HA,8.487386,9.727231,474,84,grid,8
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Zagom,HA,8.238581,9.746851,745,30,grid - Intensification,8
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Arikwadop,HA,8.213039,9.746594,1354,233,grid,8
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,SSA_1,SSA,8.32349,9.699237,62,7,grid - Intensification,8
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwar Dodo,HA,8.147393,9.900138,1413,243,grid,8
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Tum Tsoriyang,HA,8.367934,9.715364,419,73,grid,8
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Kamrum 1,BUA,8.222599,9.646285,1817,67,grid - Intensification,8
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Sakwa Satwang,HA,8.28344,9.635491,228,41,grid,8
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Kari Rai,HA,8.276429,9.641537,188,36,grid,8
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Kanem Daji,HA,8.271949,9.643504,80,16,grid,8
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Unguwar Rani Dihuwan,HA,8.271113,9.652559,581,101,grid,8
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Unguwar Kabruk,SSA,8.320936,9.6974,74,15,grid,8
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Mashan Daji,HA,8.371632,9.80456,1203,45,grid - Intensification,8
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Ardo Fulani,HA,8.354601,9.800369,1128,194,grid,8
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Diriying,HA,8.308543,9.696941,803,139,grid,8
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_22,HA,8.12014,9.832445,188,36,grid,8
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_27,HA,8.112108,9.841221,21,8,grid,8
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Kagal,HA,8.108921,9.846559,1151,199,grid,8
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Taligan,HA,8.456646,9.818323,2182,81,grid - Intensification,8
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,HA_4,HA,8.463966,9.824038,113,8,grid - Intensification,8
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Makuyashi,HA,8.472828,9.821979,399,70,grid,8
+Kaduna,KD,Zaman Dabo,KD2208,Zangon Kataf,19022,Unguwan Iliya Adam,HA,8.480526,9.830096,311,56,grid,8
+Kaduna,KD,Zaman Dabo,KD2208,Zangon Kataf,19022,Doka,HA,8.492299,9.833328,362,65,grid,8
+Kaduna,KD,Zaman Dabo,KD2208,Zangon Kataf,19022,Fulanin Unguwan Moinna,HA,8.492022,9.843849,73,15,grid,8
+Kaduna,KD,Zaman Dabo,KD2208,Zangon Kataf,19022,Unguwan Galadima,HA,8.503533,9.846198,375,66,grid,8
+Kaduna,KD,Zaman Dabo,KD2208,Zangon Kataf,19022,Unguwan Yawa,HA,8.499843,9.855963,276,48,grid,8
+Kaduna,KD,Zaman Dabo,KD2208,Zangon Kataf,19022,Zaman Chawai,HA,8.496163,9.862577,539,94,grid,8
+Kaduna,KD,Zaman Dabo,KD2208,Zangon Kataf,19022,Unguwan Elisha,HA,8.481224,9.786946,1239,213,grid,8
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Marabang 1,HA,8.21166,9.658852,381,67,grid,8
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Aranga,HA,8.196555,9.659826,320,58,grid,8
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Unguwan Kaduna Kayit,HA,8.194836,9.676115,1065,184,grid,8
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Unguwar Laushi,HA,8.097101,9.845262,853,148,grid,8
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Gamalo,HA,8.100417,9.861587,600,105,grid,8
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Ruga Fulani,HA,8.116989,9.764014,77,7,grid - Intensification,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_7,HA,8.112481,9.763397,92,8,grid - Intensification,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_8,HA,8.110482,9.75748,37,6,grid - Intensification,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,SSA_1,SSA,8.106594,9.75774,59,13,grid,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Riyam,HA,8.101247,9.76892,756,131,grid,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_11,HA,8.098432,9.783451,305,55,grid,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Rugar Suleiman,HA,8.097162,9.798593,79,16,grid,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_17,HA,8.102413,9.810813,1184,204,grid,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Zuturung Mago,HA,8.110574,9.807067,1056,182,grid,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_14,HA,8.116083,9.800583,683,119,grid,9
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Anpang,HA,8.193367,9.744876,949,164,grid,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Huwakyuam,HA,8.092495,9.781969,262,46,grid,9
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Unguwan Hassan,HA,8.176609,9.566331,62,14,grid,9
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Unguwan Markus,HA,8.185955,9.572378,781,135,grid,9
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Arikatuk,HA,8.181472,9.561233,219,40,grid,9
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Unguwan Mangoro,HA,8.176649,9.552608,276,48,grid,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_12,HA,8.084777,9.782851,63,14,grid,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Tapyari,HA,8.070097,9.798371,621,108,grid,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Kanzir,HA,8.060196,9.799831,640,112,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Akurjini,HA,8.221761,10.117831,337,61,grid,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Kangun,HA,8.122952,9.757028,1573,60,grid - Intensification,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Dutsen Bako,HA,8.14781,9.974799,2721,100,grid - Intensification,9
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Kamayi Diyiring,HA,8.301819,9.705395,67,14,grid,9
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Asasun,HA,8.289576,9.699702,309,55,grid,9
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Bonkwa,HA,8.285926,9.712521,513,90,grid,9
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,HA_1,HA,8.271201,9.704343,182,35,grid,9
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Azohowo,HA,8.26161,9.721015,226,41,grid,9
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Yarabuwan,HA,8.267753,9.730238,971,168,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Gamba,HA,8.260341,10.050834,297,53,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Jatau,HA,8.245229,10.03258,362,65,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Boto,HA,8.247276,10.018864,1800,308,grid,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Gidan Maga,HA,8.164904,9.694313,595,104,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Tilde Fulani Rugan Kassa,HA,7.982752,10.080761,414,72,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwar Zomo,HA,8.023923,9.958545,797,138,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_13,HA,8.034315,9.960778,60,13,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_20,HA,8.029621,9.969379,791,137,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_12,HA,8.037509,9.951766,183,35,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_11,HA,8.049005,9.948997,114,21,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_14,HA,8.052701,9.955033,32,9,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Rugar Kuruma Ibrahim,HA,8.06211,9.954691,123,22,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Antang Dutse,HA,8.071388,9.943964,817,141,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Fansil,HA,8.072906,9.92304,1073,185,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwar Malam Tsoho,HA,8.084374,9.920556,142,26,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Rugar Mudi,HA,8.091785,9.925809,275,48,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Fange,HA,8.095749,9.913073,880,152,grid,9
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Bodoma,HA,8.14886,9.605395,189,36,grid,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Kamen,HA,8.05394,9.81224,303,54,grid,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Idung,HA,8.037812,9.804855,552,96,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Goska,HA,8.25108,9.996498,616,107,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Wakili,HA,8.226312,10.091243,348,63,grid,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_4,HA,8.124485,9.741016,496,88,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_6,HA,8.105457,9.928646,106,20,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Rugar Wakili,HA,8.104661,9.947927,1180,203,grid,9
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Zantsok,HA,8.218797,9.576253,692,27,grid - Intensification,9
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Wawa Rafi,HA,8.339831,9.804882,510,90,grid,9
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Unguwan Amos,HA,8.274144,9.859582,857,149,grid,9
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Mavong,HA,8.255405,9.866051,470,83,grid,9
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwan Fulani,HA,8.431508,9.871631,426,75,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Rugar Bako Sani,HA,8.130709,9.900901,167,33,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Katul Allah Magani,HA,8.123163,9.876738,745,129,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwar Boka,HA,8.129066,9.909023,154,29,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwar Iguda,HA,8.123262,9.906566,143,26,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Rugar Ardo Naauta,HA,8.115574,9.904716,174,34,grid,9
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Unguwar Sarki,HA,8.409384,9.817003,2290,85,grid - Intensification,9
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Unguwan Fada B,HA,8.191904,9.609685,845,34,grid - Intensification,9
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Yangal,HA,8.159669,9.774324,668,25,grid - Intensification,9
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Zagrak,HA,8.265522,9.674387,295,52,grid,9
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwar Rana,SSA,8.183425,9.814133,292,14,grid - Intensification,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Ashafa Unguwar Jobe,HA,8.18457,9.824882,1586,61,grid - Intensification,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwar Bitiong,HA,8.431238,9.819217,1511,57,grid - Intensification,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Makusantine,HA,8.382614,9.829841,1223,45,grid - Intensification,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Rugar Dodo Rubuko,HA,8.157377,9.761843,21,8,grid,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_6,HA,8.147454,9.750978,44,11,grid,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Rugar Ancha,HA,8.151757,9.73968,614,107,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_34,HA,8.013248,10.055181,19,7,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Ardo Yede,HA,8.019951,10.050916,81,16,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Gidan Ali,HA,8.036827,10.046858,659,115,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Kachia,HA,8.041407,10.040562,197,37,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Toro Ali,HA,8.041056,10.03185,166,33,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Toro Gida,HA,8.058786,10.01425,519,91,grid,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Sabon Gari,HA,8.163473,9.683124,759,132,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Rugar Alhaji Kachia,HA,8.154751,9.885081,123,22,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Sakum,HA,8.37364,9.820812,280,49,grid,10
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Narom,HA,8.281511,9.797528,913,36,grid - Intensification,10
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Rugar Likita,HA,8.400202,9.740521,200,11,grid - Intensification,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_5,HA,8.204564,9.881219,39,10,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Banyishishok,HA,8.212583,9.872947,21,8,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Rumfa,HA,8.211854,9.862908,209,39,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_1,HA,8.20208,9.858377,202,38,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwar Sarkin Yaki,HA,8.203787,9.849589,96,18,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Anzah Hayi,HA,8.203294,9.83966,138,25,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Anzah,SSA,8.211161,9.835719,179,34,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Kamuru Dutse,HA,8.222431,9.842414,924,160,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Guku,HA,8.225698,9.85264,213,39,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwan Sabo,HA,8.425297,9.999448,315,57,grid,10
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Akpin,HA,8.205241,9.557817,433,18,grid - Intensification,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Mato,HA,8.014969,10.061264,53,12,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Jauro,HA,8.01305,10.067729,209,39,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwan Audu,HA,8.424415,9.97715,241,43,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Ardo Liman,HA,8.428155,9.964625,190,36,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwan Turaki,HA,8.505521,9.832033,251,45,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,HA_16,HA,8.412254,9.982272,99,19,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,HA_5,HA,8.404066,9.990737,36,10,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Sabon Layi,HA,8.38884,9.98944,1081,186,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Uttah,HA,8.10761,9.999617,173,10,grid - Intensification,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Gauta,HA,8.102161,9.992461,1478,254,grid,10
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Ankpang 2,HA,8.246547,9.597481,110,20,grid,10
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,Ankpang 1,HA,8.243269,9.603984,238,43,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_25,HA,8.243,10.068424,11,6,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Gimpana,HA,8.227648,10.063828,136,24,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Gimba,HA,8.214429,10.064622,510,90,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Rugar Jafaru,HA,8.202932,10.07699,61,13,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwar Maleshi,HA,8.184369,10.076579,84,17,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Makama,HA,8.167138,10.078709,1220,210,grid,10
+Kaduna,KD,Zaman Dabo,KD2208,Zangon Kataf,19022,Unguwan Dawakai,HA,8.445335,9.838719,281,49,grid,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Yaro Fada,HA,8.120741,9.731462,152,29,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Unguwar Maikaku,HA,8.367861,9.855676,582,22,grid - Intensification,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwan Maiturare,HA,8.382251,9.978212,60,13,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwan Mamuda,HA,8.391913,9.974078,595,104,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,HA_6,HA,8.397831,9.971395,140,25,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Zarkwai,HA,8.402062,9.953401,260,46,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,HA_11,HA,8.393014,9.940825,143,26,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Chibob,HA,8.395,9.92611,624,109,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Tudun Wada,HA,8.310707,9.937157,552,96,grid,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Sabon Kaura,HA,8.102704,9.745177,357,64,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,HA_17,HA,8.373933,9.984144,31,9,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwan Tabo,HA,8.373469,9.99818,176,34,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwan Sarki,HA,8.36283,10.006137,71,15,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Surubu,HA,8.345545,10.010903,250,44,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Dadin Kowa,HA,8.322372,10.014082,160,31,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_24,HA,8.31942,10.005753,187,36,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,HA_9,HA,8.323595,9.99981,49,12,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Unguwan Magankon,HA,8.319601,9.988767,199,37,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Unguwan Bayero,HA,8.331897,9.988756,675,118,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Lisuru Gida,HA,8.292417,10.00759,557,97,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Unguwar Mutum,HA,8.271364,9.846543,248,44,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Unguwan Dauda Baye,HA,8.283015,9.937953,862,149,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Sabon Garin Akoka,HA,8.102509,10.013131,416,73,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Julie Fulani,HA,8.34869,9.818841,226,41,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Unguwan Mai Samari,HA,8.360669,9.978457,147,27,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Unguwan Maude,HA,8.35903,9.965053,295,52,grid,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Unguwar Yalduk,HA,8.159843,9.665468,111,20,grid,10
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Unguwar Jatau,HA,8.162197,9.657169,402,70,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Rugar Habu,HA,8.180018,9.930917,57,13,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Sabafan,HA,8.397624,9.904378,256,45,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Rugar Bako,HA,8.320734,9.948305,203,38,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_23,HA,8.147603,9.994535,71,15,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Kwarkwanu,HA,8.168601,10.021336,503,89,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_10,HA,8.192561,9.931926,234,42,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Doka,HA,8.491649,9.823678,133,24,grid,10
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Chanfang,HA,8.370131,9.750042,82,16,grid,10
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,HA_3,HA,8.36316,9.749137,267,13,grid - Intensification,10
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Zanzuwak,HA,8.350831,9.739914,215,40,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,HA_3,HA,8.384572,9.87339,122,22,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Ibrahim Mai Goro,HA,8.007557,10.075287,122,22,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwan Kadai,HA,8.369104,9.826593,89,17,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Unguwan Rabo,HA,8.361055,9.946236,450,79,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_28,HA,8.119355,10.024017,57,13,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_30,HA,8.123708,10.027957,39,10,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Rugar Alhaji Usman,HA,8.11418,10.038038,4,5,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Akupal,HA,8.127662,10.056782,1076,185,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Sabon Garin Dutsen Bako,HA,8.154243,9.98063,325,15,grid - Intensification,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_16,HA,8.161725,9.973378,185,35,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Rugar Isah,HA,8.266529,9.844744,55,13,grid,10
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Katak Trum,HA,8.328792,9.630447,153,29,grid,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Fadia Tudun Wada,HA,8.138325,9.820251,1181,44,grid - Intensification,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Anguwa Yakubu,HA,8.132733,9.818845,391,17,grid - Intensification,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Ardo Ali Madaki,HA,8.480467,9.815862,117,21,grid,10
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Rugar Fulanin Zonkwa,HA,8.25607,9.827697,202,38,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Rugar Musa Bako,HA,8.199502,9.960943,96,18,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Digabi,HA,8.206675,9.979275,201,38,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwar Rana,HA,8.215749,9.999252,502,89,grid,10
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Rugar Ardo Abu,HA,8.371364,9.789825,89,7,grid - Intensification,10
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Brafort,HA,8.204214,9.628236,293,52,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,HA_8,HA,8.364622,10.012471,73,15,grid,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Kurdan Daji,HA,8.088634,9.73341,273,48,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,HA_5,HA,8.222457,9.894355,243,43,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_96,HA,8.154028,10.23677,32,9,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Jibrin,HA,8.151149,10.22726,120,22,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Adamu,HA,8.135856,10.228763,94,18,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_72,HA,8.131972,10.220389,29,9,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_84,HA,8.136723,10.213497,17,7,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_82,HA,8.134525,10.204773,14,7,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Shafiu,HA,8.121007,10.203171,29,9,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_83,HA,8.112551,10.205225,8,6,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_81,HA,8.102349,10.201438,6,6,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Muhammed,HA,8.097318,10.2088,883,153,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Katuka,HA,8.086074,10.205244,273,48,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_66,HA,8.081579,10.201952,28,9,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Bargoma,HA,8.07511,10.198403,365,65,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_65,HA,8.074756,10.191657,47,11,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Modi Centre,HA,8.068314,10.185677,224,41,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_69,HA,8.072732,10.168021,45,11,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Gimi,HA,8.077849,10.15919,748,130,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_68,HA,8.082848,10.163239,102,19,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Wunti,HA,8.095087,10.171362,2944,503,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Tudun Labi,HA,8.060135,10.188547,162,31,grid,10
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Rugar Muhamadu,HA,8.337419,9.719713,92,8,grid - Intensification,10
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,HA_5,HA,8.34266,9.718819,48,12,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Rabo,HA,8.151656,10.220189,191,36,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Mayor Amana,HA,8.136463,10.272014,126,23,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Tambaya,HA,8.126853,10.270919,154,29,grid,10
+Kaduna,KD,Zaman Dabo,KD2208,Zangon Kataf,19022,Unguwan Dorawa,HA,8.47966,9.840268,101,19,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Goshen,HA,8.238275,9.907311,197,37,grid,10
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,HA_1,HA,8.481621,9.705503,60,13,grid,10
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Swanzwan 1,HA,8.268751,9.78243,559,21,grid - Intensification,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Rugar Mai Gamo,HA,8.178386,9.939349,53,12,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Marjire,HA,8.161291,10.196774,835,145,grid,10
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Sakwak Gurara,HA,8.148855,9.661446,266,47,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,HA_1,HA,8.320419,9.840683,88,17,grid,10
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,HA_2,HA,8.350037,9.720421,51,12,grid,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_3,HA,8.140437,9.712544,141,25,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_31,HA,8.092954,10.038406,47,11,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Ungawan John,HA,8.082158,10.05051,247,44,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_35,HA,8.083743,10.064461,61,13,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Sabon Kaura,HA,8.085502,10.077555,451,79,grid,10
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Kanem,HA,8.243583,9.641771,1220,45,grid - Intensification,10
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,HA_6,HA,8.382013,9.781976,45,6,grid - Intensification,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,HA_9,HA,8.371166,10.015984,49,12,grid,10
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,HA_6,HA,8.203458,9.684298,95,18,grid,10
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Unguwar Haruna,HA,8.212068,9.821173,113,21,grid,10
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,HA_9,HA,8.20036,9.729128,135,24,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_59,HA,8.068371,10.153167,18,7,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_63,HA,8.073045,10.14908,39,10,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_57,HA,8.068759,10.137574,53,12,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_53,HA,8.075641,10.132293,39,10,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Moadoam,HA,8.065433,10.125399,193,36,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Wakayi,HA,8.071225,10.113941,306,55,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,HA_7,HA,8.267219,9.930181,143,26,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,HA_6,HA,8.261026,9.914059,144,26,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Unguwan Gankon,HA,8.243876,9.933249,159,31,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_15,HA,8.252835,9.957367,141,25,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Pah Boto,HA,8.252432,9.967667,171,33,grid,10
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Unguwar Usman,HA,8.385167,9.742359,788,33,grid - Intensification,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_64,HA,7.990824,10.150017,20,8,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_60,HA,7.99421,10.141819,37,10,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Zakari Usman,HA,7.996911,10.133228,23,8,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_47,HA,7.99219,10.130833,16,7,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_41,HA,7.994192,10.122156,57,13,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_48,HA,8.007445,10.142599,85,17,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_44,HA,8.026191,10.117968,665,116,grid,10
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Ataga,HA,8.173286,9.664151,94,18,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,HA_8,HA,8.344849,9.948376,68,14,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Rugar Ilu,HA,8.334542,9.963918,183,35,grid,10
+Kaduna,KD,Zaman Dabo,KD2208,Zangon Kataf,19022,Unguwan Baba,HA,8.467274,9.852461,391,17,grid - Intensification,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_33,HA,8.065973,10.104061,88,17,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_36,HA,8.048146,10.091948,165,32,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_42,HA,7.985253,10.13202,10,6,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_45,HA,7.985522,10.136715,35,10,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Rugar Tukur Umar,HA,8.160559,9.935768,69,15,grid,10
+Kaduna,KD,Gora,KD2202,Zangon Kataf,19022,Lifat,HA,8.313347,9.924893,80,16,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_18,HA,8.114301,9.968412,143,26,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Rugan Gero,HA,8.061982,10.060098,143,26,grid,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Gidan Goggo,HA,8.102168,9.726224,103,19,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_3,HA,8.096341,9.889802,137,24,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_8,HA,8.139062,9.940071,126,23,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_67,HA,8.090892,10.217674,48,12,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Tilde Bayaro,HA,8.086142,10.219159,18,7,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Tilde Buli,HA,8.097945,10.227589,50,12,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Arnga,HA,8.098682,10.226027,83,17,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Daube,HA,8.109385,10.221234,99,19,grid,10
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,Tabak 1,HA,8.304625,9.749737,503,20,grid - Intensification,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Bungel,HA,8.032035,10.085929,99,19,grid,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Ruga Habu,HA,8.141142,9.807627,684,26,grid - Intensification,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_9,HA,8.152301,9.776495,398,17,grid - Intensification,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_19,HA,8.09408,9.983558,38,10,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_17,HA,8.088409,9.975759,53,12,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_46,HA,8.079036,10.126793,16,7,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Dodol,HA,8.175711,10.181468,81,16,grid,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_19,HA,8.155658,9.796007,41,11,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Rugan Tanko,HA,8.094531,10.084478,8,6,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Jirayi,HA,8.113777,10.092464,128,23,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_39,HA,8.118806,10.098928,42,11,grid,10
+Kaduna,KD,Unguwan Rimi,KD2207,Zangon Kataf,19022,HA_8,HA,8.15528,9.634792,42,11,grid,10
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,HA_4,HA,8.327318,9.785039,8,6,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_27,HA,8.124226,10.104391,18,7,grid,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_18,HA,8.155357,9.833963,41,11,grid,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_13,HA,8.145739,9.78254,156,9,grid - Intensification,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_16,HA,8.140093,9.790937,23,8,grid,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_15,HA,8.125071,9.787976,76,16,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_29,HA,8.235799,10.027754,31,9,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_70,HA,8.008791,10.155087,61,13,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Sani Kufai,HA,8.086483,10.000098,62,14,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Mayola Rugar Mamman,HA,8.007822,10.176581,20,8,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Mayola,HA,8.017991,10.183233,34,10,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_71,HA,8.009321,10.188951,114,21,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_78,HA,8.031736,10.1829,14,7,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Tanko,HA,8.036518,10.182879,64,14,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_99,HA,8.070011,10.270622,32,9,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Wuro Gijiya,HA,8.064145,10.260854,205,38,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_49,HA,8.090311,10.147082,79,16,grid,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,Nasarawa,HA,8.073964,9.832896,99,19,grid,10
+Kaduna,KD,Madakiya,KD2205,Zangon Kataf,19022,Unguwan Katoh,HA,8.303323,9.619074,104,8,grid - Intensification,10
+Kaduna,KD,Unguwar Gaya,KD2206,Zangon Kataf,19022,Goje Rugar,HA,8.430974,9.828217,321,14,grid - Intensification,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_32,HA,8.205293,10.046526,75,15,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_54,HA,8.056802,10.134687,31,9,grid,10
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,HA_5,HA,8.138243,9.672185,32,9,grid,10
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,HA_7,HA,8.13327,9.662028,32,9,grid,10
+Kaduna,KD,Gidan Jatau,KD2201,Zangon Kataf,19022,Kamrum 2,HA,8.183342,9.638377,72,15,grid,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,HA_2,HA,8.386441,9.80697,81,7,grid - Intensification,10
+Kaduna,KD,Zonzon,KD2211,Zangon Kataf,19022,Rugan Muhammad,HA,8.389997,9.810245,74,7,grid - Intensification,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_56,HA,8.102776,10.161854,21,8,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_77,HA,8.115111,10.168316,52,12,grid,10
+Kaduna,KD,Zonkwa,KD2210,Zangon Kataf,19022,HA_2,HA,8.362514,9.764398,104,8,grid - Intensification,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_51,HA,8.18538,10.151557,50,12,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_62,HA,8.18216,10.146312,14,7,grid,10
+Kaduna,KD,Kamantan,KD2204,Zangon Kataf,19022,HA_10,HA,8.088207,9.761575,20,8,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_58,HA,8.124529,10.152791,16,7,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_55,HA,8.134985,10.159464,22,8,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_74,HA,8.140909,10.163541,8,6,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,Unguwan Elesha,HA,8.168532,10.14256,14,7,grid,10
+Kaduna,KD,Zaman Dabo,KD2208,Zangon Kataf,19022,Fulanin Unguwan Rana,HA,8.455136,9.872109,16,7,grid,10
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_26,HA,8.104714,10.068764,24,8,mini-grid,NA
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_21,HA,8.193509,9.993733,8,6,mini-grid,NA
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_43,HA,8.184485,10.116729,44,11,mini-grid,NA
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_37,HA,8.115734,10.119469,38,10,mini-grid,NA
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_52,HA,8.153481,10.123156,52,12,mini-grid,NA
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_73,HA,8.062625,10.222492,31,9,mini-grid,NA
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_40,HA,8.206018,10.110783,20,8,mini-grid,NA
+Kaduna,KD,Ikulu,KD2203,Zangon Kataf,19022,HA_61,HA,8.17194,10.163428,46,11,mini-grid,NA

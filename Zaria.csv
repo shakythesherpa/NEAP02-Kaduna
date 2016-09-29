@@ -1,0 +1,381 @@
+State,Statecode,Ward,Wardcode,Lga,Lgacode,Name,Type,X,Y,Population,Target.Household.Count,Recommended.Access.Categories,DecileByHH
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Hayin Surajo,SSA,7.528161,11.001258,116,8,grid - Intensification,3
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Gidan Mahauta Bogari,SSA,7.781315,11.037508,196,11,grid - Intensification,3
+Kaduna,KD,Kwarbai A,KD2306,Zaria,19023,Bula Area,BUA,7.7197,11.071102,32116,965,grid - Intensification,3
+Kaduna,KD,Kwarbai A,KD2306,Zaria,19023,Fadi Sonka,BUA,7.709893,11.063484,60481,1814,grid - Intensification,3
+Kaduna,KD,Unguwar Fatika,KD2311,Zaria,19023,Anguwan Alli By Malam Sani,BUA,7.696094,11.067987,32744,984,grid - Intensification,3
+Kaduna,KD,Kwarbai B,KD2307,Zaria,19023,Layin Gidab Aboki Tela,BUA,7.701841,11.066028,84244,2526,grid - Intensification,3
+Kaduna,KD,Kaura,KD2304,Zaria,19023,Fam Madauchi,BUA,7.709109,11.051609,56962,1709,grid - Intensification,3
+Kaduna,KD,Tudun Wada,KD2310,Zaria,19023,Namatazu Road,BUA,7.717255,11.088013,52249,1568,grid - Intensification,3
+Kaduna,KD,Tukur Tukur,KD2309,Zaria,19023,Hayan Mamuda,BUA,7.703062,11.101193,73816,2214,grid - Intensification,4
+Kaduna,KD,Dambo,KD2302,Zaria,19023,HA_7,HA,7.75532,11.130139,1912,70,grid - Intensification,4
+Kaduna,KD,Unguwar Juma,KD2312,Zaria,19023,Layin Gidan Marafa,BUA,7.693468,11.053457,36562,1098,grid - Intensification,4
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Anguwan Jumare,BUA,7.685187,11.083337,23837,718,grid - Intensification,4
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Congo Staff Quarters,BUA,7.729404,11.084133,23587,710,grid - Intensification,4
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Gwargwaje,BUA,7.67959,11.053646,19450,585,grid - Intensification,4
+Kaduna,KD,Limancin Kona,KD2308,Zaria,19023,Bataiya Tsakiya,BUA,7.69642,11.046437,39889,1198,grid - Intensification,4
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Anguwan Sarkin Pada,BUA,7.756982,11.081874,9726,295,grid - Intensification,4
+Kaduna,KD,Unguwar Fatika,KD2311,Zaria,19023,Anguwan Mahauta By Gidan Mahauta,BUA,7.689299,11.057184,13492,408,grid - Intensification,4
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Bogari Sarkin,SSA,7.779554,11.028178,182,10,grid - Intensification,4
+Kaduna,KD,Tukur Tukur,KD2309,Zaria,19023,Tsohuwar Kasuwa,BUA,7.68765,11.077445,1574,51,grid - Intensification,4
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Baban Gimi,BUA,7.69208,11.042348,15832,479,grid - Intensification,4
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Anguwan Kaya,BUA,7.732344,11.07365,2662,84,grid - Intensification,4
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Kuregu Bakin Saint Barth,BUA,7.671608,11.07234,3470,108,grid - Intensification,4
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Anguwar Yarbawa Bizara,BUA,7.752611,11.068732,2060,65,grid - Intensification,4
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Rafinfa,HA,7.793322,11.035719,899,36,grid - Intensification,4
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Gidan Begu Tudun Kusa,HA,7.768536,11.036536,581,22,grid - Intensification,4
+Kaduna,KD,Kwarbai A,KD2306,Zaria,19023,Layin Mallam Isyaka,SSA,7.721782,11.06518,596,23,grid - Intensification,4
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Angwan Sarkin Kufina Gangare,SSA,7.675656,11.095378,84,7,grid - Intensification,4
+Kaduna,KD,Tukur Tukur,KD2309,Zaria,19023,HA_1,HA,7.694753,11.104901,337,15,grid - Intensification,4
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Anguwan Sarkin Wuciciri,BUA,7.77931,10.97082,5466,198,grid - Intensification,4
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Kwaba Unguwar Magaji,BUA,7.529067,11.014547,1843,68,grid - Intensification,5
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,HA_34,HA,7.774836,11.024189,107,8,grid - Intensification,5
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Layin Christopher,SSA,7.748302,11.079217,387,16,grid - Intensification,5
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Gamji,HA,7.778231,11.008821,828,34,grid - Intensification,5
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Kafi,BUA,7.584733,11.057017,1886,70,grid - Intensification,5
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Anguwan Sarkin Noma,HA,7.771685,11.074572,627,23,grid - Intensification,5
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Angwan Sarkin Kufina Gidan Dogo,SSA,7.679256,11.093462,134,9,grid - Intensification,5
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Unguwar Sarki,BUA,7.780521,11.075916,3288,102,grid - Intensification,5
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Kwaren Gebriel,SSA,7.64711,11.039344,293,14,grid - Intensification,5
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Anguwan Sarkin Rafinfa,SSA,7.79935,11.040468,288,13,grid - Intensification,5
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Babangida Tudun Kusa,SSA,7.763153,11.045831,393,17,grid - Intensification,5
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Anguwan Malam Fate,HA,7.806967,11.045652,249,12,grid - Intensification,5
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Bayan Ganuwa,SSA,7.688258,11.070958,582,22,grid - Intensification,5
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Kanfani A,SSA,7.658983,11.054296,369,16,grid - Intensification,5
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Kufena College Quarters Kuregu,BUA,7.664841,11.076048,296,12,grid - Intensification,5
+Kaduna,KD,Unguwar Fatika,KD2311,Zaria,19023,New Majema Tsoho Mai Allura,BUA,7.684736,11.054313,1060,35,grid - Intensification,6
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Yan Hula,SSA,7.662059,11.124163,191,11,grid - Intensification,6
+Kaduna,KD,Kufena,KD2305,Zaria,19023,HA_1,HA,7.693476,11.105875,75,7,grid - Intensification,6
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Kauran Gobirawa,SSA,7.685582,11.069926,379,16,grid - Intensification,6
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Anguwan Ya'U,SSA,7.766623,10.979597,484,19,grid - Intensification,6
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Anguwan Mai Darasi,BUA,7.698583,11.038162,2304,73,grid - Intensification,6
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Dalan Waje Gangaren Rafi,SSA,7.656455,11.074481,99,8,grid - Intensification,6
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Rafin Albasa,BUA,7.683243,11.050805,505,19,grid - Intensification,6
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Fantan,SSA,7.542526,11.023664,220,40,grid,6
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Kwatirawa,HA,7.543969,11.026852,394,69,grid,6
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Dalan Ciki,SSA,7.65991,11.064634,212,11,grid - Intensification,6
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Katafawa,HA,7.65193,11.04738,197,11,grid - Intensification,6
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Angwan Sarki Kufina Bayan Ganowa,HA,7.673243,11.098956,662,25,grid - Intensification,6
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Nagoyi Bypass,BUA,7.735254,11.070388,5127,157,grid - Intensification,6
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Kanfani B,SSA,7.659838,11.052719,262,13,grid - Intensification,6
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_75,HA,7.662823,11.054589,316,14,grid - Intensification,7
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Angwan Dutse,SSA,7.673593,11.113952,77,7,grid - Intensification,7
+Kaduna,KD,Kufena,KD2305,Zaria,19023,HA_4,HA,7.684327,11.09955,464,19,grid - Intensification,7
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Kauran Juli,SSA,7.685831,11.067253,399,17,grid - Intensification,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Kanfani Arewa,SSA,7.656564,11.053285,129,9,grid - Intensification,7
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Anguwan Liman Bogari,SSA,7.771427,11.022961,281,13,grid - Intensification,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Kwaren Dan Aruwa,HA,7.641369,11.046316,353,15,grid - Intensification,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Ale,SSA,7.633661,11.046648,207,11,grid - Intensification,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_72,HA,7.632042,11.051662,345,62,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Kanawa,SSA,7.629147,11.052519,258,46,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Mai Kalwa,HA,7.623895,11.0526,269,47,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Hayin Hazo,HA,7.61699,11.05253,340,61,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Dogara,SSA,7.61967,11.04718,203,38,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Anguwan Wakilin Hatsi,HA,7.625519,11.04162,460,81,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Sabon Gidan Rogo A,SSA,7.618485,11.037705,432,76,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Sabon Gidan Rogo B,HA,7.616695,11.033678,194,37,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Rugar Bature,HA,7.621606,11.030206,104,20,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Lauje,SSA,7.622038,11.027716,193,36,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Hange,SSA,7.628299,11.029323,323,58,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Kugu B,SSA,7.628314,11.023001,147,27,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Kugu A,SSA,7.626787,11.022201,130,23,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Na Rabi,SSA,7.626508,11.018233,45,11,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Malan Audu,SSA,7.624914,11.011991,74,15,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Malamai,BUA,7.620621,11.003552,1341,231,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Liman Kugu,SSA,7.629971,11.017805,57,13,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Tudun Sarkin Noma,HA,7.633346,11.014492,1492,256,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Makera,SSA,7.614036,11.006423,594,103,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Tudun Sarkin Noma,SSA,7.63225,11.013335,123,22,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Rimin Dabo,HA,7.631729,11.010273,251,45,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Nasarawa,HA,7.637118,11.00684,650,113,grid,7
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Anguwan Dalhatu,BUA,7.762641,11.021814,2498,92,grid - Intensification,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_2,HA,7.652691,10.978183,267,47,grid,7
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Kofar Kudu Transformer,BUA,7.757796,11.110424,2296,73,grid - Intensification,7
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Tudun Kusa Bizara,HA,7.761121,11.048331,893,36,grid - Intensification,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Dallatu A,SSA,7.612006,11.039691,376,67,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_62,HA,7.643075,11.039628,436,18,grid - Intensification,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Kurna,SSA,7.609949,11.007566,160,31,grid,7
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Tudun Sarki,SSA,7.647242,11.123771,395,17,grid - Intensification,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Zamfarawa B,HA,7.631968,11.059746,259,46,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Makada,SSA,7.641979,11.063113,341,62,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Fulani B,SSA,7.645632,11.060413,145,27,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Fulani A,SSA,7.645311,11.059568,90,18,grid,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Mai Kaji,HA,7.636803,11.071276,424,74,grid,7
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Kayyen Ale Dakaci,SSA,7.747091,11.08095,46,6,grid - Intensification,7
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Anguwan Mission,BUA,7.764818,11.083245,891,31,grid - Intensification,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_55,HA,7.598347,11.030526,46,6,grid - Intensification,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Sabon Gari,HA,7.643535,10.98212,320,14,grid - Intensification,7
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Tudun Sarkin Bakin Fadama,SSA,7.650154,11.123491,63,7,grid - Intensification,7
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Senior Quarters Kaduna Polytechnic,BUA,7.674493,11.031955,2156,68,grid - Intensification,8
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Malam Waalamu By New Extension,SSA,7.682187,11.046836,132,9,grid - Intensification,8
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Kofan Gayan New Extension,HA,7.696794,11.035627,543,21,grid - Intensification,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Sayen Lemo,HA,7.669302,11.024746,472,19,grid - Intensification,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,SSA_55,SSA,7.672683,11.019757,70,7,grid - Intensification,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Korau,SSA,7.673641,11.015487,139,25,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Zira,SSA,7.670841,11.014449,39,10,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Teriyen Sarki,SSA,7.669239,11.013344,122,22,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Tankon Shaho,SSA,7.666109,11.013288,181,35,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Liman Tankon Shaho,SSA,7.662181,11.01334,61,13,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Shuka,HA,7.658121,11.011636,270,47,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Fammadina,BUA,7.655338,11.01749,1409,242,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_11,HA,7.662643,11.008593,184,35,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Mawai,HA,7.659613,11.003481,371,66,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Bayan Dutse,SSA,7.662684,11.018634,105,20,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Mallam Shuaibu Headmaster,HA,7.658115,11.025255,472,83,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Sabon Gidan Fammadina,SSA,7.65029,11.005979,391,69,grid,8
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Anguwan Alhaji Amadu Fanganmu,SSA,7.769795,11.062388,193,11,grid - Intensification,8
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Anguwan Sarkin Fanganmu,SSA,7.7695,11.06116,114,8,grid - Intensification,8
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Ganganranfa Fanganmu,HA,7.771607,11.058595,477,19,grid - Intensification,8
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Kanta,HA,7.760882,11.089013,92,8,grid - Intensification,8
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Anguwan Dalhatu,HA,7.76187,11.096659,37,6,grid - Intensification,8
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Anguwan Ardo,HA,7.769829,11.093388,411,17,grid - Intensification,8
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Gidan Alhaji Baushe,HA,7.773352,11.097939,59,13,grid,8
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Unguwan Fulani Kamfa,HA,7.778258,11.098845,100,19,grid,8
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Kamfa,SSA,7.781758,11.097373,69,15,grid,8
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Nuba Farm,HA,7.786226,11.103372,195,37,grid,8
+Kaduna,KD,Dambo,KD2302,Zaria,19023,HA_3,HA,7.797011,11.103563,150,28,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Tsamiya Uku,SSA,7.784067,11.021532,229,12,grid - Intensification,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Rafin Yashi A,SSA,7.566505,11.030283,373,16,grid - Intensification,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Rafin Yashi B,SSA,7.568415,11.026907,48,6,grid - Intensification,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_43,HA,7.56969,11.020592,4,5,grid - Intensification,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Rafin Yashi,SSA,7.5768,11.020156,290,51,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_33,HA,7.589289,11.017093,15,7,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Kwido,SSA,7.59588,11.009514,303,54,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Maliki A,SSA,7.58093,11.049937,369,16,grid - Intensification,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_9,HA,7.583873,11.072996,231,12,grid - Intensification,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_15,HA,7.580985,11.069779,282,13,grid - Intensification,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_80,HA,7.574733,11.064923,227,12,grid - Intensification,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_13,HA,7.572571,11.060329,72,7,grid - Intensification,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Mai Kara B,HA,7.565951,11.062995,473,83,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Hayin Maitashi A,HA,7.559734,11.052355,555,97,grid,8
+Kaduna,KD,Dambo,KD2302,Zaria,19023,HA_10,HA,7.799564,11.07137,53,12,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Rugar Alhaji Tambaya,HA,7.807119,10.952912,238,43,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Rugar Madaddo,HA,7.804298,10.954698,10,6,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Mai Anguwar Walawa,HA,7.80193,10.950966,335,61,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,HA_6,HA,7.792978,10.95188,260,46,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Rugar Wakili Ardo,HA,7.788937,10.946828,162,31,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Kawori,SSA,7.781282,10.942761,157,30,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Garu,SSA,7.783927,10.937201,117,21,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,AnguwanTsakiya,BUA,7.787129,10.92776,1805,309,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Mai Anguwan Dalla,SSA,7.778075,10.952742,252,45,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Anguwan Sakin Dalla,SSA,7.778354,10.955833,207,38,grid,8
+Kaduna,KD,Kufena,KD2305,Zaria,19023,HA_3,HA,7.661658,11.067412,299,14,grid - Intensification,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Indah,HA,7.676206,11.016876,209,39,grid,8
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Anguwan Sarki Kufina,SSA,7.669615,11.096377,297,14,grid - Intensification,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_24,HA,7.682581,11.011523,124,22,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Dorayi A,SSA,7.686578,11.007191,189,36,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Dorayi B,HA,7.692793,11.009439,608,106,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Rugar Macu,SSA,7.639843,11.00214,60,13,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Magami,HA,7.635811,11.000483,304,54,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Yandurma,HA,7.692951,11.002923,138,25,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Dandurma,SSA,7.6967,10.999624,209,39,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_48,HA,7.703742,11.001651,12,6,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Yeskwake A,SSA,7.708751,10.998584,232,42,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Gangare,HA,7.717033,11.005871,154,29,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Gurgaye,HA,7.721757,11.010561,640,112,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,HA_25,HA,7.726253,11.013325,21,8,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Gebe,HA,7.734,11.01144,405,71,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Zakaran Mahauta,SSA,7.733035,11.004805,261,46,grid,8
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Anguwan Rafi Gangare,SSA,7.683489,11.08958,114,8,grid - Intensification,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Gidan Fulani Bogari,HA,7.78153,11.031041,83,7,grid - Intensification,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Yeskwake B,SSA,7.709541,10.997476,222,40,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Gawo,HA,7.702176,11.009933,242,43,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Anguwan Gabas,SSA,7.70393,11.013005,92,18,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Mafafa,SSA,7.556855,11.017319,123,22,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_31,HA,7.554024,11.011399,326,59,grid,8
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Dalan waje Gangaren Rafi,SSA,7.652862,11.077274,149,9,grid - Intensification,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Yeskwake,SSA,7.709425,10.989076,212,39,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Anguwan Pah,HA,7.713346,10.988053,172,33,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_5,HA,7.69464,10.99015,92,18,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_6,HA,7.68982,10.992321,172,33,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Fatuma,SSA,7.724044,10.991389,125,22,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Hayin Fatima,SSA,7.728485,10.989183,94,18,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_4,HA,7.730429,10.985033,111,20,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Damanko,HA,7.737504,10.989978,413,72,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Khaladi,SSA,7.744866,10.999221,73,15,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,HA_27,HA,7.74722,11.000419,159,31,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Maganda,SSA,7.752638,10.999764,118,21,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Anguwan Tsalha,SSA,7.753968,11.0002,41,11,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Tudun Iya,HA,7.758124,11.003925,495,88,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Gangaran Damanko,SSA,7.74492,10.986104,79,16,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Anguwan Muazu,SSA,7.749048,10.973846,262,46,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Anguwan Galadima,SSA,7.740797,10.970529,558,97,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_1,HA,7.74124,10.965766,31,9,grid,8
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Batas,SSA,7.795514,10.933149,296,53,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_18,HA,7.680355,11.004425,6,6,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Hayin Zira,SSA,7.676177,11.003567,265,47,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Dallatu B,SSA,7.607416,11.041274,129,23,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Tankarau Gidan Magajin Aska,HA,7.609906,11.078311,287,51,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Tankarau Gidan Alu,SSA,7.610939,11.073208,92,18,grid,8
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Bako,SSA,7.616782,11.074474,303,54,grid,8
+Kaduna,KD,Dambo,KD2302,Zaria,19023,HA_18,HA,7.756085,11.115851,24,6,grid - Intensification,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Tudun Malam Samaila,SSA,7.658638,11.049429,365,16,grid - Intensification,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Sabon Gida,SSA,7.632284,10.976985,194,37,grid,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Angwan Makera,HA,7.644377,11.092253,327,15,grid - Intensification,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Dalan Tsallake,SSA,7.650967,11.079834,83,7,grid - Intensification,9
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Idin Bare Bare,HA,7.713729,11.037956,298,14,grid - Intensification,9
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Jamaatu By Fagge,HA,7.721011,11.037475,379,16,grid - Intensification,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Junior Quarters Kaduna Polytechnic,SSA,7.671351,11.03648,250,12,grid - Intensification,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Sayen Gobirawa,BUA,7.667349,11.035312,1434,47,grid - Intensification,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Malamai Kwaba,SSA,7.544199,11.015342,157,30,grid,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Kwari Sharubutu,SSA,7.617138,11.067197,110,20,grid,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Kwarin Malam Ali,SSA,7.619979,11.062585,158,30,grid,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Tankarau Gidan Sarki,SSA,7.626053,11.069711,174,34,grid,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Kofena Bayan Karofi,SSA,7.652096,11.090583,97,8,grid - Intensification,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Magani,SSA,7.63111,10.997992,114,21,grid,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Anguwar Makera Sabon Gida,SSA,7.641751,11.094657,115,8,grid - Intensification,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Angwan Usman,SSA,7.644465,11.097462,168,10,grid - Intensification,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Gidan Jana,SSA,7.644906,11.099577,161,10,grid - Intensification,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,HA_2,HA,7.642363,11.107487,2,5,grid,9
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Katuka,HA,7.80121,11.076644,118,21,grid,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Mallam Hassan,SSA,7.638352,11.014145,97,19,grid,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Angwan Liman,SSA,7.671572,11.113851,270,13,grid - Intensification,9
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Anguwan Mai Rogo,HA,7.763993,11.105118,855,35,grid - Intensification,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Anguwar Mairabo,SSA,7.668743,11.084478,131,9,grid - Intensification,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_10,HA,7.667957,11.009259,70,15,grid,9
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Anguwa Filani Kanawa,SSA,7.766778,11.030102,134,9,grid - Intensification,9
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Anguwan Filani Tudun Kusa,SSA,7.761476,11.032002,202,11,grid - Intensification,9
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Bakin Sayi,SSA,7.748821,11.025745,90,18,grid,9
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Gidan Gona,HA,7.746845,11.022057,271,47,grid,9
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Fanga,SSA,7.748812,11.015487,248,44,grid,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Majero B,SSA,7.645088,11.036332,186,10,grid - Intensification,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Majero A,SSA,7.6462,11.035634,73,7,grid - Intensification,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Kasuwar Isa,BUA,7.638884,11.033584,1507,57,grid - Intensification,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Dalan Waje,SSA,7.658255,11.076248,267,13,grid - Intensification,9
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Gidan Ladan Tudun Kusa,SSA,7.769098,11.04402,148,9,grid - Intensification,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Karofi Bagudu,HA,7.679332,11.111645,555,21,grid - Intensification,9
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Gidan Kano,SSA,7.723204,11.033653,226,12,grid - Intensification,9
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Fagge A,HA,7.730723,11.037361,413,17,grid - Intensification,9
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Fagge B,SSA,7.735346,11.033146,244,44,grid,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Maliki B,SSA,7.578901,11.048002,222,11,grid - Intensification,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Maliki C,SSA,7.578919,11.047168,186,10,grid - Intensification,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Kalmashi,HA,7.578344,11.033952,503,20,grid - Intensification,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Karofi,SSA,7.668894,11.115558,198,11,grid - Intensification,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Madakin Fulani,SSA,7.666419,11.113157,80,7,grid - Intensification,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Koru Bala,SSA,7.665279,11.111496,105,8,grid - Intensification,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Angwan Madaki Fulani,SSA,7.66286,11.111092,115,8,grid - Intensification,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Angwan Musa,SSA,7.663979,11.109363,76,7,grid - Intensification,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Rafin Magaji,SSA,7.659778,11.106893,221,40,grid,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Anguwar Marabo Gangare,SSA,7.66964,11.086172,78,7,grid - Intensification,9
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Gidan Alhaji Kada Tudun Kusa,SSA,7.761707,11.04516,165,10,grid - Intensification,9
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Rafin Taba,SSA,7.784042,11.023336,125,9,grid - Intensification,9
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Angwan Garke,HA,7.664235,11.096083,520,20,grid - Intensification,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Liman Majero,SSA,7.650804,11.036821,185,10,grid - Intensification,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Makauta,HA,7.650458,11.030608,763,31,grid - Intensification,9
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Kwarin Rafin Bizara,SSA,7.762995,11.049417,119,8,grid - Intensification,9
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Anguwan Tudun Kusa,SSA,7.764109,11.047899,42,6,grid - Intensification,9
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Gidan Sarkin Tudun Kusa,SSA,7.767364,11.040655,131,9,grid - Intensification,9
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Maidara,HA,7.52675,10.977839,110,20,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Karo,SSA,7.530651,10.979885,202,38,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Ya'U,SSA,7.536008,10.98238,231,42,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Dantanko,SSA,7.540391,10.985952,190,36,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Bukkoki,SSA,7.539882,10.990545,262,46,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Maganda,SSA,7.545781,10.992195,391,69,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Danjuma,HA,7.549234,10.994425,364,65,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Hayin Makada,HA,7.555692,10.995213,235,42,grid,10
+Kaduna,KD,Kwarbai A,KD2306,Zaria,19023,Makabarta Area,SSA,7.722655,11.04494,303,14,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Tudun Gaude,SSA,7.640322,10.999124,247,12,grid - Intensification,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Gidan Ate Tudun Kusa,HA,7.770968,11.040603,313,14,grid - Intensification,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Gidan Na Dambo Bogari,SSA,7.7746,11.032837,160,10,grid - Intensification,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Rugan Nalalla Bogari,HA,7.776588,11.031536,179,10,grid - Intensification,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,HA_2,HA,7.808244,11.037222,216,11,grid - Intensification,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,HA_2,HA,7.803784,11.029583,29,6,grid - Intensification,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Wari,SSA,7.795915,11.025265,73,7,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Sarkin Filani,HA,7.725355,10.976549,110,20,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Katsinawa,SSA,7.72251,10.976726,75,15,grid,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Anguwan Fulani Audu Dabo Street,HA,7.803761,11.067937,23,8,grid,10
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Anguwan Dutse Gangare,SSA,7.65193,11.093873,192,11,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_32,HA,7.597118,11.047478,56,13,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Sarkin Yaki,SSA,7.602052,11.052751,83,17,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Liman,SSA,7.604254,11.055418,70,15,grid,10
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Staff Quarter Kofan Gayan,SSA,7.696651,11.040882,6,5,grid - Intensification,10
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Kufena Anguwar Madaki,SSA,7.666126,11.086813,110,8,grid - Intensification,10
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Anguwar Madaki Bakin Datse,SSA,7.664928,11.087983,45,6,grid - Intensification,10
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Angwan Kamachi,SSA,7.668311,11.117204,108,8,grid - Intensification,10
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Mai Anguwan Fagge B,HA,7.73204,11.02906,49,12,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Sayen Munafi,SSA,7.663731,11.037681,255,12,grid - Intensification,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Rafin Giwa,SSA,7.784218,11.091057,113,21,grid,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Gidan Malam Manu Bizara,SSA,7.75684,11.069958,109,8,grid - Intensification,10
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Dalan Fulani,SSA,7.66105,11.077731,108,8,grid - Intensification,10
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Kake Bayan Primary School,SSA,7.676869,11.104387,291,14,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_76,HA,7.519642,11.056544,89,17,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Babban Abu B,HA,7.51337,11.051469,249,44,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Babban Abu A,SSA,7.51231,11.042709,145,27,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Rafin Gora A,SSA,7.501765,11.028842,219,40,grid,10
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Kaku,HA,7.728963,11.045493,299,14,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Mazadu,SSA,7.56937,11.033566,77,7,grid - Intensification,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Sabbi,SSA,7.774078,11.003432,110,8,grid - Intensification,10
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Angwan Fulani Gabari,SSA,7.669061,11.120387,136,9,grid - Intensification,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Gidan Mejinka Bizara,SSA,7.757867,11.054999,56,6,grid - Intensification,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Bizara Gabas,SSA,7.75764,11.068854,112,8,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_14,HA,7.633908,11.023441,4,5,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,SSA_37,SSA,7.639273,11.024817,85,17,grid,10
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Ganbgaba Road,HA,7.740397,11.064026,477,19,grid - Intensification,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,HA_5,HA,7.800764,11.063052,43,11,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Dutsen Abba Gari,SSA,7.641878,10.988613,430,18,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Dan Sherrifia,SSA,7.619405,11.024652,59,13,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Rijiya,SSA,7.561944,11.034344,89,7,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Madaki,SSA,7.557041,11.034993,152,9,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_26,HA,7.547071,11.036337,90,18,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_70,HA,7.546091,11.044282,145,27,grid,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Maraban Doka,HA,7.788266,11.012936,223,11,grid - Intensification,10
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,HA_2,HA,7.684328,11.037207,213,11,grid - Intensification,10
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Buzai Gidan Mai Anguwa,SSA,7.68764,11.033953,101,8,grid - Intensification,10
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Buzai Gidan Mai Anguwa New Extension,SSA,7.689338,11.036113,68,7,grid - Intensification,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,HA_4,HA,7.753502,11.057012,63,7,grid - Intensification,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,HA_3,HA,7.781711,10.9844,289,13,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_21,HA,7.544545,11.008815,53,12,grid,10
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Kwarin Bala,SSA,7.671965,11.1242,135,9,grid - Intensification,10
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Gauraki,SSA,7.677277,11.087566,109,8,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_74,HA,7.590869,11.05272,11,5,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Zaki,SSA,7.577113,11.038437,250,12,grid - Intensification,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Gidan Mai Kifi Tudun Kusa,SSA,7.760043,11.043216,54,6,grid - Intensification,10
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,HA_4,HA,7.735298,11.059919,213,11,grid - Intensification,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Gidan Mallam Hayin Alkamu,SSA,7.7506,11.042854,251,12,grid - Intensification,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Anguwan Mai Anguwan Bakin Kogi,SSA,7.74914,11.045638,211,11,grid - Intensification,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Anguwan Fulani Rahama,HA,7.792497,11.086725,69,15,grid,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Rugar Mallam Ashiru,HA,7.809429,11.069608,23,5,grid - Intensification,10
+Kaduna,KD,Kufena,KD2305,Zaria,19023,HA_5,HA,7.670765,11.081516,17,5,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Kasuwan Dutse B,SSA,7.612696,11.01933,119,22,grid,10
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Sabowan Anguwan Kogoro,HA,7.707503,11.037322,635,24,grid - Intensification,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Layin Gidan Noma Bizara,SSA,7.760768,11.066281,73,7,grid - Intensification,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Rugar Fulani Umaru,HA,7.763936,11.064204,78,7,grid - Intensification,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Gidan Yaya Bogari,SSA,7.787981,10.998617,129,23,grid,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,HA_6,HA,7.789168,11.071258,2,5,grid - Intensification,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Unguwar Fulani Bayan Makabarta,HA,7.790326,11.064705,9,6,grid,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,HA_9,HA,7.783114,11.062394,80,7,grid - Intensification,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Anguwan Wakili Fanganmu,HA,7.784112,11.055715,107,20,grid,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,HA_1,HA,7.799109,11.09763,12,6,grid,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Anguwan Yalwa Tudun Kusa,SSA,7.774169,11.048664,52,6,grid - Intensification,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Anguwan Mallam Abba,SSA,7.775248,11.047364,46,6,grid - Intensification,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Unguwar Ibrahim Dungu,HA,7.791435,11.061038,99,19,grid,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Jibagana,HA,7.792621,10.997797,61,13,grid,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,HA_19,HA,7.801741,10.994025,112,21,grid,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,Rugan Haraba,HA,7.789881,11.00916,150,9,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_64,HA,7.594275,11.04119,76,7,grid - Intensification,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,HA_32,HA,7.782934,11.04131,82,7,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Gago,SSA,7.592446,11.070211,150,9,grid - Intensification,10
+Kaduna,KD,Kufena,KD2305,Zaria,19023,Gangare Karofi,SSA,7.661824,11.102969,50,6,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_3,HA,7.522161,10.991005,101,19,grid,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Gidan Jika Bizara,SSA,7.762206,11.054686,41,6,grid - Intensification,10
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,HA_3,HA,7.703314,11.033197,6,5,grid - Intensification,10
+Kaduna,KD,Gyellesu,KD2303,Zaria,19023,Anguwan Sayen,SSA,7.70743,11.025046,39,10,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_8,HA,7.699659,11.021357,29,9,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Gishiri,HA,7.58323,11.063997,86,7,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Gidan Dikko,SSA,7.576431,11.024524,101,8,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_65,HA,7.598946,11.038724,96,8,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Mardanni,SSA,7.634443,11.03841,120,8,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Hardon Fulani A,HA,7.592891,11.06172,124,9,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,Unguwar Suyaki,HA,7.601083,11.069036,221,11,grid - Intensification,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,HA_8,HA,7.797002,11.057242,53,12,grid,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,HA_18,HA,7.791742,10.993605,12,6,grid,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,HA_16,HA,7.793721,10.987888,14,7,grid,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,HA_19,HA,7.765764,11.1196,42,6,grid - Intensification,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Gaba Village,SSA,7.752468,11.097503,68,7,grid - Intensification,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,HA_12,HA,7.805241,10.973849,41,11,grid,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_7,HA,7.650118,10.993643,59,7,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_44,HA,7.657723,10.985889,2,5,grid,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Rugar Auta,HA,7.806355,11.055255,88,7,grid - Intensification,10
+Kaduna,KD,Dutsen Abba,KD2301,Zaria,19023,HA_16,HA,7.605436,11.023664,57,6,grid - Intensification,10
+Kaduna,KD,Dambo,KD2302,Zaria,19023,Tsaunin Fulani,HA,7.793798,11.049189,19,5,grid - Intensification,10
+Kaduna,KD,Wuciciri,KD2313,Zaria,19023,HA_21,HA,7.767258,10.990518,83,7,grid - Intensification,10

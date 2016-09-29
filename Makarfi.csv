@@ -1,0 +1,404 @@
+State,Statecode,Ward,Wardcode,Lga,Lgacode,Name,Type,X,Y,Population,Target.Household.Count,Recommended.Access.Categories,DecileByHH
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,HA_2,HA,7.893907,11.237816,76,7,grid - Intensification,3
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Rugar Shade,HA,7.827975,11.228117,27,6,grid - Intensification,3
+Kaduna,KD,Makarfi,KD1807,Makarfi,19018,Makarfi,BUA,7.882246,11.372613,13558,487,grid - Intensification,3
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Anguwan Sarki,BUA,7.936731,11.329469,9200,331,grid - Intensification,3
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Gimi Tasha,BUA,7.91942,11.335342,3250,119,grid - Intensification,3
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Angwan Ibrahim,BUA,8.008075,11.261862,4083,149,grid - Intensification,3
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Angwan Tutaki,BUA,7.904736,11.245906,13852,497,grid - Intensification,4
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Toll Gate,BUA,7.898517,11.331953,1385,238,grid,4
+Kaduna,KD,Makarfi,KD1807,Makarfi,19018,HA_2,HA,7.886528,11.36626,554,21,grid - Intensification,4
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Angwan Dankiri,HA,7.871066,11.304158,3024,111,grid - Intensification,4
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Sabon Garin Tafida,BUA,8.054745,11.294181,2121,78,grid - Intensification,4
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Danbasa,HA,8.041556,11.318837,358,64,grid,4
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Anguwan Shuaibu,BUA,8.025275,11.240993,18353,658,grid - Intensification,4
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Tashar Yari,BUA,7.908755,11.344642,7058,255,grid - Intensification,4
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,Kandahar,BUA,7.879392,11.383169,23329,835,grid - Intensification,4
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Mayere,BUA,8.005927,11.32501,6873,248,grid - Intensification,4
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Fada,BUA,8.029122,11.34376,2598,95,grid - Intensification,4
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Hayin Gada,SSA,8.015024,11.244702,395,17,grid - Intensification,4
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Kunkumi,BUA,8.031316,11.360834,6707,242,grid - Intensification,4
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Wurno,HA,8.04825,11.309401,574,100,grid,4
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Maigadi,SSA,7.98115,11.305939,334,61,grid,4
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Danwayya,SSA,8.046319,11.315536,154,29,grid,4
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Maimai,SSA,8.034164,11.333855,211,11,grid - Intensification,5
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Angwan Samaila,BUA,7.943171,11.422303,5013,182,grid - Intensification,5
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Wali,BUA,7.893579,11.384784,6360,230,grid - Intensification,5
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Anguwan Kanawa,BUA,7.839955,11.23674,4679,170,grid - Intensification,5
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Fada Dorayi,BUA,8.078702,11.279336,2302,85,grid - Intensification,5
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Feleke,SSA,7.859207,11.318912,175,10,grid - Intensification,5
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Tsamiyar Masau Layin Gidan Mohammed Tukur,SSA,8.009042,11.275547,399,17,grid - Intensification,5
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Jama'A,BUA,7.898346,11.371311,2745,100,grid - Intensification,5
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Angwan Kwalo,BUA,7.970195,11.314746,4525,164,grid - Intensification,5
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Durum,BUA,7.959006,11.29394,4351,158,grid - Intensification,5
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Angwan Makera,SSA,7.817633,11.275774,257,12,grid - Intensification,5
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Angwan Madaki,BUA,7.831903,11.364326,6957,251,grid - Intensification,5
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Mahangi,SSA,7.9445,11.407626,559,21,grid - Intensification,5
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Burma,HA,7.862016,11.313449,772,32,grid - Intensification,5
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Angwan Dada,SSA,7.815424,11.24384,160,31,grid,5
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Anguwan Sha Iskawa,BUA,7.859349,11.210512,1476,56,grid - Intensification,5
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Anguwar Wakili,BUA,7.866734,11.251896,2467,91,grid - Intensification,5
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Gidan Lole,HA,7.905241,11.340928,1298,48,grid - Intensification,5
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Kauyen Namari,HA,7.917777,11.341348,667,25,grid - Intensification,5
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Gidan Dankande,HA,7.979172,11.308977,1475,56,grid - Intensification,5
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Gidan Mazadu,HA,7.884122,11.255164,326,59,grid,5
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Angwan Umbo,SSA,7.987491,11.315645,255,45,grid,5
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Anguwan Magaji,SSA,7.850444,11.224682,118,21,grid,6
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Dan Kwaire,SSA,7.99696,11.296173,627,23,grid - Intensification,6
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Gidan Dutse,HA,7.996339,11.322294,2181,81,grid - Intensification,6
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Angwan Hamza Abba Mallam,SSA,7.881014,11.208237,461,19,grid - Intensification,6
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Gidan Zarto,SSA,7.919594,11.332602,112,8,grid - Intensification,6
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Danbakwa Bakin Titi,SSA,7.85536,11.372238,384,16,grid - Intensification,6
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Sabuwar Angwan Bayan Asibiti,SSA,7.906147,11.344395,311,14,grid - Intensification,6
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Kauyen Baki,HA,7.917709,11.311329,751,30,grid - Intensification,6
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Magari,HA,7.921947,11.304969,576,100,grid,6
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Rahma,BUA,7.915163,11.298597,5323,907,grid,6
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Bargi,SSA,7.911076,11.318549,525,20,grid - Intensification,6
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Godai Unguwar Lawal,BUA,7.903224,11.384904,1343,50,grid - Intensification,6
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Rugar Fulani Iro,HA,7.964146,11.300257,316,14,grid - Intensification,6
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Gidan Danladi,HA,7.90967,11.384941,778,32,grid - Intensification,6
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Unguwar Maadaki,SSA,7.914716,11.382842,637,24,grid - Intensification,6
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Sabon Gida,SSA,7.918195,11.380571,349,63,grid,6
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Rugar Tambaya,HA,7.920662,11.374277,405,71,grid,6
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Rugar Alhaji Lawal,HA,7.923836,11.370662,499,88,grid,6
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Unguwar Wambai,BUA,7.924766,11.363691,1914,328,grid,6
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,Dadinkowa,SSA,7.907676,11.409567,408,17,grid - Intensification,6
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Tawakiri,SSA,7.985893,11.290042,179,10,grid - Intensification,6
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Gidan Kunda,SSA,7.977141,11.290113,345,62,grid,6
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,HA_1,HA,7.969344,11.287797,303,14,grid - Intensification,6
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Rugar Alhaji Sule,HA,7.967396,11.281657,70,15,grid,6
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Kuruntumawa A,SSA,7.969408,11.27494,486,86,grid,6
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Kuruntumawa B,SSA,7.9699,11.273895,250,44,grid,6
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Angwan Waziri,HA,7.960088,11.268114,3136,536,grid,6
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,HA_6,HA,7.895987,11.353264,214,11,grid - Intensification,6
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Gazara,BUA,7.909031,11.364523,5811,210,grid - Intensification,6
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Angwan Bazai,SSA,8.057024,11.230711,465,19,grid - Intensification,6
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Aleyedeno Memorial Bible Institute Hostel Anguwan Bazai,HA,8.056619,11.228621,456,18,grid - Intensification,6
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,HA_2,HA,8.048235,11.225028,121,8,grid - Intensification,6
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Gidan Ibrahim Mamuda,HA,8.052576,11.217659,54,12,grid,6
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,HA_1,HA,8.046914,11.216027,114,21,grid,6
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Gidan Na Dije,HA,8.042975,11.212306,2182,374,grid,6
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Kanakargo Tsohuwa,HA,7.97783,11.263762,462,81,grid,7
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Kanakargo Sabuwa,HA,7.983853,11.265013,1516,260,grid,7
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Kana Kargo Sabuwa,SSA,7.984343,11.270955,291,52,grid,7
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Rugar Leku,HA,7.986112,11.27364,495,88,grid,7
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,Gidan Dungu,SSA,7.920161,11.410262,199,11,grid - Intensification,7
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,Anguwar Dandaki,SSA,7.920043,11.415345,197,37,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Kadabo Ta Yamma,SSA,7.922795,11.421662,656,115,grid,7
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,HA_2,HA,7.916721,11.42267,71,15,grid,7
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,Rigar Basso,HA,7.911411,11.430479,191,36,grid,7
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,Babangida,SSA,7.902557,11.429619,365,65,grid,7
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,Gidan Mallam Naaje,HA,7.898886,11.428202,317,57,grid,7
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,Anguwar Mallam Saidu,HA,7.895674,11.416484,153,29,grid,7
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,Rigar Gaya,HA,7.89432,11.410133,396,17,grid - Intensification,7
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,Anguwar Sanda,HA,7.884644,11.400442,5017,855,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Angwan Nomau,SSA,7.948457,11.426539,354,15,grid - Intensification,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Gidan Yaro,SSA,7.952525,11.427522,110,8,grid - Intensification,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Kawaire,SSA,7.954786,11.427484,111,8,grid - Intensification,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Gidan Danbori,HA,7.958966,11.436917,689,120,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Agalawa,SSA,7.969196,11.430535,318,57,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Gidan Makera,SSA,7.94839,11.409151,356,15,grid - Intensification,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Rugar Kaduna,HA,7.950673,11.40194,122,8,grid - Intensification,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Rugar Abubakar,HA,7.952307,11.397002,214,11,grid - Intensification,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Rugar Tafida,SSA,7.95016,11.393087,103,19,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Jamaar Maida,SSA,7.951838,11.390661,235,42,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Gidan Kaura,SSA,7.956665,11.386215,186,35,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Rinji Zakiru,SSA,7.960004,11.380365,514,90,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Tashar Bala,HA,7.961547,11.371649,284,50,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Gidan Bala,SSA,7.959179,11.368715,128,23,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Gidan Bayyo,HA,7.960396,11.363137,4514,770,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Katikawa,SSA,7.953633,11.369547,272,48,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Katikawa,SSA,7.953575,11.370909,568,99,grid,7
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,Rigar Yuguda,HA,7.902071,11.395476,189,10,grid - Intensification,7
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Rugar Gardi Chairman,HA,7.877644,11.199583,94,8,grid - Intensification,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Tsohuwar Tashar Yari,SSA,7.923486,11.355885,309,55,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,HA_10,HA,7.926743,11.351955,525,92,grid,7
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Ruma,BUA,7.886559,11.322916,2572,94,grid - Intensification,7
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Angwan Liman,SSA,7.921082,11.255892,408,17,grid - Intensification,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Rugar Hajia Igabi,HA,7.936814,11.315775,580,101,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Giwaye,SSA,7.959417,11.387576,516,91,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Hayin Dan Kauye,SSA,7.963096,11.39314,305,55,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Gidan Shehu Gudu,SSA,7.971069,11.405019,259,46,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Gidan Bazai,HA,7.961572,11.316927,504,20,grid - Intensification,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,HA_9,HA,7.930122,11.347351,336,61,grid,7
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Makera Bakin Titi,SSA,7.85486,11.373401,200,11,grid - Intensification,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Gidan Sallau,SSA,7.961726,11.440057,174,34,grid,7
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Gidan Kurmi,SSA,7.878682,11.326346,282,13,grid - Intensification,7
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Angwan Isa,HA,7.86965,11.327823,1091,188,grid,7
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Gidan Ibrahim Akawu,HA,8.027013,11.214122,1198,206,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Angwan Maikalangwu,SSA,7.970536,11.408772,198,37,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Gidan Ali,SSA,7.964304,11.412197,224,41,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Rugar Garba,SSA,7.962886,11.410775,163,32,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Gidan Mahauta,SSA,7.961069,11.411432,266,47,grid,7
+Kaduna,KD,Makarfi,KD1807,Makarfi,19018,Gidan Waziri,SSA,7.870692,11.335368,107,20,grid,7
+Kaduna,KD,Makarfi,KD1807,Makarfi,19018,Anguwar Hudu,SSA,7.870439,11.337401,270,47,grid,7
+Kaduna,KD,Makarfi,KD1807,Makarfi,19018,Anguwar Liman,SSA,7.87318,11.339877,109,20,grid,7
+Kaduna,KD,Makarfi,KD1807,Makarfi,19018,Gidan Alhaji,SSA,7.873979,11.340707,246,44,grid,7
+Kaduna,KD,Makarfi,KD1807,Makarfi,19018,HA_1,HA,7.875449,11.337206,248,44,grid,7
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Alhazawa,SSA,7.877344,11.335561,227,41,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Gidan Goje,SSA,7.921805,11.426249,400,70,grid,7
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Gidan Gado,HA,7.885411,11.336093,451,79,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,HA_11,HA,7.957272,11.354339,167,33,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Tashar Taya,SSA,7.962389,11.353934,323,58,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Gidan Madugu,SSA,7.970101,11.354285,233,42,grid,7
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Hayin Angwan Korau,SSA,7.900924,11.336308,257,12,grid - Intensification,7
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Angwan Yinusa,SSA,7.83857,11.262967,220,11,grid - Intensification,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Gidan Gabas,HA,7.9252,11.428567,1537,264,grid,7
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Kadabo Ta Gabas,SSA,7.92842,11.424155,448,79,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Anguwan Ali,SSA,7.964414,11.348868,306,55,grid,7
+Kaduna,KD,Makarfi,KD1807,Makarfi,19018,Gidan Alhaji Bawa,SSA,7.871865,11.344353,128,23,grid,7
+Kaduna,KD,Makarfi,KD1807,Makarfi,19018,Anguwar Geri,SSA,7.872745,11.350753,386,68,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,HA_5,HA,7.9652,11.342586,108,20,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Rugar Sule,HA,7.971393,11.343571,161,31,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Baawa,SSA,7.970577,11.337627,462,81,grid,7
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Gidan Danbali,SSA,7.976344,11.331491,163,32,grid,7
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Kungu,HA,7.982204,11.330041,811,140,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Anguwan Fulani,HA,7.959901,11.339242,395,69,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Gidan Babawuro,HA,7.952195,11.340699,108,20,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Fadama,SSA,7.944347,11.346629,448,79,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Hayin Gada,HA,7.943338,11.351709,522,92,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Gidan Barau,SSA,7.942855,11.355447,315,57,grid,7
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Kwarkwadan,SSA,8.050215,11.3041,170,10,grid - Intensification,7
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Gidan Yero,SSA,8.043989,11.304832,298,53,grid,7
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Rugar Bagajere,HA,8.041331,11.303929,417,73,grid,7
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Gidan Bature,SSA,8.017382,11.333503,142,26,grid,7
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Tasha Danmallam,SSA,7.985354,11.30573,424,74,grid,7
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Gidan Kyasge,SSA,7.977017,11.293815,163,32,grid,7
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Sabuwar Unguwan Tashar Yari,SSA,7.908724,11.343499,211,11,grid - Intensification,7
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Ungwar Maharba,HA,7.976182,11.345565,400,70,grid,7
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,HA_3,HA,7.929756,11.299,75,15,grid,7
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,HA_5,HA,7.930919,11.295345,221,40,grid,7
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Angwan Barka,HA,7.935608,11.28678,1503,258,grid,7
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Sabon Garin Dorayi,SSA,8.06047,11.288635,284,13,grid - Intensification,8
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Gidan Alhaji Audu,HA,8.037064,11.29673,1064,183,grid,8
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,HA_3,HA,7.94755,11.372275,208,39,grid,8
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Kwarin Dan Banga,SSA,7.94678,11.368985,202,38,grid,8
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Baawa,SSA,7.986692,11.343291,380,67,grid,8
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Rugar Fulani Ore,HA,7.957204,11.426098,1213,45,grid - Intensification,8
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Gidan Makada,SSA,7.957291,11.3134,217,11,grid - Intensification,8
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Zarto,SSA,7.956734,11.311756,491,20,grid - Intensification,8
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Laudu,HA,7.94718,11.3087,544,95,grid,8
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Gidan Ita,SSA,7.945098,11.358804,156,30,grid,8
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Gainaku,HA,7.825788,11.271335,198,11,grid - Intensification,8
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,HA_1,HA,7.890173,11.320128,249,12,grid - Intensification,8
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Gidan Buji,SSA,7.83157,11.345382,50,12,grid,8
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Gidan Fulani,HA,7.83523,11.344063,928,160,grid,8
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Angwan Alhaji,SSA,7.923599,11.256788,374,16,grid - Intensification,8
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Rugar Alhaji Madugu,HA,7.926985,11.262488,227,12,grid - Intensification,8
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,HA_3,HA,7.93419,11.263355,66,14,grid,8
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,HA_4,HA,7.933112,11.267704,277,49,grid,8
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,HA_2,HA,7.930106,11.277609,100,19,grid,8
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Rugar Yale,HA,7.923,11.272115,221,40,grid,8
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Angwan Charwa,HA,7.920665,11.278152,1032,178,grid,8
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Angwan Charwa,HA,7.915835,11.27243,465,82,grid,8
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,HA_1,HA,7.906211,11.273468,154,29,grid,8
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Chakun,SSA,7.903942,11.269437,213,39,grid,8
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Anguwan Kano,HA,7.90159,11.270927,368,65,grid,8
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Rugar Dongo,HA,7.899494,11.272659,611,106,grid,8
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Gidan Bako,HA,7.960903,11.332434,249,44,grid,8
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Rugar Hardo,SSA,7.932994,11.314138,128,23,grid,8
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Rugar Alhaji Magaji,HA,7.88978,11.211706,594,22,grid - Intensification,8
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Rugar Bello Mazore,HA,7.888762,11.217833,204,11,grid - Intensification,8
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Audiga,SSA,7.887197,11.220306,178,10,grid - Intensification,8
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Rugar Jafaru,HA,7.886423,11.22277,253,45,grid,8
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Rugar Makama,HA,7.876655,11.225826,887,154,grid,8
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Gidan Gona,HA,7.830688,11.257081,59,7,grid - Intensification,8
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Anguwan Mallam Haruna,SSA,7.846415,11.329585,315,14,grid - Intensification,8
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Yako,HA,8.036709,11.32849,587,22,grid - Intensification,8
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Kadin,SSA,7.903501,11.30512,497,88,grid,8
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Yawa,HA,8.062069,11.28465,586,22,grid - Intensification,9
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Rugar Arande,HA,7.869284,11.274482,233,42,grid,9
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Anguwar Chirai,HA,7.877857,11.27373,562,98,grid,9
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Angwan Kago,HA,7.888066,11.281005,443,78,grid,9
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Nasiru,SSA,8.060157,11.28027,163,10,grid - Intensification,9
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Malami,HA,8.060933,11.271015,312,56,grid,9
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Kura,SSA,8.061528,11.269053,160,31,grid,9
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Unguwar Jaki Malamai,SSA,8.054451,11.265332,233,42,grid,9
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Angwan Jaki,SSA,8.053935,11.266366,200,37,grid,9
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Angwan Danjuma,HA,8.047608,11.262253,844,146,grid,9
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Angwan Kakale,SSA,8.03924,11.263434,304,54,grid,9
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Angwan Galadima,HA,8.030628,11.262771,393,69,grid,9
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Gidan Kanda,HA,8.026057,11.270193,586,102,grid,9
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Malamawan Kwari,SSA,7.926941,11.441701,221,40,grid,9
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Malamawan Tudu,SSA,7.932577,11.440954,601,105,grid,9
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,Alhaji Ahmadu Dan Yaro,HA,7.861746,11.371343,310,14,grid - Intensification,9
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,Anguwan Korau,SSA,7.858983,11.367526,50,6,grid - Intensification,9
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,Anguwan Tamowa,SSA,7.860987,11.361922,143,9,grid - Intensification,9
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Tamowa 1,SSA,7.863499,11.360406,405,71,grid,9
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Tamowa 2,SSA,7.864209,11.357122,198,37,grid,9
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Anguwan Mai Kulo,SSA,7.863284,11.354999,341,62,grid,9
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Angwan Ali,SSA,7.859894,11.349476,140,25,grid,9
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Gidan Jaji,SSA,7.858388,11.347421,132,23,grid,9
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Gidan Dambo,SSA,7.860217,11.346188,350,63,grid,9
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Gidan Yau,HA,7.854193,11.350384,165,32,grid,9
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Anguwan Ali,SSA,7.859975,11.343777,66,14,grid,9
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,HA_4,HA,7.901547,11.388301,734,29,grid - Intensification,9
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,Gidan Chkaro,HA,7.913586,11.282675,249,44,grid,9
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Rugar Tajira,HA,7.856307,11.229363,35,10,grid,9
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Rugar Yakubu,HA,7.867752,11.23503,514,90,grid,9
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Anguwan Mallam Sani,HA,8.046266,11.240543,282,13,grid - Intensification,9
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,HA_1,HA,8.031892,11.293759,38,10,grid,9
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Gidan Maikyau,SSA,8.03174,11.287112,227,41,grid,9
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Gidan Tarai,SSA,8.03371,11.278134,365,65,grid,9
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Doka,SSA,8.030418,11.297444,195,37,grid,9
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Bazana II,SSA,8.011881,11.250144,295,14,grid - Intensification,9
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Mai Angiwa Dano,HA,7.989653,11.258749,209,39,grid,9
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Rugar Madaki Kurmi,HA,7.992454,11.250489,282,50,grid,9
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Rugar Malam Iliya,HA,7.941935,11.266794,210,39,grid,9
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Malamawan Makaurata,SSA,7.941395,11.44774,214,39,grid,9
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Gidan Doka,HA,7.945845,11.445172,523,92,grid,9
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Mariga,SSA,7.846743,11.216239,204,38,grid,9
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Gidan Dan Alhaji,SSA,7.841593,11.213365,61,13,grid,9
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Gidan Kawo,SSA,7.842841,11.209699,95,18,grid,9
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Gidan Alhaji Jibo,HA,7.845085,11.208516,174,34,grid,9
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Godai Unguwar Mamman,SSA,7.899028,11.386172,304,14,grid - Intensification,9
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Rugar Aminu,HA,7.882349,11.233796,264,46,grid,9
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Barau,HA,8.096508,11.274819,626,23,grid - Intensification,9
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Gidan Sakwai,SSA,8.095482,11.278878,127,9,grid - Intensification,9
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,HA_4,HA,8.094667,11.28609,7,5,grid - Intensification,9
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Gidan Idi Mailemo,HA,7.91659,11.40289,636,24,grid - Intensification,9
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Rugar Betti,HA,7.847581,11.200683,89,17,grid,9
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Ramin Kura,HA,7.938018,11.299523,221,40,grid,9
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,Gcc College,BUA,7.857932,11.374359,333,15,grid - Intensification,9
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Gidan Dangambo,HA,7.856143,11.319969,956,38,grid - Intensification,9
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,HA_4,HA,7.945154,11.294433,87,17,grid,9
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Angwan Tudu,SSA,7.94891,11.281029,440,77,grid,9
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Hayin Fulani,HA,7.897024,11.298755,205,38,grid,9
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,HA_3,HA,8.099898,11.28555,49,6,grid - Intensification,9
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Hardo Rabo,HA,8.043967,11.322223,97,19,grid,9
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Rugar Alhaji Shiriye,HA,7.87613,11.210693,495,20,grid - Intensification,9
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Maikyau,SSA,8.023472,11.29444,139,25,grid,9
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,HA_7,HA,8.02026,11.295024,135,24,grid,9
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Ghana,SSA,7.933098,11.405819,624,23,grid - Intensification,9
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Anguwan Alhaji Gidan Dauda Lawan,SSA,7.997153,11.289748,247,12,grid - Intensification,9
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Angwan Alhaji,SSA,7.998485,11.2903,302,14,grid - Intensification,9
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Angwan Aruwa,SSA,7.814101,11.234513,183,35,grid,9
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Gidan Daudu,SSA,8.019878,11.348666,130,9,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Gidan Falke,SSA,8.015263,11.349031,278,49,grid,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,HA_2,HA,8.012667,11.350014,681,26,grid - Intensification,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Gidan Hamza,HA,7.813138,11.230273,97,19,grid,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Anguwan Gajere,SSA,7.865799,11.208503,216,11,grid - Intensification,10
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Rugar Bahago,HA,7.878005,11.260362,109,20,grid,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Gidan Maigari,SSA,7.816757,11.224132,126,23,grid,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Rugar Magaje,HA,7.82066,11.217196,23,8,grid,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Rugar Kwaini,HA,7.824398,11.219117,86,17,grid,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Tukuru,SSA,7.828976,11.213703,69,15,grid,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Gidan Shuaibu,SSA,7.828911,11.211441,46,11,grid,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Rugar Nagwibi,HA,7.83496,11.205594,259,46,grid,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,HA_8,HA,7.935837,11.400378,563,22,grid - Intensification,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,HA_7,HA,7.936491,11.39408,304,14,grid - Intensification,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Karara,SSA,7.942174,11.386916,244,44,grid,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,HA_5,HA,7.942967,11.382925,286,51,grid,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Gidan Na Tsohuwa,HA,8.067931,11.257031,401,70,grid,10
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Anguwan Arabu Tsohuwa,SSA,7.936299,11.259761,237,43,grid,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Gidan Namasalli,SSA,7.956567,11.395336,88,17,grid,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Marke Tasha,SSA,7.840132,11.263954,218,11,grid - Intensification,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Angwan Sarki,HA,7.844016,11.329139,395,17,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,HA_5,HA,8.076638,11.25129,261,46,grid,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Angwan Sarki,HA,7.849553,11.264048,410,17,grid - Intensification,10
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Hayin Ulu,HA,8.018381,11.328742,277,13,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Rugar Yakubu,HA,8.058041,11.370582,231,12,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,HA_3,HA,8.079876,11.240906,39,10,grid,10
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Rugar Tsuhu,HA,7.891714,11.222261,75,15,grid,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Anguwan Yuguda,SSA,7.870367,11.299611,354,15,grid - Intensification,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Gidan Dan Maida,SSA,7.949108,11.449555,258,46,grid,10
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Rugar Fulani,HA,7.988974,11.307675,124,22,grid,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Angwan Wakili,SSA,7.836842,11.268212,296,14,grid - Intensification,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,HA_1,HA,7.915457,11.366992,366,16,grid - Intensification,10
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Angwan Arabu,SSA,7.93317,11.257025,214,11,grid - Intensification,10
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Rugar Hardo,HA,7.930574,11.24911,353,15,grid - Intensification,10
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Rugar Nalabi,HA,7.92421,11.241939,236,42,grid,10
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,HA_1,HA,7.917371,11.228949,102,19,grid,10
+Kaduna,KD,Nasarawa Wandoya,KD1809,Makarfi,19018,Kwaga,HA,7.913972,11.221097,318,57,grid,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Randa,SSA,7.918287,11.404812,185,10,grid - Intensification,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,HA_9,HA,7.816493,11.373049,81,16,grid,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Maigudumai,SSA,7.807715,11.377405,106,20,grid,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Gidan Yaro,SSA,8.011715,11.268254,73,7,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Angwan Salmanu,SSA,8.052157,11.254354,145,27,grid,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Angwan Bala,HA,7.879669,11.297517,775,32,grid - Intensification,10
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Angwan Magori,SSA,7.99683,11.291728,199,11,grid - Intensification,10
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,Kuzuntawa,SSA,7.917013,11.409911,292,14,grid - Intensification,10
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,Gidan Alhaji,SSA,7.912831,11.408781,264,13,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Gidan Biri,HA,8.056416,11.248147,1000,39,grid - Intensification,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Angwan Mallam Ado,HA,7.815266,11.275649,410,17,grid - Intensification,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Angwan Ramanau,HA,7.816324,11.28727,239,12,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Bakutaje 1,SSA,8.05283,11.363952,376,16,grid - Intensification,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,HA_3,HA,7.877297,11.308406,140,9,grid - Intensification,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,HA_8,HA,7.851223,11.375558,347,15,grid - Intensification,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Dan Ayamaka,SSA,7.848888,11.332303,225,12,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Yaji,SSA,8.066383,11.286107,118,8,grid - Intensification,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Rugar Iliya,HA,7.857933,11.218866,433,18,grid - Intensification,10
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Gidan Inga,SSA,8.012203,11.317487,163,10,grid - Intensification,10
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Anguwan Karofi,SSA,8.011819,11.315361,374,16,grid - Intensification,10
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Karofi,SSA,8.012526,11.312682,125,9,grid - Intensification,10
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Gidan Musa,SSA,8.016781,11.307027,189,36,grid,10
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Angwan Mallam Ali,SSA,8.000141,11.281657,270,13,grid - Intensification,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,HA_9,HA,7.947586,11.419801,101,8,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Tashan Na Kawu,SSA,8.054157,11.232782,259,13,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Madaki,SSA,8.09064,11.274449,208,11,grid - Intensification,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Gidan Mairijiya,SSA,7.902809,11.347418,249,12,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Anguwan Maiturawa,SSA,8.045559,11.243119,195,11,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Sabon Gida,SSA,8.050085,11.234809,108,8,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Bazai,SSA,8.031935,11.32349,127,9,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,HA_8,HA,8.030451,11.321575,442,18,grid - Intensification,10
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Gidan Kanya,SSA,8.010136,11.302597,106,20,grid,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Ungwan Barebari,SSA,7.936982,11.413437,389,16,grid - Intensification,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Unguwa Malamai,SSA,7.840337,11.377321,154,9,grid - Intensification,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Unguwar Zakari,SSA,7.899871,11.364003,175,10,grid - Intensification,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,HA_2,HA,7.883929,11.295558,427,18,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Tsamiyar Massau,SSA,8.007376,11.273507,86,7,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,HA_5,HA,8.059272,11.293739,83,7,grid - Intensification,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Gidan Shuaibu,SSA,7.854446,11.337054,296,14,grid - Intensification,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Gidan Bakoshe,SSA,7.854298,11.338385,375,16,grid - Intensification,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Rugar Manu Dangi,HA,7.868445,11.200081,336,15,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Sabon Gida,SSA,8.060715,11.295617,116,8,grid - Intensification,10
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Gidan Kirgi,SSA,7.976473,11.311919,80,7,grid - Intensification,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Alhaji Sabo Site,SSA,7.902432,11.349145,292,14,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Angwan Sarki,SSA,8.009374,11.280328,316,14,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Angwan Malamai,SSA,8.03384,11.246433,321,14,grid - Intensification,10
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Ungwar Lili,SSA,8.004313,11.300369,399,17,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Sarki,HA,8.043179,11.339698,679,26,grid - Intensification,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Hayin Gadanga,HA,7.941665,11.398381,467,19,grid - Intensification,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Rugar Mati,HA,7.840846,11.284945,148,9,grid - Intensification,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Rugar Yellow,HA,7.838399,11.25481,125,9,grid - Intensification,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Angwan Mallam,SSA,7.843953,11.251462,223,11,grid - Intensification,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Angwan Nalado,HA,7.842787,11.249434,155,9,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Gidan Barau,SSA,8.014876,11.260525,233,12,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Gidan Mai Biri,SSA,8.016225,11.259521,107,8,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Ma'Azu,SSA,8.088638,11.271055,75,7,grid - Intensification,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Baurena,HA,7.818487,11.257538,42,11,grid,10
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Gidan Sharu,SSA,8.016813,11.315454,256,12,grid - Intensification,10
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Gidan Sarki,HA,8.008738,11.296537,295,14,grid - Intensification,10
+Kaduna,KD,Meyari,KD1808,Makarfi,19018,Gidan Kasim,HA,7.994387,11.308554,263,13,grid - Intensification,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Angwan Shekarau,SSA,7.81653,11.280315,168,10,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Anguwan Magina,SSA,8.051454,11.238183,104,8,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Gidan Gogarama,SSA,8.016916,11.282853,267,13,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Gidan Mai Jaka,SSA,8.017594,11.279984,104,8,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Gidan Doya,HA,8.017562,11.274405,352,15,grid - Intensification,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Angwan Masaka,SSA,7.900137,11.343518,181,10,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,HA_4,HA,8.037568,11.234158,115,8,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Gidan Sani Gailo,HA,8.030284,11.328526,135,9,grid - Intensification,10
+Kaduna,KD,Dan Damisa,KD1801,Makarfi,19018,Rugar Iro Agwai,HA,7.845684,11.259003,85,7,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Rugar Bello,HA,8.057156,11.357314,354,15,grid - Intensification,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Angwan Baushe,SSA,7.859471,11.328331,230,12,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,HA_6,HA,8.047998,11.292054,245,12,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Gidan Jurau,HA,8.050589,11.285114,205,11,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,HA_7,HA,8.046185,11.275916,43,11,grid,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,HA_4,HA,7.821638,11.355455,21,8,grid,10
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,HA_2,HA,7.920797,11.326412,147,9,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Unguwar Na Yaya,SSA,8.045976,11.340763,118,8,grid - Intensification,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Tukurwa,SSA,7.908103,11.355145,293,14,grid - Intensification,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Gidan Gishiri,SSA,7.900622,11.377714,124,9,grid - Intensification,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,Tashar Mudi,SSA,7.906124,11.378187,182,10,grid - Intensification,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,HA_2,HA,7.911164,11.37437,239,12,grid - Intensification,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Gidan Kudu,SSA,7.85568,11.367521,160,10,grid - Intensification,10
+Kaduna,KD,Gimi,KD1804,Makarfi,19018,HA_4,HA,7.907969,11.33226,169,10,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Gidan Wambai,SSA,8.043926,11.349125,242,12,grid - Intensification,10
+Kaduna,KD,Tudun Wada,KD1810,Makarfi,19018,HA_4,HA,7.85925,11.37995,96,8,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Gidan Na Bello,SSA,8.099858,11.278248,43,6,grid - Intensification,10
+Kaduna,KD,Gazara,KD1803,Makarfi,19018,HA_10,HA,7.954168,11.458984,23,8,grid,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Gidan Sarki,SSA,7.851394,11.365598,116,8,grid - Intensification,10
+Kaduna,KD,Gubuchi,KD1805,Makarfi,19018,Unguwar Dandoka,SSA,8.059231,11.237512,109,8,grid - Intensification,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Gidan Ala,HA,7.846471,11.362569,53,6,grid - Intensification,10
+Kaduna,KD,Danguziri,KD1802,Makarfi,19018,Gidan Duma,HA,7.840268,11.357978,153,9,grid - Intensification,10
+Kaduna,KD,Gwanki,KD1806,Makarfi,19018,Rugar Fulani Yau,HA,8.07398,11.269413,155,9,grid - Intensification,10

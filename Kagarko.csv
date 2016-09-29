@@ -1,0 +1,598 @@
+State,Statecode,Ward,Wardcode,Lga,Lgacode,Name,Type,X,Y,Population,Target.Household.Count,Recommended.Access.Categories,DecileByHH
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_12,HA,7.917236,9.595405,47,6,grid - Intensification,3
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_15,HA,7.470883,9.537315,57,6,grid - Intensification,3
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_39,HA,7.672197,9.54458,34,6,grid - Intensification,3
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Shehu,HA,7.58052,9.503129,33,6,grid - Intensification,3
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Mallam Dabo,HA,7.352615,9.47074,79,7,grid - Intensification,3
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Rugar Alh. Ardo Banyi,SSA,7.327916,9.389271,74,7,grid - Intensification,3
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_2,HA,7.843769,9.537533,59,7,grid - Intensification,3
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Janruwa,HA,7.677697,9.557943,33,6,grid - Intensification,3
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Katugal,BUA,7.811548,9.444045,12452,447,grid - Intensification,4
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Kongo,HA,7.921768,9.533458,4225,154,grid - Intensification,4
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Ungwar Sarkin Kukui,HA,7.826533,9.376278,2322,86,grid - Intensification,4
+Kaduna,KD,Kurmin Jibrin,KD1109,Kagarko,19011,Unguwar Madaki,HA,7.897058,9.404764,2172,80,grid - Intensification,4
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,HA_5,HA,7.81863,9.426025,187,10,grid - Intensification,4
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Pankere,BUA,7.434281,9.569785,11073,398,grid - Intensification,4
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Iddah,BUA,7.261929,9.332543,16643,597,grid - Intensification,4
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Sabon Iche B,HA,7.571083,9.519451,2177,373,grid,4
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Unguwan Jakada,HA,7.790962,9.452069,494,87,grid,4
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Unguwar Pah Aribi,HA,7.84831,9.523625,1882,69,grid - Intensification,4
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,Unguwar Makera,HA,7.722439,9.50276,3212,118,grid - Intensification,4
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Ungwan Galadima,HA,7.816379,9.430979,540,21,grid - Intensification,4
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Ungwan Rilwanu,BUA,7.295394,9.371108,3569,130,grid - Intensification,4
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Unguwar Kurmi,BUA,7.697169,9.491907,9811,353,grid - Intensification,4
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Ungwan Sarki,HA,7.879029,9.461065,3318,121,grid - Intensification,4
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,HA_2,HA,7.847534,9.463462,97,8,grid - Intensification,4
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Kushamfa Ungwan Sarki,HA,7.906576,9.471327,1779,66,grid - Intensification,5
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,Unguwar Rimi,BUA,7.699441,9.492073,4736,172,grid - Intensification,5
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,HA_1,HA,7.797879,9.446494,118,8,grid - Intensification,5
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Jere Junction,HA,7.423199,9.566136,3659,133,grid - Intensification,5
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Babu Hanya,HA,7.357713,9.461443,1793,67,grid - Intensification,5
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Unguwar Daudu,HA,7.635149,9.499725,608,106,grid,5
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Mararaba Aribi,HA,7.847369,9.459195,179,10,grid - Intensification,5
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Idetura B,HA,7.86455,9.454431,636,24,grid - Intensification,5
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Ungwar Jibo,HA,7.445756,9.600995,2713,99,grid - Intensification,5
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Tudun Wada Kagarko,HA,7.681427,9.493265,3036,111,grid - Intensification,5
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Gidan Ballo,HA,7.346559,9.449682,697,27,grid - Intensification,5
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Unguwar Waje,BUA,7.845862,9.526602,3749,137,grid - Intensification,5
+Kaduna,KD,Kurmin Jibrin,KD1109,Kagarko,19011,Unguwar Atiyayei,HA,7.934994,9.467155,2499,92,grid - Intensification,5
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Rugar Sai,HA,7.823991,9.442257,741,30,grid - Intensification,5
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Gwaje,SSA,7.649055,9.493302,111,20,grid,5
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Gwaje,HA,7.647931,9.493217,418,73,grid,5
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Gbakura,HA,7.275643,9.35155,1421,53,grid - Intensification,5
+Kaduna,KD,Kurmin Jibrin,KD1109,Kagarko,19011,Rugar Umoru (Sabon Gida),HA,7.908447,9.394647,965,38,grid - Intensification,5
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Gwaba,HA,7.320245,9.399273,1237,46,grid - Intensification,5
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Kurmi Uwa,HA,7.689062,9.527552,92,18,grid,5
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Issah Hanya,HA,7.394799,9.4938,1566,60,grid - Intensification,5
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Gyara Wando,HA,7.37515,9.472086,2609,95,grid - Intensification,5
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Kwasere,HA,7.382338,9.52147,2037,75,grid - Intensification,5
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Janjala,HA,7.680155,9.54754,1633,62,grid - Intensification,5
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Unguwar Madaki,HA,7.919238,9.54427,4421,160,grid - Intensification,5
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Alhaji Ibrahim,HA,7.699511,9.512257,592,103,grid,5
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Unguwar Karofi,BUA,7.438209,9.571265,8417,303,grid - Intensification,5
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Ungwan Iddah,BUA,7.35078,9.420096,7294,263,grid - Intensification,5
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Unguwar Ayuba,HA,7.503087,9.53436,2346,87,grid - Intensification,6
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Unguwan Tanko Kaura Sabo Chama,BUA,7.332187,9.42594,5247,190,grid - Intensification,6
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Daba,HA,7.323012,9.425199,981,169,grid,6
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Chama,HA,7.312385,9.432226,1810,310,grid,6
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Maganda,SSA,7.728213,9.47088,74,15,grid,6
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Rugar Nanaye,HA,7.881411,9.447052,26,8,grid,6
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Ungwan Barnaba,HA,7.888643,9.435681,2549,436,grid,6
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,SSA_15,SSA,7.783509,9.453519,170,10,grid - Intensification,6
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_11,HA,7.776107,9.452995,57,6,grid - Intensification,6
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_38,HA,7.365294,9.436104,2261,84,grid - Intensification,6
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Sabon Gari Tahar,HA,7.930783,9.549866,2259,84,grid - Intensification,6
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Gantan Gida,HA,7.940547,9.635345,1203,207,grid,6
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_6,HA,7.414262,9.537157,246,12,grid - Intensification,6
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Rugar Alhaji Shadi,HA,7.878928,9.430571,633,110,grid,6
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_26,HA,7.333445,9.42122,1055,40,grid - Intensification,6
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_20,HA,7.481268,9.544532,231,12,grid - Intensification,7
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Unguwan Magaji,BUA,7.773133,9.442479,7000,253,grid - Intensification,7
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Abdullahi,HA,7.590972,9.518765,91,18,grid,7
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,SSA_63,SSA,7.361187,9.417244,125,9,grid - Intensification,7
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Pakau,HA,7.362098,9.399145,1104,190,grid,7
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Jere Junction,HA,7.425069,9.561218,946,37,grid - Intensification,7
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Ungwan Alura,HA,7.910643,9.438825,869,151,grid,7
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_1,HA,7.411318,9.483859,92,18,grid,7
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Issah Kupayi,HA,7.402497,9.48009,1106,190,grid,7
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Alhaji Idi,HA,7.40625,9.472876,306,55,grid,7
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Issah Gbolo,HA,7.415167,9.465642,125,22,grid,7
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Dope,HA,7.411486,9.454311,1739,298,grid,7
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Unguwar Galadimah,SSA,7.907401,9.59253,473,19,grid - Intensification,7
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_6,HA,7.918581,9.606708,35,10,grid,7
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_8,HA,7.9057,9.620377,308,55,grid,7
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Ruzai,HA,7.900743,9.615659,1290,222,grid,7
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Kurmin Bango,HA,7.901408,9.635718,1062,183,grid,7
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Unguwar Shakwara,SSA,7.441105,9.56306,317,14,grid - Intensification,8
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Ruganfa,HA,7.40544,9.453299,401,70,grid,8
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Noritau,HA,7.86867,9.411003,1466,55,grid - Intensification,8
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Fatiko,HA,7.393818,9.447397,731,127,grid,8
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_2,HA,7.386605,9.45149,20,8,grid,8
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Gujeni,HA,7.381914,9.44854,429,75,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,SSA_55,SSA,7.384216,9.433684,50,12,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,SSA_33,SSA,7.387704,9.426694,54,12,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Rugar Ardo Gide,HA,7.394377,9.422776,23,8,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Pashini,HA,7.406422,9.415304,795,138,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Gidan Daniel,HA,7.409545,9.402018,88,17,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Bere,HA,7.409215,9.390394,738,128,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Rugar Rakona,HA,7.401004,9.380189,86,17,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Rugar Alhaji Ruwa,HA,7.393947,9.386542,1097,189,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Tepape,HA,7.410585,9.368144,966,167,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_19,HA,7.390093,9.386808,368,65,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Godna,HA,7.387794,9.375543,507,89,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Gami,HA,7.371012,9.368914,3812,650,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_24,HA,7.345529,9.417811,458,19,grid - Intensification,8
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Unguwar Waziri,HA,7.809797,9.383703,1326,49,grid - Intensification,8
+Kaduna,KD,Kurmin Jibrin,KD1109,Kagarko,19011,Rugar Tafida (Sabon Gida),HA,7.923671,9.392898,82,16,grid,8
+Kaduna,KD,Kurmin Jibrin,KD1109,Kagarko,19011,Unguwar Meck,SSA,7.931404,9.38875,223,41,grid,8
+Kaduna,KD,Kurmin Jibrin,KD1109,Kagarko,19011,Unguwar Jimbita,SSA,7.93342,9.392133,197,37,grid,8
+Kaduna,KD,Kurmin Jibrin,KD1109,Kagarko,19011,Memdor,HA,7.933129,9.396121,921,159,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_28,HA,7.340564,9.438556,383,16,grid - Intensification,8
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Unguwar Sarki Kusam,HA,7.807805,9.384633,417,17,grid - Intensification,8
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Gorah B,HA,7.863917,9.477587,721,125,grid,8
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Unguwar Madaki,HA,7.799119,9.369586,403,70,grid,8
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Ruga Binga Kosoh,HA,7.807521,9.354884,12,6,grid,8
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Ungwar Madaki Kosoh,HA,7.81194,9.351951,544,95,grid,8
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Ungwar Sarki Kubere,HA,7.820359,9.338582,776,135,grid,8
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_25,HA,7.434159,9.560235,504,20,grid - Intensification,8
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Ungwan Haske,HA,7.85504,9.458722,672,26,grid - Intensification,8
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Rugar Alhaji Jitata,SSA,7.790257,9.36303,46,11,grid,8
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Kusam 3,HA,7.785631,9.359774,106,20,grid,8
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Kusam 4,HA,7.772003,9.37152,103,19,grid,8
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Rugar Alhaji Sale,HA,7.754811,9.373409,809,140,grid,8
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Rugar Birikichi,HA,7.751173,9.37051,46,11,grid,8
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Rugar Alhaji Kaduna,HA,7.748967,9.365967,329,60,grid,8
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Rugar Tambaya Wali,HA,7.7537,9.362945,534,93,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_37,HA,7.308162,9.374599,271,13,grid - Intensification,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Rugar Ardo Namata,SSA,7.321952,9.373763,81,16,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_16,HA,7.323723,9.370299,534,93,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Ungwan Tanko Daniel,HA,7.325443,9.361296,228,41,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Konu,HA,7.3173,9.357715,746,129,grid,8
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Kasebere,BUA,7.772815,9.455608,2617,96,grid - Intensification,8
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Rugaralhaji Haruna,HA,7.842267,9.499957,340,61,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Rugar Ardo Bello,HA,7.373982,9.358368,288,51,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_9,HA,7.359674,9.350435,145,27,grid,8
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Lasinta,HA,7.349415,9.366702,1511,260,grid,8
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Abade,HA,7.685956,9.515264,82,16,grid,8
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Ibrahim Abayi,HA,7.683968,9.508174,202,38,grid,8
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Hurinkadara,HA,7.678156,9.513045,453,80,grid,8
+Kaduna,KD,Kurmin Jibrin,KD1109,Kagarko,19011,Chigwa,HA,7.922267,9.374561,440,77,grid,8
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_27,HA,7.443337,9.560561,260,13,grid - Intensification,8
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Sabi'U,HA,7.443572,9.556471,53,6,grid - Intensification,8
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_24,HA,7.439812,9.550292,112,21,grid,8
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_19,HA,7.435696,9.546998,40,10,grid,8
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_14,HA,7.432809,9.535437,251,45,grid,8
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Fauri,HA,7.435559,9.520433,40,10,grid,8
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Issah Pago,SSA,7.443708,9.520277,474,84,grid,8
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Issah Gado,HA,7.444035,9.512519,515,91,grid,8
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_10,HA,7.450031,9.508002,2064,353,grid,8
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Issah Makaranta,HA,7.447182,9.504386,1494,257,grid,8
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Sawano,SSA,7.929265,9.557202,201,11,grid - Intensification,8
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_16,HA,7.723057,9.473376,250,44,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_14,HA,7.732386,9.455981,77,16,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Itur A,SSA,7.728772,9.446091,65,14,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Dagachi Iliya Itur A,SSA,7.727237,9.446136,125,22,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Itur B,HA,7.720302,9.441997,419,73,grid,9
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_12,HA,7.713812,9.463097,19,7,grid,9
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_15,HA,7.700808,9.465617,15,7,grid,9
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Maitalata,HA,7.688502,9.464228,131,23,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_27,HA,7.690343,9.451876,35,10,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_29,HA,7.7017,9.452273,73,15,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Pankore,HA,7.699321,9.441566,953,164,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Rafin Kimba,HA,7.684104,9.446138,960,166,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Unguwan Rimi Pankore,SSA,7.68073,9.430678,126,23,grid,9
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Adori,HA,7.674188,9.414742,608,106,grid,9
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Kudiri A,SSA,7.668594,9.409653,222,40,grid,9
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Kudiri B,SSA,7.666524,9.408445,263,46,grid,9
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,SSA_8,SSA,7.664627,9.408698,110,20,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_13,HA,7.680381,9.410796,6,6,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Rugar Alhaji Danda,HA,7.684299,9.408294,188,36,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_8,HA,7.685017,9.404089,33,9,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Rugar Hasaan,HA,7.687735,9.396772,79,16,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Dakko,SSA,7.698757,9.40202,117,21,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Sabon Gida,SSA,7.702803,9.402304,97,19,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Chilla,HA,7.708088,9.386831,442,78,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Gidan Chiso,HA,7.713646,9.383142,113,21,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Maganda,SSA,7.727404,9.37322,67,14,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_5,HA,7.732661,9.355493,405,71,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_4,HA,7.741099,9.34453,923,160,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_2,HA,7.730124,9.336286,105,20,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_1,HA,7.732003,9.330831,141,25,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_23,HA,7.737758,9.323794,421,74,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_20,HA,7.754605,9.319347,513,90,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_18,HA,7.75821,9.311729,149,28,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,SSA_1,SSA,7.764767,9.303041,136,24,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_27,HA,7.76595,9.299894,249,44,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_10,HA,7.78846,9.292232,425,74,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_7,HA,7.795111,9.294128,194,37,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_9,HA,7.811544,9.294405,305,55,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_12,HA,7.809192,9.304203,4,5,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_14,HA,7.817192,9.305479,714,124,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_15,HA,7.791636,9.318407,2209,378,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_8,HA,7.830918,9.285746,497,88,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_5,HA,7.840244,9.290355,207,38,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_4,HA,7.848915,9.289988,102,19,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_11,HA,7.863422,9.297821,921,159,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_16,HA,7.862509,9.311016,207,38,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_13,HA,7.874357,9.307454,86,17,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_17,HA,7.881982,9.311487,744,129,grid,9
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,HA_4,HA,7.87245,9.487891,14,7,grid,9
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Kushamfa B,HA,7.879832,9.483886,612,107,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_34,HA,7.365013,9.342492,300,54,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_19,HA,7.785836,9.316405,104,20,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_22,HA,7.777989,9.327184,399,70,grid,9
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_12,HA,7.562228,9.524919,48,6,grid - Intensification,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_4,HA,7.372604,9.341433,58,13,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_8,HA,7.386897,9.347984,315,57,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Kpoyikpma,HA,7.393956,9.348645,537,94,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_1,HA,7.248124,9.323165,502,20,grid - Intensification,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Ungwar Sarkin Iche Kasa,HA,7.894331,9.321423,848,147,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Marke,HA,7.679299,9.399858,444,78,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Unguwar Madaki Kuchi,HA,7.769315,9.340296,323,58,grid,9
+Kaduna,KD,Kurmin Jibrin,KD1109,Kagarko,19011,Kerker,HA,7.949282,9.410016,283,50,grid,9
+Kaduna,KD,Kurmin Jibrin,KD1109,Kagarko,19011,Kampani,HA,7.950512,9.419668,227,41,grid,9
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Unguwar Hausawa,HA,7.55794,9.509211,534,93,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Rugar Kanya,HA,7.325429,9.442068,824,143,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,SSA_52,SSA,7.411581,9.417314,158,30,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Kagonu,HA,7.276268,9.358567,1192,45,grid - Intensification,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_14,HA,7.276632,9.366161,58,7,grid - Intensification,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_15,HA,7.271837,9.370539,96,8,grid - Intensification,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_17,HA,7.268611,9.376181,25,8,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Rugar Abubakar Madobawa,HA,7.275894,9.388824,438,77,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Gidan Fulani Halilu,HA,7.281699,9.388198,176,34,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Sauka Ka Huta,SSA,7.262577,9.379295,49,12,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_21,HA,7.249243,9.387898,132,23,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Shani,SSA,7.249847,9.400552,426,75,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_18,HA,7.234774,9.379948,1611,277,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Tudun Wada,SSA,7.776175,9.47409,78,16,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_19,HA,7.7688,9.48173,251,45,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Gidan Kura,SSA,7.77022,9.488624,71,15,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Kafarma B,SSA,7.770586,9.490899,325,59,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Unguwan Makeri,HA,7.763323,9.483211,121,22,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Unguwan Yari,SSA,7.764159,9.477328,186,35,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Rugan Wakili Modibo,HA,7.33543,9.40728,135,24,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Kuchikau,HA,7.342379,9.390074,482,85,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Rugar Dembo,SSA,7.316144,9.450418,39,10,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Rugar Alhahi Kaduna,SSA,7.311917,9.447737,71,15,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Secreteria,SSA,7.309855,9.448121,129,23,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Chigomi Unguwar Sarki,HA,7.304665,9.450973,851,148,grid,9
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Dogo,HA,7.595616,9.524571,285,50,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Unguwar Garba,HA,7.454572,9.604436,2741,100,grid - Intensification,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Rugar Ibrahim Ruduwal,SSA,7.318372,9.453805,55,13,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_2,HA,7.321832,9.465078,162,31,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Babu Gwari,HA,7.324353,9.474192,162,31,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Godna,SSA,7.327291,9.485849,89,17,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugar Bala,SSA,7.326197,9.493072,125,22,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_4,HA,7.324633,9.500102,810,140,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugar Madaki,HA,7.312932,9.487812,239,43,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Bakuchi,HA,7.308202,9.481246,573,100,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Bakuchi,HA,7.304384,9.478562,1309,225,grid,9
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_9,HA,7.442907,9.503556,132,23,grid,9
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_2,HA,7.830683,9.278402,135,24,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,New Jerussalam,SSA,7.390336,9.416462,179,34,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Babuchiki,HA,7.329984,9.492796,430,75,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Unguwar Durhu,SSA,7.219417,9.38597,53,12,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_23,HA,7.217091,9.40543,116,21,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Unguwar Zumunci,SSA,7.216548,9.41864,138,25,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Fyana,HA,7.235431,9.422164,402,70,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Dugbadna/Akoti,HA,7.231686,9.435861,672,117,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Tufa,HA,7.240795,9.442651,106,20,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Chivi,HA,7.251451,9.447068,734,127,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_41,HA,7.232059,9.448602,108,20,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_43,HA,7.234859,9.4562,43,11,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_45,HA,7.233275,9.460741,85,17,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,SSA_5,SSA,7.247078,9.463502,48,12,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Unguwan Yohana Goni,HA,7.253979,9.467585,1253,215,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Tulu,HA,7.226732,9.45904,1057,182,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Rugar Sarkin Fulani Tashe,SSA,7.214434,9.459786,87,17,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Sauka Lafiya,HA,7.212677,9.462846,226,41,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_33,HA,7.205988,9.461443,201,38,grid,9
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Ali Bature,HA,7.691612,9.55694,84,17,grid,9
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,HA_2,HA,7.698129,9.554014,69,15,grid,9
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,Kurmin Kira,HA,7.704944,9.542463,392,69,grid,9
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,Rugar Pyori/Rugar Waziri,HA,7.705048,9.568325,119,22,grid,9
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,Gidan Jatau,HA,7.715714,9.5791,171,33,grid,9
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,Rugar Baban Jana,HA,7.723385,9.571171,732,127,grid,9
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,HA_8,HA,7.725841,9.562955,53,12,grid,9
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,Kasangwai,HA,7.740406,9.55463,54,12,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Kokori B,SSA,7.749017,9.561975,204,38,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Kadan Dikko,HA,7.771619,9.567664,911,158,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Kokori A,SSA,7.781681,9.571179,135,24,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Kuchi,HA,7.78809,9.574385,588,102,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Kadung,HA,7.789906,9.591143,3653,624,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Unguwar Dogari,SSA,7.746688,9.550615,88,17,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Kadan Giwa,HA,7.745926,9.543468,3069,524,grid,9
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,Pah Baki,HA,7.710137,9.544036,637,111,grid,9
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,Tsaunin Abe,SSA,7.711442,9.551229,158,30,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Gurara,HA,7.883636,9.666247,357,64,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Unguwar Doya,HA,7.877922,9.664751,454,80,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Rugar Ardo,SSA,7.875172,9.65266,91,18,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Unguwar Pah,HA,7.875819,9.647582,420,73,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Rugar Yau,HA,7.865882,9.646665,49,12,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Kurmin Lemu,HA,7.861613,9.659607,847,147,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_24,HA,7.863413,9.64091,45,11,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Rugar Beti,HA,7.871163,9.633169,411,72,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_19,HA,7.871866,9.628139,64,14,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Kasaru A,HA,7.868726,9.608746,248,44,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Rugar Chiroma,HA,7.87466,9.587613,159,31,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Rugar Usman Musa,HA,7.877998,9.578389,84,17,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Kutaho,HA,7.872274,9.566409,3155,539,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Kasaru B,HA,7.855579,9.603129,811,140,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_5,HA,7.840243,9.596691,154,29,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Kuratam,HA,7.816029,9.600965,3884,663,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Badiye,HA,7.844275,9.58915,619,108,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Kugir,HA,7.850478,9.577541,286,51,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Gidan Dandoka,SSA,7.831085,9.566841,122,22,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Gidan Dutse,HA,7.815006,9.558096,68,14,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Baja,HA,7.811996,9.540571,1450,249,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Rugar Ori,HA,7.813575,9.532467,40,10,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Koyi A,SSA,7.806916,9.526737,309,55,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Kushe Pada,HA,7.803949,9.520423,1600,275,grid,9
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Rugar Lamdi,HA,7.799048,9.50688,1389,239,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_16,HA,7.856231,9.67963,294,52,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Atara,HA,7.849195,9.684723,390,69,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Rugar Madaki,HA,7.846432,9.670609,407,71,grid,9
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_4,HA,7.914976,9.580661,6,6,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Gudu,HA,7.337845,9.501899,396,69,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Besaya,HA,7.346357,9.504805,123,22,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Wuse,HA,7.353415,9.516513,109,20,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugar Alhaji Isa,HA,7.346204,9.518515,73,15,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_5,HA,7.338252,9.517221,124,22,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_8,HA,7.33318,9.525509,72,15,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugar Acha,HA,7.329987,9.533659,39,10,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_10,HA,7.329106,9.538366,111,20,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Pana,HA,7.337981,9.546368,1084,187,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Unguwar Yayan'na,SSA,7.338433,9.555953,107,20,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugar Jafaru,HA,7.349594,9.566039,49,12,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugar Anaruwa,HA,7.356737,9.565506,141,25,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Latiko,HA,7.356207,9.571756,674,117,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Ife,HA,7.368733,9.560629,1299,224,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Dumale,HA,7.330119,9.55911,932,161,grid,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_5,HA,7.259229,9.340987,695,27,grid - Intensification,9
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Kpechi B,HA,7.230938,9.484312,496,88,grid,9
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugar Alhaji Chiroma,HA,7.458457,9.594754,355,64,grid,9
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,Unguwar Bisallah,SSA,7.71589,9.490901,45,6,grid - Intensification,10
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,Rugar Wakili,HA,7.721859,9.486814,139,25,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_22,HA,7.456364,9.590279,157,30,grid,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_10,HA,7.769678,9.450468,290,13,grid - Intensification,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_36,HA,7.300828,9.373002,264,13,grid - Intensification,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Rugar Alh. Joro,HA,7.327559,9.37539,100,19,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Marafa Kadna,HA,7.349573,9.523248,165,32,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Makarfi Unguwar Daudu,HA,7.45934,9.583632,214,39,grid,10
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Ungwar Madaki Kukok,SSA,7.838309,9.363999,161,31,grid,10
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Rugar Babalami Kukui,HA,7.850124,9.374888,92,18,grid,10
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Ungwar Ruwa Iche Bisa,HA,7.864645,9.362986,526,92,grid,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Unguwar Algaita,HA,7.759264,9.536295,482,85,grid,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Unguwar Adukwa,SSA,7.767004,9.542011,180,35,grid,10
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_13,HA,7.87626,9.631583,116,21,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_11,HA,7.291297,9.352012,169,33,grid,10
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_3,HA,7.793007,9.281007,231,42,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Makarfi Makaranta,SSA,7.462905,9.575495,173,34,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Guduwa,SSA,7.273795,9.397152,147,27,grid,10
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,Unguwar Sunday,HA,7.726873,9.572776,51,12,grid,10
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Gidan Egoh,SSA,7.73544,9.594014,72,15,grid,10
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Kada B,HA,7.748623,9.614396,219,40,grid,10
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_9,HA,7.748265,9.629317,13,7,grid,10
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Kada A,HA,7.795877,9.617114,446,78,grid,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Goran Dutse,SSA,7.675136,9.389173,167,33,grid,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Rugar Maikurari,HA,7.678797,9.387917,108,20,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_3,HA,7.376862,9.486453,119,22,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Makarfin Sarki,HA,7.469054,9.576196,230,42,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Unguwar Makeri,HA,7.316633,9.46747,106,20,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_20,HA,7.295969,9.336149,274,48,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Unguwar Rimi,HA,7.441035,9.570775,209,11,grid - Intensification,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Saleh,HA,7.589812,9.534125,229,41,grid,10
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_18,HA,7.902582,9.596515,842,34,grid - Intensification,10
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,HA_3,HA,7.851577,9.422195,16,7,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_16,HA,7.408723,9.562011,98,19,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_21,HA,7.405718,9.575021,276,48,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_20,HA,7.394109,9.576291,292,52,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_17,HA,7.392867,9.569229,159,31,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_19,HA,7.388313,9.571692,265,47,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Alhaji Jaafaru,SSA,7.343068,9.483278,70,15,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Kuchikau,HA,7.347767,9.483449,416,73,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_9,HA,7.323958,9.537888,146,27,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Kutako,HA,7.312853,9.526063,453,80,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Gss Quarter,HA,7.691091,9.484798,365,16,grid - Intensification,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Igwa,HA,7.295297,9.380156,841,34,grid - Intensification,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_22,HA,7.298593,9.388712,61,13,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_39,HA,7.2909,9.401204,206,38,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Tabau,HA,7.298045,9.414295,383,68,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugar Maube,HA,7.318949,9.562486,330,60,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Lawal,HA,7.678975,9.474396,192,36,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugar Abdullahi,HA,7.306212,9.492658,123,22,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugar Shuaibu,HA,7.298618,9.496215,143,26,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugar Reku,SSA,7.293774,9.489376,47,11,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugar Gambo,HA,7.288676,9.491581,101,19,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Unguwar Damisa,HA,7.270857,9.502034,380,67,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Kaji,HA,7.262558,9.500731,232,42,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Unguwan Kuraina,SSA,7.211749,9.422018,77,16,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugan Kunkuru,SSA,7.352382,9.527959,108,20,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Dan Agaji,HA,7.682785,9.523682,204,38,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,SSA_3,SSA,7.345122,9.478755,78,16,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_6,HA,7.423828,9.493653,4329,157,grid - Intensification,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Alhaji Bawa,HA,7.446763,9.553568,301,54,grid,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Dakuma,HA,7.675003,9.383518,209,39,grid,10
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_21,HA,7.903711,9.321637,215,40,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Yalwa,HA,7.484798,9.586479,95,18,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Baushe,HA,7.491888,9.577594,437,77,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Yetti,HA,7.445346,9.585732,166,33,grid,10
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Rugar Kaduna Basau,HA,7.843965,9.357928,89,17,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_13,HA,7.344932,9.548538,128,23,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_23,HA,7.349212,9.546585,93,18,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_14,HA,7.35531,9.54677,43,11,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugar Dabo,HA,7.353043,9.5408,161,31,grid,10
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_20,HA,7.87924,9.628819,37,10,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_29,HA,7.254447,9.424614,144,26,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_27,HA,7.263935,9.423942,10,6,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Rugar Wakili Ibrahim,SSA,7.274898,9.43362,142,26,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Rugar Hardo Tambaya,SSA,7.280676,9.435462,83,17,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Kpomo,HA,7.286581,9.442267,555,97,grid,10
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Rugar Likital,HA,7.884203,9.49165,94,18,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_6,HA,7.351556,9.343285,129,23,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,SSA_34,SSA,7.351481,9.338519,61,13,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Kuse,HA,7.569813,9.496288,830,34,grid - Intensification,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_25,HA,7.570931,9.490424,31,6,grid - Intensification,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_23,HA,7.565079,9.492307,38,6,grid - Intensification,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Ardo Musa,HA,7.55797,9.490143,161,31,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Janare,HA,7.55253,9.486279,149,28,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,SSA_13,SSA,7.544468,9.48888,49,12,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_22,HA,7.544531,9.491651,94,18,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Kuba,HA,7.531456,9.489548,304,54,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Yaul,HA,7.576084,9.486319,180,35,grid,10
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,Rugar Baba Wuro,SSA,7.721099,9.537164,68,14,grid,10
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,Rugar Shadari,SSA,7.723214,9.527531,53,12,grid,10
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,Kago,SSA,7.715084,9.525274,161,31,grid,10
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,Gidan Sarkin Kago,SSA,7.714055,9.526863,71,15,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Dankarami,HA,7.564423,9.47267,550,96,grid,10
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,Rugar Hardo Ya'U,HA,7.729174,9.526512,197,37,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Kubo,HA,7.661787,9.424037,363,65,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_31,HA,7.583014,9.511936,51,12,grid,10
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_27,HA,7.882294,9.652338,76,16,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_20,HA,7.666514,9.484264,53,12,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Libi,HA,7.654908,9.475616,80,16,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Mai Riga,SSA,7.658472,9.47146,41,11,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rahama Kadenyu,HA,7.654139,9.465116,116,21,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Kadenyu,HA,7.648487,9.458636,164,32,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_47,HA,7.683977,9.568958,37,10,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_38,HA,7.67184,9.57359,58,13,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_44,HA,7.669894,9.565181,27,9,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Iddo,HA,7.664676,9.563738,222,40,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Ardo Ibrahim,HA,7.658298,9.560116,265,47,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Bello,HA,7.660586,9.551136,31,9,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Kohoto 2,HA,7.659402,9.547045,116,21,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Wakili,HA,7.655678,9.53884,144,26,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Sale Sabon Gida,HA,7.633076,9.522609,533,93,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Ardo Mai Gauri,HA,7.67478,9.530081,94,18,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Abdulhamid,HA,7.668102,9.521841,237,43,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Wakili,HA,7.556639,9.466351,140,25,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Tudun Wada Barayi,SSA,7.552564,9.466496,138,25,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_3,HA,7.268509,9.339107,134,9,grid - Intensification,10
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Rugar Abdulkadir,HA,7.805629,9.452532,126,9,grid - Intensification,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_9,HA,7.548844,9.457211,132,23,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_8,HA,7.526612,9.448533,203,38,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_6,HA,7.519347,9.447477,173,34,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_5,HA,7.523774,9.441201,6,6,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Kuyeri,SSA,7.549804,9.399898,120,22,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_3,HA,7.549698,9.382432,167,33,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Iddu,HA,7.535713,9.382459,191,36,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Rago,HA,7.532801,9.386239,138,25,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Isu,HA,7.502848,9.382756,96,18,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Jedna,HA,7.479535,9.359829,735,128,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Pmape,HA,7.465244,9.362716,1083,186,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_11,HA,7.66727,9.462818,87,17,grid,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_30,HA,7.670381,9.456098,34,10,grid,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Rugar Alhaji Auta,HA,7.665299,9.444527,173,34,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Gidan Dodo,SSA,7.322412,9.567876,80,16,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Gwari Kwa,HA,7.524586,9.526858,590,22,grid - Intensification,10
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Sabon Gari Kabara,HA,7.819749,9.457705,97,19,grid,10
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_17,HA,7.813115,9.473414,173,34,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_1,HA,7.550975,9.376883,47,11,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_1,HA,7.331541,9.465641,115,21,grid,10
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_6,HA,7.867316,9.291351,42,11,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_41,HA,7.659832,9.583002,70,15,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_56,HA,7.658311,9.592041,66,14,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Kuchimi,HA,7.672404,9.594628,372,66,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Hassan,HA,7.672856,9.589028,62,14,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_7,HA,7.382333,9.52536,1194,45,grid - Intensification,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Alhaji Idris,HA,7.513692,9.523825,62,7,grid - Intensification,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Malam Haruna Mai Gemu,HA,7.510415,9.522943,402,70,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_30,HA,7.672622,9.511303,37,10,grid,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_24,HA,7.769308,9.443461,48,6,grid - Intensification,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Rugar Alhaji Husseini,HA,7.765168,9.434477,54,12,grid,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_16,HA,7.76089,9.429716,60,13,grid,10
+Kaduna,KD,Kurmin Jibrin,KD1109,Kagarko,19011,HA_2,HA,7.937316,9.446481,73,15,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_25,HA,7.348793,9.424465,483,19,grid - Intensification,10
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Rugar Mallam Idi,HA,7.818601,9.393277,2,5,grid - Intensification,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Kakuchi,HA,7.557839,9.450016,126,23,grid,10
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_1,HA,7.799109,9.2754,44,11,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Layafan,HA,7.380757,9.475354,718,28,grid - Intensification,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Abdullahi Sabon Gida,SSA,7.629689,9.536541,36,10,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Sabon Gida,HA,7.625058,9.55229,207,38,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_36,HA,7.612767,9.545253,2,5,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Dakko,HA,7.603058,9.550273,224,41,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_37,HA,7.607986,9.557263,45,11,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_43,HA,7.602958,9.561871,69,15,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Abdullahi Gurara,HA,7.581799,9.569498,215,40,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Gidan Sani,HA,7.574309,9.559511,180,35,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_40,HA,7.606968,9.570848,102,19,grid,10
+Kaduna,KD,Kurmin Jibrin,KD1109,Kagarko,19011,Rugar Adamu Salisu,HA,7.940308,9.487378,49,12,grid,10
+Kaduna,KD,Kurmin Jibrin,KD1109,Kagarko,19011,Rugar Jolly (Shadalafiya),HA,7.882871,9.404828,28,6,grid - Intensification,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_26,HA,7.453644,9.550856,40,10,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,SSA_10,SSA,7.458469,9.551009,70,15,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_22,HA,7.4658,9.545397,149,28,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Daneji,HA,7.641473,9.433843,86,17,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Gidan Turaki,HA,7.635728,9.439984,142,26,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_4,HA,7.637351,9.410216,173,34,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,SSA_5,SSA,7.631645,9.408127,71,15,grid,10
+Kaduna,KD,Kurmin Jibrin,KD1109,Kagarko,19011,Rugar Musa (Kerker),HA,7.945775,9.404999,20,8,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Kasiri,HA,7.525903,9.520031,444,18,grid - Intensification,10
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Rugar Yakubu Buba,HA,7.840289,9.481101,47,11,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_13,HA,7.534027,9.51242,125,22,grid,10
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_25,HA,7.84379,9.644168,160,31,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Apoluko,SSA,7.261635,9.34945,177,10,grid - Intensification,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_35,HA,7.253506,9.360999,110,20,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_12,HA,7.241387,9.360352,122,22,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_29,HA,7.624525,9.504351,50,12,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Ardo Garba,HA,7.624846,9.499588,16,7,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_24,HA,7.628499,9.490075,57,13,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_21,HA,7.626175,9.48585,100,19,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rigar Lolo,SSA,7.354281,9.483339,50,12,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_28,HA,7.611464,9.50114,231,42,grid,10
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_3,HA,7.908673,9.558329,78,16,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_5,HA,7.449687,9.492401,63,14,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Jatau,HA,7.45609,9.489144,66,14,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_8,HA,7.460814,9.493766,98,19,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_21,HA,7.474309,9.550021,139,9,grid - Intensification,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Lawan Kasiri,HA,7.51628,9.513865,120,22,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Yati Isyaku,HA,7.506056,9.505786,116,21,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Alhaji Baba Chinka,HA,7.494755,9.503782,124,22,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Unguwar Mai Chibi,HA,7.490049,9.495688,62,14,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Kpakulu,SSA,7.492143,9.489305,80,16,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Alhaji Burti,HA,7.501156,9.493802,111,20,grid,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Rugar Bitaro,HA,7.815698,9.515775,85,17,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_2,HA,7.252955,9.332868,286,13,grid - Intensification,10
+Kaduna,KD,Kurmin Jibrin,KD1109,Kagarko,19011,Rugar Yelwa (Sabon Gida),HA,7.929758,9.410132,80,16,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_18,HA,7.376965,9.556395,77,16,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Abubakar,HA,7.542153,9.542316,211,39,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Takalafia,HA,7.689793,9.600262,100,19,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_46,HA,7.687621,9.609242,71,15,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Sakatare,HA,7.522364,9.506973,69,15,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_48,HA,7.640373,9.57298,27,9,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_52,HA,7.635997,9.576953,149,28,grid,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_17,HA,7.818761,9.501651,82,16,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_26,HA,7.595465,9.498828,15,7,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_17,HA,7.599967,9.480154,69,15,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Kalanga,HA,7.607443,9.462768,106,20,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Yahaya Jibrin,HA,7.608582,9.44583,301,54,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,Rugar Kadade,HA,7.588999,9.461255,146,27,grid,10
+Kaduna,KD,Kurmin Jibrin,KD1109,Kagarko,19011,Rugar Kawu (Shadalafiya),HA,7.901902,9.411472,16,5,grid - Intensification,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Barbaji,HA,7.55464,9.50373,35,10,grid,10
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,Rugar Umar Koro,HA,7.913267,9.587982,145,9,grid - Intensification,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_31,HA,7.340603,9.430467,151,9,grid - Intensification,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Rugar Mai Gogo,HA,7.768493,9.524474,67,14,grid,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Rugar Kankwa,HA,7.776273,9.525699,41,11,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_23,HA,7.530938,9.557134,212,39,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_18,HA,7.639277,9.480625,93,18,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,SSA_12,SSA,7.284593,9.458195,106,20,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Hassan Rijana Chinka,HA,7.489892,9.509639,54,12,grid,10
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,Ungwar Sarkin Chigwa,SSA,7.819157,9.368745,133,9,grid - Intensification,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_28,HA,7.534218,9.568977,22,8,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Wakili Kufana,HA,7.540353,9.57251,84,17,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_33,HA,7.658623,9.522037,30,9,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_32,HA,7.651656,9.517336,44,11,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_11,HA,7.497409,9.518647,77,16,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Issah Gludna,SSA,7.462281,9.519805,118,21,grid,10
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_14,HA,7.75486,9.644694,62,14,grid,10
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,HA_1,HA,7.737379,9.512208,8,6,grid,10
+Kaduna,KD,Kagarko North,KD1105,Kagarko,19011,HA_4,HA,7.739989,9.507271,64,14,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Mallam Ruwa,HA,7.48853,9.535298,438,18,grid - Intensification,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_15,HA,7.322575,9.547411,52,12,grid,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_14,HA,7.637824,9.475657,2,5,grid,10
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Ungwan Alhaji Boye,HA,7.8571,9.440663,46,11,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_12,HA,7.410837,9.543431,70,7,grid - Intensification,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugan Haruna,HA,7.404728,9.542528,166,10,grid - Intensification,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,HA_11,HA,7.403233,9.546757,42,11,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Rugar Usman Namata,SSA,7.216646,9.442987,71,15,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_17,HA,7.451155,9.54013,44,11,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,Gidan Gidna,HA,7.468224,9.410259,244,44,grid,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,Dakuma,SSA,7.679982,9.366856,51,12,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugar Sale,SSA,7.383737,9.531546,84,7,grid - Intensification,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugar Kwano,SSA,7.391169,9.532418,40,10,grid,10
+Kaduna,KD,Katugal,KD1107,Kagarko,19011,Rugar Kawo,HA,7.866078,9.403712,27,6,grid - Intensification,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_22,HA,7.750698,9.441418,6,6,grid,10
+Kaduna,KD,Iddah,KD1102,Kagarko,19011,HA_7,HA,7.278577,9.34322,84,7,grid - Intensification,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Alhaji Gagarau,HA,7.391795,9.469452,44,11,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Sale Bello,HA,7.508883,9.541431,104,8,grid - Intensification,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Musa Gurdel,HA,7.518262,9.565536,43,11,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_18,HA,7.51659,9.539875,66,7,grid - Intensification,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_4,HA,7.431199,9.478393,23,8,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,SSA_6,SSA,7.449711,9.46429,95,18,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,HA_3,HA,7.452595,9.465625,8,6,grid,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_34,HA,7.837981,9.553528,24,8,grid,10
+Kaduna,KD,Jere South,KD1104,Kagarko,19011,Rugar Habu,HA,7.405876,9.533399,141,9,grid - Intensification,10
+Kaduna,KD,Aribi,KD1101,Kagarko,19011,HA_1,HA,7.865026,9.524823,19,7,grid,10
+Kaduna,KD,Kushe,KD1110,Kagarko,19011,HA_15,HA,7.706032,9.429216,6,6,grid,10
+Kaduna,KD,Jere North,KD1103,Kagarko,19011,Rugar Alhaji Aduka,HA,7.395022,9.482695,130,9,grid - Intensification,10
+Kaduna,KD,Kagarko South,KD1106,Kagarko,19011,HA_42,HA,7.619802,9.585508,16,7,mini-grid,NA
+Kaduna,KD,Kukuyi,KD1108,Kagarko,19011,HA_25,HA,7.88025,9.340965,6,6,mini-grid,NA

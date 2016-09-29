@@ -1,0 +1,20 @@
+State,Statecode,Ward,Wardcode,Lga,Lgacode,Name,Type,X,Y,Population,Target.Household.Count,Recommended.Access.Categories,DecileByHH
+Kaduna,KD,Kawo,KD0905,Kaduna North,19009,Vahana Crescent,BUA,7.452196,10.59322,2911,91,grid - Intensification,3
+Kaduna,KD,Hayin Banki,KD0903,Kaduna North,19009,Unguwar Kanawa,BUA,7.44236,10.555175,7221,220,grid - Intensification,3
+Kaduna,KD,Kabala,KD0904,Kaduna North,19009,Kabala,BUA,7.448977,10.504538,38081,1144,grid - Intensification,3
+Kaduna,KD,Sardauna,KD0907,Kaduna North,19009,Sardauna,BUA,7.426195,10.50853,10222,310,grid - Intensification,3
+Kaduna,KD,Dadi Riba,KD0902,Kaduna North,19009,Dadi Riba,BUA,7.431964,10.504801,16752,505,grid - Intensification,3
+Kaduna,KD,Maiburiji,KD0906,Kaduna North,19009,Maiburiji,BUA,7.426098,10.517355,12175,368,grid - Intensification,3
+Kaduna,KD,Hayin Banki,KD0903,Kaduna North,19009,Sule Close,BUA,7.438103,10.577341,23901,719,grid - Intensification,3
+Kaduna,KD,Kawo,KD0905,Kaduna North,19009,Sabon Kawo,BUA,7.457785,10.580079,47148,1415,grid - Intensification,3
+Kaduna,KD,Unguwar Shanu,KD0912,Kaduna North,19009,Unguwar Shanu,BUA,7.430193,10.545184,27756,835,grid - Intensification,4
+Kaduna,KD,Badarawa,KD0901,Kaduna North,19009,Badarawa,BUA,7.466193,10.55892,74461,2233,grid - Intensification,4
+Kaduna,KD,Hayin Banki,KD0903,Kaduna North,19009,Fda Quaters,BUA,7.418334,10.584062,3357,104,grid - Intensification,4
+Kaduna,KD,Unguwan Dosa,KD0909,Kaduna North,19009,Unguwan Dosa,BUA,7.455018,10.568244,30374,913,grid - Intensification,4
+Kaduna,KD,Shaba,KD0908,Kaduna North,19009,Shaba,BUA,7.437199,10.521172,10376,314,grid - Intensification,4
+Kaduna,KD,Unguwar Rimi,KD0910,Kaduna North,19009,Unguwar Rimi,BUA,7.461188,10.532527,43214,1297,grid - Intensification,4
+Kaduna,KD,Unguwar Sarki,KD0911,Kaduna North,19009,Unguwar Sarki,BUA,7.447204,10.541175,18242,550,grid - Intensification,4
+Kaduna,KD,Kawo,KD0905,Kaduna North,19009,Dalet Barracks Camp A,BUA,7.455582,10.589336,133,7,grid - Intensification,4
+Kaduna,KD,Kawo,KD0905,Kaduna North,19009,Sabon Layi Ndc,BUA,7.456001,10.599711,306,12,grid - Intensification,4
+Kaduna,KD,Hayin Banki,KD0903,Kaduna North,19009,Nasfat,BUA,7.430702,10.578919,303,12,grid - Intensification,5
+Kaduna,KD,Hayin Banki,KD0903,Kaduna North,19009,202 Bissalla Barracks,BUA,7.432438,10.563196,9,5,grid - Intensification,5

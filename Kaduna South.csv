@@ -1,0 +1,15 @@
+State,Statecode,Ward,Wardcode,Lga,Lgacode,Name,Type,X,Y,Population,Target.Household.Count,Recommended.Access.Categories,DecileByHH
+Kaduna,KD,Barnawa,KD1002,Kaduna South,19010,Jama'A Road,BUA,7.433474,10.46399,38033,1142,grid - Intensification,3
+Kaduna,KD,Makera,KD1005,Kaduna South,19010,Railway Line,BUA,7.410062,10.479551,30103,905,grid - Intensification,3
+Kaduna,KD,Tudun Nupawa,KD1008,Kaduna South,19010,Tudun Nupawa,BUA,7.418847,10.516276,25944,780,grid - Intensification,3
+Kaduna,KD,Sabon Gari South,KD1007,Kaduna South,19010,Sabon Gari South,BUA,7.405742,10.519697,29519,887,grid - Intensification,3
+Kaduna,KD,Badiko,KD1001,Kaduna South,19010,Badiko,BUA,7.414812,10.543963,34575,1039,grid - Intensification,3
+Kaduna,KD,Tudun Wada West,KD1011,Kaduna South,19010,Sabon Gari West,BUA,7.392861,10.498039,49624,1490,grid - Intensification,3
+Kaduna,KD,Tudun Wada North,KD1009,Kaduna South,19010,Tundun Wada North,BUA,7.414007,10.51247,13339,403,grid - Intensification,4
+Kaduna,KD,Unguwan Sanusi,KD1013,Kaduna South,19010,Unguwan Sanusi,BUA,7.415491,10.52621,22181,668,grid - Intensification,4
+Kaduna,KD,Sabon Gari North,KD1006,Kaduna South,19010,Sabon Gari North,BUA,7.400818,10.512639,33488,1006,grid - Intensification,4
+Kaduna,KD,Tudun Wada South,KD1010,Kaduna South,19010,Tundun Wada South,BUA,7.404668,10.498243,42663,1281,grid - Intensification,4
+Kaduna,KD,Kakuri Hausa,KD1004,Kaduna South,19010,Kakuri Hausa,BUA,7.41909,10.470931,14717,444,grid - Intensification,4
+Kaduna,KD,Television,KD1012,Kaduna South,19010,Television,BUA,7.426375,10.447156,27876,838,grid - Intensification,4
+Kaduna,KD,Kakuri Gwari,KD1003,Kaduna South,19010,Unguwan Wakili,BUA,7.40114,10.451779,3169,99,grid - Intensification,4
+Kaduna,KD,Kakuri Gwari,KD1003,Kaduna South,19010,Kakuri Gwari,BUA,7.412206,10.459938,5165,159,grid - Intensification,5

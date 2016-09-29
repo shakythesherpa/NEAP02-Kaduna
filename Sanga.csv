@@ -1,0 +1,446 @@
+State,Statecode,Ward,Wardcode,Lga,Lgacode,Name,Type,X,Y,Population,Target.Household.Count,Recommended.Access.Categories,DecileByHH
+Kaduna,KD,Gwantu,KD2005,Sanga,19020,Rugan Ardo Ahmadu,HA,8.447839,9.234331,26,6,grid - Intensification,3
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Unguwar Hausawa Mayir,BUA,8.595533,9.241928,3729,136,grid - Intensification,3
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Atili,HA,8.595287,9.206321,458,19,grid - Intensification,3
+Kaduna,KD,Gwantu,KD2005,Sanga,19020,Gwantu,BUA,8.457758,9.228929,16727,600,grid - Intensification,4
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Kobin,HA,8.517013,9.287029,1038,179,grid,4
+Kaduna,KD,Aboro,KD2001,Sanga,19020,Unguwan Mallam Musa,BUA,8.570211,9.445988,1633,280,grid,4
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Fatu,HA,8.604855,9.185077,787,136,grid,4
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Ungwar Rimi,HA,8.485088,9.266703,1245,214,grid,4
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,Amar Dogo,HA,8.522232,9.130954,770,31,grid - Intensification,4
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Numbu Gaza,HA,8.439172,9.213241,1097,42,grid - Intensification,4
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Sabon Gari,BUA,8.583776,9.379295,19308,692,grid - Intensification,4
+Kaduna,KD,Bokana,KD2004,Sanga,19020,Ungwan Dariya,HA,8.547312,9.312313,837,145,grid,4
+Kaduna,KD,Bokana,KD2004,Sanga,19020,Bokana,BUA,8.606531,9.347224,13507,485,grid - Intensification,4
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Kona Tigon,HA,8.594233,9.273522,700,122,grid,4
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Tigon 1,HA,8.59531,9.253207,2432,90,grid - Intensification,4
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Hayin Gada,HA,8.598482,9.230208,538,94,grid,4
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,Gbaida,HA,8.510096,9.196853,486,86,grid,4
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Wambe,HA,8.497799,9.280299,1452,249,grid,4
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Agas,HA,8.612273,9.287198,4358,158,grid - Intensification,4
+Kaduna,KD,Aboro,KD2001,Sanga,19020,Number 6,HA,8.565934,9.437851,3351,572,grid,4
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,Unguwar Galadima,HA,8.528915,9.152233,2267,84,grid - Intensification,4
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,Amar Jatau,HA,8.517547,9.106567,636,24,grid - Intensification,4
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Unguwar Kogi,HA,8.431162,9.173408,1691,64,grid - Intensification,4
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Kurmin Goro Titi,SSA,8.547583,9.479452,374,66,grid,4
+Kaduna,KD,Karshi,KD2006,Sanga,19020,HA_5,HA,8.543736,9.482501,233,42,grid,4
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Ungwan Elisha,HA,8.609211,9.176772,247,12,grid - Intensification,5
+Kaduna,KD,Gwantu,KD2005,Sanga,19020,Unguwan Jatau,HA,8.475126,9.258858,336,15,grid - Intensification,5
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Ungwar Gambo,HA,8.508178,9.283159,173,34,grid,5
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Unguwan Ibrahim,HA,8.48796,9.204463,1575,60,grid - Intensification,5
+Kaduna,KD,Aboro,KD2001,Sanga,19020,Unguwan Mada Ajangwai,HA,8.564621,9.474447,2826,103,grid - Intensification,5
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Unguwar Makama A,HA,8.411798,9.154861,2377,88,grid - Intensification,5
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Mahanga,HA,8.578701,9.365538,348,63,grid,5
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,Rugar Ardo,HA,8.52895,9.174523,110,20,grid,5
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Amben 1,SSA,8.620773,9.160129,164,10,grid - Intensification,5
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Dagam,HA,8.468472,9.212879,1933,71,grid - Intensification,5
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_15,HA,8.596866,9.216174,167,10,grid - Intensification,5
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Anben2,HA,8.624398,9.152083,382,67,grid,5
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_4,HA,8.629604,9.143382,1755,301,grid,5
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Unguwar Muhammadu,SSA,8.573997,9.413089,141,25,grid,5
+Kaduna,KD,Karshi,KD2006,Sanga,19020,HA_1,HA,8.579779,9.373481,610,23,grid - Intensification,5
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Numbu Dakaci,HA,8.448413,9.220272,271,13,grid - Intensification,5
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,Rugar Sanda,HA,8.53008,9.181284,417,73,grid,5
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Burti Randa,HA,8.504368,9.118943,138,25,grid,5
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Unguwar Makama B,HA,8.498687,9.12024,3172,542,grid,5
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Ankara,HA,8.513682,9.209337,1440,247,grid,5
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Agamati,SSA,8.612332,9.167444,298,14,grid - Intensification,5
+Kaduna,KD,Bokana,KD2004,Sanga,19020,Ungwan Mada,HA,8.549669,9.322654,1017,39,grid - Intensification,6
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,HA_3,HA,8.51814,9.112471,118,21,grid,6
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Rugar Mohamadu Saidu,HA,8.538075,9.292033,1578,271,grid,6
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Gimi Titi,HA,8.558041,9.479244,514,20,grid - Intensification,6
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Rugar Sodangi,HA,8.593317,9.37586,1117,42,grid - Intensification,6
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Rugar Kawule,HA,8.522612,9.294153,177,34,grid,6
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Ningon Kibiya,HA,8.513386,9.275095,570,99,grid,6
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Ningon Adug,HA,8.506562,9.266719,618,108,grid,6
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Rugar Haleru,HA,8.499759,9.267267,720,125,grid,6
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_6,HA,8.632511,9.159218,560,98,grid,7
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_5,HA,8.639749,9.158139,462,81,grid,7
+Kaduna,KD,Nandu,KD2007,Sanga,19020,HA_6,HA,8.480492,9.210142,21,5,grid - Intensification,7
+Kaduna,KD,Bokana,KD2004,Sanga,19020,"Wambahago Both Sides""""""""""""""""",HA,8.602148,9.358909,270,13,grid - Intensification,7
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Sabon Layi,HA,8.540183,9.466032,1190,205,grid,7
+Kaduna,KD,Gwantu,KD2005,Sanga,19020,HA_2,HA,8.464948,9.221456,313,14,grid - Intensification,7
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_11,HA,8.618004,9.187002,43,11,grid,7
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_12,HA,8.628172,9.190081,1068,184,grid,7
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_14,HA,8.624302,9.203322,904,156,grid,7
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Ungwan Sabo,HA,8.592206,9.242648,454,18,grid - Intensification,7
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Ungwan Rimi,HA,8.583768,9.244932,402,17,grid - Intensification,7
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Tudun Wada,HA,8.579028,9.243537,1495,257,grid,7
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Unguwan Bera,HA,8.565652,9.420383,369,66,grid,8
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Unguwan Goma,HA,8.556242,9.418256,255,45,grid,8
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Zac Zawan,SSA,8.546802,9.41826,156,30,grid,8
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Sabon Gida,BUA,8.539922,9.417578,2670,457,grid,8
+Kaduna,KD,Nandu,KD2007,Sanga,19020,HA_7,HA,8.531121,9.28824,255,45,grid,8
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,Amuyaja,HA,8.516581,9.141605,1475,56,grid - Intensification,8
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Sabon Zawan,HA,8.554703,9.458823,454,80,grid,8
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Rugar Dagaci Yakubu,HA,8.524729,9.286636,167,33,grid,8
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Numbu Bashayi,HA,8.428653,9.205615,1317,49,grid - Intensification,8
+Kaduna,KD,Nandu,KD2007,Sanga,19020,HA_4,HA,8.419047,9.206534,38,10,grid,8
+Kaduna,KD,Nandu,KD2007,Sanga,19020,HA_5,HA,8.420529,9.211421,47,11,grid,8
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Ruga Usman,HA,8.42494,9.21781,16,7,grid,8
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Ruga Audu,HA,8.415975,9.221818,47,11,grid,8
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Gani Sarki,HA,8.408378,9.226914,857,149,grid,8
+Kaduna,KD,Arak,KD2002,Sanga,19020,Gbanzu,HA,8.401714,9.22764,596,104,grid,8
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Agmom,HA,8.400345,9.21344,920,159,grid,8
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Ungwan Gimba,HA,8.57713,9.233585,265,47,grid,8
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Ungwan Mamman,SSA,8.575437,9.225088,174,34,grid,8
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Rugar Alhaji Abdullahi,HA,8.569385,9.221963,761,132,grid,8
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,HA_4,HA,8.496236,9.179017,454,80,grid,8
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,HA_4,HA,8.493177,9.177168,565,98,grid,8
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,HA_5,HA,8.414939,9.177882,26,8,grid,8
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Rugan Dakachi Ali,HA,8.413652,9.186275,94,18,grid,8
+Kaduna,KD,Nandu,KD2007,Sanga,19020,HA_1,HA,8.397123,9.194098,93,18,grid,8
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Gwaska,SSA,8.387143,9.200397,106,20,grid,8
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Goge,HA,8.372998,9.194943,373,66,grid,8
+Kaduna,KD,Arak,KD2002,Sanga,19020,HA_8,HA,8.366062,9.207516,84,17,grid,8
+Kaduna,KD,Arak,KD2002,Sanga,19020,Rugar Umaru,HA,8.362036,9.210277,302,54,grid,8
+Kaduna,KD,Arak,KD2002,Sanga,19020,Essen,HA,8.35326,9.22513,897,155,grid,8
+Kaduna,KD,Arak,KD2002,Sanga,19020,"Rugar Ya,U",HA,8.36307,9.230242,73,15,grid,8
+Kaduna,KD,Arak,KD2002,Sanga,19020,Gbonkok,HA,8.372241,9.226887,1490,256,grid,8
+Kaduna,KD,Arak,KD2002,Sanga,19020,Tsauni Majindadi,HA,8.382967,9.232988,447,79,grid,8
+Kaduna,KD,Arak,KD2002,Sanga,19020,Tsauni Kulere,HA,8.378198,9.246805,1926,330,grid,8
+Kaduna,KD,Arak,KD2002,Sanga,19020,HA_14,HA,8.343075,9.234156,335,61,grid,8
+Kaduna,KD,Arak,KD2002,Sanga,19020,Langa,SSA,8.339925,9.231271,298,53,grid,8
+Kaduna,KD,Arak,KD2002,Sanga,19020,Karkashi,HA,8.337739,9.228911,1022,177,grid,8
+Kaduna,KD,Arak,KD2002,Sanga,19020,Forest,SSA,8.328084,9.231313,84,17,grid,8
+Kaduna,KD,Arak,KD2002,Sanga,19020,Unguwa Yerima,HA,8.323108,9.239144,521,91,grid,8
+Kaduna,KD,Arak,KD2002,Sanga,19020,Unguwa Wambai,HA,8.310622,9.235188,737,128,grid,8
+Kaduna,KD,Arak,KD2002,Sanga,19020,Lambari,HA,8.332591,9.2409,487,86,grid,8
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_16,HA,8.624224,9.222282,632,110,grid,8
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Ungwar Ubandoma,HA,8.563389,9.218879,555,97,grid,8
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Hayin Dam,SSA,8.535418,9.415197,214,39,grid,8
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Kurmin Goro Daji,HA,8.526117,9.428678,1195,206,grid,8
+Kaduna,KD,Bokana,KD2004,Sanga,19020,Rugar Alhaji Hantsi,HA,8.611565,9.353041,159,10,grid - Intensification,8
+Kaduna,KD,Bokana,KD2004,Sanga,19020,Rugar Amantu A,HA,8.626697,9.357819,578,101,grid,8
+Kaduna,KD,Karshi,KD2006,Sanga,19020,HA_7,HA,8.515046,9.429235,79,16,grid,8
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Rugar Alhaji Manu,HA,8.511927,9.426348,33,9,grid,8
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Rugar Alhaji Ori,HA,8.504138,9.415784,67,14,grid,8
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Gindiri Gimi A,HA,8.492264,9.422827,55,13,grid,8
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Rugar Alhaji Dare,HA,8.475566,9.42551,35,10,grid,8
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Dogon Daji,BUA,8.470377,9.417963,2555,437,grid,8
+Kaduna,KD,Bokana,KD2004,Sanga,19020,Unguwar Primary School Mai Samari,HA,8.636567,9.358373,414,72,grid,8
+Kaduna,KD,Aboro,KD2001,Sanga,19020,Rugan Abdullahi,HA,8.637454,9.373659,55,13,grid,8
+Kaduna,KD,Aboro,KD2001,Sanga,19020,HA_3,HA,8.644279,9.37757,30,9,grid,8
+Kaduna,KD,Aboro,KD2001,Sanga,19020,Kutal Kassa,HA,8.649281,9.376599,774,134,grid,8
+Kaduna,KD,Aboro,KD2001,Sanga,19020,Chichak,HA,8.657991,9.365671,1067,184,grid,8
+Kaduna,KD,Aboro,KD2001,Sanga,19020,Rugan Abdul,HA,8.66482,9.372306,280,49,grid,8
+Kaduna,KD,Gwantu,KD2005,Sanga,19020,Rugar Ibrahim,HA,8.477146,9.245099,26,6,grid - Intensification,8
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Ruga Ori,HA,8.483782,9.24313,6,6,grid,8
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Pogari,HA,8.487459,9.246647,143,26,grid,8
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Ngbok,HA,8.492128,9.239024,634,111,grid,8
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Unguwar Sarki,HA,8.49535,9.22967,631,110,grid,8
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_19,HA,8.59083,9.263115,133,24,grid,8
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Rugar Alhaji Tukur,HA,8.583334,9.263616,469,83,grid,8
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Rugan Balawest,SSA,8.580528,9.272071,103,19,grid,8
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_24,HA,8.577837,9.270998,188,36,grid,8
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_29,HA,8.581078,9.280186,48,12,grid,8
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_30,HA,8.576105,9.280659,309,55,grid,8
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Rugan Idun,HA,8.587848,9.284383,248,44,grid,8
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_34,HA,8.590525,9.291194,161,31,grid,8
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_33,HA,8.596086,9.28895,367,65,grid,8
+Kaduna,KD,Bokana,KD2004,Sanga,19020,Sansani B,HA,8.564646,9.347423,646,24,grid - Intensification,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Unguwar Galadima,HA,8.344124,9.202885,373,66,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,SSA_2,SSA,8.344207,9.193524,141,25,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,HA_4,HA,8.331768,9.190565,974,168,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,HA_5,HA,8.323426,9.198385,62,14,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Ankolo,HA,8.31468,9.207295,614,107,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,HA_6,HA,8.296507,9.201352,1153,199,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,SSA_7,SSA,8.301656,9.186314,190,36,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,HA_3,HA,8.307905,9.181113,735,128,grid,9
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,Amutokungbo,HA,8.528251,9.147076,1674,63,grid - Intensification,9
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Rugar Usman,HA,8.540603,9.284325,189,36,grid,9
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Unguwar Shaibu,HA,8.545668,9.280626,217,40,grid,9
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Gimi Dogara,HA,8.508093,9.429912,520,91,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Ruga Bature,HA,8.237929,9.232402,128,23,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,SSA_11,SSA,8.226749,9.230366,116,21,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Hayin Gada,HA,8.226051,9.228355,692,120,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,HA_13,HA,8.237309,9.22221,72,15,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Nimbe,HA,8.243696,9.215331,282,50,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Unguwa Duhu,HA,8.262068,9.217063,757,131,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,HA_9,HA,8.234712,9.207348,24,8,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Ruga Idris Zakari,HA,8.239438,9.201908,42,11,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Ruga Dankade,HA,8.250832,9.202296,101,19,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Unguwa Maikyau B,SSA,8.253331,9.199098,93,18,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,HA_1,HA,8.262826,9.18569,1222,210,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,HA_11,HA,8.226861,9.211335,44,11,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Ruga Wakili,SSA,8.222535,9.211066,55,13,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,HA_10,HA,8.21848,9.215775,96,18,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Unguwa Yaute,HA,8.213239,9.20812,505,89,grid,9
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwan Pah A,HA,8.194836,9.20029,222,40,grid,9
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwar Pah B,HA,8.195438,9.19232,205,38,grid,9
+Kaduna,KD,Wasa,KD2011,Sanga,19020,HA_13,HA,8.189572,9.186712,109,20,grid,9
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Rugar Barguma,HA,8.176078,9.182056,466,82,grid,9
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwan Hausawa,BUA,8.168874,9.183824,7309,1245,grid,9
+Kaduna,KD,Gwantu,KD2005,Sanga,19020,Rugan Shaibu,HA,8.465668,9.256913,171,10,grid - Intensification,9
+Kaduna,KD,Gwantu,KD2005,Sanga,19020,Rugam Alhaji Waje,HA,8.463,9.277542,10,6,grid,9
+Kaduna,KD,Gwantu,KD2005,Sanga,19020,Rugan Yusuf Isah,HA,8.462506,9.281808,31,9,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Rugar Aliyu Muhammad,HA,8.453538,9.287678,75,15,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Aban,HA,8.440465,9.289872,1066,184,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Unguwar Galadima Azankok,SSA,8.43674,9.290337,297,53,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Bwatok,SSA,8.436432,9.291662,236,42,grid,9
+Kaduna,KD,Gwantu,KD2005,Sanga,19020,Unguwar Ganye,HA,8.471367,9.285409,306,55,grid,9
+Kaduna,KD,Gwantu,KD2005,Sanga,19020,Rugan Ya`U,HA,8.457799,9.276678,55,13,grid,9
+Kaduna,KD,Gwantu,KD2005,Sanga,19020,Rugan Shagari,HA,8.436873,9.266307,88,17,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,HA_17,HA,8.428184,9.256681,57,13,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Rugar Ataka Yobe,HA,8.417359,9.257362,115,21,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Unguwar Giginya,HA,8.41745,9.251362,1001,173,grid,9
+Kaduna,KD,Gwantu,KD2005,Sanga,19020,Unguwar Maikasa,HA,8.413973,9.265581,550,96,grid,9
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Gani Madaki,HA,8.412481,9.279131,464,82,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Gbagaba,HA,8.411312,9.294853,403,70,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Rugar Lolo,HA,8.400534,9.309944,183,35,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Rugar Doka,HA,8.399074,9.327929,1163,201,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Ambe Madaki,HA,8.416376,9.331518,598,104,grid,9
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Rugar Yakubu,HA,8.396417,9.279294,69,15,grid,9
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Akwa,SSA,8.38441,9.278977,84,17,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Unguwan Madaki,HA,8.364123,9.285028,528,92,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Unguwan Makama,HA,8.362389,9.273166,1232,212,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Sabon Gari,HA,8.257997,9.242722,160,31,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Unguwa Magaji B,HA,8.265492,9.242077,304,54,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Unguwa Magaji A,HA,8.272221,9.240262,282,50,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Unguwa Wakili Mada,HA,8.277186,9.231593,360,64,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,HA_16,HA,8.28257,9.245053,104,20,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Ankwa,HA,8.292245,9.243277,1029,178,grid,9
+Kaduna,KD,Aboro,KD2001,Sanga,19020,Unguwar Amben,HA,8.633239,9.378308,253,45,grid,9
+Kaduna,KD,Karshi,KD2006,Sanga,19020,SSA_1,SSA,8.536077,9.413738,87,17,grid,9
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Takwa,HA,8.232966,9.194252,376,67,grid,9
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Godo,HA,8.437787,9.159006,374,66,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,HA_7,HA,8.283437,9.20356,723,125,grid,9
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,HA_6,HA,8.471141,9.194917,47,11,grid,9
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Unguwan Bako,HA,8.46335,9.17731,687,119,grid,9
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Unguwar Waziri,HA,8.460421,9.17054,347,62,grid,9
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Nihan,SSA,8.456675,9.151772,99,19,grid,9
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Anagbuja,HA,8.449684,9.140992,909,157,grid,9
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Akuyar,HA,8.440066,9.136473,791,137,grid,9
+Kaduna,KD,Karshi,KD2006,Sanga,19020,HA_4,HA,8.538517,9.411114,233,42,grid,9
+Kaduna,KD,Aboro,KD2001,Sanga,19020,Unguwar Idi,HA,8.633308,9.383503,621,108,grid,9
+Kaduna,KD,Bokana,KD2004,Sanga,19020,HA_6,HA,8.555354,9.341511,62,7,grid - Intensification,9
+Kaduna,KD,Bokana,KD2004,Sanga,19020,Ayu Seminary,HA,8.54199,9.341693,409,71,grid,9
+Kaduna,KD,Bokana,KD2004,Sanga,19020,HA_5,HA,8.532315,9.343611,74,15,grid,9
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Unguwar Gindiri,HA,8.519277,9.357934,492,87,grid,9
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Unguwar Bouchi,HA,8.51353,9.378347,357,64,grid,9
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Unguwar Pah 2,SSA,8.494296,9.369843,371,66,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Unguwar Turawa,HA,8.470836,9.359293,126,23,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Rugar Madaki,HA,8.468986,9.346143,131,23,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Gobir,HA,8.454852,9.344731,522,92,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Nkarbuk,HA,8.448186,9.340304,1075,185,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Karkuwa,HA,8.4438,9.354874,922,159,grid,9
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Ungwan Kako,SSA,8.558246,9.217011,260,46,grid,9
+Kaduna,KD,Bokana,KD2004,Sanga,19020,SSA_4,SSA,8.530284,9.340801,32,9,grid,9
+Kaduna,KD,Bokana,KD2004,Sanga,19020,Mantur,HA,8.525863,9.336359,749,130,grid,9
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Ruga Saleh,HA,8.444158,9.221877,846,34,grid - Intensification,9
+Kaduna,KD,Gwantu,KD2005,Sanga,19020,Gwantu Dakaci,HA,8.457872,9.241131,1532,58,grid - Intensification,9
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Landa,HA,8.506814,9.085717,522,20,grid - Intensification,9
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,Unguwa Abeku,HA,8.520647,9.07452,123,22,grid,9
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,HA_1,HA,8.535521,9.080263,125,22,grid,9
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,Jigban Chamba,HA,8.546245,9.060645,2556,437,grid,9
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,Ragga Badugu,HA,8.548744,9.042968,172,33,grid,9
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,Unguwan Ninyu,HA,8.543018,9.030732,435,76,grid,9
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,Rugan Alhaji Ahmadu,HA,8.52741,9.039476,69,15,grid,9
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,Ragga Gari,HA,8.522633,9.027235,1487,256,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Azandundu,HA,8.455887,9.297161,485,86,grid,9
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Ruga Jaye,HA,8.417573,9.202149,102,19,grid,9
+Kaduna,KD,Bokana,KD2004,Sanga,19020,Rugar Ardo Abdulrahaman Yau,HA,8.614866,9.306411,828,34,grid - Intensification,9
+Kaduna,KD,Karshi,KD2006,Sanga,19020,HA_3,HA,8.466673,9.404478,26,8,grid,9
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Unguwan Ganye B,HA,8.484355,9.391315,578,101,grid,9
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Unguwan Ganye A,HA,8.496416,9.392739,463,81,grid,9
+Kaduna,KD,Bokana,KD2004,Sanga,19020,HA_1,HA,8.621496,9.308575,81,7,grid - Intensification,9
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_37,HA,8.627365,9.30183,322,14,grid - Intensification,9
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Arau,HA,8.635402,9.302165,240,43,grid,9
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_36,HA,8.629626,9.296436,66,7,grid - Intensification,9
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_35,HA,8.624029,9.286888,225,12,grid - Intensification,9
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_28,HA,8.631187,9.27722,99,19,grid,9
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_31,HA,8.641291,9.287004,162,31,grid,9
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_26,HA,8.646724,9.280546,296,53,grid,9
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_27,HA,8.663395,9.279371,1055,182,grid,9
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_25,HA,8.6252,9.270556,77,16,grid,9
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Rugan Shongyel,HA,8.62887,9.261968,417,73,grid,9
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_20,HA,8.633957,9.263494,135,24,grid,9
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Digel,HA,8.640302,9.258226,280,49,grid,9
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Fulani Yanmayu,HA,8.634713,9.26803,133,24,grid,9
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Fulani Agas,HA,8.617228,9.276216,212,39,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Rugar Alhaji Amadu,HA,8.301114,9.25624,124,22,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Rugar Musa,HA,8.297638,9.265219,120,22,grid,9
+Kaduna,KD,Arak,KD2002,Sanga,19020,Rugan Koroso,HA,8.295277,9.274421,162,31,grid,9
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Rugan Alhaji Isah,HA,8.57546,9.407428,78,7,grid - Intensification,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Rugar Shuaibu,HA,8.544376,9.402962,95,18,grid,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,HA_2,HA,8.540231,9.401013,58,13,grid,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Ankirin,SSA,8.535626,9.384395,102,19,grid,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Rugan Umaru,HA,8.540665,9.378392,205,38,grid,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Kpong Kpong,HA,8.542649,9.365329,591,103,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwar Yaskwa,HA,8.155865,9.22264,95,18,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwar Idah,HA,8.152392,9.202784,178,34,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwar Jirgi,HA,8.144882,9.203785,422,74,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwar Akawu,SSA,8.141667,9.199329,66,14,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwan Sabo,HA,8.122553,9.198607,44,11,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,SSA_14,SSA,8.110866,9.199003,137,24,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,SSA_16,SSA,8.109551,9.200622,78,16,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,HA_14,HA,8.096959,9.21401,387,68,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,HA_17,HA,8.115802,9.221994,1205,207,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_18,HA,8.620108,9.252697,120,22,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_17,HA,8.615336,9.245301,125,22,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Alheri Kampani,HA,8.612028,9.237468,301,54,grid,10
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,Amar Lada,HA,8.547074,9.091032,556,97,grid,10
+Kaduna,KD,Bokana,KD2004,Sanga,19020,Rugan Amanta B,HA,8.640511,9.348833,52,12,grid,10
+Kaduna,KD,Bokana,KD2004,Sanga,19020,HA_8,HA,8.65044,9.347327,50,12,grid,10
+Kaduna,KD,Aboro,KD2001,Sanga,19020,Unguwar Rumbu,HA,8.66111,9.343661,451,79,grid,10
+Kaduna,KD,Bokana,KD2004,Sanga,19020,Fadan Ayu B,HA,8.561912,9.336031,1287,47,grid - Intensification,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,C and D,HA,8.538354,9.449721,284,50,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Ungwan Dauda,SSA,8.556726,9.216673,187,36,grid,10
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,Amar Konkri,HA,8.561235,9.084222,462,81,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Rugan Alh Kanti,HA,8.179945,9.174719,88,17,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwan Duhu,HA,8.185611,9.163013,404,71,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwar Abu,SSA,8.191983,9.15647,260,46,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Rugar Chiroma,HA,8.199325,9.170019,56,13,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Rugar Saleh,SSA,8.202612,9.175609,40,10,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Anji Sarki,HA,8.211289,9.181372,390,69,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Rugar Ardo,SSA,8.206229,9.167152,85,17,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Gidan Danfaro,SSA,8.214314,9.15844,84,17,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwan Anche,HA,8.217127,9.132948,383,68,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Rugan Gongola,HA,8.200689,9.131825,322,58,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Rugan Bello,HA,8.192795,9.121936,195,37,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwar Muslimi,HA,8.177502,9.127949,647,113,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Rugan Bauchi,HA,8.176985,9.113531,277,49,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwan Jacob,HA,8.174642,9.112994,136,24,grid,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Hayin Gada,HA,8.577511,9.389156,1130,43,grid - Intensification,10
+Kaduna,KD,Arak,KD2002,Sanga,19020,SSA_12,SSA,8.467015,9.309263,240,43,grid,10
+Kaduna,KD,Arak,KD2002,Sanga,19020,SSA_14,SSA,8.466149,9.310975,92,18,grid,10
+Kaduna,KD,Arak,KD2002,Sanga,19020,Sanga A,SSA,8.461018,9.313019,221,40,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Gwaska,HA,8.205674,9.117302,838,145,grid,10
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,HA_4,HA,8.517731,9.118986,28,6,grid - Intensification,10
+Kaduna,KD,Arak,KD2002,Sanga,19020,Wali,HA,8.298036,9.218462,286,51,grid,10
+Kaduna,KD,Arak,KD2002,Sanga,19020,Rugar Sule Bello,HA,8.340807,9.208562,113,21,grid,10
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,HA_2,HA,8.574356,9.0847,200,37,grid,10
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,Amar Maikaho,HA,8.576146,9.093699,176,34,grid,10
+Kaduna,KD,Aboro,KD2001,Sanga,19020,HA_6,HA,8.627327,9.396092,67,14,grid,10
+Kaduna,KD,Aboro,KD2001,Sanga,19020,HA_4,HA,8.613755,9.395028,73,15,grid,10
+Kaduna,KD,Aboro,KD2001,Sanga,19020,Rugan Fada,HA,8.60245,9.396658,528,92,grid,10
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,Rugar Wada,HA,8.534774,9.171443,104,20,grid,10
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,Rugan Gambo,HA,8.576733,9.103108,40,10,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_1,HA,8.597364,9.098423,114,21,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Angwai,HA,8.599256,9.107276,229,41,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Babur,HA,8.595604,9.127393,266,47,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_3,HA,8.588553,9.13399,177,34,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Bure,SSA,8.590597,9.135974,66,14,grid,10
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,Gbatar,HA,8.584662,9.131163,274,48,grid,10
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,Tele,HA,8.58051,9.133117,421,74,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Tattara,HA,8.12069,9.179528,427,75,grid,10
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Rugar Umaru,HA,8.471996,9.144313,16,7,grid,10
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Unguwar Biyu,HA,8.480103,9.128565,27,9,grid,10
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Rimi,HA,8.478851,9.120672,641,112,grid,10
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Langalanga,HA,8.484913,9.146303,69,15,grid,10
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Gbuila B,HA,8.481442,9.153664,135,24,grid,10
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Gbuila A,HA,8.480128,9.159481,292,52,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Rugan Bala,SSA,8.206059,9.113596,92,18,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,HA_19,HA,8.214253,9.111567,150,28,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwan Dadi,SSA,8.206183,9.103278,78,16,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,HA_15,HA,8.19676,9.082771,30,9,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Rugar Nanaye,HA,8.189913,9.083919,63,14,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Rugar Ilu,HA,8.183584,9.081398,519,91,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwan Lamba,HA,8.187769,9.068431,245,44,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,SSA_17,SSA,8.19474,9.059688,150,28,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,HA_5,HA,8.179866,9.049517,309,55,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Mudi,SSA,8.238846,9.182534,158,30,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Pantinya B,SSA,8.10874,9.171027,165,32,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwan Ishaya,HA,8.103318,9.175138,83,17,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwar Hosea,SSA,8.112022,9.164925,135,24,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Unguwan Jamage,HA,8.164617,9.066102,205,38,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,HA_2,HA,8.154925,9.045896,209,39,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Indama,SSA,8.138992,9.048576,164,32,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,HA_10,HA,8.128535,9.058513,123,22,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,HA_7,HA,8.119309,9.06225,116,21,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Rugar Alhaji Sule,SSA,8.131523,9.08079,91,18,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Wuro Andaha,HA,8.115515,9.10274,870,151,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Rafin Soja,HA,8.145664,9.094212,316,57,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_21,HA,8.568527,9.258237,207,38,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_13,HA,8.599907,9.208243,196,11,grid - Intensification,10
+Kaduna,KD,Arak,KD2002,Sanga,19020,Janda Gboyi,SSA,8.309019,9.269932,100,19,grid,10
+Kaduna,KD,Arak,KD2002,Sanga,19020,Janda,SSA,8.325459,9.285122,364,65,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,HA_11,HA,8.122675,9.154462,95,18,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Wuro Sarki,SSA,8.113528,9.148289,164,32,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Awuro Sarki,SSA,8.111,9.146168,103,19,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,HA_1,HA,8.10976,9.045213,73,15,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,HA_6,HA,8.101684,9.05214,200,37,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,HA_3,HA,8.098672,9.044268,586,102,grid,10
+Kaduna,KD,Aboro,KD2001,Sanga,19020,Rugar Abubakar Abdu,HA,8.610331,9.424074,108,20,grid,10
+Kaduna,KD,Aboro,KD2001,Sanga,19020,Aboro Daji,SSA,8.614638,9.423796,67,14,grid,10
+Kaduna,KD,Aboro,KD2001,Sanga,19020,Rugar Idi Musa,HA,8.615617,9.425013,159,31,grid,10
+Kaduna,KD,Aboro,KD2001,Sanga,19020,Rugar Mato,HA,8.577479,9.448191,161,31,grid,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Rugar Anthony,HA,8.509471,9.436586,35,10,grid,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Rugan Sale,HA,8.519771,9.440687,81,16,grid,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Doromiye B,SSA,8.517739,9.444675,113,21,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Rugar Alhaji Barkono,HA,8.586404,9.227631,129,23,grid,10
+Kaduna,KD,Arak,KD2002,Sanga,19020,Unguwar Shanu,SSA,8.497386,9.353688,180,35,grid,10
+Kaduna,KD,Arak,KD2002,Sanga,19020,HA_15,HA,8.423331,9.245549,101,19,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Ahar Kofai,SSA,8.228878,9.1276,99,19,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Rugan Bukolo,HA,8.230715,9.124235,31,9,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Rugan Adamu,HA,8.237,9.124387,86,17,grid,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Unguwar Malle,HA,8.505474,9.466144,137,9,grid - Intensification,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Rugan Ishaku,HA,8.516825,9.469405,157,30,grid,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Unguwan Maigoro,SSA,8.493996,9.454863,93,18,grid,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,SSA_3,SSA,8.494209,9.453935,101,19,grid,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Rugan Manu,HA,8.490423,9.451828,32,9,grid,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Unguwan Tella,HA,8.492139,9.439279,139,25,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,HA_12,HA,8.093659,9.155125,194,37,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_7,HA,8.604603,9.163569,783,32,grid - Intensification,10
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,HA_6,HA,8.544904,9.205881,142,26,grid,10
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,Ninche,SSA,8.537536,9.204479,97,19,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,Aanka,SSA,8.6001,9.159238,182,10,grid - Intensification,10
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,Gbombar,SSA,8.577717,9.163501,63,14,grid,10
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,Dorowa,HA,8.571463,9.169033,212,39,grid,10
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,Amugbanche,SSA,8.567331,9.170531,99,19,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_2,HA,8.617731,9.11262,159,31,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,HA_4,HA,8.085773,9.048182,89,17,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,SSA_1,SSA,8.081711,9.054269,78,16,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,SSA_3,SSA,8.081397,9.056897,77,16,grid,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Bom A,HA,8.515829,9.482776,509,20,grid - Intensification,10
+Kaduna,KD,Aboro,KD2001,Sanga,19020,HA_8,HA,8.586098,9.460156,119,22,grid,10
+Kaduna,KD,Aboro,KD2001,Sanga,19020,Rugar Abdullahi,HA,8.58207,9.471956,30,9,grid,10
+Kaduna,KD,Aboro,KD2001,Sanga,19020,Gongoro Daji,HA,8.586987,9.48805,165,32,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,HA_8,HA,8.075848,9.063234,250,44,grid,10
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,HA_5,HA,8.518326,9.178737,45,11,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Miski A,HA,8.173381,9.202111,134,24,grid,10
+Kaduna,KD,Arak,KD2002,Sanga,19020,HA_19,HA,8.389498,9.327384,88,17,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_23,HA,8.663939,9.268909,79,16,grid,10
+Kaduna,KD,Bokana,KD2004,Sanga,19020,HA_2,HA,8.603621,9.31897,74,7,grid - Intensification,10
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,Ungwan Gogo,HA,8.567779,9.141113,181,35,grid,10
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Rugar Saidu,HA,8.478529,9.302037,36,10,grid,10
+Kaduna,KD,Nandu,KD2007,Sanga,19020,HA_8,HA,8.483436,9.301052,98,19,grid,10
+Kaduna,KD,Nandu,KD2007,Sanga,19020,HA_3,HA,8.428337,9.19551,73,15,grid,10
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,Kwassi Titi,HA,8.514897,9.163827,119,22,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_8,HA,8.617842,9.1668,207,11,grid - Intensification,10
+Kaduna,KD,Aboro,KD2001,Sanga,19020,HA_5,HA,8.5828,9.443754,27,9,grid,10
+Kaduna,KD,Aboro,KD2001,Sanga,19020,HA_2,HA,8.663442,9.347639,12,6,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_10,HA,8.625009,9.176717,24,8,grid,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_9,HA,8.634645,9.175189,105,20,grid,10
+Kaduna,KD,Bokana,KD2004,Sanga,19020,HA_3,HA,8.529402,9.324531,55,13,grid,10
+Kaduna,KD,Bokana,KD2004,Sanga,19020,Rugar Wakili Mantur,HA,8.534897,9.323996,125,22,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Jangabas,HA,8.068294,9.073905,136,24,grid,10
+Kaduna,KD,Bokana,KD2004,Sanga,19020,HA_4,HA,8.569519,9.33812,364,16,grid - Intensification,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Agore,HA,8.0803,9.078655,112,21,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Tudun Wada,HA,8.095457,9.075259,208,39,grid,10
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,Rugan Alhaji Mohammadu,SSA,8.559206,9.042947,68,14,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Ahar,HA,8.170807,9.167904,60,13,grid,10
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Ankpong,HA,8.488035,9.219618,472,19,grid - Intensification,10
+Kaduna,KD,Ayu,KD2003,Sanga,19020,HA_32,HA,8.675083,9.285757,74,15,grid,10
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,HA_1,HA,8.561187,9.121416,125,22,grid,10
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,HA_2,HA,8.551869,9.123606,49,12,grid,10
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Unguwar Bako,HA,8.493361,9.066182,155,29,grid,10
+Kaduna,KD,Ninzo South,KD2009,Sanga,19020,Unguwa Mada,HA,8.502336,9.050444,141,25,grid,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Kwagiri,SSA,8.580072,9.369554,147,9,grid - Intensification,10
+Kaduna,KD,Arak,KD2002,Sanga,19020,HA_2,HA,8.282841,9.18595,95,18,grid,10
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,Amuyakonche,HA,8.53463,9.145947,322,14,grid - Intensification,10
+Kaduna,KD,Arak,KD2002,Sanga,19020,Rugar Magaji,HA,8.392667,9.245127,70,15,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Rugar Waziri,HA,8.234147,9.16045,88,17,grid,10
+Kaduna,KD,Nandu,KD2007,Sanga,19020,Rugar Abubakar,HA,8.514759,9.312503,78,16,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,HA_9,HA,8.068976,9.102587,93,18,grid,10
+Kaduna,KD,Wasa,KD2011,Sanga,19020,Pau Inzeh,HA,8.075178,9.117199,79,16,grid,10
+Kaduna,KD,Bokana,KD2004,Sanga,19020,Rugar Wakili Ayu Seminary,HA,8.552142,9.33144,106,8,grid - Intensification,10
+Kaduna,KD,Ninzo North,KD2008,Sanga,19020,HA_3,HA,8.534866,9.162429,193,11,grid - Intensification,10
+Kaduna,KD,Gwantu,KD2005,Sanga,19020,Zange A,HA,8.472624,9.230935,195,11,grid - Intensification,10
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,HA_1,HA,8.480851,9.066095,14,7,grid,10
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,Unguwar Gwanda,HA,8.508316,9.130948,52,6,grid - Intensification,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Rugan Bature,HA,8.569253,9.390464,143,9,grid - Intensification,10
+Kaduna,KD,Karshi,KD2006,Sanga,19020,Rugan Burti,HA,8.584879,9.366391,30,6,grid - Intensification,10
+Kaduna,KD,Gwantu,KD2005,Sanga,19020,Rugan Abubakar,HA,8.450295,9.246687,53,6,grid - Intensification,10
+Kaduna,KD,Gwantu,KD2005,Sanga,19020,Rugan Wada,HA,8.455033,9.251007,119,8,grid - Intensification,10
+Kaduna,KD,Ninzo West,KD2010,Sanga,19020,HA_3,HA,8.404442,9.157751,53,6,grid - Intensification,10

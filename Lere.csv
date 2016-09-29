@@ -1,0 +1,1045 @@
+State,Statecode,Ward,Wardcode,Lga,Lgacode,Name,Type,X,Y,Population,Target.Household.Count,Recommended.Access.Categories,DecileByHH
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_50,HA,8.742177,10.342258,18,5,grid - Intensification,3
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Rugan Fulani,HA,8.618152,10.522907,69,7,grid - Intensification,3
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_9,HA,8.74285,10.317813,73,7,grid - Intensification,3
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_21,HA,8.528866,10.516204,36,6,grid - Intensification,3
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_11,HA,8.455868,10.233245,60,7,grid - Intensification,3
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugan Ibrahim,HA,8.68527,10.381144,50,6,grid - Intensification,3
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_18,HA,8.607442,10.537497,30,6,grid - Intensification,3
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Unguwan Kura,HA,8.680597,10.470157,2337,400,grid,3
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Kan Iyaka,HA,8.78161,10.293257,928,160,grid,3
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Tashar Yango,HA,8.67095,10.564229,2034,348,grid,4
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Hayin Gwanyo Arewa,HA,8.571484,10.157385,538,94,grid,4
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Jan Kanwa,BUA,8.659042,10.59781,5857,211,grid - Intensification,4
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Unguwan Gareji,BUA,8.596791,10.482357,3348,122,grid - Intensification,4
+Kaduna,KD,Saminaka,KD1711,Lere,19017,Saminaka,BUA,8.676105,10.420193,58668,2096,grid - Intensification,4
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Sabon Birnin,BUA,8.655526,10.440972,24351,872,grid - Intensification,4
+Kaduna,KD,Saminaka,KD1711,Lere,19017,Kwaftara Yamma,HA,8.659943,10.39945,2200,377,grid,4
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Surtawa,BUA,8.554163,10.486565,5277,191,grid - Intensification,4
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Dan Alhaji,BUA,8.693343,10.52976,14205,510,grid - Intensification,4
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Unguwan Sarki Ibrahim Bakin Kasuwa,BUA,8.696009,10.399217,17787,637,grid - Intensification,4
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Sarki Street Tabo Tabo,HA,8.663622,10.570372,1851,317,grid,4
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Jaja,HA,8.663714,10.449924,1636,62,grid - Intensification,4
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Kwanar Narbi,HA,8.701478,10.501903,309,55,grid,4
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Mai Gamo,BUA,8.379099,10.688145,4585,166,grid - Intensification,4
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_15,HA,8.696278,10.524984,175,10,grid - Intensification,4
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Konan Bauda Arewa,HA,8.731436,10.33591,3612,132,grid - Intensification,4
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Kahuta,BUA,8.598012,10.496743,9441,340,grid - Intensification,4
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Unguwar Sarki,BUA,8.558644,10.274895,6194,224,grid - Intensification,4
+Kaduna,KD,Saminaka,KD1711,Lere,19017,Unguwar Kura,HA,8.655494,10.407535,135,24,grid,4
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Unguwan Sarki Nadabo,BUA,8.645395,10.621977,9421,339,grid - Intensification,4
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Dogon Daji North,HA,8.548764,10.307059,1162,44,grid - Intensification,4
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Kauye,SSA,8.663865,10.524283,83,17,grid,4
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_34,HA,8.554106,10.096599,344,62,grid,4
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Kwarin Mahauta,BUA,8.547656,10.277346,9163,330,grid - Intensification,4
+Kaduna,KD,Lere,KD1708,Lere,19017,Kwamma,BUA,8.573871,10.386265,12376,444,grid - Intensification,4
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Garu Mariri,BUA,8.526918,10.02962,12879,462,grid - Intensification,4
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Kaware,HA,8.429085,10.34295,1428,54,grid - Intensification,4
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Unguwan Kauchi,HA,8.628002,10.411968,883,153,grid,4
+Kaduna,KD,Lere,KD1708,Lere,19017,Hayin Maje,BUA,8.56275,10.36551,3747,136,grid - Intensification,4
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Farfaru,HA,8.636726,10.456448,1207,45,grid - Intensification,4
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Gurza 1,HA,8.548228,10.087561,584,22,grid - Intensification,5
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Kero,HA,8.594507,10.156391,1326,49,grid - Intensification,5
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Wuroko Sarki Salisu,HA,8.587211,10.483481,809,33,grid - Intensification,5
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Fadama,BUA,8.385451,10.323645,7238,261,grid - Intensification,5
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Nifana,HA,8.379801,10.335093,5659,964,grid,5
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Yambita,HA,8.633641,10.458387,1066,41,grid - Intensification,5
+Kaduna,KD,Lere,KD1708,Lere,19017,Unguwar Joshua,HA,8.55794,10.342248,653,114,grid,5
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Unguwar Sarki Ibrahim,BUA,8.568078,10.265531,2962,109,grid - Intensification,5
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Nata'Ala,BUA,8.57901,10.17027,7601,274,grid - Intensification,5
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Konar Luka,SSA,8.53223,10.492762,125,22,grid,5
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Morris,HA,8.563509,10.113657,282,50,grid,5
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Ragwan Kurama,HA,8.503428,10.274121,131,23,grid,5
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Sabon Birnin Kudu,BUA,8.645485,10.451005,2157,80,grid - Intensification,5
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Federe Cikin Gida,HA,8.754554,10.324194,3032,111,grid - Intensification,5
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Kuzodo,SSA,8.523461,10.505905,230,12,grid - Intensification,5
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_21,HA,8.565761,10.26942,239,12,grid - Intensification,5
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_15,HA,8.535336,10.04149,427,18,grid - Intensification,5
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Lowcost,HA,8.64144,10.422493,921,37,grid - Intensification,5
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Kakum,BUA,8.617535,10.537706,6225,225,grid - Intensification,5
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Dingawa,HA,8.497605,10.308378,231,42,grid,5
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Kamfanin Fulani,HA,8.558103,10.482151,366,16,grid - Intensification,5
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Janji,HA,8.565524,10.127029,2594,95,grid - Intensification,5
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Abadawan Hausawa,HA,8.705107,10.38181,826,34,grid - Intensification,5
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Unguwar Hayatu North,HA,8.492476,10.515019,587,22,grid - Intensification,5
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Rugan Usman Hari,HA,8.49574,10.252768,526,92,grid,5
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Kargi,SSA,8.486806,10.319065,273,13,grid - Intensification,5
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Unguwar Amone,SSA,8.571842,10.480686,112,8,grid - Intensification,5
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Kwanar Bakoshi,HA,8.624368,10.468809,1250,46,grid - Intensification,5
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Ganji,SSA,8.745524,10.33069,64,7,grid - Intensification,5
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Maraba Damau,SSA,8.599649,10.38773,218,11,grid - Intensification,5
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Unguwan Tanki Malali,SSA,8.662593,10.462517,334,15,grid - Intensification,5
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Krosha East,SSA,8.704224,10.354896,136,9,grid - Intensification,5
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Dogon Daji South,HA,8.549367,10.302491,1120,42,grid - Intensification,5
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Tudun Fulani,SSA,8.704283,10.363535,257,12,grid - Intensification,5
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_2,HA,8.540837,10.281517,419,17,grid - Intensification,6
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Maraba Arande,SSA,8.557196,10.100506,126,23,grid,6
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_11,HA,8.580049,10.382684,575,22,grid - Intensification,6
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Unguwan Kosawa,SSA,8.598084,10.387208,108,8,grid - Intensification,6
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_3,HA,8.506216,10.276907,119,22,grid,6
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Bundu Dingi,HA,8.481674,10.229795,3514,128,grid - Intensification,6
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Ganji 1,SSA,8.743821,10.331674,124,9,grid - Intensification,6
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Gurza 2,HA,8.548985,10.070312,1260,47,grid - Intensification,6
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Unguwan Sda Amawa,HA,8.615904,10.402247,1339,230,grid,6
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Gurza,SSA,8.544633,10.066169,213,11,grid - Intensification,6
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_35,HA,8.53354,10.032469,245,12,grid - Intensification,6
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Krosha West,SSA,8.704483,10.352426,366,16,grid - Intensification,6
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Tudun Wada,HA,8.533959,10.048738,370,66,grid,6
+Kaduna,KD,Lere,KD1708,Lere,19017,Unguwar Iliya,BUA,8.537374,10.404311,2125,79,grid - Intensification,7
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_9,HA,8.595566,10.491789,135,9,grid - Intensification,7
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Nawayi,HA,8.540817,10.046111,275,48,grid,7
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Mayala,BUA,8.397415,10.326533,3015,111,grid - Intensification,7
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_5,HA,8.546229,10.294055,104,8,grid - Intensification,7
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Unguwan Sarki Mathias,HA,8.616795,10.475171,1344,50,grid - Intensification,7
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Hayin Maskawa,HA,8.677521,10.514857,2758,101,grid - Intensification,7
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_60,HA,8.583317,10.166551,280,13,grid - Intensification,7
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Sabon Fili,HA,8.770001,10.321518,472,83,grid,7
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Tashar Goji,SSA,8.658656,10.591219,138,9,grid - Intensification,7
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Luwuna North,HA,8.510597,10.292523,2573,94,grid - Intensification,7
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Unguwan Manga,HA,8.689917,10.368372,792,33,grid - Intensification,7
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Tashan Ittace,HA,8.57739,10.227712,458,80,grid,7
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Isa,HA,8.542425,10.039429,415,72,grid,7
+Kaduna,KD,Lere,KD1708,Lere,19017,Rugar Nanika,HA,8.5761,10.371998,94,8,grid - Intensification,7
+Kaduna,KD,Lere,KD1708,Lere,19017,Gamagira,HA,8.586754,10.364348,1423,244,grid,7
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Unguwan Babina,HA,8.747247,10.328361,276,13,grid - Intensification,7
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Rijiya,HA,8.68177,10.480919,878,152,grid,7
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Kamfanin Fulani,SSA,8.55956,10.481585,130,9,grid - Intensification,8
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Kofa,SSA,8.657433,10.525904,88,7,grid - Intensification,8
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Gabashi Unguwan Mato,HA,8.698072,10.496744,1551,266,grid,8
+Kaduna,KD,Saminaka,KD1711,Lere,19017,HA_3,HA,8.69304,10.430243,250,12,grid - Intensification,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Bio Kara,HA,8.69338,10.440059,794,138,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Amawa Blo Kara,HA,8.69969,10.443229,64,14,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Rafin Duhu Amawa,HA,8.70226,10.434129,619,108,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Rugan Kankau,HA,8.711625,10.444713,641,112,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Unguwan Rimi Hausawa,SSA,8.721903,10.45009,149,28,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Unguwan Rimi Kurama,HA,8.724144,10.452467,226,41,grid,8
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Unguwan Sarki Abubakar,HA,8.726401,10.460254,380,67,grid,8
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Unguwan Elisha,HA,8.72764,10.474154,826,143,grid,8
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Unguwan Mongoro,HA,8.731352,10.481041,142,26,grid,8
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Unguwan Sarki Liman,HA,8.741705,10.490386,2459,420,grid,8
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Sabon Gari Jiggu,HA,8.750661,10.485989,773,134,grid,8
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Maresu,HA,8.767543,10.477828,1875,321,grid,8
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Ardo Usman Ilu Gamji,HA,8.465828,10.341686,40,10,grid,8
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Jingir,HA,8.476422,10.349054,2391,409,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Zage Zage,SSA,8.684497,10.39906,187,10,grid - Intensification,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Bungaza,SSA,8.685472,10.398937,114,8,grid - Intensification,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Amawan Waila,HA,8.683741,10.392796,417,73,grid,8
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Jaja Tsakiya,HA,8.585095,10.231556,243,43,grid,8
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Kadirin Gabas,HA,8.590003,10.230581,231,42,grid,8
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Usman,HA,8.590074,10.22637,207,38,grid,8
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Rugan Malam Kabo,HA,8.497954,10.258478,78,16,grid,8
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Sabon Layi,HA,8.720128,10.337487,749,130,grid,8
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_3,HA,8.675362,10.481803,187,36,grid,8
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Sabon Layi,SSA,8.663218,10.481233,275,48,grid,8
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Unguwan Magaji,SSA,8.648619,10.479149,122,22,grid,8
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Unguwan Waziri,HA,8.648636,10.48405,1518,261,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_11,HA,8.751099,10.333127,18,5,grid - Intensification,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Rugan Dr Baba Gurjiya,HA,8.751975,10.345159,264,46,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Gurjiya,HA,8.755487,10.356554,846,147,grid,8
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Jan Kanwa,HA,8.66891,10.581873,355,64,grid,8
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Malali,SSA,8.662369,10.46364,441,18,grid - Intensification,8
+Kaduna,KD,Lere,KD1708,Lere,19017,Tudun Amawa,HA,8.55168,10.374749,317,57,grid,8
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Amawa,HA,8.602471,10.50152,50,6,grid - Intensification,8
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Rugan Bammi,HA,8.621055,10.505467,69,15,grid,8
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Galma,BUA,8.622432,10.501584,1318,227,grid,8
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Sabon Layi,HA,8.584062,10.195349,270,47,grid,8
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Unguwar Sarki,SSA,8.518204,10.508644,254,12,grid - Intensification,8
+Kaduna,KD,Lere,KD1708,Lere,19017,Gidan Kaji,HA,8.548988,10.392549,321,58,grid,8
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan John,HA,8.55133,10.052998,321,58,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Rugan Fulani Unguwan Rimi,HA,8.729692,10.452145,118,21,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Lagga 2,SSA,8.728461,10.442153,148,27,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Lagga Alaza,HA,8.729545,10.434905,173,34,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Lagga Akisa,HA,8.732507,10.424616,290,51,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Kayauri Hausawa,HA,8.738715,10.418939,266,47,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Kauran Domawa,SSA,8.750203,10.414461,222,40,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Domawa,BUA,8.753818,10.403805,1090,188,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Kanya,HA,8.750942,10.400421,159,31,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Fulanin Kanya,HA,8.747774,10.396157,130,23,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Sheni Amawa,HA,8.753802,10.386833,474,84,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_25,HA,8.743249,10.382839,74,15,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Kawuce,HA,8.738424,10.377262,1110,191,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Kawuce West,HA,8.729251,10.381464,204,38,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_19,HA,8.726422,10.384308,141,25,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Kunkurun Amawa,HA,8.729017,10.393598,203,38,grid,8
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Kunkurun Hausawa,HA,8.735743,10.392136,612,107,grid,8
+Kaduna,KD,Lere,KD1708,Lere,19017,Unguwar Kanawa,SSA,8.555601,10.336177,277,49,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_78,HA,8.387694,10.691377,375,16,grid - Intensification,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Babban Gida B,SSA,8.400775,10.691497,153,29,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Babban Gida A,SSA,8.401598,10.693282,162,31,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_80,HA,8.404791,10.692783,452,79,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Yadi,HA,8.417234,10.691295,682,119,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_25,HA,8.469333,10.362165,129,23,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_26,HA,8.478218,10.370621,42,11,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Unguwan Shawara,HA,8.487113,10.367513,1369,235,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_23,HA,8.497031,10.356549,49,12,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Dandore,HA,8.492187,10.349169,745,129,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Unguwan Pah Kurama,HA,8.476489,10.378671,393,69,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Unguwan Pah Hausawa,SSA,8.47567,10.382356,314,57,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Unguwan Mai Zuma,SSA,8.761448,10.404595,218,40,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Unguwan Wali,HA,8.762986,10.395902,108,20,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Marmara B,HA,8.771895,10.393993,517,91,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Marmara Hausawa,SSA,8.777061,10.397321,193,36,grid,9
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Rugan Dattiya,HA,8.735731,10.455572,167,33,grid,9
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Jarawa Fulani,HA,8.745009,10.454149,628,110,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Rugan Wakili Tukur,HA,8.463946,10.370105,109,20,grid,9
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Kafarifa,HA,8.452736,10.381286,551,96,grid,9
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_34,HA,8.448288,10.384475,6,6,grid,9
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Unguwar Bala,HA,8.45207,10.398521,1370,235,grid,9
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Rugar Nababa,HA,8.449116,10.409056,568,99,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_71,HA,8.579284,10.182152,183,10,grid - Intensification,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Magaji,HA,8.554606,10.120571,143,26,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_94,HA,8.552941,10.131453,130,23,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Rugan Uchara,HA,8.548231,10.138951,153,29,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_49,HA,8.540911,10.132846,137,24,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_53,HA,8.535904,10.137721,41,11,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwa Mato,HA,8.530333,10.133731,355,64,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_45,HA,8.522977,10.132108,24,8,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Urani,HA,8.523858,10.13907,510,90,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_99,HA,8.523165,10.14933,831,144,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwar Umar,SSA,8.514304,10.151572,315,57,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Isa Adamu,SSA,8.51305,10.150971,213,39,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Jibirin Adamu,SSA,8.513453,10.149456,251,45,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Musa Jibirin,HA,8.514879,10.145425,333,60,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Tasha Alumi,HA,8.532662,10.125872,462,81,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_59,HA,8.532892,10.118912,97,19,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Bulus,HA,8.535029,10.104616,526,92,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_67,HA,8.526796,10.117026,91,18,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Rugar Layya,HA,8.511889,10.114358,205,38,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Sarki Asha Awuche,HA,8.508769,10.1202,311,56,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Asha Awuche Amawa,HA,8.495027,10.115124,353,63,grid,9
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Babaluwa,HA,8.49153,10.252478,392,69,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Kauran Lazuru,SSA,8.682901,10.370131,401,17,grid - Intensification,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Limoro,HA,8.678567,10.3733,310,14,grid - Intensification,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Jamare,SSA,8.6752,10.369755,218,11,grid - Intensification,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Garman Amawa,HA,8.664892,10.363421,716,124,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Garma Fulani,HA,8.669136,10.35463,209,39,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Abuja Amale,SSA,8.67642,10.347901,49,12,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_42,HA,8.675668,10.338245,109,20,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Kauran Sarki,HA,8.681699,10.333081,466,82,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugan Boyi,HA,8.689144,10.341851,44,11,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Dutsan Goggo,HA,8.689605,10.350102,721,125,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Kauran Mission,HA,8.692929,10.336444,440,77,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_55,HA,8.655512,10.360803,52,12,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Karfe East,HA,8.651998,10.368954,449,79,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Wabban Hausawa,SSA,8.645236,10.355896,212,39,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_52,HA,8.644874,10.351802,35,10,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Uguwan Mai Gashi,SSA,8.650321,10.348992,186,35,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_46,HA,8.640498,10.345978,149,28,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_44,HA,8.639364,10.339649,206,38,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugar Mallam Shehu,HA,8.640034,10.329359,392,69,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Marmara,HA,8.647604,10.330532,340,61,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Amale,HA,8.649421,10.321065,203,38,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Kampani,HA,8.651534,10.310723,334,61,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Unguwar Audu Adamu,HA,8.639317,10.305948,3007,514,grid,9
+Kaduna,KD,Saminaka,KD1711,Lere,19017,Rugar Mauti Dotti,HA,8.675436,10.428426,740,30,grid - Intensification,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Rugan Alhaji Dattiya,HA,8.707014,10.400871,146,9,grid - Intensification,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Rugan Ja'e Zankana,HA,8.71733,10.404643,677,118,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_53,HA,8.349153,10.600259,69,15,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Yalwa Kurama,HA,8.359949,10.594917,385,68,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Yan Kaura,SSA,8.358318,10.582242,84,17,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Makansa,SSA,8.360336,10.57791,76,16,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Rumaiya,HA,8.36469,10.565949,2042,350,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_41,HA,8.376381,10.564353,95,18,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Majuwa,HA,8.374411,10.559306,182,35,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_39,HA,8.378225,10.552824,55,13,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Kargi,SSA,8.373038,10.544239,451,79,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Kakum Kasa,SSA,8.628546,10.525157,506,89,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Unguwan Kaya,HA,8.758639,10.319897,104,8,grid - Intensification,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Makera,HA,8.534676,10.07706,241,43,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Madoi,HA,8.518197,10.074112,700,122,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Wailan Hausawa,SSA,8.684487,10.388862,192,36,grid,9
+Kaduna,KD,Lere,KD1708,Lere,19017,Rugar Rilwan,HA,8.552153,10.332494,346,62,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Kadirin Tasha,HA,8.574852,10.206332,1670,63,grid - Intensification,9
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Suleja,HA,8.592047,10.388312,645,24,grid - Intensification,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rafin Gora,HA,8.561328,10.230073,498,88,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Tashan Dogara,HA,8.770069,10.307061,770,134,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Lagga Waziri,HA,8.723082,10.41372,186,35,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_23,HA,8.714455,10.419699,105,20,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Lagga 1,HA,8.711121,10.417848,293,52,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Sharhuna,SSA,8.706962,10.41352,184,35,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Lagga Ganye,HA,8.71886,10.425693,203,38,grid,9
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Hayin Yamma Sama,SSA,8.661528,10.464676,323,14,grid - Intensification,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Boke,SSA,8.624113,10.538342,73,7,grid - Intensification,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_19,HA,8.620835,10.548817,71,15,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_15,HA,8.611956,10.553641,45,11,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Groshal East,SSA,8.59845,10.556881,234,42,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Unguwan Sarki Umar,SSA,8.598633,10.558204,317,57,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Groshal,SSA,8.590739,10.554366,300,54,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Goron Dutse,SSA,8.590512,10.56347,522,92,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Tsangayan Kufai,HA,8.588722,10.567173,527,92,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Unguwan Adiye Tudun Wada,HA,8.578878,10.56036,1013,175,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Kurmin Tsuntsu,HA,8.564009,10.555507,687,119,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Kakum Sama,SSA,8.645743,10.528971,281,13,grid - Intensification,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_36,HA,8.377051,10.540807,314,57,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Malunfashi,HA,8.619244,10.468479,683,26,grid - Intensification,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_7,HA,8.542432,10.295581,113,8,grid - Intensification,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_11,HA,8.536108,10.300848,73,7,grid - Intensification,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_6,HA,8.532191,10.295459,224,41,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_8,HA,8.540039,10.304863,36,6,grid - Intensification,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_10,HA,8.534891,10.309418,25,8,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Alhaji Ningi,HA,8.526488,10.308795,176,34,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Nazangi South,SSA,8.526475,10.319032,412,72,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Nazangi North,SSA,8.526328,10.320111,352,63,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Kankau,HA,8.534533,10.321658,343,62,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_4,HA,8.611153,10.464542,109,8,grid - Intensification,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_6,HA,8.604356,10.458187,57,13,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Rugan Adamu,HA,8.599234,10.46642,611,106,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Sarki Dauda,HA,8.595337,10.470637,207,11,grid - Intensification,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Wuroko Gida,HA,8.588281,10.465828,662,116,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Mahanga Yamma,HA,8.716922,10.328646,540,94,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_2,HA,8.602336,10.451154,172,33,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_1,HA,8.594553,10.444871,70,15,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Amawan Makunkun,HA,8.592873,10.43735,298,53,grid,9
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Unguwan Amawa,HA,8.596468,10.436499,153,29,grid,9
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,HA_9,HA,8.603043,10.43184,67,14,grid,9
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Unguwan Mato,BUA,8.60986,10.431087,1580,271,grid,9
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Hayin Habane,HA,8.604636,10.388855,1898,70,grid - Intensification,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugan Ardo Dan Kawu,HA,8.578107,10.25459,115,21,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_83,HA,8.392528,10.714953,73,15,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Unguwar Maikudi,HA,8.410059,10.713253,1040,180,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Sheni,HA,8.756878,10.379001,401,70,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_37,HA,8.570984,10.099215,105,20,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_36,HA,8.577339,10.098056,28,9,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Ussah,HA,8.583009,10.089246,384,68,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_33,HA,8.591628,10.09529,26,8,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_32,HA,8.600528,10.096301,107,20,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_38,HA,8.606304,10.096202,257,45,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Warsa Piti,HA,8.605991,10.086174,2668,456,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Unguwar Kadan Yar Kasuwa,BUA,8.508309,10.51951,6145,222,grid - Intensification,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_38,HA,8.657664,10.307205,166,33,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugar Reza,HA,8.65222,10.297273,323,58,grid,9
+Kaduna,KD,Lere,KD1708,Lere,19017,Rugar Nakera,HA,8.546007,10.377847,219,40,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Unguwan Damina Goro,HA,8.585016,10.573061,380,67,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_43,HA,8.632075,10.339781,65,14,grid,9
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_7,HA,8.630122,10.344605,95,18,grid,9
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_9,HA,8.626485,10.34989,22,8,grid,9
+Kaduna,KD,Lere,KD1708,Lere,19017,Jurawa,SSA,8.615778,10.347366,443,78,grid,9
+Kaduna,KD,Lere,KD1708,Lere,19017,Unguwar Sarki Jurawa,SSA,8.615748,10.345807,551,96,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Unguwar Barde,HA,8.501966,10.523593,169,10,grid - Intensification,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_24,HA,8.488887,10.530961,86,17,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_38,HA,8.497214,10.544137,39,10,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Aganjiwa South,HA,8.509715,10.543941,1598,274,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_4,HA,8.761525,10.299507,31,9,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Rugan Babangida Kafinta,HA,8.747157,10.296469,249,44,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Marmara,HA,8.74399,10.29163,122,22,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Rugan Inusa,HA,8.746469,10.284007,57,13,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_1,HA,8.736137,10.276889,57,13,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_28,HA,8.730947,10.281194,139,25,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Bauda Gari,HA,8.719386,10.277588,822,142,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_22,HA,8.71684,10.270948,132,23,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_19,HA,8.712991,10.267513,68,14,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Kutundu,HA,8.715391,10.258545,500,88,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugan Adamu Nuhu,HA,8.713978,10.250867,351,63,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Matsira,HA,8.723002,10.243286,894,155,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_20,HA,8.710284,10.273934,45,11,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugan Alhaji Sale,HA,8.704185,10.270643,198,37,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Unguwan Tambaya,HA,8.692047,10.274224,503,89,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Injesse,HA,8.690808,10.283839,614,107,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_35,HA,8.72618,10.288159,202,38,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Kankare,HA,8.727759,10.299234,543,95,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_21,HA,8.586495,10.581671,35,10,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Jahunu,BUA,8.6027,10.582455,2367,405,grid,9
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_25,HA,8.618735,10.578224,88,17,grid,9
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Mekaza,SSA,8.626224,10.585271,274,48,grid,9
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Kadage,SSA,8.625126,10.58726,236,42,grid,9
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Kagali,HA,8.625193,10.588861,2614,447,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Zarangi,HA,8.486415,10.382023,621,108,grid,9
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Rugar Ahmadu,HA,8.485771,10.256696,185,35,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Unguwan Rimi,HA,8.69912,10.360834,939,37,grid - Intensification,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Pama Yaji Dan Bello,SSA,8.772263,10.310344,166,33,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Rugan Jalere,HA,8.487288,10.276396,391,69,grid,9
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Rugar Ibrahim,HA,8.469208,10.261017,107,20,grid,9
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Karibo B,HA,8.45708,10.260444,401,70,grid,9
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Kadda,HA,8.461528,10.271303,175,34,grid,9
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Tugira,SSA,8.461093,10.276504,165,32,grid,9
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_15,HA,8.463812,10.278348,216,40,grid,9
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Tudun Amawa,HA,8.470431,10.280959,341,62,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Sabon Garin Domawa,SSA,8.728811,10.410641,157,30,grid,9
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_5,HA,8.607463,10.337698,18,7,grid,9
+Kaduna,KD,Lere,KD1708,Lere,19017,Unguwar Dodo,SSA,8.599009,10.34746,473,83,grid,9
+Kaduna,KD,Lere,KD1708,Lere,19017,Wauna Amawa,SSA,8.588894,10.35153,154,29,grid,9
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_8,HA,8.585515,10.351372,83,17,grid,9
+Kaduna,KD,Lere,KD1708,Lere,19017,Rugar Maga,HA,8.587504,10.341912,159,31,grid,9
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_3,HA,8.582686,10.335467,87,17,grid,9
+Kaduna,KD,Lere,KD1708,Lere,19017,Unguwar Fata,SSA,8.592977,10.327635,187,36,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_20,HA,8.58554,10.316896,51,12,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_16,HA,8.587035,10.309463,48,12,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_17,HA,8.582602,10.30924,59,13,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_12,HA,8.576751,10.302539,75,15,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_31,HA,8.577893,10.292944,81,16,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_32,HA,8.58177,10.285018,42,11,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Unguwar Liman,SSA,8.593714,10.285012,488,86,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Unguwar Baba Habu,HA,8.594337,10.281119,1322,228,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Unguwar Kaura,SSA,8.595213,10.286802,170,33,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,SSA_1,SSA,8.597216,10.28794,115,21,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Kakuna Amo,HA,8.60257,10.323276,313,56,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_40,HA,8.608147,10.320424,69,15,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Patah Wuse,HA,8.608327,10.30915,257,45,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_37,HA,8.615303,10.304828,183,35,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugar Kurma,HA,8.617208,10.297925,140,25,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Layin Unguwar Arrow,HA,8.607441,10.29769,760,132,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Araba,HA,8.622225,10.304112,83,17,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Adawo Araba,HA,8.622759,10.314367,374,66,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Rugan Rabo,HA,8.77659,10.311777,105,20,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_8,HA,8.782142,10.315746,70,15,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_6,HA,8.784505,10.321434,242,43,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Kobonka,SSA,8.787961,10.322387,141,25,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Unguwan Audi,HA,8.794408,10.32924,343,62,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Rugan Alhaji Yako Pama Yaji,HA,8.796157,10.339464,298,53,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_16,HA,8.786868,10.341528,26,8,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Pama Yaji Mahauta,HA,8.792746,10.348773,522,92,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_13,HA,8.782264,10.35043,103,19,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Unguwan Malam Sambo,HA,8.78218,10.362879,557,97,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Unguwan Mala,HA,8.79573,10.370407,166,33,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_17,HA,8.806026,10.373807,744,129,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Kurgi,HA,8.544645,10.235136,447,79,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Unguwan Dorawa,HA,8.767511,10.411648,242,43,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Babban Gida,HA,8.489618,10.290479,344,62,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Makwarga,HA,8.514584,10.525743,325,15,grid - Intensification,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Rugar Ardo Kako,HA,8.530217,10.527688,159,31,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_31,HA,8.52706,10.5374,158,30,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Kawo,HA,8.530497,10.545425,185,35,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Mauda,HA,8.541,10.547832,290,51,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Rugar Ardo Amadu,HA,8.540042,10.563443,112,21,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Rugar Bode,HA,8.534371,10.563991,72,15,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Rafin Burtu,HA,8.524962,10.565205,119,22,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Alwalo Maisamari,HA,8.517923,10.5738,712,124,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Alwalo,HA,8.505492,10.573677,1660,285,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_30,HA,8.479668,10.524776,153,29,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Unguwar Buzu,HA,8.466784,10.535929,257,45,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Sabon Kaura Kurama,HA,8.458914,10.534752,1641,282,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Unguwan Turmi,HA,8.692442,10.445283,163,32,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_10,HA,8.583879,10.247903,28,9,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_93,HA,8.585588,10.243749,26,8,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Markus,HA,8.594481,10.240193,298,53,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Jaja Alak,HA,8.600651,10.247308,236,42,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Durumi 3,HA,8.613109,10.251686,1395,240,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_27,HA,8.61434,10.082181,20,8,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Kawo,HA,8.615687,10.075774,382,67,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_20,HA,8.620844,10.06462,82,16,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Bandi,HA,8.626942,10.068747,211,39,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_22,HA,8.635198,10.069369,53,12,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Kisare,HA,8.640016,10.067991,107,20,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Ukang Aganduwa,HA,8.63946,10.058509,221,40,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Sarki Aganduwa,HA,8.636161,10.049194,296,53,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Kidun,HA,8.627288,10.04825,192,36,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Upara,HA,8.62019,10.042754,364,65,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Ugalika Dutsen Piti,HA,8.629482,10.032871,499,88,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Loko Piti,HA,8.607202,10.046959,236,42,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Tsohon Sarki,HA,8.605709,10.04062,249,44,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_7,HA,8.603279,10.028738,29,9,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_12,HA,8.593392,10.03422,15,7,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_8,HA,8.58656,10.029248,39,10,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_5,HA,8.591481,10.020436,138,25,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Kibati,HA,8.60083,10.0135,269,47,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Dan Daura Central,HA,8.611755,10.008097,574,100,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Rugan Fulani Dan Daura Central,HA,8.621004,10.007424,411,72,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Daniel,HA,8.574216,10.026089,143,26,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Emma Adana,HA,8.565502,10.032316,215,40,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Ahmadu,SSA,8.564573,10.036227,272,48,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_14,HA,8.567873,10.038086,118,21,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Ardo Nyako,HA,8.574866,10.044698,181,35,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Mambo,HA,8.573835,10.058586,528,92,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Rugan Sale,HA,8.564545,10.059467,234,42,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_57,HA,8.607734,10.156528,65,7,grid - Intensification,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Lambu,HA,8.61325,10.156136,361,64,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Ficiza,HA,8.621535,10.156803,159,31,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Thomas,HA,8.633849,10.156657,558,97,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Ganuwa,HA,8.643715,10.160917,122,22,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Tsakuwa,HA,8.646217,10.1699,554,96,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Unguwar Ishaya,HA,8.56482,10.480103,996,39,grid - Intensification,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Dankande,HA,8.534398,10.486152,93,18,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Unguwar Intu,HA,8.529404,10.483948,74,15,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Ashema A,HA,8.531454,10.477606,340,61,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Unguwar Mato Ashema,HA,8.524823,10.472773,387,68,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Ashema Osharo,HA,8.519396,10.464398,771,134,grid,9
+Kaduna,KD,Saminaka,KD1711,Lere,19017,Hayin Makama,SSA,8.660656,10.393825,101,19,grid,9
+Kaduna,KD,Saminaka,KD1711,Lere,19017,Layin Sarki Jumare,HA,8.667217,10.434746,2641,97,grid - Intensification,9
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_10,HA,8.544277,10.370792,84,17,grid,9
+Kaduna,KD,Lere,KD1708,Lere,19017,Limoro,HA,8.539263,10.366552,230,42,grid,9
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Rugan Fulani,HA,8.536537,10.366914,69,15,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Rugar Umar,HA,8.502777,10.145557,93,18,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_54,HA,8.498746,10.136107,235,42,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_61,HA,8.491696,10.139511,294,52,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwar Idi Ahmadu,HA,8.487522,10.148639,384,68,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_36,HA,8.719198,10.304064,33,9,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_39,HA,8.710678,10.308409,160,31,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Kafin Lazuru,HA,8.704828,10.301327,436,76,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Kafin Amawa,HA,8.70029,10.298943,274,48,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_37,HA,8.542436,10.536934,13,7,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Unguwan Damina,HA,8.554618,10.533712,456,80,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Unguwan Nagunda,SSA,8.553159,10.52396,302,54,grid,9
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Kofa B,SSA,8.663775,10.520928,68,14,grid,9
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Unguwan Gabas,HA,8.555515,10.514942,648,113,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Fulanin Kurama,HA,8.363777,10.607783,260,46,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_52,HA,8.36262,10.6229,108,20,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Kuriya,HA,8.355988,10.6219,539,94,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Unguwar Tsamiya,HA,8.350771,10.633825,129,23,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_64,HA,8.346093,10.644704,34,10,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Tudun Wada,HA,8.358606,10.649018,195,37,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Fadama,HA,8.371272,10.651976,1796,308,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Tsohon Garin Mai Gamo,HA,8.377348,10.662256,472,83,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Chinchan,HA,8.615309,10.145407,313,56,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Durumi Fulani,HA,8.622932,10.245904,245,44,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_16,HA,8.538969,10.498952,167,33,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_11,HA,8.62666,10.249127,51,12,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_13,HA,8.631417,10.252492,21,8,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_15,HA,8.636774,10.255382,77,16,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Kaura Guma,SSA,8.645781,10.26136,199,37,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Layin Mallam Ibrahim,SSA,8.650509,10.267526,393,69,grid,9
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Layin Mai Amare,HA,8.657333,10.270102,995,172,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_13,HA,8.524435,10.486986,58,13,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_17,HA,8.51721,10.484968,37,10,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_15,HA,8.507827,10.494331,159,31,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_19,HA,8.498494,10.494175,59,13,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Farfaru,HA,8.486829,10.492987,714,124,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_9,HA,8.51201,10.475191,71,15,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_12,HA,8.504379,10.474181,30,9,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Rugar Alhaji Ibrahim,HA,8.491355,10.471433,257,45,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_8,HA,8.473574,10.466677,70,15,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_4,HA,8.462252,10.467663,137,24,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,SSA_29,SSA,8.453913,10.480932,34,10,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_11,HA,8.442644,10.473197,50,12,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Unguwar Nuhu Lemoro,HA,8.433586,10.472272,63,14,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_14,HA,8.432188,10.479206,56,13,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Lemoro,HA,8.429507,10.488468,219,40,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Jantsauni,HA,8.439373,10.491209,130,23,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Jantsauni Gabas,HA,8.451989,10.497157,299,53,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Jantsauni Yamma,HA,8.464357,10.505232,3501,598,grid,9
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Rugar Alhaji Jolly,HA,8.436374,10.481204,146,27,grid,9
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Unguwar Sarki,HA,8.421614,10.334261,2089,77,grid - Intensification,9
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Rugar Yakubu,HA,8.496215,10.24138,104,20,grid,9
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_10,HA,8.501136,10.227388,220,40,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_89,HA,8.510061,10.220928,220,40,grid,9
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Bundu Kurama,HA,8.500667,10.215036,572,100,grid,9
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_6,HA,8.494761,10.208144,359,64,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_50,HA,8.628139,10.137907,19,7,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_46,HA,8.632961,10.133191,66,14,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_97,HA,8.63524,10.138606,192,36,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_52,HA,8.649427,10.134051,93,18,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Rimi,SSA,8.655207,10.122348,323,58,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Kanawa,SSA,8.655333,10.120133,343,62,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_55,HA,8.656475,10.117325,183,35,grid,9
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Ubuja,HA,8.648713,10.11085,367,65,grid,9
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Ganji Gari,SSA,8.743834,10.330057,187,10,grid - Intensification,9
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,HA_2,HA,8.604822,10.383401,42,6,grid - Intensification,9
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,HA_1,HA,8.60393,10.378071,109,8,grid - Intensification,9
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Damau Gabas,SSA,8.604138,10.367954,219,40,grid,9
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Marji,SSA,8.614191,10.368761,105,20,grid,9
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Rugan Mohammed,HA,8.613334,10.36266,563,98,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,HA_3,HA,8.617187,10.370124,171,33,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Asokai,HA,8.559504,10.466931,271,47,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_22,HA,8.553915,10.454011,179,34,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Ukissa West,SSA,8.553535,10.449979,227,41,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Ukissa East,SSA,8.551977,10.44885,373,66,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_95,HA,8.642377,10.120109,249,44,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_17,HA,8.461125,10.04531,220,40,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Bima 2,HA,8.468226,10.034449,245,44,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Ma'aji,HA,8.479278,10.025283,257,45,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Bima 1,HA,8.489104,10.029136,296,53,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Chakara,HA,8.496692,10.035537,622,108,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Bima Amawa,HA,8.486597,10.041794,1072,185,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Majagada 2,HA,8.499098,10.055328,1215,209,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Ruwwan Bula,HA,8.501452,10.026795,298,53,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_7,HA,8.49148,10.211597,78,16,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_82,HA,8.481155,10.205901,66,14,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_81,HA,8.480361,10.198477,281,49,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Kigumu,HA,8.482619,10.186268,292,52,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_75,HA,8.490128,10.188616,148,27,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_78,HA,8.498709,10.188474,268,47,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_80,HA,8.503435,10.197983,146,27,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Rugar Yusuf,HA,8.513996,10.203548,265,47,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Yusuf,SSA,8.518133,10.206347,178,34,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwar Masallaci,SSA,8.518815,10.208045,322,58,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Cikin Gari,SSA,8.519071,10.209272,306,55,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Rugan Alh Musa,HA,8.531472,10.216747,344,62,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Kudigi,HA,8.425243,10.325052,133,9,grid - Intensification,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_22,HA,8.421013,10.311466,58,13,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_19,HA,8.425776,10.297516,44,11,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Rugar Buba,HA,8.426365,10.289478,473,83,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Kushayi,HA,8.427621,10.284374,157,30,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Unguwar Ayaba,HA,8.437155,10.27231,157,30,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Rugar Gidiba,HA,8.434574,10.264159,171,33,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Rugar Mumini,HA,8.427901,10.268272,114,21,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_14,HA,8.414832,10.265237,63,14,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_16,HA,8.412208,10.260207,26,8,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_12,HA,8.408691,10.255917,359,64,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_33,HA,8.619276,10.291472,63,14,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Kauyen Ali,HA,8.610979,10.282291,251,45,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_25,HA,8.607502,10.272654,219,40,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_23,HA,8.622308,10.266487,481,85,grid,10
+Kaduna,KD,Saminaka,KD1711,Lere,19017,Rugar Shuri,HA,8.659977,10.412531,81,16,grid,10
+Kaduna,KD,Saminaka,KD1711,Lere,19017,Marjire Ta Yamma,HA,8.666199,10.416282,1646,62,grid - Intensification,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Sabon Gida Unguwan Mele,SSA,8.69039,10.456508,85,17,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Unguwan Mele,SSA,8.69051,10.460203,299,53,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_40,HA,8.544727,10.564351,52,12,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_49,HA,8.551661,10.57485,46,11,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Tudun Wada,HA,8.566997,10.571417,662,116,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_16,HA,8.662505,10.26668,16,7,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Ruwansha,SSA,8.661649,10.26099,288,51,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Unguwar Makera,SSA,8.668094,10.265317,180,35,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_18,HA,8.677594,10.267759,57,13,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Messawa Amawa,HA,8.677184,10.256847,318,57,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Messawa,SSA,8.681077,10.24927,182,35,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_12,HA,8.679574,10.248237,152,29,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_14,HA,8.669859,10.251591,128,23,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_9,HA,8.667121,10.243161,19,7,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_7,HA,8.66227,10.238517,169,33,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Kadage,HA,8.656415,10.239357,245,44,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugar Wakili Saleh,HA,8.661866,10.231556,435,76,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Idi Daboyi,HA,8.653159,10.228743,173,34,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Unguwar Jangi,HA,8.648871,10.223617,1701,292,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugar Adamu,HA,8.644435,10.233029,93,18,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_6,HA,8.636274,10.233817,161,31,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_4,HA,8.631693,10.228399,32,9,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Unguwar Pah,HA,8.623198,10.23003,395,69,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_2,HA,8.634095,10.220946,128,23,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_87,HA,8.63637,10.211716,69,15,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Kurmin Dodo,HA,8.630809,10.20259,488,86,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Rugan Gido,HA,8.634102,10.193357,134,24,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_72,HA,8.631349,10.185278,132,23,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Apalban,HA,8.625907,10.186002,244,44,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Rugan Yusuf,HA,8.623983,10.192947,520,91,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Ganji,HA,8.614494,10.191135,102,19,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Kadere Ecwa,HA,8.607656,10.186328,379,67,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Amawa Kakum,SSA,8.635153,10.519476,130,23,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Mai Tuwon Wake,SSA,8.640938,10.515737,166,33,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Unguwan Bala,SSA,8.650204,10.511018,237,43,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Shemare,SSA,8.76114,10.379359,140,25,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Kauran Sarki,HA,8.762374,10.382093,114,21,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,Unguwar Zakka,HA,8.54297,10.396793,256,12,grid - Intensification,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Kurmin Dodo Amap,HA,8.644987,10.204126,252,45,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_14,HA,8.534265,10.393533,196,11,grid - Intensification,10
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_13,HA,8.538505,10.388188,188,36,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_16,HA,8.523351,10.392696,28,9,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_29,HA,8.517664,10.392156,53,12,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_27,HA,8.509742,10.386154,59,13,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Fulani Kabuga,HA,8.50801,10.375682,411,72,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Rewa,HA,8.518393,10.367271,750,130,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Gaskora,HA,8.512163,10.362266,533,93,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_1,HA,8.469553,10.000581,91,18,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Rafin Dadi,HA,8.463359,9.998164,299,53,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Likita Juju,HA,8.477158,10.008999,520,91,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Unguwan Tsamiya,SSA,8.699066,10.510329,113,8,grid - Intensification,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_48,HA,8.57419,10.264162,121,8,grid - Intensification,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugar Abdulsalam,HA,8.586691,10.264774,136,24,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Durumi 1,HA,8.594786,10.263244,386,68,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,Unguwar Madugu,SSA,8.554451,10.337429,251,45,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Maziga,HA,8.411672,10.275273,206,38,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Rugan Shehu Usman Hari,HA,8.57971,10.319176,39,10,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Zoro,HA,8.574057,10.314661,250,44,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Guma,SSA,8.642116,10.272278,226,41,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,Unguwar Kafinta,HA,8.543102,10.403486,574,22,grid - Intensification,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Unguwan Manga,HA,8.717073,10.460785,266,47,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Rugar Muhammadu,HA,8.467282,10.287324,142,26,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_47,HA,8.661791,10.12564,112,21,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_98,HA,8.662785,10.137288,514,90,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Gidan Soro,HA,8.67442,10.511722,832,34,grid - Intensification,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_44,HA,8.666171,10.11292,181,35,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_42,HA,8.663824,10.10402,180,35,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Unguwan Abdu Shugaba,HA,8.788751,10.312889,203,38,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Unguwan Yanga,HA,8.785794,10.308864,171,33,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_16,HA,8.579053,10.588766,87,17,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_23,HA,8.585638,10.595309,60,13,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Ali Mai Hula,HA,8.577114,10.609445,1448,249,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_26,HA,8.674652,10.388785,181,35,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_19,HA,8.60759,10.054931,18,7,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Dogon Daji,HA,8.604153,10.063067,312,56,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_51,HA,8.51903,10.132765,74,15,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_12,HA,8.56749,10.383617,273,13,grid - Intensification,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_20,HA,8.563257,10.619223,12,6,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Shuri Boka,HA,8.556628,10.625097,429,75,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Tsimpiri,SSA,8.560663,10.634272,345,62,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_17,HA,8.550273,10.618567,99,19,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Rugan Yamshi,HA,8.545661,10.618464,43,11,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Sayawa,HA,8.536457,10.626539,195,37,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,SSA_25,SSA,8.521198,10.63186,38,10,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_55,HA,8.516462,10.637212,99,19,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_59,HA,8.501901,10.643948,160,31,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_56,HA,8.485623,10.640499,38,10,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_61,HA,8.47414,10.646475,59,13,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Kudaru North,HA,8.469471,10.639454,2920,499,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Unguwar Baya,HA,8.452127,10.54478,179,34,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_45,HA,8.446777,10.554656,18,7,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Fulanin Konar Doya,HA,8.449741,10.560606,57,13,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_46,HA,8.451014,10.576216,206,38,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Rugar Alhaji Haruna,HA,8.452434,10.593545,165,32,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Same As Bitarana,HA,8.45997,10.599051,1126,194,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Unguwar Makama,SSA,8.458977,10.54738,138,25,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_43,HA,8.461539,10.551197,21,8,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Gwerea,HA,8.468708,10.55506,868,150,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Unguwan Kudu,HA,8.632116,10.381748,2756,101,grid - Intensification,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Rugan Dattiya,SSA,8.509463,10.180115,108,20,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Rugan Haruna,HA,8.507021,10.175685,79,16,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Kadagen Amawa,HA,8.503424,10.170135,88,17,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Ardo Haruna,HA,8.49674,10.171585,85,17,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Ganjin Hausawa,SSA,8.48912,10.173388,120,22,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_65,HA,8.486401,10.169063,310,56,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_70,HA,8.515153,10.182383,70,15,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Tarbi,SSA,8.520434,10.177345,62,14,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Micah,HA,8.526143,10.178476,92,18,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Rugar Madaki,HA,8.534044,10.180999,102,19,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwar Gwaza,HA,8.543988,10.174111,713,124,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Nbaro,HA,8.559101,10.156176,195,37,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_58,HA,8.552786,10.15804,14,7,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Gallin Agaji,HA,8.541191,10.153034,366,65,grid,10
+Kaduna,KD,Saminaka,KD1711,Lere,19017,Rugar Samaila,HA,8.651393,10.391669,174,34,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugar Duka,HA,8.641277,10.283255,266,47,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Taraguwa,HA,8.635158,10.289367,182,35,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Jankasa,HA,8.443302,9.999242,731,127,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Asha Awuche,HA,8.650755,10.070441,302,54,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_30,HA,8.654265,10.079798,413,72,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Rugan Dan Gadalle,HA,8.784676,10.338293,61,13,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugan Tambaya,HA,8.704124,10.329683,175,34,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugan Baleri,HA,8.704894,10.324207,154,29,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Rugan Abashe,HA,8.580871,10.459208,56,13,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Rugan Dan Lungu,HA,8.578225,10.450625,247,44,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_3,HA,8.573875,10.452956,118,21,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_34,HA,8.383722,10.540977,106,20,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Amawa,HA,8.395354,10.542923,187,36,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Bulus A,HA,8.53021,10.188342,300,54,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,Unguwar Jika,SSA,8.58199,10.42744,292,52,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_13,HA,8.42833,10.25823,147,27,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Rugan Fulani,HA,8.604016,10.112491,289,51,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,Unguwar Amawa,HA,8.559877,10.36849,344,15,grid - Intensification,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Katashi,HA,8.44239,10.370159,254,45,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Rugar Koggi,HA,8.428747,10.363898,277,49,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugan Kadiri,HA,8.693104,10.317234,241,43,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Hayin Ugizo,HA,8.599382,10.182161,261,46,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,Ganiza,HA,8.57127,10.417816,281,49,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_39,HA,8.510996,10.10729,87,17,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_31,HA,8.504711,10.094091,358,64,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Unguwan Hurga,SSA,8.56308,10.429093,140,25,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_23,HA,8.559922,10.428745,238,43,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Tudun Barde,SSA,8.613284,10.429746,61,13,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Gamji Unguwan Mato,SSA,8.611344,10.426935,151,28,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,HA_10,HA,8.60517,10.424412,230,42,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Tudun Amawa,HA,8.61433,10.426193,73,15,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Unguwan Kimba,SSA,8.561774,10.508768,104,20,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Kimba Ukam,SSA,8.561585,10.507024,136,24,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Galwai,HA,8.70794,10.37472,513,20,grid - Intensification,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Unguwan Sani,SSA,8.752702,10.37639,70,15,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Bitrus,HA,8.471706,10.153505,240,43,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_62,HA,8.462058,10.159754,159,31,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Bima Surubu,HA,8.454044,10.157482,179,34,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Agatere,HA,8.445665,10.159625,399,70,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Tudun Maigyada,HA,8.521515,10.353464,202,38,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_21,HA,8.52238,10.34756,109,20,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,Likora,SSA,8.574376,10.409254,170,33,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_21,HA,8.660187,10.062009,205,38,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_18,HA,8.667891,10.051557,180,35,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_10,HA,8.659582,10.033029,134,24,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_3,HA,8.668188,10.016834,194,37,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_2,HA,8.676421,10.014876,566,99,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Unguwan Sarki Mato,BUA,8.699702,10.515954,2767,101,grid - Intensification,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugar Alhaji Adamu,SSA,8.657736,10.257317,80,16,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Kadage,SSA,8.752307,10.416065,26,8,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_15,HA,8.513192,10.402072,72,15,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,Rugar Umar Hayi,HA,8.507207,10.418034,206,38,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,Rugar Alhaji Gajere,HA,8.500471,10.420987,219,40,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_21,HA,8.497634,10.429694,89,17,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Fulani Baturiya,HA,8.48289,10.434682,247,44,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Rugar Gajere,HA,8.471736,10.435856,298,53,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_5,HA,8.793149,10.305171,198,37,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_28,HA,8.492295,10.391163,184,35,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Bongon Rogo,HA,8.370478,10.625629,103,19,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Bongon Rimi,HA,8.372534,10.63423,260,46,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_5,HA,8.566548,10.497545,87,17,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_7,HA,8.57486,10.504445,194,37,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Ukam,HA,8.58155,10.510986,40,10,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_12,HA,8.58608,10.519804,32,9,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_13,HA,8.574666,10.526939,187,36,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Rugan Maccu,HA,8.571011,10.528055,286,51,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_25,HA,8.587678,10.61829,130,23,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Kauran Gaude,HA,8.589515,10.625205,312,56,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Lagga Kaura,HA,8.737324,10.435289,125,22,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,HA_6,HA,8.611692,10.408314,72,15,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,HA_5,HA,8.603776,10.403754,173,34,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Tirianmu West,HA,8.480689,10.395712,182,35,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Unguwan Gabas,SSA,8.703923,10.517357,178,10,grid - Intensification,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_10,HA,8.721041,10.519446,40,10,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_12,HA,8.730032,10.521578,40,10,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_8,HA,8.735236,10.525414,156,30,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_11,HA,8.743867,10.521497,52,12,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_5,HA,8.749669,10.525663,121,22,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_9,HA,8.756392,10.519435,45,11,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Makura,HA,8.764897,10.520371,794,138,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_7,HA,8.74145,10.514846,109,20,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_20,HA,8.379844,10.315585,149,9,grid - Intensification,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Yani,HA,8.593977,10.085458,156,30,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_1,HA,8.547523,10.437389,172,33,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Tirianmu North,HA,8.488464,10.406904,185,35,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_9,HA,8.459457,10.224482,408,17,grid - Intensification,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_24,HA,8.665733,10.276477,116,21,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_27,HA,8.675866,10.28541,52,12,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Buta,HA,8.668058,10.291144,245,44,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugan Gambo,HA,8.67496,10.304236,310,56,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_24,HA,8.76099,10.376899,150,28,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_24,HA,8.586992,10.07448,147,27,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Nishe,HA,8.589795,10.065854,178,34,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_4,HA,8.546141,10.285971,146,9,grid - Intensification,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_28,HA,8.601556,10.624586,157,30,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Rugan Alhassan,HA,8.598508,10.637842,348,63,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Unguwan Malam Ibrahim,SSA,8.611434,10.627582,179,34,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Rugar Ardo,HA,8.459359,10.212999,140,25,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Kadashi,HA,8.447487,10.217125,315,57,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_76,HA,8.522866,10.189506,115,21,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_18,HA,8.468942,10.498469,117,21,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_5,HA,8.455161,10.202303,73,15,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_2,HA,8.459564,10.192157,137,24,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_3,HA,8.451425,10.185317,12,6,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_1,HA,8.435534,10.177641,73,15,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Kinugu Kasuwa,SSA,8.430539,10.191082,356,64,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Kitimi,HA,8.35549,10.296209,546,95,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Rugan Alhaji Habane,HA,8.766928,10.293118,130,23,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Sullubawa,HA,8.386119,10.631924,79,16,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_62,HA,8.397066,10.639275,181,35,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_68,HA,8.399994,10.64909,28,9,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_65,HA,8.401211,10.664673,344,62,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_19,HA,8.582129,10.403173,143,26,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Gaskora,HA,8.768187,10.538014,225,41,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Tsurutawa,SSA,8.765477,10.543509,240,43,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Amawa North,HA,8.480117,10.324689,471,19,grid - Intensification,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_28,HA,8.495518,10.083705,111,20,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_25,HA,8.496665,10.075013,161,31,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Unguwan Fulani,HA,8.700453,10.549337,106,20,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Unguwan Waziri,HA,8.704767,10.543522,205,38,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_10,HA,8.604623,10.516376,191,36,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_2,HA,8.54464,10.332676,45,11,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_6,HA,8.535701,10.337409,174,34,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_7,HA,8.795613,10.313774,41,11,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Rugan Malam Goma,HA,8.798316,10.317591,83,17,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Windi,HA,8.720744,10.35045,133,24,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_12,HA,8.777711,10.328196,75,15,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_14,HA,8.769101,10.334359,104,20,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_15,HA,8.77203,10.339307,189,36,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,Tudu Shamaki,SSA,8.556741,10.334936,102,19,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_71,HA,8.478337,10.65675,21,8,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_48,HA,8.475236,10.661252,364,65,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_67,HA,8.471467,10.665424,130,23,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_51,HA,8.469105,10.611056,71,15,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Rugar Alhaji Ya'U,HA,8.474792,10.60836,140,25,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Rugar Wakilin Shanono,HA,8.479081,10.612789,63,14,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Hayin Samari,HA,8.478542,10.622645,199,37,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugar Isah,HA,8.63236,10.279889,130,23,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_1,HA,8.65912,10.218582,242,43,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_3,HA,8.669278,10.215381,278,49,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_17,HA,8.534102,10.404101,371,16,grid - Intensification,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Yohana Kado,HA,8.576495,10.128784,221,11,grid - Intensification,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_48,HA,8.59042,10.125949,18,7,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Mai Gamo,HA,8.601635,10.134701,422,74,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Rugar Makama,HA,8.418844,10.490683,54,12,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_26,HA,8.412997,10.508303,14,7,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_20,HA,8.401807,10.503488,178,34,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_15,HA,8.48616,10.32832,30,6,grid - Intensification,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_24,HA,8.494661,10.329939,91,8,grid - Intensification,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Babban Ruga South,HA,8.500514,10.33163,326,59,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_17,HA,8.759672,10.543701,55,13,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_18,HA,8.753999,10.543598,34,10,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Rugan Shehu,HA,8.751175,10.548373,87,17,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Magoma,HA,8.741851,10.548464,281,49,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_13,HA,8.74026,10.556652,147,27,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Rugan Damina,HA,8.732626,10.547864,248,44,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Rugar Samari Ardo Gunduma,HA,8.478806,10.603631,68,14,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Dodo,HA,8.575271,10.105843,95,18,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Kakum Jaja,SSA,8.643809,10.53271,322,14,grid - Intensification,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_30,HA,8.573207,10.288274,71,15,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,HA_15,HA,8.634522,10.481106,162,31,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_2,HA,8.769306,10.28879,45,11,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_27,HA,8.448646,10.508448,68,14,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_29,HA,8.44204,10.511494,144,26,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_22,HA,8.476174,10.32773,74,7,grid - Intensification,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_29,HA,8.69773,10.28621,81,16,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Kauran Gaude B,SSA,8.601237,10.619068,81,16,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Gindin Dutse Danjaba,SSA,8.630384,10.3746,98,8,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Sabon Layi Danjaba,HA,8.627763,10.371965,304,14,grid - Intensification,10
+Kaduna,KD,Lere,KD1708,Lere,19017,Lere Mata,SSA,8.631081,10.361744,209,39,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Rugar Ardo Bayero,HA,8.467082,10.321824,277,49,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_88,HA,8.625105,10.214499,145,27,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,Rugar Adamu,HA,8.562857,10.384563,546,21,grid - Intensification,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_35,HA,8.442577,10.537965,162,31,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_7,HA,8.548944,10.468367,113,21,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_6,HA,8.542923,10.465076,71,15,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Unguwan Lemoro,HA,8.609764,10.617368,226,41,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Gidan Madaki,SSA,8.652185,10.337415,84,17,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Yargelle,SSA,8.655638,10.336307,79,16,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_72,HA,8.490381,10.66175,10,6,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_66,HA,8.494466,10.669273,77,16,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_77,HA,8.492862,10.675597,57,13,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_79,HA,8.489245,10.680832,16,7,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_86,HA,8.482864,10.697769,85,17,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_82,HA,8.474637,10.701299,119,22,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_87,HA,8.465022,10.700967,75,15,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_88,HA,8.459214,10.705983,56,13,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_90,HA,8.460355,10.711357,60,13,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_94,HA,8.456294,10.715091,28,9,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_99,HA,8.451601,10.720334,54,12,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_89,HA,8.448013,10.725654,156,30,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_100,HA,8.444797,10.721201,36,10,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_97,HA,8.439119,10.717293,10,6,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_84,HA,8.429721,10.714326,287,51,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_105,HA,8.44122,10.728978,83,17,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_73,HA,8.461707,10.188793,32,9,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Rugan Ardo Wada,HA,8.598975,10.610375,118,21,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_83,HA,8.660136,10.206994,64,14,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Mai Gora,HA,8.656377,10.194956,48,12,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Agana,HA,8.666485,10.187259,270,47,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_79,HA,8.671771,10.198993,80,16,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_85,HA,8.680898,10.205701,161,31,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Igumiya,HA,8.685596,10.215856,169,33,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Unguwar Sarki Dauda,HA,8.694635,10.227167,175,34,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Unguwar Tata,HA,8.693444,10.238605,246,44,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_69,HA,8.424501,10.67841,147,27,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_92,HA,8.588771,10.248529,34,10,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Rugar Malam,HA,8.536869,10.571132,76,16,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_91,HA,8.467224,10.712012,57,13,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_92,HA,8.474925,10.712288,72,15,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_19,HA,8.464463,10.332514,70,15,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_25,HA,8.456588,10.327201,115,21,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_63,HA,8.523513,10.165029,145,27,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_81,HA,8.44522,10.709117,248,44,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Kayari,HA,8.620531,10.208084,75,15,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Telabi,HA,8.605337,10.203836,163,32,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_104,HA,8.434877,10.728081,67,14,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Rugan Guda,HA,8.707473,10.488463,106,20,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_4,HA,8.71769,10.492551,32,9,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Narbi,HA,8.72739,10.496576,259,46,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_18,HA,8.505492,10.332888,37,10,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_3,HA,8.566666,10.465254,63,14,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Kururuwa,HA,8.746606,10.309191,242,43,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_4,HA,8.613448,10.018463,128,23,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_29,HA,8.626083,10.087704,159,31,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_85,HA,8.409869,10.725142,115,21,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_1,HA,8.508155,10.262046,138,25,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_20,HA,8.668853,10.548452,124,22,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Uzu,SSA,8.649601,10.544514,136,24,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Rugan Datti,HA,8.714875,10.466631,47,11,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Kaya,HA,8.63317,10.412066,241,12,grid - Intensification,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_32,HA,8.43171,10.5397,64,14,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_25,HA,8.421253,10.532759,133,24,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_96,HA,8.525417,10.123476,33,9,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_101,HA,8.428746,10.72538,42,11,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Rugan Bomo,SSA,8.672821,10.490598,70,15,grid,10
+Kaduna,KD,Saminaka,KD1711,Lere,19017,HA_1,HA,8.640101,10.410798,22,5,grid - Intensification,10
+Kaduna,KD,Saminaka,KD1711,Lere,19017,Rugar Amadu Maude,HA,8.645667,10.408606,32,9,grid,10
+Kaduna,KD,Saminaka,KD1711,Lere,19017,Rugar Gimba,HA,8.648788,10.402515,123,22,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_34,HA,8.713861,10.29675,71,15,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_100,HA,8.672045,10.175898,94,18,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_64,HA,8.675066,10.16866,76,16,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_47,HA,8.728533,10.356471,57,13,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Rugan Isa,HA,8.732533,10.35301,87,17,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Kadirin Hayi,HA,8.580908,10.209137,610,23,grid - Intensification,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Unguwar Sarki Pawa,SSA,8.664404,10.324534,140,25,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_21,HA,8.750045,10.555653,44,11,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_23,HA,8.754812,10.561667,24,8,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Bijimai Sarki,SSA,8.76422,10.571668,317,57,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_10,HA,8.768259,10.349243,85,17,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,Rugar Malam Muhammadu,HA,8.545778,10.34268,49,12,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_4,HA,8.540592,10.348966,97,19,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Rugan Chiroma,HA,8.649547,10.051589,104,20,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_6,HA,8.619671,10.020192,45,11,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Rugar Abdulkareem,HA,8.569661,10.213793,34,6,grid - Intensification,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Akwaban Amawa,HA,8.561463,10.208231,167,10,grid - Intensification,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Rugan Akwaba,HA,8.558122,10.20229,214,39,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_21,HA,8.465485,10.309372,132,23,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,SSA_6,SSA,8.478815,10.557554,20,8,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_44,HA,8.481432,10.565913,115,21,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Konal Doya,HA,8.46833,10.574334,179,34,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Rugan Malam Bello,HA,8.547366,10.314968,66,7,grid - Intensification,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Rugan Kabes,HA,8.636356,10.57923,87,17,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_16,HA,8.641851,10.568057,164,32,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Nuhu,HA,8.623927,10.167296,81,16,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_41,HA,8.651477,10.102701,52,12,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_5,HA,8.673073,10.233419,85,17,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_77,HA,8.680887,10.193612,82,16,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,HA_13,HA,8.619448,10.43838,87,17,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Ragwan Amawa North,HA,8.513876,10.248584,118,21,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_26,HA,8.577759,10.279146,34,10,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Lemoro Kurama,HA,8.418904,10.480351,69,15,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_11,HA,8.457075,10.032833,87,17,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Deno,HA,8.735288,10.343224,640,24,grid - Intensification,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_66,HA,8.604516,10.173885,63,14,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_3,HA,8.791324,10.296825,54,12,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,Federe Tudu,SSA,8.759944,10.324719,256,12,grid - Intensification,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_33,HA,8.450545,10.528153,68,14,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Balak,HA,8.640324,10.084285,109,20,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_84,HA,8.531635,10.199511,76,16,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_17,HA,8.451992,10.304096,130,23,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_8,HA,8.709592,10.242572,60,13,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_90,HA,8.602524,10.232084,73,15,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,HA_11,HA,8.624473,10.437413,37,10,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Adamu,HA,8.655095,10.146951,80,16,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Rugan Talle,SSA,8.673564,10.442161,96,8,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,HA_12,HA,8.678083,10.446441,78,16,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Rugar Alhaji Chiroma,HA,8.385188,10.651189,81,16,grid,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,HA_8,HA,8.605713,10.478686,31,6,grid - Intensification,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Rugar Shehu,HA,8.434323,10.701323,27,9,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_74,HA,8.44805,10.693669,119,22,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_73,HA,8.4517,10.689191,14,7,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Rugar Wakili Boyi,HA,8.44359,10.209503,44,11,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_9,HA,8.519061,10.023772,100,8,grid - Intensification,10
+Kaduna,KD,Lere,KD1708,Lere,19017,Rugar Yakubu Baba,HA,8.559134,10.396651,59,13,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_57,HA,8.46458,10.614376,12,6,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Daniel Hayin Bandi,SSA,8.576823,10.1782,111,8,grid - Intensification,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_2,HA,8.705447,10.476935,60,13,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_1,HA,8.566029,10.329431,59,13,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Kauran Danjaba,SSA,8.637672,10.378578,246,12,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Tudun Wada Danjaba,SSA,8.638644,10.379998,71,7,grid - Intensification,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Kapualagu,HA,8.396176,10.319541,130,9,grid - Intensification,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_2,HA,8.515913,10.448221,69,15,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_25,HA,8.515112,10.43368,93,18,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Babban Ruga North,HA,8.500735,10.326469,46,11,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_56,HA,8.667295,10.140777,6,6,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Unguwar Makeri,HA,8.442041,10.315067,79,16,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_31,HA,8.463775,10.405627,75,15,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,HA_8,HA,8.625783,10.429445,35,10,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Rugan Nahugga,HA,8.694389,10.467081,23,8,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_14,HA,8.686106,10.539324,267,13,grid - Intensification,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Rugan Rabo,HA,8.762997,10.579881,31,9,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_22,HA,8.556869,10.420298,30,9,grid,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Amawa South,HA,8.482001,10.317517,118,8,grid - Intensification,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Rugan Baiko,HA,8.458011,10.359757,47,11,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_28,HA,8.506892,10.514226,56,6,grid - Intensification,10
+Kaduna,KD,Kayarda,KD1705,Lere,19017,Yamshi,SSA,8.556031,10.613338,25,8,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_69,HA,8.565078,10.182786,52,12,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_54,HA,8.372545,10.609596,24,8,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Ushe,HA,8.389683,10.314986,332,15,grid - Intensification,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,Unguwan Yashi,HA,8.569386,10.19868,132,9,grid - Intensification,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,Miyango,HA,8.681884,10.363194,249,12,grid - Intensification,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Rugan Abubakar,HA,8.515502,10.294948,165,10,grid - Intensification,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_47,HA,8.522376,10.586958,48,12,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Rugar Malam Gede,HA,8.510834,10.588028,42,11,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_6,HA,8.75773,10.511204,18,7,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_49,HA,8.70978,10.366564,130,9,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Unguwan Zakari,SSA,8.599065,10.381082,178,10,grid - Intensification,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,Mishawa,SSA,8.504889,10.528575,167,10,grid - Intensification,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_1,HA,8.743338,10.463866,26,8,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_54,HA,8.739313,10.356587,10,6,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_23,HA,8.669007,10.070956,35,10,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Bijimai Fada,HA,8.769217,10.560431,53,12,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_19,HA,8.723559,10.548482,17,7,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_27,HA,8.620986,10.608293,49,12,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_18,HA,8.7671,10.368007,22,8,grid,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,Kadigi,SSA,8.373979,10.316072,138,9,grid - Intensification,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_16,HA,8.593074,10.046427,32,9,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_63,HA,8.462493,10.643513,2,5,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,HA_7,HA,8.629195,10.42692,55,6,grid - Intensification,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,HA_24,HA,8.629354,10.565036,27,9,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_50,HA,8.488482,10.578053,32,9,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_74,HA,8.549127,10.189987,40,10,grid,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Rugan Tollo,HA,8.782011,10.571421,44,11,grid,10
+Kaduna,KD,Garu Mariri,KD1703,Lere,19017,HA_68,HA,8.658952,10.179109,17,7,grid,10
+Kaduna,KD,Abadawa,KD1701,Lere,19017,HA_22,HA,8.740273,10.404244,18,7,grid,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_17,HA,8.730628,10.268942,9,6,grid,10
+Kaduna,KD,Lere,KD1708,Lere,19017,HA_18,HA,8.547959,10.399493,55,6,grid - Intensification,10
+Kaduna,KD,Gure Kahugu,KD1704,Lere,19017,HA_26,HA,8.414125,10.325752,129,9,grid - Intensification,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,Rugan Malam Adamu,HA,8.512175,10.280245,58,7,grid - Intensification,10
+Kaduna,KD,Dan Alhaji,KD1702,Lere,19017,Katari,SSA,8.675731,10.534647,176,10,grid - Intensification,10
+Kaduna,KD,Lazuru Tuddai,KD1707,Lere,19017,HA_41,HA,8.732902,10.315352,24,8,grid,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_75,HA,8.374206,10.696222,47,6,grid - Intensification,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_9,HA,8.482459,10.307612,136,9,grid - Intensification,10
+Kaduna,KD,Saminaka,KD1711,Lere,19017,Rugar Mauti Dotti,SSA,8.669516,10.423414,22,5,grid - Intensification,10
+Kaduna,KD,Kudaru,KD1706,Lere,19017,HA_5,HA,8.442926,10.460791,10,6,grid,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,HA_4,HA,8.636402,10.392328,59,7,grid - Intensification,10
+Kaduna,KD,Raminkura,KD1709,Lere,19017,HA_13,HA,8.497995,10.318812,64,7,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD1710,Lere,19017,Sabon Birni Kurama,SSA,8.645891,10.460925,84,7,grid - Intensification,10

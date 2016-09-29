@@ -1,0 +1,109 @@
+State,Statecode,Ward,Wardcode,Lga,Lgacode,Name,Type,X,Y,Population,Target.Household.Count,Recommended.Access.Categories,DecileByHH
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Layin Nana Quality,BUA,7.723926,11.135153,40601,1220,grid - Intensification,3
+Kaduna,KD,Jushi,KD1907,Sabon Gari,19019,Lungun Dan Asabe Mai Chemist,BUA,7.743379,11.091758,41694,1252,grid - Intensification,3
+Kaduna,KD,Unguwar Gabas,KD1910,Sabon Gari,19019,Benin By Hajia Gambo Sawaba,BUA,7.739938,11.112602,21381,644,grid - Intensification,4
+Kaduna,KD,Chikaji,KD1903,Sabon Gari,19019,Recreation Club,BUA,7.730656,11.11715,7827,238,grid - Intensification,4
+Kaduna,KD,Muchiya,KD1908,Sabon Gari,19019,Layin Alhaji Usman,BUA,7.734128,11.125695,46016,1381,grid - Intensification,4
+Kaduna,KD,Samaru,KD1909,Sabon Gari,19019,Galadima Road A,BUA,7.649956,11.162352,25219,759,grid - Intensification,4
+Kaduna,KD,Chikaji,KD1903,Sabon Gari,19019,Layin Talakawa,BUA,7.727956,11.123735,10203,310,grid - Intensification,4
+Kaduna,KD,Hanwa,KD1905,Sabon Gari,19019,Layin Jim Harrison,BUA,7.698079,11.125782,40009,1201,grid - Intensification,4
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Yantukwane,BUA,7.739134,11.125633,35773,1074,grid - Intensification,4
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,Gidan Fulani,BUA,7.69203,11.145125,27843,837,grid - Intensification,4
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Layin Kantsauni,BUA,7.647734,11.169014,52059,1562,grid - Intensification,4
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Anguwan Magajin Aska,BUA,7.737088,11.145538,3540,110,grid - Intensification,4
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Anguwar Gabas,BUA,7.63333,11.184361,7791,237,grid - Intensification,4
+Kaduna,KD,Chikaji,KD1903,Sabon Gari,19019,Sokoto Road,BUA,7.72149,11.104917,312,13,grid - Intensification,4
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,Tudun Muntsira,BUA,7.67116,11.181146,6691,204,grid - Intensification,4
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Hayin Fulani Maraba Gwanda,HA,7.746388,11.168512,148,9,grid - Intensification,4
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Saban Birni,SSA,7.640437,11.17587,96,8,grid - Intensification,4
+Kaduna,KD,Jama A,KD1906,Sabon Gari,19019,Alhaji Hassan Close,BUA,7.671974,11.134921,13562,410,grid - Intensification,4
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,Unguwar Sarki,SSA,7.690452,11.188525,92,8,grid - Intensification,5
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Tsallaken Babban Titi,BUA,7.749256,11.164027,1072,41,grid - Intensification,5
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,Anguwar Yusi,BUA,7.693642,11.127724,5893,180,grid - Intensification,5
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Tsallaken Dogo,HA,7.750716,11.162824,524,20,grid - Intensification,5
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Sakadadi Cikin Gari,BUA,7.72562,11.182266,2553,94,grid - Intensification,5
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Mil Goma,BUA,7.60441,11.181536,3375,123,grid - Intensification,5
+Kaduna,KD,Jama A,KD1906,Sabon Gari,19019,JP Celena,BUA,7.663109,11.159347,2511,79,grid - Intensification,5
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Anguwan Sarki Shika,BUA,7.765222,11.140964,2290,72,grid - Intensification,5
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Anguwan Sarkin Kurmi,SSA,7.623448,11.189846,334,15,grid - Intensification,5
+Kaduna,KD,Jushi,KD1907,Sabon Gari,19019,Congo Road,BUA,7.722908,11.099916,2,5,grid - Intensification,5
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Tukwarwa A,HA,7.738234,11.194538,630,110,grid,5
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Anguwan Madaki,BUA,7.725736,11.222465,2719,99,grid - Intensification,5
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Anguwan Katsinawa,HA,7.71007,11.191589,299,14,grid - Intensification,6
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,Up Engineer Quaters 2,BUA,7.670383,11.173001,8,5,grid - Intensification,7
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Anguwar Naibi,HA,7.642621,11.17813,809,33,grid - Intensification,7
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Arewachi Bomo,SSA,7.618269,11.194973,65,7,grid - Intensification,7
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Zangon Dan Barno,SSA,7.736365,11.184165,77,7,grid - Intensification,7
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Rugar Yalli,HA,7.745786,11.224251,310,56,grid,7
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Layin Cikin Gari,HA,7.748477,11.218517,559,97,grid,7
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Layin Bakin Gari,SSA,7.747698,11.217344,64,14,grid,7
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Kabama,SSA,7.707754,11.145873,97,8,grid - Intensification,7
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,HA_1,HA,7.608701,11.17753,111,8,grid - Intensification,8
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Rugar Tohu,HA,7.719448,11.156577,101,8,grid - Intensification,8
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Hayin Fulani Toho,SSA,7.711603,11.157763,43,6,grid - Intensification,8
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Marake,SSA,7.708891,11.157212,91,8,grid - Intensification,8
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Anguwan Ardo,HA,7.704573,11.162315,422,74,grid,8
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Anguwan Liman Toho,HA,7.706223,11.168492,270,47,grid,8
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Cikin Gari,SSA,7.699948,11.168661,157,30,grid,8
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,SSA_1,SSA,7.699091,11.166827,76,16,grid,8
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Anguwan Abe,HA,7.712481,11.169033,307,55,grid,8
+Kaduna,KD,Samaru,KD1909,Sabon Gari,19019,Institute For Agricultural Research,BUA,7.630485,11.173281,1444,47,grid - Intensification,8
+Kaduna,KD,Jama A,KD1906,Sabon Gari,19019,Abdulsalami Road,BUA,7.663187,11.149817,276,11,grid - Intensification,8
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Barashi,SSA,7.716358,11.190326,104,8,grid - Intensification,9
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,HA_8,HA,7.740206,11.17507,24,8,grid,9
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Rugar Rabiu,HA,7.735492,11.202667,21,8,grid,9
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Anguwan Makera 2,HA,7.744706,11.203443,269,47,grid,9
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Rugar Dahiru,HA,7.735976,11.209989,56,13,grid,9
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,HA_2,HA,7.683442,11.16097,110,8,grid - Intensification,9
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Anguwan Yaro,HA,7.742722,11.185073,190,36,grid,9
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,Anguwar Biso,SSA,7.659873,11.197375,96,18,grid,9
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,Unguwar Na Allah,SSA,7.689617,11.190735,188,10,grid - Intensification,9
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,Unguwar Dan Waziri,SSA,7.685547,11.191224,153,9,grid - Intensification,9
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,Gidan Alhaji Mai Shadi,HA,7.681056,11.197338,35,6,grid - Intensification,9
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,Anguwan Fulani,HA,7.678047,11.201385,214,39,grid,9
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,Dufa Dufa B,SSA,7.672051,11.202377,122,22,grid,9
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,Unguwar Maguzawa,SSA,7.671438,11.204131,266,47,grid,9
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,Gangare,SSA,7.690965,11.202704,77,7,grid - Intensification,10
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,Unguwar Makera,SSA,7.689621,11.199642,214,11,grid - Intensification,10
+Kaduna,KD,Samaru,KD1909,Sabon Gari,19019,Hassan Katsina,BUA,7.680675,11.145174,4,5,grid - Intensification,10
+Kaduna,KD,Samaru,KD1909,Sabon Gari,19019,Industrial Developement Centre Quaters,HA,7.66044,11.156243,6,5,grid - Intensification,10
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Dan Ayu,SSA,7.610518,11.18808,124,9,grid - Intensification,10
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Unguwar Nabarandi,HA,7.653598,11.211354,446,18,grid - Intensification,10
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,"Dansa,A",SSA,7.649877,11.178727,82,7,grid - Intensification,10
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Yarranda,SSA,7.647831,11.182417,52,12,grid,10
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Gidan Alhaji Isah,SSA,7.647195,11.186476,119,22,grid,10
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,Anguwan Danlami,SSA,7.649709,11.188768,77,16,grid,10
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Hayin Fulani Katanga,HA,7.799515,11.155254,283,50,grid,10
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Bauda,SSA,7.724445,11.241902,228,41,grid,10
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Rugar Sarkin Noma,SSA,7.644545,11.208625,70,7,grid - Intensification,10
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Rugar Iyanga,HA,7.645497,11.204551,173,10,grid - Intensification,10
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Gidan Dogoji,SSA,7.64082,11.204761,142,26,grid,10
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Rugar Naruma,SSA,7.641456,11.210881,91,18,grid,10
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Anguwan Malamai,SSA,7.746528,11.182654,130,23,grid,10
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Gidan Goma,HA,7.720299,11.170812,682,26,grid - Intensification,10
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,HA_1,HA,7.702253,11.181604,99,19,grid,10
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Bakin Hanya,SSA,7.780905,11.168945,110,8,grid - Intensification,10
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Rugar Fulani Wawa,HA,7.636912,11.208775,40,10,grid,10
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Yammaci,HA,7.781848,11.166736,1105,42,grid - Intensification,10
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Makera,HA,7.755761,11.146655,100,8,grid - Intensification,10
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Hayingada,HA,7.760339,11.149198,634,24,grid - Intensification,10
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Anguwan Liman Katanga,SSA,7.78158,11.170164,102,8,grid - Intensification,10
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Tsauni,SSA,7.782342,11.172791,86,7,grid - Intensification,10
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,HA_3,HA,7.7661,11.193886,9,5,grid - Intensification,10
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,HA_4,HA,7.759912,11.194024,52,12,grid,10
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Danmakwarwa A,HA,7.712765,11.199855,440,18,grid - Intensification,10
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,HA_1,HA,7.653119,11.192867,19,7,grid,10
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,Anguwan Dogara Wanzami,SSA,7.656999,11.199587,86,7,grid - Intensification,10
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,HA_2,HA,7.724535,11.14625,105,8,grid - Intensification,10
+Kaduna,KD,Basawa,KD1901,Sabon Gari,19019,Gidan Sale,SSA,7.693632,11.190941,81,7,grid - Intensification,10
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Hayin Sambo,SSA,7.61114,11.195622,122,8,grid - Intensification,10
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,Runji,SSA,7.629704,11.193023,124,9,grid - Intensification,10
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,HA_4,HA,7.63556,11.194937,162,10,grid - Intensification,10
+Kaduna,KD,Hanwa,KD1905,Sabon Gari,19019,Kwarin Ayuba,SSA,7.68505,11.119209,108,8,grid - Intensification,10
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,HA_3,HA,7.640581,11.191183,192,11,grid - Intensification,10
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Maiganga,HA,7.756678,11.182761,27,9,grid,10
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,Rugar Alhaji Sale,HA,7.777467,11.163723,57,6,grid - Intensification,10
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,HA_2,HA,7.655004,11.180766,42,6,grid - Intensification,10
+Kaduna,KD,Zabi,KD1911,Sabon Gari,19019,HA_1,HA,7.776944,11.149887,30,9,grid,10
+Kaduna,KD,Bomo,KD1902,Sabon Gari,19019,HA_11,HA,7.619148,11.205658,136,9,grid - Intensification,10
+Kaduna,KD,Dogarawa,KD1904,Sabon Gari,19019,Gyatta and Rigar Bawa,HA,7.715749,11.179066,68,7,grid - Intensification,10

@@ -1,0 +1,855 @@
+State,Statecode,Ward,Wardcode,Lga,Lgacode,Name,Type,X,Y,Population,Target.Household.Count,Recommended.Access.Categories,DecileByHH
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_32,HA,7.944081,10.077138,4,5,grid - Intensification,3
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_113,HA,7.402636,9.977889,53,6,grid - Intensification,3
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_11,HA,7.955887,9.795556,27,6,grid - Intensification,3
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,HA_3,HA,8.005686,9.62476,18,5,grid - Intensification,3
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_37,HA,7.471352,9.813629,41,6,grid - Intensification,3
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,HA_3,HA,7.941551,9.678787,28,6,grid - Intensification,3
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_54,HA,7.441637,9.870936,18,5,grid - Intensification,3
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_29,HA,8.003791,10.044357,17,5,grid - Intensification,3
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_118,HA,7.430955,9.98685,55,6,grid - Intensification,3
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Sabo Maro Ta Yamma,HA,7.397012,10.018713,2465,91,grid - Intensification,3
+Kaduna,KD,Kachia,KD0808,Kachia,19008,Kachia,BUA,7.954545,9.875208,33206,1188,grid - Intensification,3
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Gidan Busa,BUA,7.449324,9.782672,2494,427,grid,4
+Kaduna,KD,Kachia,KD0808,Kachia,19008,Ungwar Ate Shanu,HA,7.951691,9.902138,4431,161,grid - Intensification,4
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Unguwan Madaki,HA,7.992031,10.041804,441,18,grid - Intensification,4
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Akilibu,BUA,7.455443,9.84952,6235,1062,grid,4
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Unguwan Sarki,BUA,7.383512,10.054116,13868,498,grid - Intensification,4
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Unguwar Sambo,BUA,8.019273,9.584423,6611,239,grid - Intensification,4
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Gyani,HA,8.017201,9.610605,2360,88,grid - Intensification,4
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Unguwan Gobarawa,BUA,7.422539,9.93961,8126,293,grid - Intensification,4
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Daniel Alkali Nassarawa Yamma,HA,7.457595,9.636656,1439,54,grid - Intensification,4
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Unguwan Gwari,HA,7.429824,9.92432,4174,152,grid - Intensification,5
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,HA_4,HA,8.014865,9.645802,18,7,grid,5
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Unguwar Lemu,HA,7.963057,9.695718,1320,49,grid - Intensification,5
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Unguwan Sidi Ladan,BUA,7.991084,10.046747,3197,117,grid - Intensification,5
+Kaduna,KD,Bishini,KD0804,Kachia,19008,"Bishini A Gabbas, Simon Dambai",HA,7.460775,9.626808,309,14,grid - Intensification,5
+Kaduna,KD,Katari,KD0809,Kachia,19008,Unguwan Hausawa Jama'A,HA,7.450999,9.748136,780,135,grid,5
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Azara,BUA,7.460778,9.61807,6625,239,grid - Intensification,5
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Unguwan Gaude,HA,7.954084,9.711712,2202,377,grid,5
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_132,HA,7.391607,10.028323,80,16,grid,5
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Kurmin Sara,BUA,7.965096,9.736417,3217,118,grid - Intensification,5
+Kaduna,KD,Kachia,KD0808,Kachia,19008,Sakwai Hanya,SSA,7.961418,9.926834,94,18,grid,5
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_2,HA,7.966864,9.742177,146,9,grid - Intensification,5
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Nassarawa Doka Ta Yamma,SSA,7.418369,9.951917,137,9,grid - Intensification,5
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Unguwan Ayuba,HA,7.967667,9.947097,195,37,grid,5
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Sabon Garin Ankwa,HA,7.960619,9.834681,4001,682,grid,5
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Kurmin Mata L,HA,7.994413,9.658904,1382,52,grid - Intensification,5
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Unguwar Gishiri I,HA,8.036076,9.590569,150,9,grid - Intensification,6
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Buasang,HA,8.04568,9.597707,537,94,grid,6
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Unguwan Dangana,BUA,8.057675,9.596533,4304,734,grid,6
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Bishini Junction,HA,7.454866,9.649893,425,18,grid - Intensification,6
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Gumel Anguwan,BUA,7.974634,9.849552,11279,405,grid - Intensification,6
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_91,HA,7.459736,9.979515,1680,288,grid,6
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Mai Damishi,HA,7.978053,9.67884,1030,178,grid,6
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,HA_1,HA,8.02075,9.591828,1058,41,grid - Intensification,6
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Dudu Yamma Adamu Gora,HA,7.402182,9.643722,5698,206,grid - Intensification,6
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_34,HA,7.922801,10.06365,263,46,grid,6
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Usman Kwaturu,HA,7.976333,9.662642,1407,242,grid,6
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_19,HA,7.979651,9.956659,463,81,grid,6
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Nassrawa Doka Ta Gabas,HA,7.420611,9.952077,981,38,grid - Intensification,6
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Unguwan Bah,SSA,7.950557,9.677915,230,12,grid - Intensification,6
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Unguwan Bah,HA,7.949492,9.675806,4349,158,grid - Intensification,6
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Sabuwar Akilibu,BUA,7.460309,9.816315,955,38,grid - Intensification,6
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Kongoh,HA,7.939357,9.666246,382,67,grid,6
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Unguwan Shehu,HA,7.933057,9.663636,73,15,grid,6
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Unguwan Shamaki,HA,7.931497,9.658351,862,149,grid,6
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Harshua,HA,7.939849,9.650049,537,94,grid,6
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Unguwar Chatye,HA,7.947446,9.643001,1457,250,grid,6
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Rugar Nakakiya,HA,8.021131,9.621971,416,17,grid - Intensification,6
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Janari,HA,8.029876,9.618535,93,18,grid,6
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Shola,HA,8.035456,9.625431,651,114,grid,6
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Harkaje,HA,8.044507,9.620874,2050,351,grid,6
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Rugar Mohammed,HA,8.055395,9.625982,146,27,grid,6
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Ngra Fie 1,HA,8.061239,9.625301,374,66,grid,6
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Ngar Fie 2,HA,8.067877,9.625608,360,64,grid,6
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Pah,HA,8.067562,9.638709,591,103,grid,6
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Hanyar Mota,BUA,8.060174,9.641701,3631,620,grid,6
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Kurmin Mata Ll,HA,7.981783,9.649869,307,55,grid,6
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Kurmin Mata Lll,HA,7.984108,9.64215,347,62,grid,6
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Unguwan Galadima,HA,7.980865,9.634769,2098,359,grid,6
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_17,HA,7.977945,9.843421,105,8,grid - Intensification,7
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Gumel Anguwah Kaddah,HA,7.98546,9.850333,313,14,grid - Intensification,7
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Anguwan Rimi,HA,7.994831,9.852221,1559,268,grid,7
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Rugan Dan Baffa,HA,7.435631,9.977213,234,42,grid,7
+Kaduna,KD,Kachia,KD0808,Kachia,19008,Sakwai Gari,SSA,7.962115,9.937641,287,51,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Doh,BUA,8.022217,9.642657,3359,123,grid - Intensification,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Magaji,HA,8.025627,9.645678,769,133,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,HA_6,HA,8.031826,9.640928,385,68,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Haruna,HA,8.036552,9.634965,318,57,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Josep Mato,HA,8.044365,9.643715,397,70,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Alhaji Ruwa,HA,8.044148,9.653882,211,39,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Danbauchi,HA,8.055535,9.657585,610,106,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Shabo,SSA,8.061346,9.666998,97,19,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Sambo,HA,8.050698,9.669408,1254,216,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Kyat,HA,8.065387,9.674544,261,46,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Gyari,HA,8.061661,9.676918,284,50,grid,7
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Rugan Alhaji Hussaini,HA,8.064312,9.685205,56,13,grid,7
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Unguwan Yawa,HA,8.055895,9.694467,1125,194,grid,7
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Unguwan Bajju,HA,8.044752,9.693549,1545,265,grid,7
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,HA_1,HA,8.035004,9.698182,80,16,grid,7
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Unguwan Jatau,BUA,8.029387,9.701992,3824,653,grid,7
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Unguwan Maida,HA,8.029465,9.710367,521,91,grid,7
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Rugan Damina,HA,8.037057,9.71598,37,10,grid,7
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Ruggar Alhaji Abubakar,HA,8.036043,9.719935,28,9,grid,7
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Ruggar Ibrahim Bello,HA,8.042904,9.725295,144,26,grid,7
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,HA_4,HA,8.052554,9.724155,27,9,grid,7
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Gidan Sanda,HA,8.054077,9.710607,1702,292,grid,7
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Unguwan Dan Kura,BUA,8.062639,9.711,3369,575,grid,7
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Unguwan Musa Maigari,HA,8.048991,9.736482,448,79,grid,7
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Unguwan Yunusa,HA,8.047843,9.74203,1634,280,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Maicibi,HA,8.0746,9.673107,1318,227,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,HA_9,HA,8.084762,9.665075,103,19,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Kan Kurmi,BUA,8.084079,9.653837,5584,951,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Sama'Ila,HA,8.038583,9.664704,857,149,grid,7
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Kurmin Gyada,HA,8.03791,9.671765,1345,231,grid,7
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Abakwa11,HA,7.410758,9.992304,295,14,grid - Intensification,7
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Abakwa 1,HA,7.412479,9.979746,167,10,grid - Intensification,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,HA_7,HA,8.087439,9.648496,88,17,grid,7
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Gidan Zock,HA,8.08818,9.641489,313,56,grid,7
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Anguan Iliya,HA,8.088475,9.630067,425,74,grid,7
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Unguwar Danbaba,BUA,8.097799,9.628539,1856,318,grid,7
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Anguan Kwashe,HA,8.085199,9.622365,537,94,grid,7
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_31,HA,7.460812,9.82268,126,23,grid,7
+Kaduna,KD,Katari,KD0809,Kachia,19008,Unguwan S.T Peter,HA,7.453794,9.70759,670,25,grid - Intensification,7
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Ngar Kyana,HA,8.019295,9.709507,806,140,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Tunga,HA,8.080135,9.648731,318,57,grid,7
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Rugan Ilu Mato,HA,8.096925,9.640081,61,13,grid,7
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,HA_5,HA,8.106388,9.64989,63,14,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Rikajeb,HA,8.104163,9.660494,167,33,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Rugar Kasha,HA,8.116628,9.670618,36,10,grid,7
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Kastit,HA,8.112402,9.677997,805,140,grid,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,"Unguwan Mission, Simon Danbai",HA,7.427521,9.605461,573,100,grid,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Unguwan Baka,HA,7.413755,9.605116,120,22,grid,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_30,HA,7.407617,9.60064,261,46,grid,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Kwakwaren Gari Gabas,HA,7.393078,9.604613,650,113,grid,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,"Kwakware Gari, Unguwar Gwari, Ayuba Dogo",HA,7.386624,9.610242,197,37,grid,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Rugan Bello,HA,7.391584,9.625932,262,46,grid,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_3,HA,7.381699,9.628113,124,22,grid,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Kwakware Hanya,HA,7.368939,9.62306,1370,235,grid,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_8,HA,7.36377,9.614193,89,17,grid,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Unguwan Dogo,HA,7.358409,9.622994,1703,292,grid,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_15,HA,7.349521,9.637647,130,23,grid,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,SSA_2,SSA,7.346914,9.636203,25,8,grid,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_9,HA,7.332135,9.625111,58,13,grid,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Iddoh Gabas. Amos Dauda,HA,7.339934,9.612826,2118,363,grid,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_1,HA,7.321044,9.613498,5452,929,grid,7
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Rugar Ibrahim,HA,7.973995,9.802097,1718,64,grid - Intensification,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Rugan Alhaji Maishanu,HA,7.329051,9.642742,137,24,grid,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_16,HA,7.336194,9.65425,283,50,grid,7
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Kurumin Iya South Bulus Moses,HA,7.352845,9.657295,3402,581,grid,7
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Gidan Guda,SSA,8.028639,9.732407,169,33,grid,8
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Ruggar Usman,HA,8.017047,9.742115,68,14,grid,8
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Unguwar Sabon Gari Boham,HA,8.012942,9.733621,1492,256,grid,8
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Dam 2,HA,7.904825,10.077597,160,10,grid - Intensification,8
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Unguwar Zomo,SSA,8.007363,9.708268,140,25,grid,8
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Unguwar Sabon Gida A,HA,8.002538,9.713549,221,40,grid,8
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Unguwar Paul Makama,HA,7.996915,9.709008,897,155,grid,8
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Unguwar Danladi Bale,SSA,7.986558,9.707379,81,16,grid,8
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Unguwar Dodo Dan Jaba,HA,7.989117,9.717009,346,62,grid,8
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Unguwar Yohana,HA,7.99429,9.730379,1150,198,grid,8
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Rikawan,HA,8.110707,9.650819,308,55,grid,8
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Rugan Zonkwa,HA,8.004996,10.00821,252,45,grid,8
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Katul Hanya,SSA,7.977961,10.059459,150,9,grid - Intensification,8
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Accada,HA,7.910679,10.068056,879,35,grid - Intensification,8
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Sadak,HA,7.970485,9.695292,584,22,grid - Intensification,8
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Rugan Fulani,HA,7.326075,9.599429,307,55,grid,8
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Unguwan Hausawa,HA,7.320018,9.595511,747,130,grid,8
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Assako I,HA,7.962627,9.790351,1039,40,grid - Intensification,8
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Kwana Dutse,HA,8.003216,9.992199,391,69,grid,8
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,HA_2,HA,8.011869,9.601898,71,7,grid - Intensification,8
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Dam 2,HA,8.000128,9.599042,925,160,grid,8
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Kudah,SSA,7.956147,9.696176,228,12,grid - Intensification,8
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Ruga Yamusa,HA,8.002236,9.667552,175,10,grid - Intensification,8
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Korbuk,HA,8.001507,9.675247,271,47,grid,8
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Kurmi Sidi Ll,SSA,8.009517,9.679593,119,22,grid,8
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Tsauni,SSA,8.015271,9.676341,341,62,grid,8
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Kurmi Sidi L,HA,8.002753,9.684981,961,166,grid,8
+Kaduna,KD,Katari,KD0809,Kachia,19008,Katari,BUA,7.458881,9.697688,19949,715,grid - Intensification,8
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Dam 1,HA,7.992343,10.055979,449,18,grid - Intensification,8
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_20,HA,8.086561,9.865949,84,17,grid,8
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Bayan Dutse,HA,8.074193,9.864179,346,62,grid,8
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Rugan Jaja,HA,8.060023,9.866068,196,37,grid,8
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Kurmin Mazuga,HA,8.050028,9.881702,1710,293,grid,8
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Zagom,HA,8.032477,9.869835,1072,185,grid,8
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Rugar Adamu,HA,7.97461,9.823422,274,48,grid,8
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Ungwan Dauwa,HA,7.984771,9.827383,284,50,grid,9
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_14,HA,7.993574,9.828218,35,10,grid,9
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_15,HA,8.007892,9.835777,62,14,grid,9
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Dogon Tudu,HA,8.012068,9.830391,514,90,grid,9
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Rugar Idris Mohammed,HA,8.030008,9.831633,294,52,grid,9
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Kurmin Baba,HA,8.038154,9.837123,1356,233,grid,9
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Mafo Fadia,HA,8.012668,9.844868,441,77,grid,9
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_19,HA,8.017992,9.853259,386,68,grid,9
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,HA_3,HA,8.0676,9.617086,4,5,grid,9
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Unguwan Gbammel,HA,8.079311,9.609363,706,123,grid,9
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwan Saidu,HA,8.080708,9.629672,250,44,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Nasa Barracks,HA,7.99412,9.972402,4988,181,grid - Intensification,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_17,HA,7.450845,9.688859,80,7,grid - Intensification,9
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Dam 1,HA,7.997578,9.608811,451,79,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,"Katul Gida, (Crossing)",HA,7.971016,10.091743,595,104,grid,9
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Dakwargwa,HA,7.964959,9.757869,959,165,grid,9
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Gidan Kure,HA,8.117104,9.645506,226,41,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Unguwan Waziri,HA,8.00382,9.963714,83,17,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_18,HA,8.004295,9.957261,99,19,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_20,HA,8.011026,9.960096,247,44,grid,9
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Rugan Mallam Toro,HA,8.070054,9.695271,36,10,grid,9
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Unguwan Peter Audu,HA,8.079616,9.702049,598,104,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_27,HA,7.85967,10.057002,213,39,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Unguwar Baka,HA,7.856719,10.052555,254,45,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Kutura Rimi,HA,7.830236,10.055064,1315,226,grid,9
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Dibode,HA,7.950268,9.733551,1296,223,grid,9
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Unguwan Tama,HA,7.938561,9.721947,791,137,grid,9
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Ardo Jamuh,HA,7.937051,9.713353,92,18,grid,9
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Gidan Tama,HA,7.930098,9.717134,1327,229,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Sabeji,HA,7.948371,10.068042,761,31,grid - Intensification,9
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_56,HA,7.448186,9.871359,466,19,grid - Intensification,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Wakili Tukur,SSA,7.43297,9.697402,117,21,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Alhaji Maiduna,HA,7.430779,9.694753,234,42,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,Unguwan Dauda,HA,7.41588,9.693418,348,63,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Ibrahim Usman,HA,7.413176,9.687634,399,70,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_13,HA,7.407296,9.682209,253,45,grid,9
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,HA_12,HA,7.922915,9.720851,59,13,grid,9
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Yaji,HA,7.912145,9.727651,912,158,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_12,HA,7.402338,9.679428,212,39,grid,9
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Ramin Kura,HA,7.916608,9.710483,668,117,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_16,HA,7.398644,9.688783,82,16,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Ardo Abdullahi,HA,7.371956,9.693984,119,22,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,Unguwan John Mai Samari,HA,7.35699,9.705593,725,126,grid,9
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_22,HA,7.337509,9.711627,136,24,grid,9
+Kaduna,KD,Bishini,KD0804,Kachia,19008,"Rugar Abubakar Sule, Ardo",HA,7.320836,9.704526,94,18,grid,9
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Kadoro,HA,7.319183,9.71063,312,56,grid,9
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_28,HA,7.322675,9.729083,49,12,grid,9
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_26,HA,7.303894,9.727949,39,10,grid,9
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Rishi,HA,7.295602,9.719527,2180,373,grid,9
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_27,HA,7.316635,9.696471,143,26,grid,9
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Anguwa Koro,HA,7.311394,9.694377,303,54,grid,9
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_31,HA,7.286384,9.709566,470,83,grid,9
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_23,HA,7.28254,9.712799,84,17,grid,9
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_21,HA,7.276646,9.707058,77,16,grid,9
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Sabon Garin Goto,HA,7.284659,9.69547,2193,375,grid,9
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,HA_6,HA,7.903142,9.700815,80,16,grid,9
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_1,HA,7.892067,9.702737,206,38,grid,9
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Ruga Wakili,HA,7.883373,9.716757,55,13,grid,9
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_3,HA,7.870752,9.713268,35,10,grid,9
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_14,HA,7.863724,9.698291,128,23,grid,9
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,HA_1,HA,7.874016,9.68465,109,20,grid,9
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Gandu,HA,7.883113,9.681096,312,56,grid,9
+Kaduna,KD,Kachia,KD0808,Kachia,19008,Sakwai Hanya,HA,7.959727,9.924854,83,17,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Rugar Saidu,HA,7.955779,9.926343,54,12,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_14,HA,7.942132,9.938653,72,15,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_13,HA,7.93542,9.935991,46,11,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_8,HA,7.932776,9.925641,79,16,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_4,HA,7.93356,9.920209,54,12,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_7,HA,7.926479,9.919562,163,32,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_10,HA,7.922623,9.927704,84,17,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Yelwa,HA,7.922204,9.934654,601,105,grid,9
+Kaduna,KD,Kachia,KD0808,Kachia,19008,HA_7,HA,7.915575,9.921219,22,8,grid,9
+Kaduna,KD,Kachia,KD0808,Kachia,19008,Itta,HA,7.907036,9.91345,408,71,grid,9
+Kaduna,KD,Kachia,KD0808,Kachia,19008,HA_2,HA,7.904076,9.907229,31,9,grid,9
+Kaduna,KD,Kachia,KD0808,Kachia,19008,HA_3,HA,7.895993,9.912744,65,14,grid,9
+Kaduna,KD,Kachia,KD0808,Kachia,19008,HA_6,HA,7.893283,9.918174,56,13,grid,9
+Kaduna,KD,Kachia,KD0808,Kachia,19008,HA_5,HA,7.885909,9.917131,164,32,grid,9
+Kaduna,KD,Kachia,KD0808,Kachia,19008,Kabode Gabas,HA,7.877289,9.90364,1056,182,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_12,HA,7.906956,9.930433,45,11,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Rugan Ardo Murutu,HA,7.904333,9.946324,123,22,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Rugan Antai Magaji,HA,7.912646,9.958191,141,25,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Ekwa,SSA,7.925258,9.960556,106,20,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Sabon Kaura,SSA,7.920638,9.971896,212,39,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Rugan Gagga,HA,7.917095,9.983756,115,21,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Ungwan Gaude,HA,7.911157,9.990998,296,53,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Antai Gida,HA,7.905858,10.00761,604,105,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Kurmin Jarmi,HA,7.884469,10.014341,670,117,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Bage,HA,7.879519,10.003277,64,14,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Anguwan Madaki Gadanaji,HA,7.876373,9.988506,1600,275,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Ungwan Alhaji,HA,7.900111,9.983934,396,69,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_21,HA,7.870935,9.966779,408,71,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Wakeh,SSA,7.869793,9.964726,208,39,grid,9
+Kaduna,KD,Kachia,KD0808,Kachia,19008,HA_1,HA,7.865109,9.892634,202,38,grid,9
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Akuru,HA,7.860884,9.872047,523,92,grid,9
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_22,HA,7.849105,9.890141,21,8,grid,9
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Ruga Buda,HA,7.840578,9.88803,69,15,grid,9
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Pachi,HA,7.83268,9.874508,817,141,grid,9
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Rana,SSA,7.838772,9.872114,198,37,grid,9
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Bayan Dutse,HA,7.840905,9.854429,415,72,grid,9
+Kaduna,KD,Awon,KD0803,Kachia,19008,Akwaya Hanya,HA,7.84529,9.836164,536,94,grid,9
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Pah,HA,7.851887,9.837793,308,55,grid,9
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Rugan Damina,HA,7.86146,9.832812,86,17,grid,9
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Ankwa Gari,HA,7.876662,9.844573,1150,198,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_19,HA,7.465307,9.697984,151,9,grid - Intensification,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,Ruga Abubakar,HA,7.469015,9.700761,91,18,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,Ruga Zakari Yau,SSA,7.471595,9.701861,58,13,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_22,HA,7.480211,9.707086,89,17,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_21,HA,7.493206,9.702804,151,28,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_14,HA,7.50222,9.694053,74,15,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,Agwangurma,HA,7.519705,9.701679,300,54,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Ibrahim Ardo,HA,7.526551,9.685316,162,31,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,Katambi,HA,7.521842,9.678519,1304,224,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Alhaji Bello,HA,7.505337,9.714486,328,60,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Alhaji Sule Umaru,HA,7.505582,9.719107,141,25,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Alhaji Mainasara,HA,7.505715,9.728796,774,134,grid,9
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Mallam Maidoki,HA,7.49844,9.739172,78,16,grid,9
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Sabon Chigu B,HA,7.510066,9.74162,419,73,grid,9
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Chiguliu A,HA,7.53225,9.748282,921,159,grid,9
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Gumel Secretariat,HA,7.965995,9.859844,2169,80,grid - Intensification,9
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Nassarawa,HA,8.038248,9.896487,183,35,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_3,HA,8.038709,9.90604,35,10,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Hayin Katafawa,HA,8.021634,9.909087,917,159,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Asibiti,HA,7.804152,10.045875,67,14,grid,9
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Katul Kurmi,HA,8.000835,10.031314,244,44,grid,10
+Kaduna,KD,Kachia,KD0808,Kachia,19008,HA_10,HA,7.969119,9.93097,102,19,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_35,HA,7.268743,9.733384,176,34,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_4,HA,7.263797,9.739614,362,65,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_6,HA,7.257043,9.751122,119,22,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_8,HA,7.253521,9.755364,93,18,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_7,HA,7.25775,9.7597,133,24,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_14,HA,7.26427,9.764151,82,16,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_12,HA,7.282461,9.769214,193,36,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Richi B,HA,7.297188,9.758555,1763,302,grid,10
+Kaduna,KD,Kachia,KD0808,Kachia,19008,HA_8,HA,7.975462,9.921569,61,13,grid,10
+Kaduna,KD,Kachia,KD0808,Kachia,19008,HA_4,HA,7.982513,9.91622,27,9,grid,10
+Kaduna,KD,Kachia,KD0808,Kachia,19008,Rugar Alhaji Mai Doki,HA,7.977692,9.912195,256,45,grid,10
+Kaduna,KD,Kachia,KD0808,Kachia,19008,Jaudu Yamma,SSA,7.973633,9.907949,133,24,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Fulani Begu,HA,7.985794,9.898798,157,30,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Sabon Agunu,HA,7.987127,9.890855,463,81,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Unguwan Sanyi,HA,7.998213,9.901053,204,38,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Tudun Maje,HA,8.001699,9.898131,755,131,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_33,HA,7.887546,10.066706,107,20,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_31,HA,7.885102,10.060857,18,7,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Ungwan Agunu,SSA,7.888177,10.040474,339,61,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Anguwa Dutse,SSA,7.890423,10.040306,424,74,grid,10
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Unguwan Maisaje,HA,7.934501,9.69541,548,95,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_19,HA,7.32802,9.783647,221,40,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_23,HA,7.325192,9.791953,81,16,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_24,HA,7.335946,9.792559,106,20,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Chikwale A,HA,7.346017,9.781414,2620,448,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_19,HA,7.280806,9.689101,280,49,grid,10
+Kaduna,KD,Kachia,KD0808,Kachia,19008,Engineer Barrack,HA,7.943538,9.88477,693,27,grid - Intensification,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Rugan Kundi,HA,7.894158,9.723472,270,47,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_5,HA,7.89882,9.743481,88,17,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Rugan Mai Shanu,HA,7.913669,9.749731,433,76,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Rugan Elu,HA,7.896304,9.748943,25,8,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Kaleka,HA,7.886348,9.767467,191,36,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Kankun,HA,7.884638,9.778279,562,98,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Atiku,HA,7.898621,9.789789,409,71,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Ibrahim,HA,7.892464,9.802697,500,88,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Bawa,HA,7.880084,9.800507,634,111,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_28,HA,8.012548,10.041724,10,6,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_26,HA,8.020229,10.039271,327,59,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Rugan Habu,HA,8.011286,10.048799,62,14,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Rugan Durunguwa,HA,8.009455,10.054506,45,11,grid,10
+Kaduna,KD,Kachia,KD0808,Kachia,19008,Rugar Shagari,HA,7.933044,9.865121,1246,214,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Unguwan Madugu,HA,7.959584,9.955226,78,16,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_23,HA,7.95433,9.969668,491,87,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Sabon Kurmi,HA,7.957874,9.948842,129,23,grid,10
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Baka,HA,8.024237,9.662664,300,54,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_28,HA,7.460549,9.805601,210,11,grid - Intensification,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Rugar Ardo,SSA,7.462796,9.867637,70,7,grid - Intensification,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_43,SSA,7.464236,9.86741,111,20,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_57,HA,7.472268,9.8741,260,46,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_1,HA,7.96524,9.731516,86,7,grid - Intensification,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_2,HA,7.738227,9.627148,23,8,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Maje,HA,7.719417,9.637467,329,60,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Dam Camp,HA,7.714956,9.640772,1190,205,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruga Alhaji Sambo,HA,7.702713,9.64032,29,9,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruga Isah Mohammed,HA,7.708039,9.656947,1306,225,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Sabon Kaura,HA,7.98041,9.884825,157,30,grid,10
+Kaduna,KD,Kachia,KD0808,Kachia,19008,Rugar Adamu,HA,7.915756,9.906452,121,22,grid,10
+Kaduna,KD,Kachia,KD0808,Kachia,19008,Inseme,HA,7.915404,9.900419,164,32,grid,10
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Ruga Gori,HA,7.967928,9.63636,215,40,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Kansaraki,SSA,7.415084,9.976982,45,6,grid - Intensification,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Banikanwa I,HA,7.791082,9.996281,728,126,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_5,HA,7.976256,9.757125,53,12,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Allo,HA,7.983654,9.76446,529,93,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Saminaka,HA,7.702886,9.669269,281,49,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Doka,HA,7.697893,9.679156,1440,247,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Rugar Abubakar,HA,7.952693,9.763684,96,18,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Rugar Jae,HA,7.948439,9.767559,236,42,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Sabon Gora,SSA,8.004456,9.891424,184,35,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_4,HA,7.32168,9.587646,153,29,grid,10
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,Sabon Mashi,HA,7.993581,9.618351,271,47,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Kutura Buzu,HA,7.816737,10.01978,525,92,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Rugan Adamu,HA,7.380702,9.638171,259,46,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Atara,HA,7.696086,9.693417,531,93,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_16,HA,7.677892,9.700466,50,12,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Rugan Alhaji Magaji,HA,7.675473,9.707622,68,14,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_20,HA,7.67804,9.72104,29,9,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Rugan Alhaji Haruna,HA,7.681242,9.729947,212,39,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,SSA_4,SSA,7.678821,9.734816,154,29,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ariko,HA,7.683836,9.747656,1626,279,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Ankwa Arewa,SSA,7.878226,9.848705,257,45,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Ibrahim,SSA,7.851181,9.705381,56,13,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Mai Nasara,HA,7.842611,9.706962,54,12,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Alhaji Ardo,HA,7.836547,9.72633,157,30,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Ishe,HA,7.842641,9.732466,43,11,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Dare I,HA,7.835572,9.737772,39,10,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Madugu Kaya,HA,7.813606,9.735379,262,46,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Akwayan Daji,SSA,7.808673,9.734254,150,28,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Mazadu,HA,7.80295,9.73979,107,20,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Akwana I,HA,7.794434,9.728834,332,60,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Wakili,HA,7.837638,9.747486,26,8,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Alhaji Abu,SSA,7.826213,9.765198,60,13,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Nasamu,HA,7.824455,9.770362,180,35,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Akwando,HA,7.806453,9.780256,1366,235,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Rugan Rege,HA,7.797153,9.771207,70,15,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Gidan John,HA,7.783837,9.76205,33,9,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Rugan Dula,HA,7.78227,9.755888,19,7,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Idebin,HA,7.773041,9.756272,64,14,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Igo I,HA,7.772395,9.745283,337,61,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Igo Ii,SSA,7.766901,9.740121,117,21,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Anturu Unguwan Yunana Waje,HA,7.759304,9.726046,1522,261,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Unguwan Toka,HA,7.666989,9.704307,787,136,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Tudun Wada,HA,7.991476,9.773031,490,87,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_2,HA,7.30073,9.564654,10,6,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Gidan Bala,SSA,7.291663,9.570348,84,17,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Bagama Haruna Bagama,HA,7.287796,9.558576,706,123,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_14,HA,7.315879,9.646049,170,33,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_11,HA,7.313203,9.639345,54,12,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_7,HA,7.305633,9.638856,238,43,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_12,HA,7.312963,9.631856,156,30,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Gidan Gambo,HA,7.928956,9.993605,10,6,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Rugan Jibro Allah Magani,HA,7.93947,9.984149,72,15,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Ungwan Maigoro,HA,7.95596,9.998458,719,125,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_34,SSA,7.469414,9.834307,47,11,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_42,HA,7.472572,9.829328,129,23,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Adage Doka,HA,8.062639,9.904305,579,101,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Auguwan Akau,HA,8.005211,9.880552,218,40,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Anguwan Akau,HA,8.009453,9.8714,193,36,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_6,HA,7.939967,9.774271,6,6,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_7,HA,7.935069,9.773706,211,39,grid,10
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Bonjock 2,HA,7.916958,9.6828,508,90,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Unguwar Amadu Mai Gari,HA,7.783328,9.78595,2555,437,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_13,HA,8.000859,9.815395,24,8,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Ikka Mallam,HA,8.005178,9.801753,394,69,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Rugan Iguda,HA,7.655613,9.697267,105,20,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Kintaru,HA,7.640747,9.707639,315,57,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_11,HA,7.625242,9.690951,53,12,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_12,HA,7.609446,9.696212,36,10,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_13,HA,7.593644,9.696456,31,9,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Dutse,HA,7.586665,9.697747,143,26,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_23,HA,7.584878,9.681554,12,6,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Alewa,HA,7.569996,9.687047,288,51,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Gidan Magaji,HA,7.554665,9.675289,588,102,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Kaura,HA,7.56825,9.664407,905,157,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Agyagwe,HA,7.567399,9.653217,80,16,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_6,HA,7.572376,9.650038,65,14,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Koron Tsoho,HA,7.578256,9.648767,613,107,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Kigwali,HA,7.582541,9.703401,495,88,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_15,HA,7.593326,9.709447,89,17,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Kurutu,HA,7.576772,9.72598,1167,201,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Pangyada,HA,7.561626,9.631451,240,43,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Panda,HA,7.567991,9.622157,143,26,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Anfani,HA,7.556341,9.607009,669,117,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Rugan Alhaji Hodi/ Filani,HA,7.561428,9.601851,55,13,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Rugan Hassan,HA,7.568557,9.601987,198,37,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Kurmin Taba,HA,7.611765,9.724871,377,67,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_27,HA,7.786584,9.984901,53,12,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Bugai,HA,7.782066,9.976456,165,32,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Rugan Isah,HA,7.773146,9.946758,119,22,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_36,HA,7.776415,9.944643,41,11,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Nyanya,HA,7.785066,9.926064,1230,211,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_1,HA,7.473307,9.626339,60,13,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Badoko South,HA,7.485996,9.624677,819,142,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Ruga Wakili,HA,7.498237,9.614296,130,23,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Kisam,HA,7.503195,9.607628,408,71,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Alhaji Na Allah,HA,7.559958,9.708094,100,19,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Agwangwara,HA,7.550546,9.703353,215,40,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Alhaji Janare,SSA,7.54829,9.709411,86,17,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Unguwan Gora,HA,7.547955,9.714568,261,46,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Alhaji Nanika,HA,7.543419,9.711727,129,23,grid,10
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,HA_2,HA,8.050098,9.632715,120,22,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Anguwa Gambo,HA,7.846933,10.016421,529,93,grid,10
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar Amadu Sarki,HA,8.018524,9.630222,544,21,grid - Intensification,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Unguwan Wakili,HA,7.995949,9.957076,124,22,grid,10
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,HA_1,HA,8.047362,9.616043,75,15,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,SSA_15,SSA,7.369189,9.641313,37,10,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Rugan Lawal,HA,7.367703,9.637383,192,36,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Tukur Haruna,HA,7.419388,9.68213,129,23,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_98,HA,7.398334,10.006186,106,8,grid - Intensification,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_97,HA,7.392504,10.004566,47,11,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_33,SSA,7.385789,10.000161,22,8,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_124,HA,7.376477,9.996914,220,40,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_127,HA,7.369748,10.004543,219,40,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_131,HA,7.361084,10.007699,105,20,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Kudari,HA,7.363553,10.018739,283,50,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_25,HA,7.318959,9.792879,95,18,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Rugan Alhaji Saidu,HA,8.049931,9.922461,153,29,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_9,HA,8.051084,9.926417,167,33,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,SSA_4,SSA,7.283797,9.556606,62,14,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,SSA_18,SSA,7.282751,9.557867,37,10,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_81,HA,7.434672,9.910686,33,6,grid - Intensification,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_62,HA,7.43977,9.905449,123,8,grid - Intensification,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_69,HA,7.423104,9.893819,15,7,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_67,HA,7.418004,9.893379,52,12,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_64,HA,7.419759,9.889278,117,21,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_49,HA,7.414919,9.88185,427,75,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_61,HA,7.421217,9.878648,78,16,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_45,HA,7.420972,9.871055,343,62,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_55,HA,7.408887,9.900657,18,7,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_83,HA,7.392617,9.914343,37,10,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Gidan Sule,HA,7.380927,9.918176,110,20,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_70,HA,7.348662,9.897389,159,31,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Sabon Gari Doka,HA,7.335777,9.906902,717,124,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Anguwan Noma,HA,7.317485,9.908521,899,156,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_65,HA,7.311216,9.915913,130,23,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_72,HA,7.306981,9.922022,95,18,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_71,HA,7.301903,9.919297,471,83,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_68,HA,7.292058,9.918977,321,58,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_74,HA,7.308149,9.927483,253,45,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_95,HA,7.302333,9.928406,110,20,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_76,HA,7.316836,9.93897,518,91,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_78,HA,7.336311,9.94112,277,49,grid,10
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Unguwan Kura,HA,7.966179,9.661932,212,11,grid - Intensification,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Maigari,HA,7.927187,9.849925,664,116,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_24,HA,7.456104,9.743455,78,16,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Rugan Alhaji Damo,HA,7.676001,9.751068,44,11,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Unguwan Waje,HA,7.674048,9.763437,62,14,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ankuro,HA,7.675386,9.77147,543,95,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Wada,HA,7.790652,9.798493,196,37,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Ciroma Lawal,HA,7.441462,9.724997,132,23,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Alhaji Namata,HA,7.427187,9.724013,262,46,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_110,HA,7.337642,10.046166,492,87,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Alhaji Magaji,HA,7.788166,9.802758,39,10,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Rumada,HA,7.784717,9.816446,94,18,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_32,HA,7.782255,9.826895,62,14,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Unguwar Rimi,HA,7.794625,9.836277,496,88,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Gora Yamma,HA,7.804489,9.84727,1362,234,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Gidan Ali,HA,7.563564,9.595328,86,17,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_87,HA,7.464918,9.995425,122,22,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_94,HA,7.452003,9.997771,345,62,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_136,HA,7.403387,10.040371,59,13,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_107,HA,7.411178,10.041285,373,66,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_30,HA,7.949136,10.060504,918,36,grid - Intensification,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_103,HA,7.429163,9.957634,11,5,grid - Intensification,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Unguwan Halidu,HA,7.276656,9.540446,227,41,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_88,HA,7.406223,9.965663,108,20,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_28,SSA,7.41893,10.036156,33,9,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_105,HA,7.423948,10.040198,43,11,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_26,SSA,7.426111,10.043439,47,11,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_109,HA,7.428423,10.050936,76,16,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_112,HA,7.430925,10.060421,47,11,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_15,SSA,7.435148,10.061376,36,10,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_115,HA,7.439566,10.060585,67,14,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_111,HA,7.44523,10.052451,584,102,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_134,HA,7.429197,10.069065,82,16,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_151,HA,7.421008,10.070933,103,19,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_154,HA,7.419697,10.081361,106,20,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Rugan Fulani Yau,HA,7.427628,10.091665,161,31,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_158,HA,7.418802,10.098613,341,62,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_128,HA,7.409996,10.102101,86,17,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_117,HA,7.402339,10.102914,144,26,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_125,HA,7.4033,10.095756,84,17,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_156,HA,7.392138,10.091382,161,31,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Rugan Anguwan Doma,HA,7.393217,10.076844,200,37,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_2,SSA,7.409081,10.092348,28,9,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_119,HA,7.405033,10.086999,191,36,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Panzaki,HA,8.002391,9.768691,386,68,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Rugar Alhaji Ismaila,HA,7.996784,9.762547,97,19,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Shankam,HA,7.99395,9.747784,208,39,grid,10
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Uguwar Derki,HA,7.975712,9.738928,913,36,grid - Intensification,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Jantan,HA,7.821951,9.695364,71,15,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Amuse,HA,7.815373,9.684563,233,42,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Akwana Ii,HA,7.803909,9.705193,368,65,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Unguwan Pius,HA,7.974995,9.978181,170,33,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_25,HA,7.463222,9.746248,51,12,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_18,HA,7.461648,9.751203,101,19,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Lawal,HA,7.788531,9.851475,15,7,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Alhaji Mobe,HA,7.783483,9.860183,39,10,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Kasan Kogi,HA,7.794498,9.868777,905,157,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Dogo,HA,7.811384,9.875364,206,38,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Burji,HA,7.77958,9.920194,97,19,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Kurmin Kwara,HA,7.55303,9.75516,272,48,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Rugan Shanono,HA,7.680255,9.777175,70,15,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Rugan Bawa,HA,7.684924,9.800582,746,129,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Gidan Gomna,HA,7.576701,9.748066,94,18,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Baura,HA,7.594438,9.748479,359,64,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Madaki,HA,7.599505,9.772031,153,29,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Gidan Jara,HA,7.595688,9.778653,169,33,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_104,HA,7.294152,9.957197,76,16,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_89,HA,7.291218,9.968132,267,47,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_85,HA,7.284107,9.965051,153,29,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_92,HA,7.284895,9.980605,175,34,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_82,HA,7.440466,9.959703,16,7,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_20,HA,7.449112,9.965365,134,24,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_79,HA,7.461859,9.951076,159,31,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_80,HA,7.467623,9.955613,191,36,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Rugan Alhaji Ali,HA,7.569607,9.593963,57,13,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_29,SSA,7.370564,10.0735,47,6,grid - Intensification,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_34,HA,7.77971,9.844314,39,10,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_29,HA,7.766828,9.844885,108,20,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Barga,HA,7.752596,9.831773,531,93,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_12,SSA,7.34479,10.041866,46,11,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_101,HA,7.344237,10.034496,197,37,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_24,HA,7.442464,9.655344,83,17,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_15,HA,7.745909,9.842466,47,11,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Rugan Ardo Dudu,SSA,7.747115,9.847636,137,24,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Bangaskiya,HA,7.737732,9.848576,261,46,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Mallam Yahaya Adamu,HA,7.472249,9.73619,146,27,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_108,HA,7.453093,10.046945,215,40,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_27,HA,7.346778,9.806031,69,15,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Anguwan Pah A,SSA,7.32821,9.825565,183,35,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_33,HA,7.326243,9.824133,163,32,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_34,HA,7.326299,9.82996,243,43,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_24,HA,8.009163,9.99549,56,13,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Dogo,HA,7.747783,9.86656,198,37,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Maikasuwa,HA,7.736442,9.868914,346,62,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Rugar Alhaji Isah,SSA,7.448934,9.631988,51,6,grid - Intensification,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,SSA_1,SSA,7.449789,9.62911,66,7,grid - Intensification,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_10,HA,7.443359,9.628421,28,9,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,Rugan Idris Salisu,HA,7.439333,9.619419,240,43,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_12,HA,7.957914,9.809574,111,20,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Anguwan Gajere,HA,7.636709,10.039155,553,96,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_2,HA,7.474313,9.631384,37,10,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_4,HA,7.483091,9.637814,60,13,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_6,HA,7.474528,9.644018,36,10,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_13,HA,7.473229,9.643789,137,24,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_8,HA,7.483318,9.657056,79,16,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_7,HA,7.478633,9.660126,105,20,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_17,HA,7.477627,9.662708,184,35,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Rugan Ibrahim,SSA,7.728251,9.868953,59,13,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Etem,HA,7.727975,9.874877,313,56,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_162,HA,7.395528,10.103604,75,15,grid,10
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Ardo Saleh,SSA,8.03233,9.679734,79,16,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Unguwar Oga,SSA,7.459245,9.811356,54,6,grid - Intensification,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Kurmin Zaki,HA,7.642041,9.75972,146,27,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Kurmin Aja,HA,7.643124,9.749964,207,38,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Rugan Saleh,HA,7.640841,9.740992,115,21,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_19,HA,7.637662,9.7508,46,11,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_102,HA,7.477997,10.039789,85,17,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Gidan Sunday,HA,7.496889,10.051045,73,15,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Chikware,HA,7.510011,10.059958,473,83,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Gidan Peter,HA,7.497163,10.023919,108,20,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Rugan Shuaibu,HA,7.502546,10.010505,308,55,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Maidoro,HA,7.801461,9.964427,270,47,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Kafenwa,HA,7.524038,10.050709,197,37,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Mai Ido Rafi,HA,7.740136,9.888402,565,98,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_30,HA,7.439236,9.815806,209,39,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_22,HA,7.945914,9.966816,77,16,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Rugar Saleh,SSA,7.996593,9.874419,62,14,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Rugar Ardo Kaduna,HA,7.988311,9.869176,107,20,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_35,HA,7.432275,9.829645,104,20,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_39,HA,7.428051,9.845141,192,36,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Gidan Yarima,HA,7.608059,10.030755,74,15,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Bakin Garma,HA,7.594592,10.039199,279,49,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Sabon Gidan Duna,HA,7.589413,10.032026,191,36,grid,10
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Ruga Ori,HA,8.079822,9.682507,52,12,grid,10
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Kwagiri Jaba,HA,8.088895,9.681052,125,22,grid,10
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Rugar Manu,SSA,8.09279,9.685998,62,14,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_116,HA,7.532876,10.065149,53,12,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Gidan Dutse,HA,7.543199,10.070946,329,60,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_14,HA,7.731507,9.894386,31,9,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Rugan Audu,HA,7.717857,9.896944,30,9,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Dabo,HA,7.706099,9.895595,868,150,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Liman,HA,7.885354,9.858122,143,26,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_2,HA,8.069333,9.898751,162,31,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Ruga Alhaji Ibrahim,HA,7.926033,9.836215,33,9,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Ruga Danlami,HA,7.930634,9.831013,112,21,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Garba,HA,7.935266,9.814061,243,43,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_9,HA,7.917659,9.804307,198,37,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Inluwo,BUA,7.442993,9.902016,2321,86,grid - Intensification,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_10,HA,7.666095,9.686552,37,10,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_8,HA,7.672414,9.670426,23,8,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Rugan Yau Jab,HA,7.663324,9.664228,62,14,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Rugan Dotiya,HA,7.659151,9.666382,245,44,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Maicibi,HA,7.911737,9.841883,136,24,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Danladi,HA,7.911321,9.849478,58,13,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Gidan Duna,SSA,7.577006,10.020413,153,29,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_6,SSA,7.427538,10.107964,24,8,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_130,HA,7.433659,10.109898,183,35,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_36,HA,7.354041,9.810285,65,14,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Gidan Ogah A Chikwale,HA,7.375571,9.8012,362,65,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Ruga Jauro,HA,7.489217,9.637907,57,13,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_18,HA,7.426782,9.77692,76,16,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_27,SSA,7.42282,9.771064,60,13,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_11,HA,7.412437,9.766423,89,17,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_10,HA,7.417233,9.759824,68,14,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_5,HA,7.415202,9.746198,180,35,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_17,HA,7.403978,9.768863,73,15,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_20,SSA,7.399248,9.768488,43,11,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Unguwar Koro,HA,7.393722,9.755024,398,70,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_5,HA,7.506343,9.639459,95,18,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Alili B,HA,7.515096,9.631606,175,34,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_53,HA,7.44726,9.900828,204,38,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_3,HA,7.525828,9.632886,88,17,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_13,HA,7.703173,9.888997,33,9,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Maigoro,HA,7.691626,9.896216,573,100,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_96,HA,7.407883,10.074369,110,20,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_29,HA,7.327928,9.738255,110,20,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,SSA_10,SSA,7.275866,9.69299,45,11,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_26,HA,7.465256,9.796798,172,10,grid - Intensification,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_21,HA,7.462944,9.789076,62,14,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_20,HA,7.468341,9.775746,158,30,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Mallam Sani,HA,7.475365,9.769741,30,9,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugar Mallam Abu,HA,7.483087,9.766208,129,23,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Rugan Alhaji Nadutse,HA,7.487511,9.761699,125,22,grid,10
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,HA_11,HA,7.96589,9.712964,23,8,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Unguwan Aforo,SSA,7.774556,9.813644,83,17,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Wuro Gaya,HA,7.99406,10.103546,356,64,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Gumel Anguwan Pah,HA,7.970921,9.871441,653,25,grid - Intensification,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Patel,HA,7.736062,9.918717,222,40,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_133,HA,7.35211,10.038765,32,9,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_23,SSA,7.353275,10.041992,33,9,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_138,HA,7.36036,10.039975,57,13,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Rugan Jatau,HA,7.671091,9.883305,67,14,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,SSA_6,SSA,7.671567,9.868027,49,12,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Rugan Yakubu,HA,7.688301,9.857067,311,56,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Gidan Burga,HA,7.693497,9.865037,81,16,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Ebiya,HA,7.502007,9.790174,166,33,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_22,HA,7.520306,9.789428,68,14,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Hamfu,HA,7.518917,9.800815,222,40,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_29,HA,7.544433,9.809963,85,17,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Kula Da Bako,HA,7.574995,9.807015,79,16,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Gidan Rabo,HA,7.585483,9.82226,158,30,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Turimgal,HA,7.601931,9.815484,459,81,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Amadu Padama,HA,7.535656,9.837827,158,30,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Uji A,HA,7.510973,9.85703,326,59,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_46,HA,7.358174,9.885461,38,10,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_58,HA,7.346059,9.875862,29,9,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_44,HA,7.340013,9.870776,102,19,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Rugan Alhaji Magora,HA,7.330471,9.873261,96,18,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Kurmin Baba,HA,7.330189,9.878182,94,18,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Alhaji Nagare,HA,7.765045,9.81014,18,7,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Saleh,HA,7.757629,9.803252,96,18,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_24,HA,7.754325,9.780639,107,20,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Audu,HA,7.744399,9.76361,201,38,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Akama,HA,7.73476,9.761097,74,15,grid,10
+Kaduna,KD,Kurmin Musa,KD0810,Kachia,19008,HA_4,HA,7.99938,9.626182,61,13,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Rugar Alhaji Yalle,HA,7.461054,9.91164,70,15,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_86,HA,7.462098,9.916834,87,17,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_10,SSA,7.457822,9.919017,42,11,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Rigar Alhaji Walijo,SSA,7.472072,9.913096,102,19,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Rigar Alhaji Dauji,HA,7.487254,9.904367,152,29,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_15,HA,7.475617,9.688264,25,8,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_10,HA,7.481887,9.679483,140,25,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,HA_9,HA,7.486132,9.679116,35,10,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_47,HA,7.505259,9.849376,61,13,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_4,HA,7.92687,9.733013,23,8,grid,10
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,HA_9,HA,7.929434,9.734214,59,13,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_21,HA,7.681019,9.912524,39,10,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Maraya,HA,7.673863,9.920416,124,22,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Gidan Gaskiya,HA,7.680462,9.941337,191,36,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_25,HA,7.6899,9.964296,45,11,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Gabachuwa Arewa,HA,7.698464,9.969959,258,46,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Gabachuwa Kudu,HA,7.701949,9.964329,298,53,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Gidan Akawu Ii,HA,7.714144,9.975488,276,48,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Gidan Ali,HA,7.720092,9.956342,54,12,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Gidan Hassan Ii,HA,7.720302,9.947258,97,19,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Gidan Hassan I,HA,7.729999,9.946109,244,44,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Mani,HA,7.719345,10.002359,249,44,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Gidan Sauda,HA,7.739478,9.943399,80,16,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Gidan Liti Inluwo,HA,7.499016,9.916528,27,9,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Amale,HA,7.511943,9.925852,179,34,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_75,HA,7.53463,9.931184,100,19,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Gidan Dan Fulani,HA,7.531335,9.962349,421,74,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_146,HA,7.45521,10.061106,96,18,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_25,HA,7.68804,9.81379,21,8,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_26,HA,7.676552,9.814671,63,14,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_27,HA,7.650698,9.796346,23,8,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_22,HA,7.645037,9.798626,25,8,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Jagaba,SSA,7.634243,9.799261,173,34,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Gidan Maude,HA,7.631862,9.793616,72,15,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Gidan Yaya,HA,7.637212,9.822668,59,13,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Impi Kadara B,HA,7.641678,9.834334,276,48,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_161,HA,7.439704,10.101005,105,20,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Gidan Baba Mai Mota,HA,7.636106,9.682013,39,10,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Katin Bisa,HA,7.623099,9.671394,70,15,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Gidan Dogara,HA,7.614211,9.664229,24,8,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Sannu Da Zuwa,HA,7.610066,9.667806,40,10,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Rugar Ardo,HA,7.614139,9.659237,37,10,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Tsakiya,HA,7.613338,9.652337,90,18,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Gidan Dan Doka,HA,7.622129,9.639382,161,31,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Gidan Audi,HA,7.626942,9.640676,38,10,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Tsaunin Dodo,HA,7.629513,9.654769,118,21,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Mai Duna,HA,7.843365,9.748406,22,8,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_10,HA,7.917786,9.826798,69,15,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Kure,HA,7.904526,9.821011,114,21,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Rugan Bira,HA,7.996073,9.916132,66,14,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_5,HA,7.995304,9.920964,37,10,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_34,HA,7.334443,9.733274,53,12,grid,10
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,Rugan Idi,HA,8.074757,9.714824,86,17,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Rugar Saidu,HA,7.986102,9.817963,45,11,grid,10
+Kaduna,KD,Katari,KD0809,Kachia,19008,Abasiyya,HA,7.520616,9.654812,144,26,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Ruga Buaje,HA,7.885898,9.872979,84,17,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_8,SSA,7.454746,10.086953,53,12,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_25,SSA,7.453521,10.085742,49,12,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Sabon Gidan Muruchi,HA,7.460714,10.099073,103,19,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Gidan Ruga,HA,7.591254,9.667687,96,18,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_120,HA,7.418429,9.989331,147,9,grid - Intensification,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_5,HA,7.298328,9.6113,154,29,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_77,HA,7.505557,9.904715,45,11,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_63,HA,7.527312,9.905918,124,22,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Alikuku,HA,7.542125,9.877434,245,44,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_99,HA,7.421033,10.008555,125,22,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_39,HA,7.661715,9.968539,51,12,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_28,HA,7.663193,9.985447,93,18,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Enugu,HA,7.667969,9.986824,123,22,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Lagede,HA,7.637621,9.995268,221,40,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Gajere Atufa,HA,7.63099,9.974268,115,21,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_24,HA,7.614234,9.960034,123,22,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_100,HA,7.595227,9.943851,39,10,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Unguwar Dadi,HA,7.582398,9.940181,159,31,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Tudun Tama,HA,7.569573,9.920281,154,29,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Pagoh,HA,7.592695,9.886598,340,61,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Gidan Doka,HA,7.615718,9.933716,160,31,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_60,HA,7.309347,9.90393,37,10,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_5,HA,7.746293,9.635264,2,5,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_1,HA,8.078423,9.894106,15,7,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_73,HA,7.317167,9.923425,37,10,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_44,SSA,7.471458,10.009536,83,17,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_24,SSA,7.432542,10.043487,18,7,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_10,HA,7.974751,9.784532,37,10,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_148,HA,7.384709,10.063378,245,12,grid - Intensification,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_114,HA,7.47411,9.9769,79,16,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Anguwan Fadawa,HA,7.371833,10.076172,78,7,grid - Intensification,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,SSA_21,SSA,7.467113,9.894601,48,12,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_50,HA,7.471992,9.894152,37,10,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Kadun,HA,7.682991,9.643138,90,18,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Alhaji Adamu,HA,7.772463,9.797837,49,12,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_19,HA,7.84667,9.906718,82,16,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Gidan Dare,HA,7.60244,9.653831,34,10,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Unguwan Bawa,HA,7.537221,10.100182,150,28,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Ruga Kadede,HA,7.84822,10.009676,10,6,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_16,HA,7.958941,9.842075,13,5,grid - Intensification,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,Rugar Husseini,HA,7.953573,9.842696,45,11,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Rugan Wakili Buba Maro,HA,7.429181,9.997755,358,16,grid - Intensification,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_126,HA,7.435408,10.002789,45,11,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_8,HA,8.007585,9.778645,17,7,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_9,HA,8.020419,9.782924,91,18,grid,10
+Kaduna,KD,Sabon Sarki,KD0812,Kachia,19008,Unguwar La'Azaris,SSA,8.023205,9.627135,165,10,grid - Intensification,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_11,HA,7.882403,9.813841,44,11,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_31,HA,7.794347,9.918243,41,11,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_17,HA,7.691815,9.720713,35,10,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,Rugan Manjo,HA,7.919686,10.077318,91,8,grid - Intensification,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_36,HA,7.924452,10.088976,50,12,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_6,HA,7.894124,9.771445,19,7,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_6,HA,7.412629,9.613277,17,7,grid,10
+Kaduna,KD,Agunu,KD0801,Kachia,19008,HA_16,HA,8.018764,9.948053,29,9,grid,10
+Kaduna,KD,Kachia,KD0808,Kachia,19008,HA_9,HA,7.983319,9.929024,23,8,grid,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,Unguwar Timothy,HA,7.605739,9.635831,53,12,grid,10
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,HA_4,HA,7.991278,9.686196,20,8,grid,10
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,HA_2,HA,7.978923,9.705062,245,12,grid - Intensification,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_32,HA,7.390457,9.823266,110,20,grid,10
+Kaduna,KD,Bishini,KD0804,Kachia,19008,HA_20,HA,7.396975,9.647361,138,9,grid - Intensification,10
+Kaduna,KD,Gidan Tagwai,KD0806,Kachia,19008,HA_5,HA,8.023788,9.76648,43,11,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_12,HA,7.853022,9.819062,39,10,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Anguwan Shashere,HA,7.377155,10.079131,112,8,grid - Intensification,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Sakarana,HA,7.606722,9.845461,84,17,grid,10
+Kaduna,KD,Gumel,KD0807,Kachia,19008,HA_18,HA,7.960691,9.850259,161,10,grid - Intensification,10
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,HA_2,HA,7.908112,9.670745,21,8,grid,10
+Kaduna,KD,Kwaturu,KD0811,Kachia,19008,Unguwar Borti,HA,7.968855,9.673367,61,7,grid - Intensification,10
+Kaduna,KD,Awon,KD0803,Kachia,19008,HA_1,HA,7.579831,9.617732,4,5,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_2,HA,7.390635,9.729519,10,6,grid,10
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_1,HA,7.390014,9.723983,10,6,grid,10
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_18,HA,7.781086,9.895325,67,14,mini-grid,NA
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Anguwan Wakili,HA,7.536776,10.028844,35,10,mini-grid,NA
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,Gidan Ladan,SSA,7.554034,9.998504,58,13,mini-grid,NA
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_38,HA,7.5634,9.84047,71,15,mini-grid,NA
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_43,HA,7.35031,9.829392,34,10,mini-grid,NA
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_93,HA,7.327117,9.987878,10,6,mini-grid,NA
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,HA_26,HA,7.599663,9.971964,2,5,off-grid,NA
+Kaduna,KD,Awon,KD0803,Kachia,19008,Ruggar Tashi,HA,7.812462,9.821857,53,12,mini-grid,NA
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_9,HA,7.213237,9.759406,44,11,mini-grid,NA
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_15,HA,7.234925,9.774975,10,6,off-grid,NA
+Kaduna,KD,Dokwa,KD0805,Kachia,19008,HA_84,HA,7.504775,9.957394,69,15,mini-grid,NA
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Sabon Gida,HA,7.640136,9.85894,55,13,mini-grid,NA
+Kaduna,KD,Ankwa,KD0802,Kachia,19008,Unguwan Matthew,HA,7.618037,9.888527,22,8,mini-grid,NA

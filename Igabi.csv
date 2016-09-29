@@ -1,0 +1,1378 @@
+State,Statecode,Ward,Wardcode,Lga,Lgacode,Name,Type,X,Y,Population,Target.Household.Count,Recommended.Access.Categories,DecileByHH
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Rugan Mallam Lawal,HA,7.656657,10.896814,2,5,grid - Intensification,3
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Rugar Halilu,SSA,7.523695,10.79405,65,7,grid - Intensification,3
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_7,HA,7.348274,10.758723,38,6,grid - Intensification,3
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_14,HA,7.414622,10.62459,15,5,grid - Intensification,3
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_30,HA,7.571998,10.730322,51,6,grid - Intensification,3
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_30,HA,7.356455,10.674979,33,6,grid - Intensification,3
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Kida,SSA,7.363275,10.774293,57,6,grid - Intensification,3
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Rugar Mangal,HA,7.590434,10.831931,2,5,grid - Intensification,3
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Rugar Hussaini,HA,7.599023,10.851432,79,7,grid - Intensification,3
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_57,HA,7.349368,10.733637,44,6,grid - Intensification,3
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Hassan,HA,7.336389,10.781174,22,5,grid - Intensification,3
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Layin Asibiti,BUA,7.402563,10.565205,3076,96,grid - Intensification,3
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Yarmakau,BUA,7.511475,10.696602,65683,2346,grid - Intensification,3
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Rigachikun,BUA,7.476681,10.591719,76503,2294,grid - Intensification,3
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Hayin Dogo,SSA,7.467204,10.636018,144,9,grid - Intensification,3
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Rigasa,BUA,7.379085,10.52555,282005,8445,grid - Intensification,3
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Ungwar Gwani,BUA,7.636371,10.875469,8279,298,grid - Intensification,4
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Anguwan Sarki,BUA,7.583146,10.802259,2712,99,grid - Intensification,4
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Wusono,SSA,7.525628,10.84427,558,21,grid - Intensification,4
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Brinin Yero Tsohuwa,HA,7.544418,10.794801,558,21,grid - Intensification,4
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Kanzaure Sarki Kudu,SSA,7.528944,10.783601,186,10,grid - Intensification,4
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Assalama Alaikum,BUA,7.400531,10.586158,43847,1316,grid - Intensification,4
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Igabi,BUA,7.774941,10.792221,21810,781,grid - Intensification,4
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Hayin Gada,BUA,7.757529,10.697212,3109,114,grid - Intensification,4
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Amadu,BUA,7.747305,10.707693,22893,820,grid - Intensification,4
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Fangurzan 2,SSA,7.62513,10.934753,422,74,grid,4
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Hayin Fadama,BUA,7.474582,10.633933,30473,915,grid - Intensification,4
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Kwarau Gari,BUA,7.500117,10.770906,1677,63,grid - Intensification,4
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Gidan Tsamia,HA,7.641856,10.876725,159,10,grid - Intensification,4
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Makwalla,SSA,7.488826,10.580037,291,14,grid - Intensification,4
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Gimi,HA,7.513987,10.861171,249,12,grid - Intensification,4
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Unguwan Sarki Dankande,BUA,7.493772,10.677209,6014,217,grid - Intensification,4
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Unguwan Lawandi,BUA,7.557077,10.809365,11561,415,grid - Intensification,4
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Dan Alkali,BUA,7.571309,10.825596,13407,481,grid - Intensification,4
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_11,HA,7.791519,10.791408,207,11,grid - Intensification,4
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Burkonu,SSA,7.60957,10.635311,255,12,grid - Intensification,4
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Sabon Gida Kwaranza,HA,7.646465,10.956162,446,18,grid - Intensification,4
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Nassarawa Pauta,SSA,7.33394,10.768307,62,7,grid - Intensification,4
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Unguwan Tudu,SSA,7.505533,10.579592,309,14,grid - Intensification,4
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Unguwan Tsohon Sarki,BUA,7.516027,10.765464,10448,376,grid - Intensification,4
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Fangurzan 1,SSA,7.626646,10.933478,165,32,grid,4
+Kaduna,KD,Afaka,KD0401,Igabi,19004,SSA_17,SSA,7.350522,10.70176,111,8,grid - Intensification,4
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Layin Mai Unguwar,BUA,7.674572,10.767551,3069,113,grid - Intensification,4
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Layin Gardawa,BUA,7.824624,10.690649,5801,210,grid - Intensification,5
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Dogon Dawa,BUA,7.650651,10.907415,5483,199,grid - Intensification,5
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Tudun Malam Hanau,SSA,7.508769,10.580094,307,14,grid - Intensification,5
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Dankanawa,BUA,7.695905,10.802011,3998,146,grid - Intensification,5
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Dankatu,BUA,7.66336,10.918369,6830,247,grid - Intensification,5
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Kwanar Tsintsiya,HA,7.590876,10.859962,584,22,grid - Intensification,5
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Sabon Gari,BUA,7.30695,10.810326,8023,289,grid - Intensification,5
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_120,HA,7.342205,10.746411,281,49,grid,5
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Unguwan Ali Sarki Ruwa,BUA,7.58136,10.626619,3253,119,grid - Intensification,5
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Makera Sabon Birni,HA,7.265068,10.83175,534,93,grid,5
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Lamban,BUA,7.646471,10.92461,4011,146,grid - Intensification,5
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,HA_6,HA,7.546432,10.776324,218,11,grid - Intensification,5
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Kutungare,BUA,7.344873,10.671104,2698,99,grid - Intensification,5
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Sarki Kofato,SSA,7.669092,10.867992,160,10,grid - Intensification,5
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Sabon Gida,SSA,7.51111,10.710164,619,23,grid - Intensification,5
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Gangare,BUA,7.45792,10.619071,7889,240,grid - Intensification,5
+Kaduna,KD,Afaka,KD0401,Igabi,19004,SSA_13,SSA,7.337734,10.69406,303,14,grid - Intensification,5
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Brinin Yero,SSA,7.549283,10.788036,359,16,grid - Intensification,5
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Dorayi,SSA,7.494963,10.583776,273,13,grid - Intensification,5
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Dan Marke,SSA,7.581114,10.840526,281,13,grid - Intensification,5
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Kitukuri 1,SSA,7.312165,10.797941,204,38,grid,5
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Rugan Mallam Manu,HA,7.635602,10.931821,161,31,grid,5
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Hayin Gada,SSA,7.576429,10.830654,338,15,grid - Intensification,5
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Unguwan Kariya,SSA,7.563328,10.633778,77,16,grid,5
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Ummar 2,SSA,7.770744,10.75247,313,14,grid - Intensification,5
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_16,HA,7.35114,10.775063,205,11,grid - Intensification,5
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Turunku Tdohuwa 2,SSA,7.6839,10.805132,370,16,grid - Intensification,5
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Lamba,HA,7.348003,10.644156,1386,52,grid - Intensification,5
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Anguwan Sarki Dinki,SSA,7.577591,10.928718,447,18,grid - Intensification,5
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Madaka,SSA,7.543291,10.656663,57,13,grid,5
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Dan Kyawai,HA,7.362778,10.692035,1102,42,grid - Intensification,5
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,HA_13,HA,7.490618,10.639393,178,34,grid,6
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Rugar Nakusada,HA,7.599108,10.933398,91,18,grid,6
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Anguwan Dabo,SSA,7.570782,10.630708,87,7,grid - Intensification,6
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Malamai,SSA,7.529107,10.854053,144,9,grid - Intensification,6
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rikau,HA,7.27277,10.822377,598,23,grid - Intensification,6
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rugar Isuhu,HA,7.410533,10.608245,917,159,grid,6
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Sabon Yelwa,SSA,7.611207,10.869262,376,16,grid - Intensification,6
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Makeri,SSA,7.679813,10.781911,133,9,grid - Intensification,6
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Falwaya,SSA,7.532625,10.66677,96,18,grid,6
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Sabon Garin Turunku Tsohuwa,SSA,7.687591,10.829135,130,9,grid - Intensification,6
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Afaka,SSA,7.387171,10.6668,305,14,grid - Intensification,6
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Hayin Kasuwa,HA,7.579915,10.874955,459,19,grid - Intensification,6
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Sabon Gari,SSA,7.756633,10.804247,578,22,grid - Intensification,6
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,HA_12,HA,7.404854,10.555369,67,7,grid - Intensification,6
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_40,HA,7.374444,10.656277,46,11,grid,6
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Bakko,SSA,7.660142,10.874839,385,16,grid - Intensification,6
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Dadin Kowa,SSA,7.555977,10.90663,135,9,grid - Intensification,6
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Tudun Kaya,SSA,7.645522,10.882636,220,11,grid - Intensification,6
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Turunku Tsohuwa 1,SSA,7.684974,10.806587,273,13,grid - Intensification,6
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Unguwan Fulani,SSA,7.570584,10.63461,115,21,grid,6
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Rugan Shehu,HA,7.569068,10.643593,758,131,grid,6
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Idris,SSA,7.648372,10.878051,377,16,grid - Intensification,6
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Tundun Su Alhaji Isah,SSA,7.51148,10.579127,92,8,grid - Intensification,6
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Rugar Fulanu Safiyanu,SSA,7.382589,10.554416,59,7,grid - Intensification,6
+Kaduna,KD,Afaka,KD0401,Igabi,19004,SSA_16,SSA,7.413303,10.652872,123,8,grid - Intensification,7
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Kangimi Sarki,SSA,7.593262,10.733691,271,13,grid - Intensification,7
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Ummar Gidan Mato,SSA,7.769167,10.753655,152,9,grid - Intensification,7
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_8,HA,7.684346,10.794438,709,28,grid - Intensification,7
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Rugan Fulani Usman,HA,7.659002,10.971845,992,172,grid,7
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_37,HA,7.328304,10.691304,346,15,grid - Intensification,7
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Unguwar Sarki,SSA,7.602335,10.943097,248,44,grid,7
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Unguwan Shabiri,SSA,7.547433,10.94946,275,13,grid - Intensification,7
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Margi,BUA,7.546643,10.823959,4822,175,grid - Intensification,7
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Hayin Sabon Kasuwa,SSA,7.52688,10.777781,216,11,grid - Intensification,7
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Mashigi,SSA,7.47893,10.576574,566,22,grid - Intensification,7
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Gidan Dogo,SSA,7.354537,10.632981,147,9,grid - Intensification,7
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Kwarin Dan Dodo,SSA,7.603817,10.865089,203,11,grid - Intensification,7
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Ganga Uku,SSA,7.496506,10.714251,148,27,grid,7
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_16,HA,7.493828,10.712618,658,115,grid,7
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_2,HA,7.363635,10.590757,566,22,grid - Intensification,7
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,SSA_8,SSA,7.642279,10.944474,114,21,grid,8
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_28,HA,7.612401,10.94791,72,15,grid,8
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Sabon Gari Dadawa,SSA,7.617635,10.957473,94,18,grid,8
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Unguwar Kanawa B,HA,7.615263,10.966201,766,133,grid,8
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_60,HA,7.605654,10.969811,565,98,grid,8
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_34,HA,7.373575,10.679595,399,17,grid - Intensification,8
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Ibrahim,SSA,7.610761,10.633165,368,16,grid - Intensification,8
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Kitukuri 2,SSA,7.316787,10.788425,136,9,grid - Intensification,8
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Tsangaya,SSA,7.595088,10.727602,145,9,grid - Intensification,8
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rubu,SSA,7.338407,10.734982,218,11,grid - Intensification,8
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_60,HA,7.334205,10.735699,162,31,grid,8
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rubu Ta Yamma,SSA,7.330398,10.736358,205,38,grid,8
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Liman Kofato,SSA,7.666055,10.868347,305,14,grid - Intensification,8
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Ungwan mission,SSA,7.562726,10.816646,196,11,grid - Intensification,8
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_17,HA,7.423083,10.653984,293,14,grid - Intensification,8
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Goburawa 2 Sabon Birni Dosa,HA,7.589939,11.003547,45,11,grid,8
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Kudon Dikko Unguwar Liman,HA,7.598146,10.998398,919,159,grid,8
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Tudun Wadan Danmama,HA,7.597561,10.986618,742,129,grid,8
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Jaware Gidan Mai Unguwa,SSA,7.595553,10.984513,174,34,grid,8
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Jaware Sashen Danmama,SSA,7.596379,10.983337,142,26,grid,8
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Rugan Saadu,HA,7.540403,10.668756,1065,184,grid,8
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,HA_18,HA,7.500402,10.652946,109,20,grid,8
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_44,HA,7.534795,10.758186,40,10,grid,8
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Batagarawa Farm,HA,7.311398,10.776322,957,38,grid - Intensification,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Kwaranza,SSA,7.645739,10.935815,270,13,grid - Intensification,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_14,HA,7.654128,10.93684,23,8,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Gidan Kalu 1,SSA,7.65856,10.93803,348,63,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Gidan Barde,SSA,7.664469,10.939514,83,17,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Kigo,SSA,7.665397,10.936672,89,17,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_15,HA,7.670921,10.939255,70,15,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_22,HA,7.675895,10.942824,239,43,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_20,HA,7.679396,10.9369,31,9,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Gidan Taji,SSA,7.676789,10.927513,181,35,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Gidan Ganuwa,HA,7.679497,10.925526,121,22,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Kashin Tsuntsuwa,SSA,7.682563,10.920561,119,22,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_11,HA,7.68466,10.918482,156,30,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Gidan Mai Karare,HA,7.691437,10.913065,281,49,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Kadaujin Galadima 2,SSA,7.689331,10.90708,205,38,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Kadaujin Unguwar Fa,HA,7.685901,10.904735,327,59,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,SSA_4,SSA,7.683806,10.907262,145,27,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,SSA_16,SSA,7.701261,10.906772,146,27,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_1,HA,7.712132,10.912221,1170,202,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Buzu,SSA,7.705056,10.897255,222,40,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Adaka,SSA,7.713393,10.900278,171,33,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Unguwan Makera,SSA,7.717095,10.896389,160,31,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Sabon Gida,SSA,7.717245,10.893635,125,22,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Gidan Bura,SSA,7.721029,10.899799,138,25,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Unguwan Waziri B,SSA,7.727343,10.898345,422,74,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_3,HA,7.736001,10.897018,185,35,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Ilan Yusuf,SSA,7.743511,10.891427,384,68,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Illa Ashehu,SSA,7.744328,10.883394,455,80,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Ila,SSA,7.741931,10.883094,343,62,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Uje Sarki,SSA,7.731243,10.884595,269,47,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Uje,SSA,7.719703,10.881859,460,81,grid,8
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Kwaru Gari,SSA,7.718349,10.881581,398,70,grid,8
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Buwa,SSA,7.71376,10.87704,328,60,grid,8
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwan Kaduna,SSA,7.703981,10.879154,156,30,grid,8
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Kaduna,HA,7.70019,10.879798,493,87,grid,8
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_24,HA,7.702769,10.869726,26,8,grid,8
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Ungwar Danbatale,SSA,7.688735,10.871421,98,19,grid,8
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Kolo,HA,7.687336,10.873815,840,146,grid,8
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Amana Madaci,BUA,7.68707,10.743814,4470,162,grid - Intensification,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Sabon Garin Illa,SSA,7.748,10.891372,280,49,grid,8
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Rugar Bature Danmakaranta,HA,7.511071,10.64645,687,119,grid,8
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Gidan Malam Audu,HA,7.348193,10.711092,218,11,grid - Intensification,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Fura Ado,SSA,7.755487,10.890737,127,23,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Furan Dalha,SSA,7.756024,10.892208,199,37,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Furan Tanko,SSA,7.755771,10.896674,147,27,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Sarauni,SSA,7.766248,10.898101,391,69,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Sarauni Gidan Mantau,SSA,7.769705,10.89611,361,64,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Kunayi,SSA,7.750526,10.905765,292,52,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Gidan Mai Daji,SSA,7.755903,10.909287,209,39,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Gidan Dangawo,SSA,7.767546,10.910623,135,24,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Hayin Mallam Kadaushe,SSA,7.769277,10.916855,498,88,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Hayin Mallan,SSA,7.771005,10.920535,328,60,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Baushe,SSA,7.767581,10.927674,497,88,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Unguwan Waziri,SSA,7.766068,10.927335,339,61,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Magayaki,SSA,7.784037,10.913399,294,52,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_30,HA,7.787624,10.909137,452,79,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Sabon Gidan Koniya,SSA,7.791757,10.915582,181,35,grid,8
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Tsohon Kwana,SSA,7.646584,10.877593,373,16,grid - Intensification,8
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Layin Mai Unguwar Shehu,SSA,7.577774,10.832772,171,10,grid - Intensification,8
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Rugar Dibo,HA,7.540909,10.756707,121,22,grid,8
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Rugar Ardo Jae,HA,7.552173,10.755409,544,95,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Gidan Rimi,SSA,7.780097,10.762499,251,45,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Kwankwoni Unguwar Abdulwahab,SSA,7.784847,10.760865,232,42,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Kadaujin Kaura,SSA,7.683301,10.902859,180,35,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Kadaujin Mangoro,HA,7.680136,10.90482,628,110,grid,8
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Kan Kwana,SSA,7.551033,10.802772,299,14,grid - Intensification,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Kwagwama,HA,7.793026,10.900021,753,131,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Kerawa,HA,7.69055,10.937085,280,49,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Rugar Inusa,HA,7.694167,10.933956,125,22,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Rifita 2,SSA,7.700057,10.936638,195,37,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Rifita 1,HA,7.705273,10.93071,258,46,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Yakuwa,SSA,7.713056,10.926502,206,38,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Damari Shehi,SSA,7.718299,10.92626,265,47,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Damari Kansila,SSA,7.721611,10.928576,122,22,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Damari Kansila 2,SSA,7.723813,10.928558,298,53,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Dawaki,SSA,7.72725,10.921121,356,64,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Dawaki Layin Mai Unguwa,SSA,7.727269,10.919065,377,67,grid,8
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Mallam Chindo,SSA,7.715811,10.806673,500,20,grid - Intensification,8
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Rugan Zaki,HA,7.585558,10.995859,70,15,grid,8
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Sabon Birni Dosa,SSA,7.576525,11.000177,467,82,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_29,HA,7.692221,10.984435,83,17,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_26,HA,7.698634,10.980423,18,7,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Kwokwoto,HA,7.701245,10.975353,124,22,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Unguwan Liman,HA,7.695237,10.97246,970,167,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Unguwan Jume,SSA,7.707704,10.97351,119,22,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Audi,SSA,7.710362,10.973673,123,22,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Unguwan Sarki,SSA,7.709463,10.971008,238,43,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Tudun Makama,HA,7.748128,10.964077,603,105,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Gidan Rimi,HA,7.753089,10.961154,317,57,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Iruga,SSA,7.75883,10.959257,546,95,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Bakin Kasuwa,HA,7.758632,10.888488,995,172,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Kwonkwoni,SSA,7.784141,10.758804,343,62,grid,8
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Rugar Haruna,HA,7.594701,10.827078,99,19,grid,8
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,SSA_12,SSA,7.579094,10.852017,92,8,grid - Intensification,8
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Kanzaure Sarki Arewa,SSA,7.528732,10.786204,310,14,grid - Intensification,8
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_36,HA,7.313762,10.803403,67,14,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Sheka,SSA,7.793369,10.889711,355,64,grid,8
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Unguwar Rimi,SSA,7.598008,10.922715,231,42,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Kuzum,SSA,7.788201,10.881049,187,36,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Kofar Ashehu Unguwar Liman,SSA,7.788067,10.873445,354,63,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Kofar Ashehu,HA,7.793317,10.869828,483,85,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_26,HA,7.795373,10.858116,53,12,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Ribisa,SSA,7.7942,10.851987,524,92,grid,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Majema,SSA,7.639503,10.966599,100,8,grid - Intensification,8
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Unguwan Sarki Dumbi,SSA,7.638277,10.966105,256,45,grid,8
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Ummar 1,SSA,7.766372,10.752517,384,16,grid - Intensification,8
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Rugar Gwibi,HA,7.601263,10.834441,8,6,grid,9
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Sabon Gida,SSA,7.606913,10.839863,81,16,grid,9
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Sanhu Makera,SSA,7.607435,10.841264,155,29,grid,9
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Unguwar Sarki,SSA,7.605856,10.841273,293,52,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,SSA_3,SSA,7.332391,10.691519,203,11,grid - Intensification,9
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Day Quaters,SSA,7.577125,10.816378,305,14,grid - Intensification,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Birnin Baruwa,SSA,7.756725,10.876283,341,62,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_24,HA,7.752914,10.872248,116,21,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Mashekari,SSA,7.749601,10.863945,354,63,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Unguwar Maidodo,HA,7.758822,10.86173,98,19,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Unguwan Acha,SSA,7.761525,10.856613,324,59,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Unguwar Maidodo I,SSA,7.762257,10.863784,265,47,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Rimaye,SSA,7.768518,10.869937,255,45,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Rimayen Fulani,SSA,7.769934,10.869573,266,47,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Unguwar Mahauta,HA,7.770925,10.875916,401,70,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Burji,SSA,7.773274,10.880857,155,29,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_67,HA,7.370076,10.683825,16,5,grid - Intensification,9
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,SSA_10,SSA,7.63543,10.966436,208,39,grid,9
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Unguwar Kanawa A,HA,7.62182,10.976023,892,154,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_4,HA,7.711704,10.501209,274,48,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Pambawa,HA,7.711807,10.506745,1691,290,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Tungar Auta,HA,7.747813,10.492785,568,99,grid,9
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Gindinfa,SSA,7.773004,10.726814,366,65,grid,9
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Tudu,SSA,7.776083,10.72538,99,19,grid,9
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Indo,SSA,7.781956,10.72743,184,35,grid,9
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Rugan Yalli,HA,7.744609,10.903489,101,19,grid,9
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Farda,SSA,7.736759,10.907911,203,38,grid,9
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Unguwar Dango,SSA,7.740541,10.916309,303,54,grid,9
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_28,HA,7.683313,10.9822,56,13,grid,9
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Mangi,SSA,7.675684,10.982192,298,53,grid,9
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Rugan Sani Mugala,HA,7.673192,10.991235,318,57,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_7,HA,7.698885,10.511994,119,22,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Tuta 1,HA,7.704585,10.521861,1058,182,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Tuta 2,HA,7.702061,10.528202,454,80,grid,9
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Gobirawa Gabas,SSA,7.568662,10.722237,150,9,grid - Intensification,9
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_15,HA,7.575295,10.931075,261,13,grid - Intensification,9
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Tuta,SSA,7.608333,10.845136,86,17,grid,9
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Rigar Sullubawa,HA,7.483358,10.599582,591,22,grid - Intensification,9
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Gobirawa Yamma,SSA,7.567174,10.723934,84,7,grid - Intensification,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Kadara,HA,7.633826,10.569473,693,120,grid,9
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,HA_4,HA,7.595562,10.590939,413,72,grid,9
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Makodi,SSA,7.600687,10.599891,114,21,grid,9
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Gidan Gero,SSA,7.608652,10.604594,94,18,grid,9
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Unguwar Dan Yamma,SSA,7.606929,10.609178,363,65,grid,9
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Likora,SSA,7.616264,10.599925,325,59,grid,9
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Rugan Alhaji Yaro,HA,7.62511,10.604179,110,20,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Ardo Bakoshi,HA,7.631731,10.614751,314,57,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Girkawa 1,SSA,7.629836,10.622414,376,67,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Girkawa 2,SSA,7.630452,10.624271,221,40,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Fulana Hamisu,HA,7.639449,10.605157,248,44,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Sarki Kaban,SSA,7.645634,10.614047,381,67,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Makama,SSA,7.645746,10.616397,587,102,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Danyaya,SSA,7.643489,10.628414,87,17,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Gwada,SSA,7.648147,10.629432,387,68,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Dankwari,SSA,7.662052,10.629078,296,53,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Dankwari II,HA,7.665513,10.628563,997,173,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Joga Gari,SSA,7.673734,10.640191,360,64,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Joga Tudu Unguwar Sarki,SSA,7.683556,10.634138,573,100,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Kadage Bubba,SSA,7.684644,10.627256,277,49,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Baki,SSA,7.68714,10.625515,327,59,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Sabon Gari Joga,HA,7.68288,10.624617,996,172,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Gazari,HA,7.681258,10.619036,210,39,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_41,HA,7.687766,10.618471,215,40,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Bango,SSA,7.677251,10.655625,485,86,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Kubadam,HA,7.637276,10.598751,191,36,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,SSA_10,SSA,7.757085,10.739444,314,57,grid,9
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Ungwar Sarki Dutsemamai,SSA,7.681883,10.84384,423,17,grid - Intensification,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Khahuri,HA,7.797491,10.800692,324,15,grid - Intensification,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Unguwar Malamai,SSA,7.80223,10.81749,165,32,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Ashafa,SSA,7.814347,10.816107,361,64,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Kari,SSA,7.816368,10.814522,234,42,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Gabasawa,SSA,7.818104,10.817753,275,48,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Unguwar Kaso,SSA,7.828913,10.812237,299,53,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Rigan Babangida,SSA,7.830454,10.802998,102,19,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_13,HA,7.825733,10.796833,17,7,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,SSA_18,SSA,7.814143,10.787114,320,58,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Anguwa Damo,SSA,7.811836,10.786641,299,53,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_10,HA,7.807409,10.781124,563,98,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Kemfa,SSA,7.805811,10.77831,359,64,grid,9
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Tudun Sarkin Noma,SSA,7.574134,10.939052,161,10,grid - Intensification,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_14,HA,7.81794,10.824765,155,29,grid,9
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_14,HA,7.535826,10.705811,164,10,grid - Intensification,9
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_5,HA,7.521706,10.680447,70,15,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Tsohon Gari,HA,7.76113,10.803381,256,12,grid - Intensification,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Fulani Bammi,HA,7.811966,10.842884,292,52,grid,9
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Kadaujin Auta,SSA,7.680064,10.895394,200,37,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_16,HA,7.406783,10.652396,176,34,grid,9
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Dedeji,HA,7.704126,10.924916,181,35,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_23,HA,7.801941,10.869522,162,31,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_29,HA,7.811321,10.868269,139,25,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Sabon Gidan Likarbu Yamma,SSA,7.814726,10.861925,148,27,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Sabon Gida Likarbu,SSA,7.81677,10.863376,286,51,grid,9
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Dangude,HA,7.671727,10.845201,828,34,grid - Intensification,9
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Adamu,SSA,7.66777,10.835384,175,34,grid,9
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Sarki Bargu,HA,7.664083,10.835281,500,88,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_16,HA,7.741936,10.859082,143,26,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Daura Jigiru,HA,7.731639,10.849216,225,41,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_15,HA,7.734939,10.843063,33,9,grid,9
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Daura Mazan Gamo,HA,7.729815,10.839365,532,93,grid,9
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Rugan Sa'Adu,HA,7.724547,10.832261,76,16,grid,9
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Ibada,SSA,7.723589,10.825291,285,50,grid,9
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_14,HA,7.726411,10.823351,201,38,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Kawulli,HA,7.717913,10.494215,440,77,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Garu,HA,7.725164,10.488161,397,70,grid,9
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Zaure,SSA,7.514374,10.612439,455,18,grid - Intensification,9
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Rugar Kaiyejo,HA,7.526847,10.609305,33,9,grid,9
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Rugar Jafaru,HA,7.533613,10.620319,476,84,grid,9
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Chikaji Tsakiya,SSA,7.54296,10.610463,174,34,grid,9
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Chikaji Gwari,HA,7.546819,10.612699,878,152,grid,9
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Chikaji Hausa,SSA,7.553565,10.604541,156,30,grid,9
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Chikaji Hausa,HA,7.551104,10.602461,430,75,grid,9
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Kadaujin Mansir,SSA,7.677401,10.894505,162,31,grid,9
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_13,HA,7.716025,10.935652,69,15,grid,9
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Sirdi 2,SSA,7.711927,10.94132,261,46,grid,9
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Sirdi 1,HA,7.708453,10.946248,278,49,grid,9
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Fandisho 2,SSA,7.510282,10.732159,240,12,grid - Intensification,9
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_22,HA,7.799564,10.685147,81,16,grid,9
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_20,HA,7.79615,10.681333,97,19,grid,9
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_16,HA,7.802563,10.671834,70,15,grid,9
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_15,HA,7.790086,10.663045,172,33,grid,9
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_19,HA,7.780279,10.66239,233,42,grid,9
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_12,HA,7.770644,10.661825,269,47,grid,9
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Kabuwa unguwan Shano,SSA,7.757135,10.661333,251,45,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Danbalale,SSA,7.750001,10.657544,318,57,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,SSA_1,SSA,7.746081,10.661008,188,36,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_47,HA,7.73639,10.661515,151,28,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Tsauni,HA,7.733934,10.654669,169,33,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_46,HA,7.726766,10.649994,237,43,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_44,HA,7.735471,10.637358,36,10,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Danbarau,SSA,7.74574,10.630457,237,43,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Fulani Udu,HA,7.748227,10.624815,109,20,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_36,HA,7.742706,10.621119,59,13,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Jimau,HA,7.743257,10.614847,346,62,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_31,HA,7.741279,10.608201,122,22,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_33,HA,7.740899,10.601814,72,15,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rubu,SSA,7.729289,10.603297,176,34,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Kauran Dole,SSA,7.727228,10.609534,318,57,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Sabon Gida,SSA,7.723987,10.612967,229,41,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_32,HA,7.714218,10.611144,256,45,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Ardo Ayashe,HA,7.713573,10.603821,80,16,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Ligyara,SSA,7.710215,10.599877,706,123,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Kawota Gabas,SSA,7.724264,10.58876,232,42,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Kawota Yamma,SSA,7.718923,10.586457,282,50,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Tudun Dalladi,HA,7.724932,10.578509,81,16,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Fanzartu 1,HA,7.726484,10.569661,439,77,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Sabon Garin Gwaraji,SSA,7.728705,10.555292,506,89,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Ardo Maidaba,HA,7.734982,10.546961,151,28,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Alhaji Abubakar,HA,7.73032,10.534792,125,22,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_13,HA,7.734686,10.533459,85,17,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rafin Turmi,SSA,7.745973,10.529154,274,48,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Turaki,HA,7.756624,10.522718,946,163,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Wasiri,SSA,7.759329,10.522284,551,96,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Wusar Rural,SSA,7.758954,10.519968,183,35,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Kudu,HA,7.763375,10.519699,979,169,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Alhaji Dadi,HA,7.720603,10.57035,322,58,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Tarno,SSA,7.705712,10.61065,173,34,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_42,HA,7.706739,10.617801,61,13,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Tudun Danpati,SSA,7.710277,10.629183,207,38,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Tudun Danpati,HA,7.709763,10.630467,585,102,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Kufan,SSA,7.747761,10.590858,323,58,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Kadaru,HA,7.764007,10.589518,261,46,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Ribako,HA,7.767422,10.572269,401,70,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_28,HA,7.782154,10.57392,140,25,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_24,HA,7.788635,10.574228,236,42,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_21,HA,7.788468,10.565068,366,65,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_23,HA,7.785711,10.558877,114,21,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Arudo Hazo,HA,7.778481,10.555557,1023,177,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Cikin Gari Mangada,SSA,7.768798,10.556243,519,91,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_14,HA,7.766894,10.543772,61,13,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Sakatawa,SSA,7.757829,10.548657,318,57,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Kashirmu,SSA,7.756631,10.548808,350,63,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Serki Taru,HA,7.775065,10.541578,396,69,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_15,HA,7.789076,10.543262,600,105,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Zoza,HA,7.79958,10.536077,1087,187,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Fulani Alhaji Yalli,HA,7.709882,10.571792,147,27,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rafin Kara,HA,7.70792,10.578661,541,94,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Alhaji Maina,HA,7.756115,10.619843,238,43,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Ado,HA,7.752631,10.614707,226,41,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Bikaratu,SSA,7.704604,10.63558,266,47,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Kufese,HA,7.758391,10.6078,270,47,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Wugi,SSA,7.777407,10.531322,364,65,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_3,HA,7.781844,10.514309,173,34,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Kadace,HA,7.783587,10.50886,1080,186,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Unguwan Shanono,SSA,7.739492,10.834384,393,69,grid,9
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_17,HA,7.582222,10.719917,177,10,grid - Intensification,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_25,HA,7.747005,10.844595,77,16,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Sharakaji,SSA,7.75424,10.842167,231,42,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Unguwan Bai,SSA,7.75976,10.839464,285,50,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Yusi,BUA,7.632222,10.642642,2365,88,grid - Intensification,9
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Magami,SSA,7.703485,10.645654,259,46,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Garuta Gabas,HA,7.729378,10.491902,192,36,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Doka Village,SSA,7.364073,10.648426,257,12,grid - Intensification,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_12,HA,7.366041,10.641759,764,31,grid - Intensification,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Zangon Afaka,SSA,7.372521,10.63751,294,52,grid,9
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Kabuwa,HA,7.75525,10.664428,78,16,grid,9
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_34,HA,7.780519,10.693408,40,10,grid,9
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugan Umaru,HA,7.785873,10.692958,244,44,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Kauya,SSA,7.410384,10.654526,345,15,grid - Intensification,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,SSA_23,SSA,7.804103,10.777085,229,41,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_19,HA,7.753974,10.810692,150,9,grid - Intensification,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Fulani Irro,SSA,7.636525,10.648478,115,8,grid - Intensification,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Alhaji Bello,HA,7.641437,10.655026,139,25,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Jae,HA,7.648254,10.660039,54,12,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Musa,HA,7.643147,10.664479,360,64,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_48,HA,7.65387,10.667294,55,13,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Sabon Gida,HA,7.660062,10.66133,813,141,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Madatai,SSA,7.658475,10.651767,468,82,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_10,HA,7.406079,10.639533,359,64,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Rugan Abu Agwai,HA,7.790181,10.830663,206,38,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_21,HA,7.785175,10.828364,93,18,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Rugan Ibrahim,HA,7.780993,10.833697,355,64,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Gidan Mafi Maduka,HA,7.341845,10.65753,58,7,grid - Intensification,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rugar Kadede,HA,7.332,10.66515,419,73,grid,9
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Rugar Dawale,HA,7.500776,10.729406,881,35,grid - Intensification,9
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Katsinawa Dumbi,SSA,7.640516,10.958795,476,19,grid - Intensification,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_42,HA,7.32584,10.658914,99,19,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_19,HA,7.314388,10.65861,243,43,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Tabarau,SSA,7.308643,10.671626,198,37,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_28,HA,7.304687,10.669188,110,20,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rugan Malam Garba,HA,7.296469,10.674786,608,106,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Rugan Saleh,HA,7.815585,10.780598,146,27,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Baku,SSA,7.847816,10.792744,550,96,grid,9
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Kogo,SSA,7.678371,10.789222,62,7,grid - Intensification,9
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Rugan Mallam Tanko,HA,7.67585,10.793295,138,9,grid - Intensification,9
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwan Bila,HA,7.669558,10.800374,358,64,grid,9
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Rugan Mai Doki,HA,7.619232,10.931173,122,22,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rugar Sarkin Fulanin Adamu,HA,7.316253,10.650014,144,26,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_15,HA,7.312214,10.649253,140,25,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_13,HA,7.305244,10.648382,221,40,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Binga,HA,7.741326,10.567462,40,10,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_22,HA,7.745072,10.572217,86,17,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Gwaraji Tsohuwa,SSA,7.748919,10.57067,432,76,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_30,HA,7.740512,10.576244,161,31,grid,9
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Kuzun,SSA,7.615235,10.925999,284,50,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_2,HA,7.799701,10.508543,133,24,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Foko,SSA,7.800879,10.511057,375,66,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_21,HA,7.283722,10.657157,752,130,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Tidun Biri,HA,7.273705,10.671849,519,91,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_31,HA,7.267778,10.676762,143,26,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rugan Jobawa,HA,7.276724,10.684644,393,69,grid,9
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Rugan Ango,HA,7.527797,10.700499,40,6,grid - Intensification,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Tsamiya,HA,7.415444,10.634112,270,47,grid,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Rinji,HA,7.780294,10.776321,621,23,grid - Intensification,9
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Wuriya,SSA,7.784363,10.772047,148,27,grid,9
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Sabon Gida,HA,7.357133,10.620809,623,23,grid - Intensification,9
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Chiritawa,SSA,7.631296,10.877081,272,13,grid - Intensification,9
+Kaduna,KD,Turunku,KD0411,Igabi,19004,SSA_4,SSA,7.628202,10.877897,276,13,grid - Intensification,9
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_2,HA,7.622601,10.882573,98,19,grid,9
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Tsohon Yelwa,SSA,7.611266,10.885515,277,49,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Ibrahim,HA,7.736381,10.499757,265,47,grid,9
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Dan Muntari,SSA,7.652075,10.607535,306,55,grid,9
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Marina,SSA,7.669623,10.81238,228,41,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Faruruwa,SSA,7.617235,10.895838,210,39,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Rugar Fulani Labar,HA,7.554572,10.899199,202,11,grid - Intensification,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Nasarawa Labar,SSA,7.550971,10.892548,231,42,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_18,HA,7.737489,10.862548,40,10,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_17,HA,7.724426,10.86382,27,9,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_22,HA,7.721098,10.8598,235,42,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Gidan Daura Gari,HA,7.713038,10.849585,382,67,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Unguwar Dan Azumi,SSA,7.874384,10.688187,218,40,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Unguwar Dallatu,SSA,7.879026,10.678579,365,65,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Sarkin Gwari,HA,7.517721,10.576138,587,22,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_23,HA,7.56064,10.93313,9,6,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_17,HA,7.550179,10.930053,208,39,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_13,HA,7.538229,10.926448,39,10,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Anguwan Tanimu,HA,7.534554,10.937259,696,121,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_9,HA,7.531063,10.922362,195,37,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_6,HA,7.406822,10.624535,418,73,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Hardo Hari,HA,7.765313,10.679546,315,57,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_7,HA,7.344555,10.617474,91,8,grid - Intensification,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rugan Adamu Bala,HA,7.343614,10.625527,349,15,grid - Intensification,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rugan Yahaya,HA,7.333849,10.623624,554,96,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_9,HA,7.333571,10.637011,397,70,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Katsinawa,HA,7.807641,10.770643,64,14,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Rugar Ali,HA,7.817894,10.770696,207,38,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Rugar Sakatare,HA,7.81514,10.758912,318,57,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Kudu,SSA,7.653203,10.604312,152,29,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Garaje,SSA,7.80824,10.753684,120,22,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rikoka,SSA,7.808889,10.744772,361,64,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Rugan Umaru,HA,7.36489,10.513925,99,8,grid - Intensification,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,HA_6,HA,7.358619,10.515029,8,6,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Rugar Alhaji Baba Yaro,HA,7.352477,10.509355,49,12,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,HA_7,HA,7.343355,10.51722,28,9,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Rigan Abubakar,HA,7.337077,10.519031,55,13,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,HA_3,HA,7.332686,10.509453,13,7,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,SSA_3,SSA,7.335011,10.503499,100,19,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Unguwar Gwari,HA,7.338199,10.505723,517,91,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Maigiginya,SSA,7.332342,10.503051,72,15,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Rugan Sirajo,HA,7.325656,10.52175,408,71,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,HA_10,HA,7.325769,10.53107,270,47,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,HA_4,HA,7.326402,10.509307,162,31,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Rugan Bodo,HA,7.314217,10.518557,284,50,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Kauyen Madugu,SSA,7.541395,10.975284,152,29,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_25,HA,7.67462,10.978476,218,40,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Rugar Hardo,HA,7.676538,10.890493,213,39,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Unguwan Wakili,HA,7.514305,10.619675,309,14,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Sabon Gida,SSA,7.508967,10.621982,200,11,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Rigar Malonbe,HA,7.505367,10.622013,307,14,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,HA_15,HA,7.505953,10.627666,32,9,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Unguwar Sarki Baba,SSA,7.498311,10.62721,137,24,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Unguwar Sarki Baba,HA,7.495949,10.628626,423,74,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Gidan Bello,HA,7.724276,10.502459,67,14,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Gidan Bawa,HA,7.726591,10.506421,138,25,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Abara,HA,7.732699,10.516131,255,45,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Jere,HA,7.743379,10.511652,407,71,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Unguwan Mai Zabi,HA,7.520624,10.643278,174,34,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_5,HA,7.804419,10.499826,219,40,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_3,HA,7.74538,10.745641,178,34,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_1,HA,7.739459,10.74551,165,32,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Huran Shehu Kakuri,SSA,7.622105,10.869666,206,11,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Hura,SSA,7.62369,10.867928,263,13,grid - Intensification,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Tinga Unba,HA,7.664958,10.591355,89,17,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_27,HA,7.671179,10.594842,243,43,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Sabon Gari Kabau,SSA,7.674638,10.594348,196,37,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Malamai,HA,7.66093,10.57998,355,64,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_31,HA,7.816319,10.698383,28,6,grid - Intensification,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_45,HA,7.81441,10.703397,54,12,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_30,HA,7.81331,10.712918,166,33,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_50,HA,7.821425,10.720643,109,20,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Unguwar Kanawa,SSA,7.822647,10.723188,179,34,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Kade Bakwai,SSA,7.824594,10.730071,271,47,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugan Alhaji Muntari,HA,7.832152,10.736179,302,54,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_48,HA,7.837147,10.738139,139,25,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_74,HA,7.353829,11.00676,76,16,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Karshi,SSA,7.348599,10.998534,158,30,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Dawai,HA,7.344108,10.985395,671,117,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Ribako,SSA,7.869618,10.675522,220,40,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_18,HA,7.865048,10.67483,72,15,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Teru,SSA,7.860459,10.671376,269,47,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Anguwan Bakoshi,SSA,7.586053,10.937319,344,15,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_35,HA,7.588599,10.945116,19,7,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_36,HA,7.586762,10.953048,187,36,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Rugan Alhaji Yaro,HA,7.594979,10.955822,239,43,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_51,HA,7.594025,10.966341,198,37,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Chitawa,SSA,7.554543,10.888661,119,22,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_4,HA,7.348435,10.750388,159,31,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Katafawa,SSA,7.522158,10.773341,149,9,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_29,HA,7.316991,10.797642,107,20,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugan Muhammedu Auwal,HA,7.666546,10.672225,100,19,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_49,HA,7.666809,10.687152,480,85,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_4,HA,7.755886,10.914008,50,12,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Garaganda 2,SSA,7.750578,10.923577,181,35,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Rugar Alhaji Haye,HA,7.608959,10.643208,405,17,grid - Intensification,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Rugan Mallam Ali,HA,7.712796,10.969633,87,17,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Wakili Danbaba Bango,HA,7.679903,10.688339,347,62,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Sabbaba Nomadic,HA,7.686311,10.69544,384,68,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Rugan Ibrahim,HA,7.709151,10.951745,117,21,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_39,HA,7.320877,10.964659,86,17,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_62,HA,7.328799,10.960057,1356,233,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Tunga,HA,7.8445,10.663678,335,61,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Ungwar Sallake,HA,7.673667,10.763355,189,10,grid - Intensification,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_6,HA,7.809483,10.502752,116,21,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_8,HA,7.361548,10.756561,415,72,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Rugar Maaji,HA,7.395347,10.5732,320,14,grid - Intensification,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,HA_17,HA,7.385317,10.571858,26,8,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_1,HA,7.384039,10.57447,196,37,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_26,HA,7.668577,10.574789,170,33,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Unguwar Kanti,HA,7.306465,10.505081,319,58,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Kadaujin Salahu,SSA,7.676274,10.903318,231,42,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Mahauta,SSA,7.667992,10.830582,54,12,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Shittu,SSA,7.668563,10.825708,76,16,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Pantaki,HA,7.671884,10.578887,186,35,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_9,HA,7.695604,10.92426,129,23,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Unguwar Reza,HA,7.467707,10.654049,647,24,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_43,HA,7.514372,10.778557,144,9,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_24,HA,7.514727,10.790567,57,13,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Unguwan Maganin Maza,SSA,7.504623,10.795269,90,18,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Unguwan Iro,SSA,7.503669,10.801339,88,17,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Banburu,SSA,7.497159,10.805582,319,58,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugan Babangida,HA,7.508449,10.806674,67,14,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Ciwake,SSA,7.503051,10.810883,95,18,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwar Makama,SSA,7.504937,10.81419,283,50,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugan Abdulrauf,HA,7.491453,10.809321,136,24,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_31,HA,7.486672,10.800595,40,10,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_24,HA,7.482233,10.792677,78,16,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Hayin Koshe,HA,7.472645,10.790825,159,31,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Mohammed Bello,HA,7.469698,10.783251,268,47,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Kajinjiri,SSA,7.471887,10.802786,162,31,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,SSA_2,SSA,7.47099,10.804538,221,40,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Kyauron Sama,HA,7.496638,10.819146,166,33,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,SSA_29,SSA,7.484512,10.823303,238,43,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Unguwan Alaramma,SSA,7.578046,10.717001,220,11,grid - Intensification,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_32,HA,7.370668,10.65264,55,6,grid - Intensification,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,HA_10,HA,7.55381,10.880942,61,13,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,HA_7,HA,7.552721,10.872496,165,32,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_19,HA,7.51213,10.737738,105,8,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Dandami Border,SSA,7.525018,10.776325,125,9,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_48,HA,7.599516,10.956964,50,12,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Rugan Alhaji Hari,HA,7.610793,10.916718,220,40,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Kwanar Tsintseya,SSA,7.589974,10.857299,69,7,grid - Intensification,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Rugar Mai Jakkai,HA,7.696498,10.952283,108,20,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Rugar Ali Mai Magi,HA,7.692733,10.950308,124,22,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Rugar Na Mai Iyali,HA,7.690364,10.954254,54,12,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_1,HA,7.751372,10.500981,27,9,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Tungar Daudu,HA,7.763995,10.498727,370,66,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Na Mai Gero,SSA,7.346606,10.7077,128,9,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Hayin Rogo,SSA,7.516406,10.803347,133,24,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_18,HA,7.707781,10.562603,156,30,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Alhaji Tiya,HA,7.672351,10.748778,103,19,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_71,HA,7.669575,10.745466,38,10,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Kadudu Nomadic,HA,7.666292,10.734819,509,90,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Unguwar Mai Kyanwa,SSA,7.766706,10.713287,201,38,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,SSA_18,SSA,7.332467,10.695573,160,10,grid - Intensification,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Jamare Ta Gabas,HA,7.858539,10.646743,751,130,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Budun,SSA,7.619417,10.908765,153,29,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_3,HA,7.424867,10.614362,159,10,grid - Intensification,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Unguwar Makada,SSA,7.573294,10.882013,469,19,grid - Intensification,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_23,HA,7.736888,10.953758,158,30,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,SSA_14,SSA,7.72875,10.948253,131,23,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_17,HA,7.735969,10.941494,148,27,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Gidan Sada,SSA,7.659174,10.863073,179,10,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Dandami,HA,7.654398,10.857104,252,45,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Fandaudu,SSA,7.749808,10.937871,190,36,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_6,HA,7.780873,10.657835,123,22,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Unguwan Dan Gambo,SSA,7.531551,10.971571,93,18,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Rugan Baiti,HA,7.526925,10.954663,269,47,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Unguwar Sayawa,HA,7.870873,10.779996,278,49,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Gure,HA,7.874335,10.768798,274,48,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_6,HA,7.868873,10.762611,143,26,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_8,HA,7.86348,10.766863,150,28,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_10,HA,7.482214,10.689166,98,8,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_11,HA,7.477414,10.690708,78,7,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Unguwan Maharba,SSA,7.479497,10.694806,231,12,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_13,HA,7.48328,10.700654,106,8,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Jae,HA,7.476485,10.707463,2,5,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Shuwaki,HA,7.473489,10.714983,127,23,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rinji,SSA,7.478923,10.721724,337,61,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Sabon Gida,HA,7.480293,10.727756,82,16,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Shedi,HA,7.485391,10.733135,279,49,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Abubakar,HA,7.467026,10.702485,234,42,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Musa Gidan Kwari,HA,7.481896,10.736319,8,6,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_2,HA,7.480912,10.745835,217,40,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Shadari,HA,7.477258,10.748139,38,10,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Unguwar Bagudu,HA,7.469567,10.754762,143,26,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Cifatake,SSA,7.460936,10.76072,103,19,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Kauyen Gandau,HA,7.453689,10.760556,424,74,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Tami,SSA,7.445289,10.77517,439,77,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Sanda,SSA,7.468498,10.699231,120,22,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_27,HA,7.821864,10.87806,199,37,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Namaje,HA,7.507339,10.858994,156,9,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_146,HA,7.498923,10.854766,32,9,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Talle,SSA,7.497741,10.851555,106,20,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Liman,SSA,7.493202,10.843038,210,39,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Burkawa,SSA,7.491143,10.860655,256,45,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Limamin Sharu,SSA,7.494957,10.866163,113,21,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Gidan Sani,HA,7.480112,10.856821,65,14,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Bakin Kasuwa,SSA,7.479601,10.866242,177,34,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Hayin Sambo,SSA,7.485406,10.876195,110,20,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Gidan Garkuwa,HA,7.485144,10.881989,113,21,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Usman,HA,7.487216,10.890536,86,17,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Tsoho,HA,7.49494,10.898677,68,14,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Adamu,HA,7.501418,10.90362,794,138,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Sale,HA,7.469329,10.8685,64,14,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Gidan Mallam Idi,HA,7.464725,10.857812,78,16,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Dallatu,SSA,7.466298,10.851615,192,36,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Amadu,SSA,7.460266,10.856679,183,35,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Angwan Makera,HA,7.452652,10.851633,203,38,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Gide,SSA,7.445618,10.845115,155,29,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Gidan Gauta,SSA,7.455407,10.841426,116,21,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Jura Barkin Kasuwa,SSA,7.457762,10.836878,327,59,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Gigane Sabuwa,SSA,7.46764,10.875647,137,24,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_47,HA,7.653709,10.736575,97,19,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_65,HA,7.651414,10.748465,38,10,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Majidadi,HA,7.63964,10.745141,33,9,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Kadi,HA,7.636078,10.734137,205,38,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_18,HA,7.622315,10.726156,122,22,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Wuro Koshe II,HA,7.613339,10.717838,732,127,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Kangimi Ubangida,SSA,7.616766,10.734058,191,36,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Alhaji Awolu,HA,7.658935,10.757256,63,14,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Alhaji Sani,HA,7.659491,10.76544,53,12,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_70,HA,7.651484,10.762918,45,11,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Dallatu,SSA,7.64246,10.769767,335,61,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Gidan Nuhu,SSA,7.644041,10.783038,116,21,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Gidan Jika,HA,7.636922,10.78401,216,40,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Gidan Sarki,SSA,7.629214,10.793339,96,18,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Babban Gida,SSA,7.629397,10.800245,243,43,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Rinji,SSA,7.643141,10.797781,72,15,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Doka,SSA,7.643498,10.802154,190,36,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Kankurmin Haja,SSA,7.644339,10.811942,177,34,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Kankurmin Makera,SSA,7.649308,10.816628,293,52,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Zakari,SSA,7.651454,10.803296,159,31,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,HA_16,HA,7.363542,10.570429,290,51,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_15,HA,7.730902,10.825636,58,13,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_1,HA,7.466156,10.692065,93,18,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rugar Saleh Shata,SSA,7.456051,10.690633,94,18,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rugar Alhaji Iro,HA,7.456574,10.687381,837,145,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_13,HA,7.786654,10.651272,74,15,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_11,HA,7.787554,10.644061,84,17,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_38,HA,7.779975,10.644239,250,44,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_14,HA,7.810923,10.667029,46,11,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_7,HA,7.815584,10.66247,92,18,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_17,HA,7.818027,10.667078,94,18,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Alhaji Sule,HA,7.824824,10.663151,336,61,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Sarki Kwaru,BUA,7.690105,10.840436,2169,80,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Kafin Sani,HA,7.468964,10.887658,412,72,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Ungwar Muazu,SSA,7.683838,10.838145,342,15,grid - Intensification,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Ado Sakatire,HA,7.691018,10.7404,204,11,grid - Intensification,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Mil Daya,SSA,7.700113,10.732922,199,37,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_37,HA,7.800865,10.718913,203,38,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Rugar Madaki,HA,7.522626,10.74518,181,10,grid - Intensification,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_10,HA,7.64069,10.927596,49,6,grid - Intensification,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Kankwana Saleh,SSA,7.550563,10.799953,110,8,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Bawa Gidan Gona,HA,7.473021,10.725324,99,19,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Kadusa,SSA,7.719287,10.657133,188,36,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_27,HA,7.37194,10.671427,250,12,grid - Intensification,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_24,HA,7.362044,10.66463,238,43,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_89,HA,7.49354,10.90803,57,13,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_95,HA,7.487937,10.914779,82,16,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_97,HA,7.493795,10.917861,22,8,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_101,HA,7.504969,10.920167,299,53,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_138,HA,7.513598,10.912038,50,12,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_91,HA,7.522307,10.907884,160,31,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_6,HA,7.517831,10.918933,120,22,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_11,HA,7.519131,10.926691,144,26,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Unguwar Kure,SSA,7.513047,10.930299,206,38,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_8,HA,7.639043,10.92164,134,9,grid - Intensification,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_6,HA,7.638163,10.915754,21,5,grid - Intensification,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_7,HA,7.631967,10.918491,89,17,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_12,HA,7.626328,10.920805,231,42,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,SSA_2,SSA,7.624549,10.926104,78,16,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Rabo,HA,7.711347,10.661665,36,10,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Dokan Bango,SSA,7.696707,10.65976,258,46,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Bature,HA,7.717771,10.668854,153,29,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Babba,HA,7.722994,10.677714,156,30,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Idi,HA,7.710896,10.68115,74,15,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Manga,HA,7.702977,10.681056,433,76,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_4,HA,7.62569,10.779865,95,18,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Gidan Danguggo,HA,7.619353,10.784885,162,31,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Babban Rafi,SSA,7.614776,10.783518,122,22,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_34,HA,7.446807,10.82771,90,18,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Hayin Tsauni,SSA,7.438686,10.8298,98,19,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Alhaji Adamu Banyi,HA,7.437524,10.827922,126,23,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Kosau ta Makarant,SSA,7.446943,10.817748,172,33,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Kosau,SSA,7.448781,10.814712,158,30,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Anguwan Sarki Ruhogi,SSA,7.585293,10.623655,90,7,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Rugan Dadi,HA,7.612064,10.771074,79,16,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Gidan Mai Almajeria,HA,7.601301,10.778228,278,49,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Jama'A,SSA,7.598022,10.773052,99,19,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_37,HA,7.776007,10.636837,186,35,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_29,HA,7.795666,10.716457,72,15,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Unguwar Tudun Tsuntsaye,SSA,7.513978,10.577811,210,11,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,HA_2,HA,7.53064,10.574181,61,7,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Unguwan Fa Gwari,HA,7.533762,10.580414,425,74,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Rugar Sule Usman,HA,7.542823,10.578238,161,31,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Bagama,HA,7.551917,10.586927,135,24,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Rugar Fulani Baso,HA,7.561266,10.590601,75,15,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Kwatan Kwara,SSA,7.570504,10.58952,82,16,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Izan,SSA,7.573087,10.596067,207,38,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Izan Hausa,SSA,7.572615,10.598588,119,22,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,HA_6,HA,7.579957,10.59935,168,33,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Kurma,SSA,7.731091,10.783701,571,22,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Bina Anguwan Liman,SSA,7.498498,10.959796,274,48,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Bina Anguwan Sarki,SSA,7.499386,10.957496,96,18,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Kauyen Madaki Mallam Jibrin,SSA,7.63981,10.892836,260,13,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_76,HA,7.420784,11.009612,52,12,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,SSA_21,SSA,7.427923,10.999945,201,38,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Unguwar Sarki,SSA,7.572712,10.883569,314,14,grid - Intensification,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Hayin Masaba,SSA,7.408646,10.572744,32,6,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_6,HA,7.607505,10.762209,168,33,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_1,HA,7.611646,10.757975,115,21,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Gajere,HA,7.837323,10.506295,132,23,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Girku,SSA,7.829741,10.515617,287,51,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_8,HA,7.832978,10.52201,60,13,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_9,HA,7.841179,10.520352,384,68,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Unguwar Dadi,HA,7.866767,10.533047,888,154,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_11,HA,7.829255,10.532675,116,21,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,Jangaba,HA,7.817582,10.527947,274,48,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_10,HA,7.833096,10.543924,112,21,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_20,HA,7.833814,10.556138,114,21,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_19,HA,7.841037,10.561196,173,34,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_17,HA,7.853799,10.556234,126,23,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_16,HA,7.860678,10.550252,316,57,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_12,HA,7.847973,10.544618,181,35,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_33,HA,7.324176,10.800006,110,20,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Dankyauro,HA,7.303467,10.826055,322,14,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Baka 1,SSA,7.29223,10.832698,192,36,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_40,HA,7.281604,10.840332,81,16,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Bakan Kalgo,SSA,7.291372,10.846608,122,22,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugan Makiyayi Baka,HA,7.291538,10.85753,241,43,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugan Na Allah,HA,7.2852,10.857876,429,75,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Gatari,SSA,7.295919,10.862209,236,42,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Unguwar Yarima,SSA,7.579396,10.88717,113,8,grid - Intensification,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Unguwar Lalle,SSA,7.588367,10.882842,248,44,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Babale,SSA,7.598681,10.889389,164,32,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_22,HA,7.384365,10.654846,818,33,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Risani,HA,7.310915,10.833089,425,74,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Hayen Dogo,HA,7.257825,10.547987,128,23,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,HA_11,HA,7.271195,10.552349,103,19,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Rugan Mallamawa,HA,7.284182,10.546723,413,72,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,HA_9,HA,7.250901,10.535366,140,25,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Mallamawa,SSA,7.253142,10.532445,195,37,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,HA_8,HA,7.260637,10.533182,359,64,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Rugan Dr Na Halima,HA,7.266175,10.521377,36,10,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,SSA_13,SSA,7.288957,10.49955,70,15,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,HA_5,HA,7.290241,10.504837,115,21,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,HA_2,HA,7.292275,10.516265,68,14,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Unguwar Daudu,HA,7.298912,10.52235,200,37,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Kwate 2,HA,7.303055,10.535795,249,44,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Rugar Babale,HA,7.308335,10.541902,260,46,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Rugan Alhaji Gajere,SSA,7.312798,10.549286,43,11,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Rugan Mallan Shehu,HA,7.320642,10.547956,603,105,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Rugan Alhaji Haruna,HA,7.336132,10.552103,300,54,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Gurguzu,SSA,7.340245,10.550493,93,18,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Rugan Alhaji Chiroma,HA,7.337982,10.563832,278,49,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_2,HA,7.483941,10.91693,236,42,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Chirisga,SSA,7.759175,10.795782,46,6,grid - Intensification,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Gidandi,SSA,7.750979,10.792028,168,33,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_14,HA,7.30272,10.77302,77,7,grid - Intensification,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_26,HA,7.820772,10.70554,21,8,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Alhaji Fanyo,HA,7.830203,10.708558,165,32,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Kawara,SSA,7.304295,10.843269,96,18,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Samaila Datti,HA,7.312218,10.852591,250,44,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugan Alhaji Isah Jae,HA,7.314391,10.862028,87,17,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_54,HA,7.326323,10.868512,32,9,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_50,HA,7.329218,10.876491,46,11,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Alh Yahaya Jae,HA,7.317081,10.878946,135,24,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_158,HA,7.321469,10.887245,48,12,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_68,HA,7.308921,10.888741,108,20,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_69,HA,7.302374,10.888473,219,40,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_83,HA,7.309263,10.898591,383,68,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Bala Dogo,HA,7.320208,10.901904,181,35,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_169,HA,7.30212,10.902314,46,11,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_94,HA,7.308122,10.912474,118,21,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_96,HA,7.314327,10.914573,341,62,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_103,HA,7.326375,10.920033,95,18,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_98,HA,7.339763,10.914326,254,45,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_90,HA,7.348338,10.910836,228,41,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_190,HA,7.358941,10.914417,84,17,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,SSA_21,SSA,7.369744,10.91647,42,11,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_92,HA,7.373831,10.913823,22,8,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_180,HA,7.373014,10.908619,214,39,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_82,HA,7.365171,10.90148,500,88,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_12,HA,7.360225,10.926429,60,13,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_26,HA,7.361936,10.93669,28,9,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_31,HA,7.368901,10.94039,74,15,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_33,HA,7.3726,10.945488,88,17,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_44,HA,7.364153,10.95146,44,11,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_32,HA,7.362358,10.957752,76,16,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_58,HA,7.350241,10.955955,58,13,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Karshi 2,HA,7.348492,10.962822,650,113,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Lambar Karshi 2,SSA,7.345146,10.963187,173,34,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_59,HA,7.356204,10.97137,230,42,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_14,HA,7.372795,10.930937,79,16,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_47,HA,7.381395,10.937368,16,7,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_24,HA,7.390245,10.940878,218,40,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_25,HA,7.392921,10.938012,264,46,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_29,HA,7.401084,10.937203,129,23,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_73,HA,7.405581,10.942469,50,12,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_41,HA,7.400731,10.952943,274,48,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_49,HA,7.407458,10.957852,222,40,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_76,HA,7.297787,10.892666,88,17,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,SSA_4,SSA,7.415401,10.955103,228,41,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Unguwan Wakili,SSA,7.418833,10.968102,473,83,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,SSA_7,SSA,7.581729,10.851673,201,11,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Rugan Waziri,HA,7.566152,10.922524,141,9,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Rugan Malam Ali,HA,7.568157,10.915892,105,20,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Masashiya,SSA,7.570153,10.911218,159,31,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Gidan Aiye,SSA,7.73475,10.770897,425,18,grid - Intensification,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Rugan Mallan Sule,HA,7.729975,10.759697,119,22,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_5,HA,7.742205,10.76069,166,33,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_9,HA,7.753319,10.766137,41,11,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Hura,SSA,7.760338,10.774115,274,48,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Rugan Fulani Ori,HA,7.724939,10.758927,137,24,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Rugan Anaruwa,HA,7.718654,10.750766,81,16,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_2,HA,7.723148,10.744059,382,67,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_51,HA,7.342029,10.721845,223,11,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugan Ibrahim Mohammed,HA,7.543023,10.843757,69,7,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Unguwan Kudu,SSA,7.480826,10.573407,319,14,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugan Habibu,HA,7.256068,10.82362,331,60,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_62,HA,7.330115,10.717972,76,16,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_52,HA,7.318509,10.712177,24,8,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_46,HA,7.308568,10.711738,54,12,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_49,HA,7.299667,10.71831,282,50,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Ifira,SSA,7.294105,10.703042,416,73,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_73,HA,7.434086,10.846975,66,14,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Abubakat Mai Saje,HA,7.435972,10.856483,328,60,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_45,HA,7.26488,10.852239,117,21,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugan Ali Basullube,HA,7.259254,10.86091,265,47,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_43,HA,7.767625,10.635277,44,11,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_40,HA,7.772676,10.628602,72,15,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_35,HA,7.772671,10.617499,301,54,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Rugan Alhaji Yuguda,HA,7.613321,10.794516,244,44,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_64,HA,7.621783,10.986323,152,29,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,Rugan Alhaji Shehu,HA,7.347171,10.523056,79,16,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,HA_16,HA,7.485093,10.640925,25,6,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugan Alhaji Wandu,HA,7.439913,10.807223,119,22,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Gidan Tofa,HA,7.420776,10.812906,312,56,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,SSA_3,SSA,7.448774,10.801772,44,11,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,SSA_23,SSA,7.450284,10.802437,82,16,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,SSA_30,SSA,7.451471,10.801535,81,16,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_38,HA,7.533253,10.74147,89,17,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_35,HA,7.539134,10.740243,33,9,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_31,HA,7.54001,10.73211,134,24,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_36,HA,7.547785,10.735569,109,20,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_33,HA,7.558714,10.73336,59,13,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_21,HA,7.558603,10.741348,25,8,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Rugar Mallam Amadu,HA,7.573329,10.751637,399,70,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Jama'Are,SSA,7.513271,10.741203,239,12,grid - Intensification,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_50,HA,7.666517,10.696815,123,22,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_25,HA,7.628027,10.577437,141,25,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Bello,HA,7.725271,10.691723,40,10,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_23,HA,7.730078,10.691576,29,9,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Fanshanu Dutse,SSA,7.738852,10.690371,110,20,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Bala,HA,7.74391,10.688014,128,23,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Fako,SSA,7.745338,10.684679,150,28,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Malam Dahiru,HA,7.738619,10.685815,57,13,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Babawuro,HA,7.720194,10.692247,72,15,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Fandisho 1,SSA,7.509193,10.740394,244,12,grid - Intensification,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_10,HA,7.85535,10.642621,30,9,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_78,HA,7.863802,10.639414,40,10,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_56,HA,7.259491,10.867499,101,19,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_60,HA,7.267738,10.87387,85,17,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_64,HA,7.269727,10.879449,176,34,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_5,HA,7.849769,10.636642,98,19,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_9,HA,7.837488,10.63797,129,23,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Jamare Ta Tsakiya,HA,7.841172,10.627847,271,47,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Unguwan Adamu,SSA,7.426604,10.95326,151,28,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_30,HA,7.433253,10.941683,155,29,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,SSA_1,SSA,7.43801,10.938408,101,19,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_45,HA,7.426547,10.938345,78,16,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_18,HA,7.428883,10.933803,140,25,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_55,HA,7.368466,10.968172,221,40,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_13,HA,7.335862,10.770529,100,8,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_1,HA,7.574101,10.90813,73,15,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Gobirawa,SSA,7.596437,10.607441,115,21,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Gidan Mai Gari,SSA,7.685277,10.887959,94,18,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,SSA_3,SSA,7.430251,10.927619,104,20,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Makera,SSA,7.464626,10.766985,53,12,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_9,HA,7.47918,10.768568,194,37,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Sarki Aminu Ibrahim,SSA,7.627822,10.847603,336,15,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_20,HA,7.5029,10.73973,70,7,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Unguwan Mazadu A,SSA,7.499361,10.743849,127,9,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Unguwan Alkasim,HA,7.491758,10.74559,244,44,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_10,HA,7.385104,10.918227,148,27,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Cidawaki Gabas,SSA,7.353562,10.702612,104,8,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,SSA_24,SSA,7.429228,10.919612,481,85,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_25,HA,7.709939,10.7007,80,16,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_27,HA,7.704154,10.704175,142,26,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Wakili Haruna,HA,7.707058,10.709126,61,13,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Hayin Baki,HA,7.591675,10.723523,220,11,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_9,HA,7.740745,10.828512,25,8,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_22,HA,7.747357,10.830489,93,18,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Namari,HA,7.686055,10.857487,67,14,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Rugan Fulani Ibrahim,HA,7.669574,10.88208,99,19,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Kabubawa,SSA,7.344504,10.782326,118,8,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_27,HA,7.34859,10.790551,168,33,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Mallam Naguggo,HA,7.339684,10.795004,198,37,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Sokwatawa,SSA,7.536313,10.654122,43,11,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Rugan Alhaji Gambo,HA,7.537137,10.648585,66,14,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_3,HA,7.615328,10.761246,38,10,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Katsinawa Sale Dahiru,HA,7.636408,10.840193,502,20,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Mallam Mako,SSA,7.64861,10.842826,197,37,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Kwarakwara,SSA,7.449975,10.705517,171,33,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rugar Samaila Shalare,HA,7.438709,10.70825,121,22,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rugar Dauji Manya,HA,7.432484,10.697469,72,15,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Dalwa,SSA,7.420323,10.697756,117,21,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Gidan Wakili Gamba,HA,7.409954,10.697179,233,42,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rugar Mallam Bala,HA,7.423589,10.682789,303,54,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Rugan Mai Babban Gona,HA,7.73416,10.796459,43,11,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_7,HA,7.740509,10.793693,116,21,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_51,HA,7.858123,10.722491,16,7,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_35,HA,7.862201,10.71934,76,16,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_56,HA,7.376955,10.97204,12,6,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_37,HA,7.382561,10.965056,21,8,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Rugan Babangida,HA,7.393646,10.965719,327,59,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_53,HA,7.401805,10.97023,29,9,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_63,HA,7.407432,10.98155,32,9,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_69,HA,7.405182,10.991299,274,48,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Sakwatawa,SSA,7.724221,10.660449,61,13,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Tukur,HA,7.507083,10.900537,27,9,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Sharu,SSA,7.505069,10.893944,173,34,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_67,HA,7.688826,10.754241,41,6,grid - Intensification,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_68,HA,7.696207,10.752727,37,6,grid - Intensification,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Wono 1,HA,7.700925,10.761313,60,13,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Wono 2,HA,7.708863,10.762894,201,38,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Rugan Ardo,SSA,7.713425,10.767063,72,15,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_21,HA,7.502289,10.934817,123,22,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_121,HA,7.37004,11.000263,99,19,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_91,HA,7.361044,10.996989,141,25,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Mallamai,SSA,7.414568,10.708577,124,22,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_47,HA,7.423075,10.71693,26,8,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Kabobo,HA,7.431611,10.724438,259,46,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Kuzuzzugi,SSA,7.600543,10.907452,133,24,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Likita,HA,7.641502,10.727651,121,22,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_28,HA,7.841073,10.70745,112,21,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_57,HA,7.296692,10.870278,87,17,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_12,HA,7.595158,10.701216,245,44,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,HA_13,HA,7.30038,10.558745,168,33,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Albasu,SSA,7.363258,10.795691,219,40,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_46,HA,7.346211,10.804236,22,8,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_30,HA,7.334756,10.81637,273,48,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_39,HA,7.779707,10.627823,36,10,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_34,HA,7.789317,10.61621,190,36,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_41,HA,7.85708,10.71545,51,12,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_39,HA,7.372843,10.697464,147,9,grid - Intensification,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Unguwar Sarkin Baka,SSA,7.37896,10.71268,124,22,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_50,HA,7.392233,10.720365,245,44,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Jabanga 2,SSA,7.383952,10.728071,91,18,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Jabanga Mai Inji,SSA,7.375596,10.730829,83,17,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_54,HA,7.368671,10.724928,140,25,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Jabanga 1,SSA,7.385488,10.730748,66,14,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Wada,HA,7.397175,10.737725,300,54,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_40,HA,7.601002,10.755489,12,6,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Kauyen Liman,HA,7.589734,10.760723,179,34,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_3,HA,7.470355,10.677818,186,10,grid - Intensification,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Umaru Maji Dadi,HA,7.816308,10.651689,142,26,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Muntari Abdullahi,HA,7.336195,10.870492,213,39,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Unguwan Mai Riga,HA,7.538328,10.601381,116,21,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_27,HA,7.715914,10.964783,29,9,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Ungwar Alhaji Kadade,HA,7.699111,10.839915,254,12,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Fulani Iliya,HA,7.708239,10.835042,18,7,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Rugan Juji,HA,7.704942,10.821887,254,45,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Alasan,HA,7.502326,10.887406,102,19,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Jallawa,HA,7.45615,10.792307,107,20,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Tudu Fanturawa,SSA,7.829268,10.69304,89,7,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Hayin Akwato,HA,7.292167,10.805013,106,8,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_42,HA,7.284485,10.799057,69,15,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Bukara,SSA,7.286774,10.78932,104,20,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Kudu Da Gari I,HA,7.297286,10.791371,198,37,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Bukara ta Kudu,SSA,7.287759,10.786148,61,13,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_21,HA,7.281885,10.778807,89,17,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_15,HA,7.276679,10.773845,117,21,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Gora Sanhu,HA,7.608106,10.821811,491,20,grid - Intensification,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,HA_3,HA,7.615076,10.830564,103,19,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_10,HA,7.620024,10.828699,29,9,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Angulu,SSA,7.674431,10.970822,75,15,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_66,HA,7.362298,10.985122,121,22,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_85,HA,7.487753,10.904476,52,12,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Ruggar Chiroma,HA,7.391688,10.629129,150,28,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Shehu Bakari,HA,7.320124,10.832571,98,19,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Gaddago,SSA,7.511173,10.85075,219,11,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Sansani,SSA,7.51231,10.849395,69,7,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugan Alhaji Dan Maikaba,HA,7.507453,10.833748,200,37,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Abdullahi Idris,HA,7.339739,10.860761,89,17,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Aminu Umar,HA,7.332007,10.858396,190,36,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Hange,SSA,7.24537,10.674691,148,27,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Hayin Yan Uku,HA,7.407909,10.744652,27,9,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rahama,SSA,7.417047,10.753012,283,50,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_10,HA,7.398892,10.756631,15,7,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Gidan Gona,HA,7.390878,10.755174,30,9,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Moyi,HA,7.381571,10.759864,287,51,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_88,HA,7.431326,10.910831,10,6,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,SSA_25,SSA,7.440302,10.912688,116,21,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,SSA_26,SSA,7.441168,10.90518,116,21,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_86,HA,7.425831,10.903592,156,30,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Rugan Alti,HA,7.584971,10.913925,99,19,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Mohammed,SSA,7.6265,10.847855,305,14,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Rugar Fulani Bello,HA,7.461293,10.676866,121,22,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_7,HA,7.766559,10.757029,285,13,grid - Intensification,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugan Shadari,HA,7.800334,10.737131,106,20,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Unguwan Ladan,SSA,7.565083,10.804161,179,10,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Ilu,HA,7.473346,10.744489,46,11,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_79,HA,7.351884,10.856741,14,7,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_41,HA,7.357267,10.856742,74,15,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Kawara Headquarter,HA,7.357455,10.840271,161,31,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Kawara Tudu,HA,7.346385,10.839838,352,63,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_118,HA,7.425027,10.89463,49,12,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_72,HA,7.428582,10.892377,49,12,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_19,HA,7.305443,10.77731,26,6,grid - Intensification,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_36,HA,7.639306,10.720197,83,17,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugan Mamuda,HA,7.251247,10.827445,44,11,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugan Bagobiri,HA,7.243676,10.828573,60,13,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugan Baushe,HA,7.232084,10.828925,213,39,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Gwada Unguwar Sarki,SSA,7.547991,10.951417,494,20,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Kamacha,SSA,7.48523,10.929221,106,20,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Goburawa 1 Kamacha,SSA,7.476725,10.927925,111,20,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Auren Dole,SSA,7.86136,10.698472,314,14,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Pauta,SSA,7.33299,10.76123,222,11,grid - Intensification,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Jamare Ta Yamma,HA,7.810509,10.634188,176,34,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Idrisp,HA,7.464522,10.73683,52,12,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Umar,HA,7.460351,10.733698,49,12,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Wakili Yau,HA,7.449044,10.735331,71,15,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Leran Tami,SSA,7.451856,10.746687,161,31,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Pauta Magorori,SSA,7.325621,10.761309,178,10,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_6,HA,7.321577,10.750152,261,46,grid,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,Goburawa,SSA,7.866221,10.788198,70,15,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Rugan Fulani Jamo,HA,7.683598,10.825517,423,17,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_122,HA,7.432709,10.896728,16,7,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_71,HA,7.440669,10.895047,84,17,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Mungaye,SSA,7.447415,10.716095,116,21,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Gigane Tsohuwa,SSA,7.450594,10.861903,95,18,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Sabon Garin Gwada,SSA,7.547476,10.944324,192,11,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_102,HA,7.450453,10.917961,76,16,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_104,HA,7.450633,10.92484,66,14,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_87,HA,7.420843,10.909848,98,19,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_5,HA,7.416851,10.919392,225,41,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rigan Dangi,HA,7.316579,10.742635,149,28,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_73,HA,7.31889,10.732426,81,16,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Unguwan Katsinawa,HA,7.319235,10.725876,96,18,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_22,HA,7.45452,10.937202,46,11,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_27,HA,7.452141,10.947127,124,22,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_42,HA,7.456839,10.954781,90,18,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Rugar Hardo,HA,7.610163,10.930734,30,9,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Umar,HA,7.683234,10.713011,114,21,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Ruga Fulani Mobe,HA,7.682516,10.717679,63,14,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Salisu,HA,7.724465,10.703357,103,19,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rigar Mai Doki,HA,7.307893,10.749066,53,12,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_65,HA,7.29784,10.744475,75,15,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Bunun Sama,SSA,7.287119,10.745332,168,33,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Bunun Tsakiya,SSA,7.284524,10.743864,111,20,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Bunun Kasa,SSA,7.282927,10.741847,175,34,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_41,HA,7.33661,10.699288,244,12,grid - Intensification,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_42,HA,7.691008,10.974244,10,6,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Rugar Alhaji Baini,HA,7.658762,10.851599,35,10,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Liman,SSA,7.647152,10.894525,127,9,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Jabbo,SSA,7.650067,10.896322,247,12,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Aboki,SSA,7.539959,10.821613,148,9,grid - Intensification,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Kanzaure Maidabino,SSA,7.535826,10.815226,65,7,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Kanzauren Dan Galadima,SSA,7.528354,10.814115,94,18,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Gidan Dankada,HA,7.529588,10.822124,119,22,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_11,HA,7.358965,10.646793,92,8,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_23,HA,7.614998,10.867681,67,7,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_70,HA,7.375089,10.89576,90,18,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Gangi,SSA,7.377451,10.792354,143,26,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_3,HA,7.422198,10.746867,6,6,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Baushe,HA,7.431756,10.749158,222,40,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,HA_15,HA,7.327372,10.567013,93,18,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rahama Nomadic,HA,7.72239,10.729579,187,36,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rugar Saidu Isuhu Bahalle,HA,7.447506,10.682081,41,11,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rigar Wada Kada,HA,7.445017,10.672772,112,21,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_45,HA,7.647894,10.650927,52,12,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_38,HA,7.352744,10.944755,116,21,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Tudun Mai Wada,SSA,7.272425,10.751541,173,34,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Alhaji Shuaibu,HA,7.323118,10.829153,13,7,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_126,HA,7.252693,10.753043,58,13,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_68,HA,7.248383,10.750609,44,11,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_61,HA,7.242592,10.737199,105,20,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_56,HA,7.243464,10.728127,38,10,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_48,HA,7.242064,10.711659,56,13,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_43,HA,7.24276,10.700283,132,23,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_38,HA,7.250424,10.695319,99,19,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Sabon Gidan Riyawa,SSA,7.261678,10.697384,107,20,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_44,HA,7.261099,10.700989,229,41,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Unguwan Katsinawa B,SSA,7.258298,10.704185,67,14,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_45,HA,7.227727,10.699397,174,34,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_55,HA,7.263111,10.728871,74,15,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Riyawa,SSA,7.271844,10.721513,205,38,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_26,HA,7.645732,10.887976,107,8,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Farakwai Gari,SSA,7.652466,10.886289,481,19,grid - Intensification,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rugar Wakili Nahowa,HA,7.45651,10.715819,65,14,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_130,HA,7.343868,10.902904,14,7,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_75,HA,7.354092,10.896706,136,24,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_8,HA,7.855017,10.634345,30,9,grid,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,HA_1,HA,7.370204,10.494874,25,6,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Gadani,SSA,7.489816,10.629355,231,12,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Unguwan Mazadu B,SSA,7.500346,10.745672,88,7,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Wada Anaruwa,HA,7.33617,10.886378,50,12,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_80,HA,7.332954,10.8931,98,19,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Kurmin Kaduna,SSA,7.528003,10.583985,340,15,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Unguwan Madaki,SSA,7.526695,10.587794,237,12,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Unguwan Danjuma,HA,7.527138,10.590481,243,12,grid - Intensification,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Baru,HA,7.603214,10.799636,82,16,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Rugan Kakale,HA,7.678524,10.959661,63,14,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_8,HA,7.467068,10.918358,103,19,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_43,HA,7.363922,10.859095,32,9,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_59,HA,7.359403,10.86654,52,12,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_62,HA,7.354389,10.874149,74,15,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Maruzuwa,SSA,7.382563,10.781501,83,17,grid,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_29,HA,7.771459,10.598041,89,17,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_136,HA,7.267809,10.771866,66,14,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Mallam Ibrahim,HA,7.509353,10.886012,24,8,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Yankara,HA,7.504785,10.880787,41,11,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_43,HA,7.435553,10.964248,99,19,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_53,HA,7.418516,10.724331,61,13,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_39,HA,7.644121,10.708385,86,17,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Rugar Alhaji Saburu,HA,7.597801,10.79124,61,13,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Rugan Suleiman,HA,7.552852,10.667827,62,14,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Rugan Alhaji Abdu,HA,7.564865,10.670794,109,20,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Tandama,HA,7.360458,10.830281,63,14,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Muddafa Fada,HA,7.35185,10.829803,48,12,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Kwargwado,SSA,7.356644,10.819887,60,13,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Alhaji Mu'Azu,HA,7.361593,10.814884,87,17,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_29,HA,7.392658,10.67026,478,19,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_44,HA,7.548396,10.845232,156,9,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Rugan Sale Megala,HA,7.710446,10.788178,95,18,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_2,HA,7.464205,10.670677,67,14,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_6,HA,7.490793,10.68657,87,7,grid - Intensification,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_69,HA,7.242868,10.755776,34,10,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_64,HA,7.238522,10.766261,17,7,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_18,HA,7.233087,10.771712,344,62,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_22,HA,7.234897,10.780767,77,16,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_20,HA,7.232743,10.78693,66,14,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_17,HA,7.24525,10.774628,96,18,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,SSA_1,SSA,7.241386,10.79192,72,15,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_24,HA,7.63042,10.958103,50,12,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_34,HA,7.376249,10.960953,40,10,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_3,HA,7.833567,10.625987,46,11,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Alhaji Mamaji,HA,7.371179,10.835059,26,8,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Dandi Mazaji,HA,7.378403,10.821012,187,36,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_46,HA,7.486048,10.937639,40,10,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_19,HA,7.640273,10.950767,217,11,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_20,HA,7.347614,10.935456,68,14,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_5,HA,7.429595,10.75688,26,8,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_11,HA,7.420486,10.769121,82,16,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_26,HA,7.416908,10.790328,103,19,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Sauron Giwa,SSA,7.412757,10.790895,127,23,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_21,HA,7.839528,10.682278,80,16,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_85,HA,7.612696,10.989797,37,10,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Unguwa Liman Gari Gwada,SSA,7.548841,10.951023,367,16,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_100,HA,7.327134,10.927052,98,19,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Tukur,HA,7.468284,10.897064,29,9,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Capenter,HA,7.468767,10.903091,17,7,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Sama'Ila,HA,7.458932,10.903416,71,15,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,HA_14,HA,7.441481,10.624439,139,9,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,HA_7,HA,7.437709,10.636152,63,14,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_8,HA,7.43363,10.638524,61,13,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Sabon Gari,SSA,7.574616,10.71559,190,10,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Kauyen Alin Garu,SSA,7.657977,10.871523,156,9,grid - Intensification,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_18,HA,7.630257,10.951042,11,6,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_16,HA,7.631641,10.94483,15,7,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Kaho,SSA,7.605664,10.815625,100,8,grid - Intensification,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Kanzaure Mairimi,HA,7.534354,10.809382,264,13,grid - Intensification,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Kanzaure Mairimi Ubale,SSA,7.53527,10.80754,115,8,grid - Intensification,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Dumbi Dutse,HA,7.658444,10.961106,296,14,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Rigar Himma,HA,7.502379,10.754163,38,10,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_51,HA,7.283969,10.865163,28,9,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Nassarawa Hayin Huriya,SSA,7.567683,10.804225,61,7,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_99,HA,7.342443,10.883468,22,8,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_25,HA,7.637981,10.886778,183,10,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Hayin Karma,SSA,7.639183,10.882347,238,12,grid - Intensification,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Nassarawa Kargo,SSA,7.57068,10.804423,165,10,grid - Intensification,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_35,HA,7.333455,10.683355,451,18,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Crimer,SSA,7.450572,10.652359,188,10,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Rugan Jae,HA,7.604866,10.869987,189,10,grid - Intensification,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_2,HA,7.698405,10.892145,24,8,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_26,HA,7.378302,10.66655,178,10,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Unguwa Liman Juma'A Gwada,SSA,7.555025,10.95153,152,9,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,Unguwar Barau,SSA,7.555557,10.954695,248,12,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_57,HA,7.56665,10.973333,107,20,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugan Aminu Lugga,HA,7.554447,10.837106,27,6,grid - Intensification,10
+Kaduna,KD,Gwaraji,KD0404,Igabi,19004,HA_52,HA,7.687774,10.684254,28,9,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_61,HA,7.527028,10.874812,95,18,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_38,HA,7.57419,10.8375,305,14,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_50,HA,7.343761,10.954935,18,7,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,SSA_24,SSA,7.52914,10.85233,112,8,grid - Intensification,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Dadin Kowa Hayi,SSA,7.554362,10.909979,135,9,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_63,HA,7.255058,10.877962,52,12,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Jarhawa,HA,7.305232,10.804957,225,12,grid - Intensification,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugan Jalli,HA,7.732643,10.728168,25,8,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_32,HA,7.732918,10.718092,51,12,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Tungar Togace,HA,7.614502,10.588929,30,9,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Dandami,SSA,7.530445,10.780098,115,8,grid - Intensification,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_66,HA,7.365301,10.747545,35,10,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_42,HA,7.715048,10.728689,18,7,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_16,HA,7.63277,10.853654,2,5,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Sabon Layi,HA,7.692903,10.794999,359,16,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_1,HA,7.57184,10.626903,21,5,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_22,HA,7.51487,10.745161,57,6,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_52,HA,7.383639,10.95676,20,8,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_13,HA,7.690655,10.821096,45,6,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Barkono,HA,7.516444,10.567313,402,17,grid - Intensification,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_38,HA,7.655507,10.724579,82,16,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,HA_5,HA,7.626097,10.590947,53,12,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Ungwar Liman Alhaji Wasilu,SSA,7.623985,10.842087,275,13,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_114,HA,7.482029,10.894405,9,6,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Yarima,HA,7.330298,10.847058,46,11,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_81,HA,7.4123,10.905017,48,12,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,Rugar Shafiu,HA,7.76202,10.698994,99,8,grid - Intensification,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Kanwa,HA,7.613806,10.812325,404,17,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_3,HA,7.404748,10.910086,28,9,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Rugar Shahu,HA,7.569602,10.808525,110,8,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_53,HA,7.430885,10.86804,42,11,grid,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_66,HA,7.63013,10.753254,39,10,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Rugar Crimer,HA,7.455476,10.657887,190,10,grid - Intensification,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_23,HA,7.447881,10.661061,89,7,grid - Intensification,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rugar Mallam Umaru,HA,7.43868,10.664151,66,14,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Nasiru,HA,7.241274,10.8375,20,8,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_67,HA,7.384454,11.00784,14,7,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_39,HA,7.232438,10.840706,25,8,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,HA_8,HA,7.531935,10.630867,32,9,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_18,HA,7.659477,10.83038,4,5,grid,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Hayin Tasha,SSA,7.524247,10.766718,142,9,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_77,HA,7.41079,10.893451,30,9,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_63,HA,7.228155,10.755945,58,13,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Igugu,SSA,7.634748,10.884922,136,9,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Unguwar Gajilo,SSA,7.676816,10.77549,252,12,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Alhassan,HA,7.560519,10.844943,182,10,grid - Intensification,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_116,HA,7.223818,10.742585,31,9,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_59,HA,7.197856,10.739521,27,9,grid,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_7,HA,7.403857,10.919468,16,7,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Rugar Saleh,HA,7.515168,10.894356,16,7,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_12,HA,7.220445,10.772848,16,7,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_32,HA,7.217223,10.784968,54,12,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Danbaba,SSA,7.558101,10.774577,262,13,grid - Intensification,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Anguwan Mallam Ilu,SSA,7.532219,10.775445,120,8,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Yusuf,SSA,7.533895,10.849867,106,8,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Guruza,SSA,7.537217,10.849212,35,6,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Wukabi 2,HA,7.610847,10.859759,211,11,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_7,HA,7.546539,10.688017,58,13,grid,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,HA_21,HA,7.659067,10.946727,4,5,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,HA_1,HA,7.546122,10.766772,92,8,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_37,HA,7.389604,10.81863,24,8,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Anguwan Kano,HA,7.451349,10.626148,125,9,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Kafin Ganye,HA,7.47075,10.668306,165,10,grid - Intensification,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Unguwan Mallam Iro,SSA,7.635562,10.908074,188,10,grid - Intensification,10
+Kaduna,KD,Igabi,KD0405,Igabi,19004,HA_4,HA,7.781122,10.750145,283,13,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,HA_1,HA,7.506352,10.572668,91,8,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,SSA_4,SSA,7.574335,10.842463,90,7,grid - Intensification,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_2,HA,7.839125,10.588167,62,14,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_33,HA,7.326276,10.678803,232,12,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_23,HA,7.323257,10.784687,84,7,grid - Intensification,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_20,HA,7.374089,10.662075,120,8,grid - Intensification,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_18,HA,7.40843,10.667428,23,8,grid,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_58,HA,7.381711,10.676012,142,9,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Hayin Mai Itu Unguwar Mallam Amadu,SSA,7.628925,10.888587,124,9,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Rugar Ardo Kwankeli,HA,7.48361,10.654847,95,8,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,HA_11,HA,7.458295,10.642053,69,7,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,HA_17,HA,7.450617,10.635957,347,15,grid - Intensification,10
+Kaduna,KD,Rigasa,KD0409,Igabi,19004,HA_14,HA,7.392357,10.554801,113,8,grid - Intensification,10
+Kaduna,KD,Kerawa,KD0406,Igabi,19004,HA_40,HA,7.316732,10.952685,16,7,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,Anguwan Auta,SSA,7.542595,10.829684,95,8,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,HA_3,HA,7.500901,10.589484,113,8,grid - Intensification,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_40,HA,7.65957,10.712812,6,6,grid,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,Rugan Fulani Wada Zubairu,HA,7.623711,10.856785,96,8,grid - Intensification,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,HA_8,HA,7.5474,10.911577,114,8,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_20,HA,7.689131,10.850515,103,8,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Filani Ori,HA,7.498733,10.57149,136,9,grid - Intensification,10
+Kaduna,KD,Fanshanu,KD0403,Igabi,19004,HA_33,HA,7.860638,10.692806,43,6,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,SSA_8,SSA,7.578385,10.634732,108,8,grid - Intensification,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,Rugar Filani Magaji,HA,7.491087,10.57125,91,8,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_113,HA,7.319258,10.936886,12,6,grid,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_47,HA,7.571986,10.850397,190,10,grid - Intensification,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,HA_36,HA,7.382578,10.684762,149,9,grid - Intensification,10
+Kaduna,KD,Zangon Aya,KD0412,Igabi,19004,Rugan Anaruwa,HA,7.664645,10.897935,5,5,grid,10
+Kaduna,KD,Rigachikun,KD0408,Igabi,19004,HA_9,HA,7.499461,10.613623,51,6,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,Unguwan Madaci,HA,7.504781,10.783171,177,10,grid - Intensification,10
+Kaduna,KD,Turunku,KD0411,Igabi,19004,HA_5,HA,7.662663,10.782006,11,6,grid,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,Unguwar Gere,SSA,7.574128,10.89252,88,7,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_9,HA,7.479329,10.683237,31,6,grid - Intensification,10
+Kaduna,KD,Sabon Birnin,KD0410,Igabi,19004,HA_49,HA,7.567133,10.857082,57,6,grid - Intensification,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,HA_4,HA,7.569397,10.861053,16,5,grid - Intensification,10
+Kaduna,KD,Birnin Yero,KD0402,Igabi,19004,HA_5,HA,7.576326,10.863627,86,7,grid - Intensification,10
+Kaduna,KD,Kwarau,KD0407,Igabi,19004,HA_15,HA,7.519748,10.714294,115,8,grid - Intensification,10
+Kaduna,KD,Afaka,KD0401,Igabi,19004,Rumana,SSA,7.298563,10.756724,138,9,grid - Intensification,10

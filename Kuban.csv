@@ -1,0 +1,1043 @@
+State,Statecode,Ward,Wardcode,Lga,Lgacode,Name,Type,X,Y,Population,Target.Household.Count,Recommended.Access.Categories,DecileByHH
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_2,HA,8.346013,10.674604,41,6,grid - Intensification,3
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Unguwar Mallam Mamman,SSA,8.137309,10.794051,104,8,grid - Intensification,3
+Kaduna,KD,Mah,KD1508,Kuban,19015,Rugar Baushe,HA,8.339413,10.98321,88,7,grid - Intensification,3
+Kaduna,KD,Damau,KD1502,Kuban,19015,Kajirgo A,HA,8.423331,10.921634,882,153,grid,3
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Zabi,BUA,8.145388,10.69384,5649,962,grid,3
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Dangachi,SSA,8.298812,11.08211,306,55,grid,3
+Kaduna,KD,Mah,KD1508,Kuban,19015,Karaba,BUA,8.286173,11.052555,5483,199,grid - Intensification,4
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Layin Gobirawa,SSA,8.154857,10.758717,428,75,grid,4
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Pambegua,BUA,8.274379,10.682102,49063,1754,grid - Intensification,4
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Dangero,HA,8.262391,10.707667,307,55,grid,4
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Unguwar Rakatse,BUA,8.201717,10.852911,24233,867,grid - Intensification,4
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Makwalla,BUA,8.412717,10.998989,4454,760,grid,4
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Shararriya,HA,8.316014,11.057894,1467,252,grid,4
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Tudun Wada,BUA,8.359968,10.936386,2060,76,grid - Intensification,4
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Kurfi,HA,8.428055,11.017571,405,71,grid,4
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Kargi,BUA,8.335927,11.022634,12591,452,grid - Intensification,4
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Unguwar Goje,HA,8.271901,10.694129,438,18,grid - Intensification,4
+Kaduna,KD,Mah,KD1508,Kuban,19015,Tudun Wada,SSA,8.271384,11.059385,453,80,grid,4
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Madabbo,BUA,8.380644,10.96281,18037,646,grid - Intensification,4
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Kubau,BUA,8.159525,10.799315,20440,732,grid - Intensification,4
+Kaduna,KD,Mah,KD1508,Kuban,19015,Bakin Kasuwa A,SSA,8.291514,11.048598,486,19,grid - Intensification,4
+Kaduna,KD,Damau,KD1502,Kuban,19015,Damau Tasha,BUA,8.433106,10.898649,5907,213,grid - Intensification,4
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Shinkafi,SSA,8.100861,10.687464,340,15,grid - Intensification,4
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Tashar Adamu,SSA,8.290711,11.097378,151,28,grid,4
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Nagunda Unguwar Sadi,SSA,8.116792,10.687527,475,84,grid,4
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_42,HA,8.370002,10.968742,555,21,grid - Intensification,4
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Gobirawa,BUA,8.397155,10.963386,14394,517,grid - Intensification,4
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Nagunda Unguwar Yahuza,SSA,8.117752,10.686772,245,44,grid,4
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Jenau Gidan Sarki,BUA,8.323501,10.897285,1807,67,grid - Intensification,4
+Kaduna,KD,Mah,KD1508,Kuban,19015,Bagwiwa B,SSA,8.251247,11.06134,279,49,grid,5
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Unguwar Mato,SSA,8.373641,10.726219,357,64,grid,5
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Jidda,SSA,8.363374,10.687367,225,41,grid,5
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Jenau Sabon Gari,SSA,8.321429,10.903177,261,13,grid - Intensification,5
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Ali,SSA,8.356924,11.001691,201,38,grid,5
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Layin Ibo,SSA,8.371358,10.739103,427,18,grid - Intensification,5
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Sarki Haskiya,SSA,8.456043,11.02414,295,14,grid - Intensification,5
+Kaduna,KD,Mah,KD1508,Kuban,19015,Dokan Tagwai,BUA,8.287923,11.076607,4714,803,grid,5
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Nasarawa Anchau,SSA,8.361757,10.996314,174,34,grid,5
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Dankande West,SSA,8.218113,10.785424,352,15,grid - Intensification,5
+Kaduna,KD,Mah,KD1508,Kuban,19015,Rugar Juli,HA,8.347627,10.997245,302,14,grid - Intensification,5
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Unguwar Mallam Chindo,SSA,8.152942,10.728161,143,9,grid - Intensification,5
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Kankare Yusuf,HA,8.336725,10.681223,1491,57,grid - Intensification,5
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Unguwar Dangogo Aminu,SSA,8.151678,10.736171,484,19,grid - Intensification,5
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Gidan Maibindiga,HA,8.419242,10.928487,106,20,grid,5
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Alhaji Yau,BUA,8.430533,11.031625,3988,680,grid,5
+Kaduna,KD,Mah,KD1508,Kuban,19015,Rikochi A,SSA,8.335189,10.994795,397,17,grid - Intensification,5
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Mabuga Unguwar,BUA,8.43284,10.945137,2788,102,grid - Intensification,5
+Kaduna,KD,Mah,KD1508,Kuban,19015,Dasa Ganji A,SSA,8.300973,11.053376,245,44,grid,5
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Kamfani,HA,8.298996,10.678033,177,34,grid,5
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Anguwar Hamisu,BUA,8.235236,10.738478,13624,489,grid - Intensification,5
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Unguwar Barde,SSA,8.244669,10.679143,184,35,grid,5
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Unguwan Mato Church,SSA,8.37319,10.728036,374,16,grid - Intensification,5
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Unguwar Mai Gyada,SSA,8.262319,10.657836,149,28,grid,5
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Hayin Gada,SSA,8.185641,10.860763,111,20,grid,5
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Yan Gero Church,HA,8.24336,10.644158,344,15,grid - Intensification,6
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Mai Kaza,SSA,8.255657,10.721285,310,14,grid - Intensification,6
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Kadage Mai Anguwa Alhaji Sani,SSA,8.330845,10.679795,210,11,grid - Intensification,6
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Yan Gero Dorawa,HA,8.248155,10.647958,180,10,grid - Intensification,6
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Kankare Yusuf,SSA,8.340934,10.682546,99,8,grid - Intensification,6
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Bawada,HA,8.20464,10.828856,81,16,grid,6
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Sabon Garin Dankande,SSA,8.218801,10.791029,202,11,grid - Intensification,6
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_21,HA,8.255467,10.652602,66,14,grid,6
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Kugawa Dinya,SSA,8.349413,10.926683,79,16,grid,6
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_91,HA,8.41377,10.916228,65,14,grid,6
+Kaduna,KD,Damau,KD1502,Kuban,19015,Gandari,BUA,8.410234,10.90535,2575,440,grid,6
+Kaduna,KD,Damau,KD1502,Kuban,19015,Gidan Lutu,SSA,8.396803,10.900674,72,15,grid,6
+Kaduna,KD,Damau,KD1502,Kuban,19015,Danhauya,BUA,8.396662,10.888056,5623,958,grid,6
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Unguwar Iya,SSA,8.229832,10.682354,404,17,grid - Intensification,6
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Maraba Kubau B,SSA,8.214832,10.811672,151,9,grid - Intensification,6
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Kadage,SSA,8.32776,10.679886,140,9,grid - Intensification,6
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Kugawa Church,SSA,8.345209,10.925097,185,35,grid,7
+Kaduna,KD,Mah,KD1508,Kuban,19015,Bagwiwa A,SSA,8.250929,11.060149,448,79,grid,7
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Mai Kaza East,SSA,8.256448,10.722052,166,10,grid - Intensification,7
+Kaduna,KD,Mah,KD1508,Kuban,19015,Hayin Ade,HA,8.249455,11.051349,779,135,grid,7
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_44,HA,8.244462,11.052513,54,12,grid,7
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_43,HA,8.233985,11.052626,44,11,grid,7
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_58,HA,8.20986,11.044419,2962,506,grid,7
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Gidan Dio,SSA,8.357969,10.934436,99,8,grid - Intensification,7
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_22,HA,8.28658,10.668869,10,5,grid - Intensification,7
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Masama,SSA,8.185004,10.796868,323,58,grid,7
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Gidan Mai Garu,SSA,8.412227,11.01107,433,76,grid,7
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_35,HA,8.319143,10.917838,637,111,grid,8
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Maraba Kubau A,SSA,8.213568,10.8097,165,10,grid - Intensification,8
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Unguwar Murtala C,SSA,8.153561,10.790489,340,15,grid - Intensification,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Rugar Julik,HA,8.358772,10.988141,299,53,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_26,HA,8.433637,11.014331,29,9,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Baushe Mato,HA,8.440592,11.009969,77,16,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Kirgi,SSA,8.439486,10.999946,337,61,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Kwando,SSA,8.443598,10.994772,248,44,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Fanfama,SSA,8.452302,10.990055,208,39,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_15,HA,8.46288,10.992997,77,16,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_31,HA,8.472165,10.989869,244,44,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_29,HA,8.481271,10.984941,89,17,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Rijiyar Bammi,HA,8.474045,10.974923,583,101,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Kanfan Dabo,HA,8.482523,10.962727,4304,734,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_32,HA,8.482582,10.992737,78,16,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_22,HA,8.477907,11.000898,83,17,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_34,HA,8.480009,11.010514,50,12,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_20,HA,8.485836,11.007476,252,45,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_33,HA,8.495571,11.006422,183,35,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Tashar Tsamiya,SSA,8.499954,11.000597,459,81,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Tashar Tsamiya Mahauta,SSA,8.500493,10.999564,251,45,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_28,HA,8.493215,11.017098,38,10,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_47,HA,8.497291,11.019134,166,33,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_43,HA,8.506342,11.021877,19,7,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Fulani Akawal,HA,8.512325,11.012738,119,22,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Gatarawa,HA,8.525136,11.018615,1396,240,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Alhaji Wakili,HA,8.534309,11.017239,148,27,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Yar Saura,HA,8.545854,11.024123,10308,1754,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_50,HA,8.529465,11.031237,63,14,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_57,HA,8.53265,11.037208,482,85,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_54,HA,8.542653,11.040093,154,29,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Natsohuwa,HA,8.543653,11.056539,1449,249,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Tashar Kinchin,HA,8.561057,11.05859,1248,215,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Farar Hula,SSA,8.550668,11.037093,217,40,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_14,HA,8.562918,11.035993,743,129,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_38,HA,8.563428,11.027012,158,30,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_35,HA,8.565456,11.014059,537,94,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_44,HA,8.576291,11.017122,285,50,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_25,HA,8.585151,11.015048,42,11,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Yar Doka Waje,HA,8.589973,11.017145,255,45,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Fulani Ranji,HA,8.593057,11.025313,529,93,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Mai Unguwa Maniya,SSA,8.59211,11.032502,180,35,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Malam Dabo Kadiri,HA,8.589311,11.032006,722,125,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Yar Doka,BUA,8.578158,11.029019,4295,733,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Unguwar Sanusi,SSA,8.34062,10.916304,216,40,grid,8
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Unguwar Mamuda,SSA,8.126917,10.741267,468,19,grid - Intensification,8
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Iyatawa Unguwar Alhaji Hashimu,SSA,8.153408,10.75471,316,57,grid,8
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Gimbawa,SSA,8.121862,10.743162,355,15,grid - Intensification,8
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Mai Siddi Layin Madugu,SSA,8.11256,10.73947,479,84,grid,8
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Unguwar Alh Danjumma,SSA,8.1069,10.745483,547,95,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Kugawan Alhaji Rabiu,SSA,8.345362,10.912683,208,39,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_29,HA,8.346322,10.905491,86,17,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,BUA_1,BUA,8.345487,10.892277,1512,260,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,SSA_1,SSA,8.346548,10.889489,156,30,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Magami,SSA,8.344401,10.888432,206,38,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Marmara Church,SSA,8.344611,10.938738,190,36,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Rugagen Marmara,HA,8.33542,10.938266,1253,215,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_25,HA,8.32445,10.890224,189,10,grid - Intensification,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_28,HA,8.311217,10.888109,636,111,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Kuzuntu,BUA,8.303606,10.887482,1751,300,grid,8
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_9,HA,8.224992,10.752115,212,39,grid,8
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Tashar Dan Agwai,SSA,8.147056,10.744847,58,7,grid - Intensification,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_19,HA,8.328619,10.883069,77,16,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_21,HA,8.329957,10.875404,497,88,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_17,HA,8.325723,10.859805,512,90,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Sabon Gari Kuzuntu,HA,8.317217,10.861001,597,104,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Maguzawa,SSA,8.32399,10.854891,55,13,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_15,HA,8.334432,10.849599,97,19,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Sabon Gari Kawa,HA,8.337711,10.842379,375,66,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_12,HA,8.351108,10.844512,192,36,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_9,HA,8.351074,10.838476,111,20,grid,8
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_43,HA,8.348949,10.834138,42,11,grid,8
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Tsohan Karreh,HA,8.341973,10.82196,1396,240,grid,8
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_46,HA,8.353863,10.832049,326,59,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_14,HA,8.357085,10.847542,135,24,grid,8
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_11,HA,8.359655,10.840158,31,9,grid,8
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_47,HA,8.362298,10.834256,167,33,grid,8
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_67,HA,8.365346,10.836115,807,140,grid,8
+Kaduna,KD,Damau,KD1502,Kuban,19015,SSA_4,SSA,8.369779,10.844533,93,18,grid,8
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_54,HA,8.373238,10.844302,95,18,grid,8
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rugar Fulani Yahaya,HA,8.381642,10.852183,396,69,grid,8
+Kaduna,KD,Damau,KD1502,Kuban,19015,SSA_8,SSA,8.372291,10.862996,89,17,grid,8
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_70,HA,8.36543,10.865314,144,26,grid,8
+Kaduna,KD,Damau,KD1502,Kuban,19015,Binigi,HA,8.368805,10.874234,922,159,grid,8
+Kaduna,KD,Damau,KD1502,Kuban,19015,Gidan Bature,SSA,8.366347,10.882058,316,57,grid,8
+Kaduna,KD,Damau,KD1502,Kuban,19015,Unguwar Lutu,SSA,8.36625,10.890016,78,16,grid,8
+Kaduna,KD,Damau,KD1502,Kuban,19015,Baburawa,HA,8.372799,10.905089,1678,288,grid,8
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Tudun Wada,HA,8.329072,10.828559,104,20,grid,8
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Unguwar Bala,HA,8.322855,10.829241,843,146,grid,8
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_56,HA,8.386082,10.842182,438,77,grid,8
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Unguwar Dogara Nasaru,BUA,8.31451,10.674432,2837,104,grid - Intensification,8
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Mai Buzu,SSA,8.114265,10.752858,389,68,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Sarkin Doki,HA,8.529701,11.047269,469,83,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Sobawa,SSA,8.326247,11.058461,162,31,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Jangefe,SSA,8.334599,11.06233,188,36,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Rugar Iro,HA,8.340635,11.068756,150,28,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_10,HA,8.346451,11.061914,187,36,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_9,HA,8.352307,11.062791,155,29,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Marmara,SSA,8.351771,11.066406,222,40,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_12,HA,8.357183,11.069857,95,18,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Fanbeguwa,SSA,8.363257,11.069366,81,16,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Kankaru,SSA,8.372065,11.07437,101,19,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_22,HA,8.379793,11.078925,81,16,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_28,HA,8.38495,11.088108,116,21,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gadas Arewa,SSA,8.394686,11.090658,384,68,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gadas Kudu,SSA,8.395622,11.088564,450,79,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_18,HA,8.405493,11.08378,56,13,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Fangwani Unguwar Kwari,SSA,8.40771,11.088034,545,95,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_13,HA,8.411229,11.074533,267,47,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gunbi,SSA,8.418092,11.075471,159,31,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Fulani Gunbi,HA,8.417642,11.080622,132,23,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_29,HA,8.420296,11.090558,264,46,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_37,HA,8.415062,11.099036,63,14,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Kura,SSA,8.419337,11.103685,162,31,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Labi,BUA,8.428412,11.103231,2816,481,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Shar,SSA,8.437905,11.109329,321,58,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_40,HA,8.442714,11.10557,250,44,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Ruggan Lawal,HA,8.452387,11.109102,647,113,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Mayaki,SSA,8.400288,11.131354,110,20,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Shada,HA,8.393809,11.136904,466,82,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_46,HA,8.399919,11.143417,146,27,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Kariya Asibiti,SSA,8.397469,11.150088,234,42,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Kargi Kofar Fada,SSA,8.398575,11.150742,487,86,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_48,HA,8.389083,11.155436,234,42,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Malam,HA,8.374431,11.163376,681,118,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Unguwar Waziri,HA,8.363957,11.157247,923,160,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_4,HA,8.338105,11.053619,286,51,grid,8
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Tashan Bakwaki,HA,8.343608,11.047461,311,56,grid,8
+Kaduna,KD,Mah,KD1508,Kuban,19015,Mah Layin Sarki,SSA,8.241465,11.076325,450,18,grid - Intensification,8
+Kaduna,KD,Mah,KD1508,Kuban,19015,Malamawa,SSA,8.241188,11.068484,397,17,grid - Intensification,8
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_45,HA,8.230414,11.064458,160,31,grid,8
+Kaduna,KD,Mah,KD1508,Kuban,19015,Nasarawa,HA,8.2259,11.071116,616,107,grid,8
+Kaduna,KD,Mah,KD1508,Kuban,19015,Yartafki,HA,8.212881,11.069595,917,159,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_40,HA,8.439709,11.019959,60,13,grid,8
+Kaduna,KD,Mah,KD1508,Kuban,19015,Mah Layin Liman,SSA,8.242408,11.076592,555,21,grid - Intensification,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Malamai B,SSA,8.59925,11.025424,128,23,grid,8
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Sabuwar Dori,HA,8.603963,11.013793,656,115,grid,8
+Kaduna,KD,Mah,KD1508,Kuban,19015,Ungwan Sarki Meyama,SSA,8.35881,11.016503,209,39,grid,8
+Kaduna,KD,Mah,KD1508,Kuban,19015,Rugar Mallam Ali,HA,8.363126,11.018173,122,22,grid,8
+Kaduna,KD,Mah,KD1508,Kuban,19015,Ungwan Dishe,SSA,8.365833,11.021749,275,48,grid,8
+Kaduna,KD,Mah,KD1508,Kuban,19015,Hayin Talata,SSA,8.368454,11.009785,209,39,grid,8
+Kaduna,KD,Mah,KD1508,Kuban,19015,Magajin Aska,HA,8.371002,11.007838,422,74,grid,9
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_11,HA,8.192065,10.860132,480,19,grid - Intensification,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Rugan Mai Ungwa Main Jedda,HA,8.211034,11.073526,866,150,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_30,HA,8.382002,11.096968,118,21,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Gunda,SSA,8.385415,11.101507,214,39,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_31,HA,8.393516,11.106282,29,9,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gurjiya Gabas,SSA,8.394719,11.112786,260,46,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,SSA_4,SSA,8.393131,11.112919,207,38,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gurjiya Arewa,HA,8.391552,11.115104,977,169,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gurjiya Arewa,SSA,8.39201,11.115902,235,42,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Langwami,HA,8.39027,11.122022,296,53,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_52,HA,8.402934,11.11387,339,61,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_41,HA,8.404213,11.109325,180,35,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Binchuni,HA,8.403456,11.105146,176,34,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_3,HA,8.2684,10.715125,143,26,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_4,HA,8.275347,10.717776,37,10,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Matangin Hausawa,HA,8.284481,10.720209,726,126,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_6,HA,8.27729,10.726883,199,37,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_4,HA,8.273542,10.732195,234,42,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_7,HA,8.282019,10.730278,56,13,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_8,HA,8.284771,10.736186,323,58,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Fallankin Mai Saba Doki,SSA,8.278442,10.743722,148,27,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Fallankin Doki,SSA,8.274657,10.743049,217,40,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Fallakin Dinya Tara,SSA,8.268062,10.747133,195,37,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Sabon Garin Fallanki,SSA,8.26498,10.742953,169,33,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_6,HA,8.259185,10.74893,169,33,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_12,HA,8.256043,10.757113,115,21,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_14,HA,8.253964,10.763098,224,41,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_11,HA,8.250606,10.773236,326,59,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_15,HA,8.239616,10.777494,364,65,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_17,HA,8.237225,10.782164,240,43,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Rugar Audu Lolo,HA,8.240518,10.79036,114,21,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Anguwar Nadoka,SSA,8.251098,10.786281,102,19,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Anguwar Dan Malam,SSA,8.252196,10.790587,186,35,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_19,HA,8.256833,10.783834,72,15,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Anguwan Liman Agwai,SSA,8.263034,10.782881,124,22,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Anguwan Kwara,SSA,8.266869,10.787589,101,19,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Anguwan Hajji,SSA,8.272656,10.786226,236,42,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_18,HA,8.274307,10.781343,123,22,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Anguwan Marwa,SSA,8.274821,10.776915,95,18,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Rugar Isyaku,HA,8.281868,10.768372,551,96,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Anguwan Maigizau,SSA,8.268256,10.77903,219,40,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_22,HA,8.283639,10.785357,136,24,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_37,HA,8.284974,10.779389,214,39,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Rafin Dodo Alhaji Usman,HA,8.294143,10.774293,886,153,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_1,HA,8.287972,10.794757,207,38,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Mai Kalangu B,SSA,8.299952,10.797264,177,34,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Maikalangu,HA,8.301537,10.792146,389,68,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_41,HA,8.308513,10.793346,300,54,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_40,HA,8.318719,10.788285,97,19,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_33,HA,8.315587,10.77856,167,33,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_30,HA,8.319006,10.769242,85,17,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_22,HA,8.329415,10.760367,157,30,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_23,HA,8.334529,10.766276,181,35,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Likub,HA,8.339716,10.761313,215,40,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Kwodaro B,HA,8.345036,10.769752,388,68,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_31,HA,8.351211,10.77089,134,24,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Akudu,HA,8.367649,10.776045,617,108,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_42,HA,8.368101,10.780134,338,61,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_25,HA,8.369277,10.76701,171,33,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_26,HA,8.374216,10.765159,226,41,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_28,HA,8.383894,10.766724,249,44,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_36,HA,8.389301,10.777613,450,79,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Rugar Ilu,HA,8.384017,10.782835,314,57,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Rugar Fulani Ijowa,HA,8.388935,10.790763,428,75,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Unguwar Tashi,HA,8.403205,10.775473,104,20,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_39,HA,8.41443,10.78447,16,7,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_32,HA,8.423336,10.774737,54,12,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Unguwar Bawa,SSA,8.426589,10.77204,246,44,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Gaja Gaja,BUA,8.424852,10.765999,6173,1052,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_23,HA,8.414933,10.787045,23,8,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Gagara Kutare Hayin Sayawa,HA,8.428284,10.788155,656,115,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Kwasallo,HA,8.437111,10.782561,225,41,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Anguwar Danganye,SSA,8.441887,10.774393,77,16,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rugar Fulani Isyaka,HA,8.447541,10.777096,109,20,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Ruwan Sanyi,HA,8.457992,10.771235,131,23,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Gidan Giwa,HA,8.463194,10.77262,772,134,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Anguwar Fulani Ruwa,HA,8.466343,10.775612,34,10,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,SSA_10,SSA,8.46828,10.781178,37,10,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rugar Fulani Dambu,SSA,8.473652,10.789396,18,7,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Ashema B,HA,8.479192,10.786136,206,38,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Ashema A,HA,8.482408,10.789886,152,29,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_27,HA,8.483102,10.795103,170,33,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Bugum,HA,8.479929,10.803707,197,37,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_40,HA,8.479998,10.815597,59,13,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_39,HA,8.473163,10.818747,63,14,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_44,HA,8.470183,10.82539,124,22,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_53,HA,8.464436,10.83015,97,19,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Maitagiya,HA,8.464211,10.838338,616,107,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_46,HA,8.457039,10.823274,18,7,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_47,HA,8.45051,10.827841,180,35,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_50,HA,8.442216,10.827532,56,13,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Masoba,BUA,8.432845,10.838731,3802,649,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_41,HA,8.450963,10.817507,53,12,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_43,HA,8.442326,10.818614,58,13,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_92,HA,8.435768,10.815802,98,19,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Jangaba Layin,BUA,8.430953,10.809566,2209,378,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gedage,SSA,8.311715,11.102384,425,18,grid - Intensification,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Anguwan Ko Ina,SSA,8.269605,10.797621,195,37,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Anguwan Dalman,SSA,8.273451,10.802693,165,32,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Gidan Sai,SSA,8.276268,10.806217,65,14,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Unguwar Mahauta,SSA,8.276525,10.807724,74,15,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Anguwar Jumau,HA,8.270758,10.814524,292,52,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_2,HA,8.260126,10.823449,97,19,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_3,HA,8.256498,10.82645,146,27,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_4,HA,8.253269,10.821773,234,42,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_23,HA,8.251892,10.818857,131,23,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Rufana,SSA,8.264599,10.829419,107,20,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Unguwan Tsigi,HA,8.268824,10.828795,224,41,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_6,HA,8.27733,10.82894,64,14,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_7,HA,8.284567,10.831039,390,69,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_10,HA,8.283003,10.843526,534,93,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Rika Sayawa,HA,8.274003,10.853812,1841,316,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Rufana B,SSA,8.262984,10.830331,123,22,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_8,HA,8.256623,10.836837,187,36,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_5,HA,8.244751,10.833839,59,13,grid,9
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_4,HA,8.241433,10.838305,232,42,grid,9
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_7,HA,8.238405,10.848597,283,50,grid,9
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Rugar Audu Tumbo,HA,8.240478,10.85824,437,77,grid,9
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_13,HA,8.249444,10.86278,429,75,grid,9
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_12,HA,8.255743,10.866665,143,26,grid,9
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_16,HA,8.256624,10.870935,92,18,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_20,HA,8.256724,10.874347,51,12,grid,9
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Mai Yashin Makaranta,SSA,8.25094,10.873244,267,47,grid,9
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Mai Yashin Tukunya,HA,8.246208,10.872636,836,145,grid,9
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Mai Yashin Tukunya,SSA,8.244404,10.872233,149,28,grid,9
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_14,HA,8.242552,10.870959,769,133,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_17,HA,8.259994,10.626269,40,10,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Kusugu,HA,8.258714,10.617703,653,114,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_12,HA,8.27508,10.616107,84,17,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Kwankawa,HA,8.281502,10.617827,186,35,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_20,HA,8.284387,10.625599,381,67,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Magandar Hausawa,HA,8.287547,10.634467,193,36,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_16,HA,8.293029,10.63655,48,12,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Magandar Church,HA,8.297383,10.629689,130,23,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Ruggar Hardo Jaba,HA,8.299676,10.624127,390,69,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_14,HA,8.306127,10.621737,54,12,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Danmaliki,BUA,8.312273,10.61508,3012,515,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_15,HA,8.308254,10.635169,194,37,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Rugar Mallan Ahmadu,HA,8.318025,10.633936,589,103,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Anguwar Zango,HA,8.277698,10.606547,170,33,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_8,HA,8.280861,10.596016,42,11,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_6,HA,8.282223,10.58853,164,32,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_9,HA,8.289192,10.588539,190,36,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Rigar Sakatare,HA,8.297944,10.584533,148,27,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Rigar Fulani Damina,HA,8.275935,10.593694,169,33,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Rugar Waskande,HA,8.259979,11.061443,96,18,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_81,HA,8.447397,10.908087,119,22,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rugar Abubakar,HA,8.453354,10.910668,44,11,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rugar Hardo,HA,8.452907,10.918062,223,41,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Mahanga,HA,8.443559,10.917381,949,164,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Dokoki,HA,8.464198,10.919685,221,40,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Unguwar Mohammed Bashir,HA,8.470175,10.921386,83,17,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Unguwar Maude,HA,8.484752,10.924441,731,127,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_85,HA,8.498473,10.924994,125,22,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_1,HA,8.503638,10.937028,349,63,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Kagadama Gari,SSA,8.500912,10.945085,349,63,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_6,HA,8.507569,10.94576,23,8,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_5,HA,8.514995,10.947713,214,39,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Alhaji Dare,HA,8.513339,10.963576,742,129,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_9,HA,8.525821,10.960416,216,40,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_7,HA,8.539128,10.958131,88,17,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Ajiyawa,HA,8.54346,10.954825,528,92,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Auguwar Korau,SSA,8.553258,10.950309,282,50,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Gidan Dahiru,HA,8.553477,10.948042,77,16,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Auguwar Musa Sarki Noma,HA,8.547784,10.939317,3469,592,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_86,HA,8.547997,10.934061,97,19,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Makerar Soja Unguwar Alhaji Ayuba,HA,8.55611,10.927552,1241,213,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Alhaji Haruna,HA,8.51799,10.938467,413,72,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Alhaji Umaru,HA,8.561634,10.949931,379,67,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Malamai,SSA,8.566049,10.945066,169,33,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Anguwar Wakili,HA,8.568628,10.950651,212,39,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Mallam Adamu,HA,8.56576,10.958653,774,134,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Salihawan Malam,SSA,8.566631,10.967863,293,52,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Salihawan Mai Jama'A,SSA,8.565899,10.970338,381,67,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Dansadau,HA,8.517498,10.972489,914,158,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_49,HA,8.203897,11.073326,36,10,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_51,HA,8.202133,11.079295,37,10,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Rugar Mallam Sani,HA,8.194837,11.080443,525,92,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Baban Gida,HA,8.196034,11.073281,512,90,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rugan Birkiche,HA,8.489734,10.785447,293,52,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_24,HA,8.499743,10.78938,112,21,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Bolan Kurama,HA,8.516427,10.79037,915,158,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Bolan Hausawa,SSA,8.52038,10.792157,352,63,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Bolan Ii,HA,8.521651,10.798841,201,38,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_34,HA,8.528939,10.802586,23,8,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Unguwar Baushe,SSA,8.534303,10.805037,145,27,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_38,HA,8.53359,10.808327,238,43,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_28,HA,8.538813,10.800863,143,26,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Murai,SSA,8.54766,10.80751,425,74,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Masama,SSA,8.546986,10.818885,352,63,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_42,HA,8.557286,10.8219,58,13,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Farar Hula Masama,SSA,8.557913,10.828701,365,65,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Gidan Wada,HA,8.554888,10.837392,156,30,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Zanzari B,HA,8.541994,10.834249,845,147,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rugar Yakubu Wada,HA,8.533836,10.836562,39,10,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_55,HA,8.528145,10.835236,10,6,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Fulani Zanzari,HA,8.522171,10.835603,172,33,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_60,HA,8.515717,10.844119,82,16,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_64,HA,8.513698,10.853952,42,11,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_63,HA,8.506992,10.858926,135,24,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_69,HA,8.50007,10.853026,265,47,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_52,HA,8.495459,10.842501,107,20,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Banki Hayin Sarki,BUA,8.495286,10.828546,2416,413,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Sabon Gida,HA,8.502738,10.826006,2117,363,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_57,HA,8.554168,10.850384,544,95,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_61,HA,8.521193,10.855794,374,66,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Dorayi A,SSA,8.518059,10.817191,582,101,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_65,HA,8.492524,10.854278,40,10,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Jajayen Shanu,HA,8.478495,10.853111,769,133,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_52,HA,8.18275,11.079944,29,9,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_59,HA,8.177433,11.090798,366,65,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Kachurigi,HA,8.172494,11.090201,168,33,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Dasa Ganji,SSA,8.304409,11.048841,245,44,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Toro,HA,8.391398,11.079786,233,42,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_11,HA,8.395272,11.074639,44,11,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Kurege,HA,8.401457,11.067166,122,22,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Kurege kudu,SSA,8.404155,11.064058,191,36,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Kwanga Hanyan Gadas,SSA,8.401569,11.056434,203,38,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Kwanga Church,SSA,8.402133,11.055063,189,36,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Kwanga Asibiti,SSA,8.404373,11.05211,436,76,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_10,HA,8.312212,10.60395,28,9,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Kwalliya,HA,8.303117,10.605444,925,160,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Ungwan Dahiru,HA,8.306803,11.040206,142,26,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_67,HA,8.300809,11.035852,377,67,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_54,HA,8.305955,11.030596,110,20,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Bahori,SSA,8.310342,11.028502,336,61,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Hayin Soda,SSA,8.304196,11.021321,218,40,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_35,HA,8.304353,11.016937,83,17,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Bakara Baushe,SSA,8.300326,11.012207,401,70,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_5,HA,8.310606,10.590565,298,53,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Anguwar Audu,SSA,8.316736,10.582556,99,19,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Nake,HA,8.32663,10.581281,166,33,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Rugar Maliki,HA,8.334168,10.586171,229,41,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_7,HA,8.33858,10.593933,174,34,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_13,HA,8.344959,10.599632,103,19,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Yalwa Anguwan Barde,SSA,8.354775,10.588269,239,43,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Yalwa Anguwan Dantani,SSA,8.355742,10.586825,227,41,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Burtali,HA,8.35902,10.57436,359,64,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_3,HA,8.361274,10.570311,200,37,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Sayawar Kargi,HA,8.368303,10.539833,719,125,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_4,HA,8.33739,10.5746,86,17,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Chokoro,HA,8.331452,10.564962,663,116,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Bakara Mai Makaranta,SSA,8.294428,11.013773,315,57,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Bakara Makera,SSA,8.295448,11.016456,292,52,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_5,HA,8.245307,10.729773,330,15,grid - Intensification,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Katsinawa Gedage,SSA,8.299507,11.101726,104,8,grid - Intensification,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_42,HA,8.297998,11.110327,417,73,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Unguwan Rukku,SSA,8.301082,11.113892,217,40,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Rikochi B,SSA,8.334234,10.995913,634,24,grid - Intensification,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Anguwan Wanya,SSA,8.229964,10.755517,77,16,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Maikadindiri,SSA,8.233529,10.763424,456,80,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Ungwan Mallam,SSA,8.290635,11.004618,387,68,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Domawa,SSA,8.331405,11.00744,233,12,grid - Intensification,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Kajigi,SSA,8.320165,11.005476,406,71,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_1,HA,8.316281,11.000237,49,12,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_25,HA,8.310566,10.997392,26,8,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Rugar Mohamed Tukur,HA,8.311203,10.986813,968,167,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Fulani Ungwan Mallam,HA,8.282998,10.99565,207,38,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Dokan Toro B,SSA,8.277072,10.997939,513,90,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Dokan Toro A,SSA,8.275695,10.997213,400,70,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Juro,SSA,8.295561,11.111143,235,42,grid,9
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Mai Yashin Lungu,HA,8.250358,10.878365,356,64,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Akudun Kankare,SSA,8.344839,10.689764,83,7,grid - Intensification,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Rugar Alhaji Gero,HA,8.342968,10.706157,637,111,grid,9
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Danjaholi,HA,8.156967,10.732834,153,9,grid - Intensification,9
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Rugar Sule,HA,8.160326,10.736265,77,7,grid - Intensification,9
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Sobawa,SSA,8.167089,10.741472,499,88,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_47,HA,8.258423,11.067757,90,18,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_50,HA,8.26227,11.074535,360,64,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_27,HA,8.270798,11.001727,136,24,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_22,HA,8.268298,10.995078,45,11,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Gidan Baushe Dokan Toro,HA,8.267927,10.989691,44,11,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Sabuwar Kaura,SSA,8.264654,10.987526,224,41,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Gidan Fulani Ibrahim,HA,8.25955,10.980776,779,135,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_29,HA,8.266394,10.969749,85,17,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_17,HA,8.262405,10.964974,36,10,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_14,HA,8.265341,10.957978,103,19,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_9,HA,8.273615,10.945113,52,12,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_10,HA,8.268053,10.937266,455,80,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Fulani Bature Cisku,HA,8.277941,10.932046,1876,321,grid,9
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Rugar Mallam Ibrahim 2,HA,8.127915,10.704152,80,16,grid,9
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Rukunin Mallam Ibrahim 1,HA,8.124374,10.707598,420,73,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Kwari,SSA,8.457226,11.023135,270,13,grid - Intensification,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Rugar Tambaya,HA,8.312243,11.095422,95,8,grid - Intensification,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Dugaji,HA,8.319701,11.098494,213,11,grid - Intensification,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Rugar Baushe Gedage,HA,8.326347,11.105298,642,112,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Unguwan Tamoga,SSA,8.323336,11.112159,228,41,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,SSA_3,SSA,8.314655,11.119048,358,64,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Dio Kanawa,SSA,8.312784,11.1204,282,50,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Dan Katsina,HA,8.550822,10.922158,356,64,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Fulani Bello Habu,HA,8.422861,10.832085,50,12,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Lawadi Fulani Shehu,HA,8.420023,10.83582,477,84,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rugar Jamo,HA,8.511312,10.837556,196,37,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Bugau,BUA,8.449702,10.953035,3268,119,grid - Intensification,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Rugar Mai Kafir,HA,8.328624,11.071524,665,116,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_13,HA,8.27335,10.965046,23,8,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_21,HA,8.276035,10.971682,163,32,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_16,HA,8.281493,10.967294,61,13,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_15,HA,8.282746,10.958972,87,17,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_19,HA,8.290907,10.958885,370,66,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_18,HA,8.299909,10.96097,87,17,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_12,HA,8.302719,10.947202,119,22,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_6,HA,8.302196,10.942,102,19,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_5,HA,8.307478,10.941414,78,16,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_3,HA,8.30597,10.933168,55,13,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_8,HA,8.298515,10.930588,327,59,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_4,HA,8.294474,10.923053,128,23,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_2,HA,8.29329,10.916197,1145,197,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_1,HA,8.284947,10.910358,179,34,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_31,HA,8.28679,10.901098,1162,201,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_36,HA,8.304794,10.917907,443,78,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_33,HA,8.309,10.932051,104,20,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_38,HA,8.319363,10.931954,591,103,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gobirawa Yamma,SSA,8.454597,11.103675,209,39,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Gunda,HA,8.460153,11.098743,76,16,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Ruggan Baushe,HA,8.457266,11.09439,875,152,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Maiyashi B,SSA,8.257112,10.877684,195,37,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Rugar Maikaji Ibrahim,HA,8.319874,10.983392,277,49,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Kwanan Jidda,HA,8.367271,10.688251,82,7,grid - Intensification,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Rugar Umar Baffaji,HA,8.428111,10.759585,183,35,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Rugar Ali,HA,8.419617,10.756845,324,59,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Unguwar Ishayaku,HA,8.412765,10.761817,457,80,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_51,HA,8.404239,10.842701,393,69,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_59,HA,8.411413,10.854669,259,46,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_58,HA,8.417531,10.853503,535,93,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Fulani Wada,HA,8.543035,10.820549,108,20,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Rumawa Yamma,SSA,8.465917,11.101664,402,70,grid,9
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Unguwar Dogo,SSA,8.148234,10.729921,101,8,grid - Intensification,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Mairanda A,SSA,8.217951,10.761585,158,30,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Rumawa Arewa,SSA,8.468279,11.102319,305,55,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_32,HA,8.474196,11.109475,59,13,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_36,HA,8.478863,11.111826,90,18,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_53,HA,8.487828,11.117634,229,41,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Wareware,SSA,8.49557,11.123557,412,72,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Ruggar Ibrahim,HA,8.498849,11.118984,563,98,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_65,HA,8.508496,11.115578,118,21,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Bala,SSA,8.509644,11.107839,190,36,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Gidan Kambu,HA,8.522821,11.1049,1592,273,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_2,HA,8.547366,10.911059,119,22,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_80,HA,8.547757,10.90492,663,116,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_53,HA,8.248016,11.083321,214,11,grid - Intensification,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Rugar Wakili,HA,8.242188,11.086583,80,7,grid - Intensification,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Chareka Layin Gabbas,SSA,8.237572,11.092831,458,80,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Doka A,SSA,8.245747,11.095642,330,60,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Dala,HA,8.359763,11.058373,116,21,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_8,HA,8.358149,11.055186,154,29,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Rugar Shinkafi,HA,8.365785,11.049938,86,17,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_6,HA,8.369898,11.047162,229,41,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Dokar Mai Jaki,SSA,8.376704,11.044164,565,98,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rugar Wada Ibrahim,HA,8.53429,10.841584,43,11,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rugar Bauche,HA,8.538645,10.846342,211,39,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Mai Randa B,SSA,8.213863,10.763628,86,17,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_13,HA,8.20692,10.756485,112,21,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Ang Gwaja,SSA,8.202066,10.752285,104,20,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Anguwar Gashi,SSA,8.210174,10.745344,333,60,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Rugan Natarewa,HA,8.197762,10.754384,85,17,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Ang Dankali,HA,8.193795,10.749736,276,48,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Wazabin Makoko,HA,8.193804,10.743915,585,102,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Lamaro,HA,8.467946,10.811899,252,45,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Sabon Layi,SSA,8.228253,10.682579,439,18,grid - Intensification,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Lamaro,HA,8.219663,10.692578,82,16,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_18,HA,8.207406,10.698337,71,15,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Unguwar Madaki North,SSA,8.204845,10.683142,301,54,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Unguwar Madaki South,SSA,8.202399,10.682142,142,26,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Tudun Amawa,HA,8.197299,10.684342,375,66,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Tudun Amawa,SSA,8.195905,10.684015,80,16,grid,9
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Unguwar Madaki East,HA,8.208014,10.68197,180,35,grid,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_24,HA,8.275,10.76467,188,36,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Jido,HA,8.373987,11.096264,70,15,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Mashayi,HA,8.369997,11.101213,210,39,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Digawa Kudu,SSA,8.365753,11.105562,101,19,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_50,HA,8.363719,11.108099,212,39,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Digawa Arewa,SSA,8.365473,11.1111,125,22,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_51,HA,8.375442,11.11081,439,77,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_26,HA,8.547119,10.791844,64,14,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_31,HA,8.555264,10.795554,265,47,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_22,HA,8.55561,10.78808,82,16,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_21,HA,8.555765,10.781594,80,16,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Anguwar Yarima,BUA,8.543977,10.779078,1184,204,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Fegi,SSA,8.447618,11.029101,265,13,grid - Intensification,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_37,HA,8.370883,10.954186,4,5,grid - Intensification,9
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Rugar Masoba,HA,8.079624,10.782295,185,35,grid,9
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Rugar Madaki,HA,8.083541,10.786089,179,34,grid,9
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Kwatattallo B,SSA,8.078287,10.772479,184,35,grid,9
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Kwatattalo A,HA,8.078471,10.771749,312,56,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Bakin Kasuwa B,SSA,8.291138,11.047045,140,9,grid - Intensification,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Bakin Kasuwa C,SSA,8.290952,11.043551,132,9,grid - Intensification,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_42,HA,8.27895,11.037311,101,19,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_40,HA,8.285724,11.030418,131,23,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_38,HA,8.279634,11.026215,346,62,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Rugan Dan Sarki,SSA,8.276467,11.020102,80,16,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Kuraye,SSA,8.272729,11.017658,604,105,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_37,HA,8.452406,11.038695,83,17,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Duna,HA,8.458652,11.037132,46,6,grid - Intensification,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Ranau,SSA,8.457823,11.043441,193,36,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Yar Kaura,SSA,8.458896,11.047599,34,10,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Kanwa,BUA,8.467806,11.048192,930,161,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_42,HA,8.476454,11.044979,89,17,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Gobirawa,HA,8.477807,11.04926,573,100,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Alhaji Isah,HA,8.487466,11.052128,1301,224,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Dokan Rago,SSA,8.197863,11.132025,319,58,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Rugar Malam Joli,HA,8.193473,10.758963,82,16,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Tafarfar,SSA,8.18926,10.7669,328,60,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Maiyashi A,SSA,8.256964,10.879301,181,35,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Rugar Musa Gai,HA,8.329736,11.076217,535,93,grid,9
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Hayin Majira,SSA,8.186946,10.737781,179,34,grid,9
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Unguwar Kanawa,SSA,8.180482,10.738755,248,44,grid,9
+Kaduna,KD,Zabi,KD1510,Kuban,19015,HA_2,HA,8.081484,10.724548,75,15,grid,9
+Kaduna,KD,Zabi,KD1510,Kuban,19015,HA_1,HA,8.081617,10.716589,581,101,grid,9
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Rugar Alhaji Bello,HA,8.094177,10.712306,161,31,grid,9
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Koso,SSA,8.104565,10.719459,638,111,grid,9
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Makara Huta,HA,8.20056,10.843862,1625,62,grid - Intensification,9
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Unguwa Andi,SSA,8.366513,10.674984,256,45,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_43,HA,8.383512,11.135823,49,12,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_44,HA,8.377432,11.137499,30,9,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Unguwar Kore,HA,8.370308,11.13296,248,44,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Masama,HA,8.366766,11.140428,684,119,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Nadada,HA,8.355712,11.137876,270,47,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_45,HA,8.353148,11.143182,309,55,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Unguwan Maaru,SSA,8.2721,11.024,369,66,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Kamfa,SSA,8.267894,11.021884,511,90,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Fulanin Gidan Sidi,HA,8.386491,11.038294,345,62,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_38,HA,8.358378,11.101985,471,83,grid,9
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Rugar Taike,HA,8.19136,10.728548,197,37,grid,9
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Unguwar Basau Lungu,SSA,8.185062,10.72592,193,36,grid,9
+Kaduna,KD,Zabi,KD1510,Kuban,19015,HA_3,HA,8.202749,10.719873,219,40,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Kurmin Rogo,SSA,8.211576,10.725576,213,39,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Anguwar Galadima,SSA,8.214114,10.718935,238,43,grid,9
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Rugar Tapi,HA,8.221519,10.714813,543,95,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Rugan Fulani Juli,HA,8.175346,11.101824,159,31,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Mangawa,SSA,8.181682,11.11196,123,22,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_61,HA,8.173135,11.118645,261,46,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_64,HA,8.16667,11.111409,336,61,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_3,HA,8.384735,11.025939,114,21,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Karafka,SSA,8.395467,11.028333,128,23,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Sidi Yamma,SSA,8.396552,11.024937,199,37,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Sidi Gabas,SSA,8.396571,11.023852,196,37,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Haskiyawa,SSA,8.396091,11.01936,138,25,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Dan Gani A,SSA,8.399369,11.008295,171,33,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Gidan Gadanga,SSA,8.391081,11.005031,216,40,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Gidan Mai Audiga,SSA,8.386553,11.004494,150,28,grid,9
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Gidan Baushe,SSA,8.383734,11.005579,155,29,grid,9
+Kaduna,KD,Mah,KD1508,Kuban,19015,Agalawa,SSA,8.381669,10.996572,282,50,grid,9
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Gidan Alhaji Shene,HA,8.478541,11.018388,256,45,grid,9
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Unguwar Basau Cikin Gari,SSA,8.183801,10.727527,299,53,grid,9
+Kaduna,KD,Damau,KD1502,Kuban,19015,Manbila,SSA,8.53157,10.854717,218,40,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_54,HA,8.370115,11.124586,191,36,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Tashar Bala,HA,8.377018,11.126432,236,42,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Wakili,HA,8.314206,11.145588,147,27,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Rugar Fulani,HA,8.316968,11.152776,105,20,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Jalawa,SSA,8.310117,11.152867,409,71,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Malikanci Gabas,SSA,8.307853,11.163976,391,69,grid,9
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Rugar Mallam Ibrahim,HA,8.160495,10.749827,182,35,grid,9
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Unguwan Gero,SSA,8.320568,11.141233,151,28,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Unguwan Gero,SSA,8.317338,11.137642,141,25,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Yarkasuwa,SSA,8.317313,11.131585,180,35,grid,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Rugan Abdulmumuni,HA,8.085746,10.762884,291,52,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Fulani Mahuta,HA,8.291567,10.828212,275,48,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Mahuta,SSA,8.286687,10.819381,279,49,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Mai Kalangu A,SSA,8.297226,10.813441,399,70,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Garin Alhaji Yakubu Kambu,SSA,8.527983,11.102102,86,17,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Fantakiya,SSA,8.533093,11.10556,145,27,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_63,HA,8.539256,11.096181,604,105,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_38,HA,8.323997,10.788717,107,20,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Kachita,HA,8.332164,10.789545,294,52,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_29,HA,8.312002,10.769147,242,43,grid,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Wurokon Bakwai,SSA,8.100054,10.764806,75,15,grid,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Wurokon Gobirawa,SSA,8.102816,10.767964,183,35,grid,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Rugan Danbulo,HA,8.105135,10.772205,19,7,grid,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Rugar Hardo,HA,8.114694,10.76877,108,20,grid,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Rugan Jagaba,HA,8.114871,10.776891,567,99,grid,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,HA_2,HA,8.116859,10.782169,46,11,grid,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Rugar Waziri,HA,8.124353,10.78374,199,37,grid,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,HA_3,HA,8.107539,10.783658,61,13,grid,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Kafi B,SSA,8.104355,10.792325,419,73,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Wagaho,BUA,8.55683,10.767515,1961,336,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_73,HA,8.421748,10.895235,163,10,grid - Intensification,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_82,HA,8.414413,10.893038,24,8,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_71,HA,8.416709,10.885713,349,63,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rugan Tailoli,HA,8.429741,10.876599,172,33,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rugan Malam Baba,HA,8.441033,10.876668,671,117,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rugar Abba,HA,8.463094,10.807201,70,15,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_32,HA,8.46636,10.801276,196,37,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Katsalle,SSA,8.310447,11.166432,95,18,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_65,HA,8.199954,11.123756,218,40,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_34,HA,8.484505,11.107416,51,12,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Ruggar Mai Dawa,HA,8.488349,11.100401,999,173,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_62,HA,8.544345,11.083348,263,46,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_53,HA,8.552071,11.078027,131,23,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_61,HA,8.561796,11.079852,261,46,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Makiyaya Rugar Malam Haruna,HA,8.569358,11.092551,122,22,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwan Malam Isuhu Barde,HA,8.557664,11.097661,894,155,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Zamfarawa Unguwar Liman,HA,8.58321,11.082537,467,82,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Katoge,SSA,8.587302,11.084837,168,33,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Gero,HA,8.585316,11.072994,247,44,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Boka Dan Daura,HA,8.592813,11.069616,280,49,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Unguwan Gayya,SSA,8.318828,11.131038,300,54,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,Unguwan Mantau,SSA,8.217065,11.129594,334,61,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,Rugan Gambo Mai Hurudi,HA,8.211509,11.130612,178,34,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Rugar Nadiya,HA,8.205471,10.888743,91,18,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_63,HA,8.203964,11.113713,265,47,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,Gaurakin Fulani,HA,8.21142,11.11788,340,61,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_27,HA,8.308911,10.763686,222,40,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Makwra A,SSA,8.403965,11.021123,161,31,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Makera B,HA,8.404855,11.022787,186,35,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_21,HA,8.466938,11.001082,31,9,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_19,HA,8.463811,11.006006,350,63,grid,10
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_16,HA,8.187322,10.7791,288,51,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_19,HA,8.208096,10.895889,13,7,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Rugar Kachita,HA,8.336712,10.784154,437,77,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_35,HA,8.330358,10.779504,175,34,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Makwala,SSA,8.347734,11.148819,214,39,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rugar Baidu,HA,8.422785,10.803292,210,39,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_51,HA,8.599214,11.035699,178,34,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Rika Sayawa,SSA,8.28809,10.853767,157,30,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Matangin Amawa,HA,8.291614,10.720219,269,47,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_89,HA,8.395263,10.910147,94,18,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Umburga,HA,8.389146,10.91039,215,40,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Kadilawa,HA,8.384463,10.918295,243,43,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Kadage A,SSA,8.389268,10.924075,104,20,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Kadage B,SSA,8.390777,10.924468,66,14,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Tudun Abba,HA,8.391313,10.935877,289,51,grid,10
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Kadage,SSA,8.176854,10.72826,151,28,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Mai Yashin Gobirawa,SSA,8.249812,10.882282,210,39,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_37,HA,8.412007,10.809713,259,46,grid,10
+Kaduna,KD,Zabi,KD1510,Kuban,19015,SSA_4,SSA,8.171835,10.721347,151,28,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Sabon Gida,SSA,8.171055,10.707099,119,22,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Kwanar Dinya,SSA,8.171515,10.70274,97,19,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Kakale North,SSA,8.160749,10.696344,284,50,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Kakale South,SSA,8.161337,10.694681,225,41,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Kaga Dama,SSA,8.306299,10.755892,125,22,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_20,HA,8.307889,10.749905,82,16,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Kadawan Hausawa,SSA,8.310598,10.742805,310,56,grid,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Assulluru A,SSA,8.150495,10.765334,163,32,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Wadaka,SSA,8.453212,10.981488,309,55,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_30,HA,8.333263,10.922006,155,29,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Kuli,BUA,8.221182,10.903476,1779,66,grid - Intensification,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rugar Fulani Ruga,HA,8.462756,10.761365,130,23,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_15,HA,8.469818,10.758827,229,41,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_60,HA,8.225438,11.103933,83,17,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_2,HA,8.323774,10.511303,111,20,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Anguwan Kamanda,HA,8.330678,10.520802,204,38,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Anguwar Galma,HA,8.33815,10.514172,347,62,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Sayawar Gangare,HA,8.336562,10.50692,306,55,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Hayin Lere,SSA,8.564993,10.762937,157,30,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_72,HA,8.451619,10.888458,360,64,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Dan Mai Gishiri,SSA,8.178576,10.694158,171,33,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_21,HA,8.331999,11.081672,111,20,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_24,HA,8.334989,11.090408,42,11,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Rugar Damina,HA,8.339461,11.09473,198,37,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Kwankwarmi,SSA,8.335124,11.098157,214,39,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Unguwan Tsando,SSA,8.33885,11.10624,152,29,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Banga,HA,8.346838,11.114661,292,52,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_39,HA,8.351046,11.12014,302,54,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Unguwar Wambai,SSA,8.227646,10.681195,187,10,grid - Intensification,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Unguwar Gayya,SSA,8.323367,11.134563,69,15,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Unguwan Shukau,SSA,8.329226,11.138659,245,44,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Gidau,SSA,8.329197,11.150108,84,17,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Giwa,SSA,8.33034,11.15353,95,18,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Yawa,SSA,8.332352,11.152238,150,28,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Sabon Gida,HA,8.336606,11.155354,454,80,grid,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,HA_7,HA,8.20641,10.813134,49,6,grid - Intensification,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Rugar Saleh,HA,8.198497,10.814208,205,38,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_10,HA,8.571341,10.972515,142,26,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_52,HA,8.490694,11.026242,608,106,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_24,HA,8.262075,10.879528,105,20,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Katankatana,HA,8.337276,11.035233,374,16,grid - Intensification,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Rugar Shabbe,HA,8.236116,10.912427,109,20,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_21,HA,8.247255,10.905543,189,36,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_26,HA,8.246322,10.900113,87,17,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Rugar Alhaji Shuaibu,HA,8.240283,10.8968,376,67,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_8,HA,8.308174,10.729851,243,43,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_11,HA,8.446252,10.980754,64,14,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_16,HA,8.443015,10.977496,14,7,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Yalwa,SSA,8.43214,10.976015,188,36,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Dajin Gwamna B,HA,8.43858,10.965439,402,70,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Rugar Shugaba Dogon Malam,HA,8.166715,10.67221,176,34,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_21,HA,8.33515,10.750485,240,43,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_39,HA,8.266143,11.030968,94,18,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,Kuli,SSA,8.259881,11.036296,460,81,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Fulani Dogo,HA,8.52776,10.973618,172,33,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Mai Gora,SSA,8.533471,10.971591,296,53,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Kogi Hausawa,SSA,8.274416,10.883234,91,18,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Kogi Sayawa,SSA,8.276766,10.882239,171,33,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_16,HA,8.275309,10.876117,125,22,grid,10
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Tafanjama,SSA,8.262681,10.807669,152,29,grid,10
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Unguwan Sani,SSA,8.255712,10.80298,102,19,grid,10
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Bagayya,SSA,8.241955,10.807907,286,51,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Karimu,HA,8.523693,11.091262,254,45,grid,10
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Anguwan Bala,SSA,8.17626,10.77508,173,34,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_14,HA,8.337753,10.736749,183,35,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_16,HA,8.346658,10.742104,272,48,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_5,HA,8.342131,10.727255,34,10,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Rugar Kundila,HA,8.335261,10.721141,188,36,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Ramin Kuran Amawa,HA,8.32222,10.715735,209,39,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Ramin Kuran Hausawa,SSA,8.317954,10.715377,183,35,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Kundila,SSA,8.354871,10.726707,208,39,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_17,HA,8.310113,11.080478,148,27,grid,10
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_10,HA,8.186627,10.751525,118,21,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Kulli,SSA,8.35573,11.094207,67,14,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_33,HA,8.363924,11.09246,141,25,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_23,HA,8.362502,11.082757,266,47,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_32,HA,8.348772,10.91518,95,18,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_11,HA,8.289439,10.729682,123,22,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_26,HA,8.352444,10.90747,110,20,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_62,HA,8.186034,11.11216,169,33,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_15,HA,8.301472,10.744099,90,18,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_19,HA,8.295512,10.749963,171,33,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_74,HA,8.458033,10.895085,255,45,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Buda Budi,HA,8.175934,10.867141,301,14,grid - Intensification,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,Rugar Mallam Gambo,HA,8.312842,10.963023,363,65,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Gizo,HA,8.460263,11.055157,674,117,grid,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Rugar Gwabna,HA,8.206304,10.801959,52,6,grid - Intensification,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Karofi,SSA,8.203071,10.796132,81,16,grid,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,HA_5,HA,8.195667,10.789383,52,12,grid,10
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_20,HA,8.202665,10.781727,171,33,grid,10
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Fulani Isa,HA,8.201833,10.776726,50,12,grid,10
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Katanga,SSA,8.198832,10.772428,177,34,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_28,HA,8.261967,11.001338,82,16,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_26,HA,8.254475,10.99967,81,16,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_31,HA,8.247679,10.998347,64,14,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_41,HA,8.245531,11.008239,483,85,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Anguwar Gero,HA,8.495968,10.799406,135,24,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_33,HA,8.504841,10.805101,167,33,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_34,HA,8.35407,10.917409,159,31,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Rugar Alhaji Magaji,HA,8.283969,11.095443,103,19,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Taka,HA,8.182519,10.87453,152,29,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_25,HA,8.374125,11.091766,64,14,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Unguwar Dan Wada,SSA,8.17946,10.707149,153,29,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_20,HA,8.226682,10.893294,147,9,grid - Intensification,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_15,HA,8.232235,10.88428,168,33,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Rafin Goggo,HA,8.224102,10.875805,298,53,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Karreh East Layin Masallaci,SSA,8.371874,10.741296,470,19,grid - Intensification,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_7,HA,8.368401,11.062685,186,35,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_18,HA,8.220757,10.889366,102,19,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_1,HA,8.186568,10.881927,100,19,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_22,HA,8.184539,10.893716,76,16,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Kungurmi,SSA,8.298902,10.705506,186,35,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Rugar Korijo,HA,8.297902,10.700849,114,21,grid,10
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Dankande East,SSA,8.220273,10.785955,136,9,grid - Intensification,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rugar Fulani Yusufa,HA,8.565618,10.825631,122,22,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Dole,SSA,8.343324,10.954983,149,28,grid,10
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Unguwar Alhaji Munkaila,SSA,8.127596,10.739919,225,12,grid - Intensification,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Assulluru B,SSA,8.143501,10.76369,92,18,grid,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Randa,HA,8.135967,10.759754,147,27,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_39,HA,8.318701,10.942143,158,30,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Dajin Gwamna A,HA,8.436646,10.953065,444,18,grid - Intensification,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Koso,SSA,8.551507,10.760518,252,45,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Gidan Tanko,HA,8.349728,11.079798,180,35,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Sabon Gida Wadaka,SSA,8.45252,10.975917,86,17,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Rugar Abdulkadir,HA,8.287001,10.65215,77,16,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Wawan Rafi,SSA,8.294727,10.653232,230,42,grid,10
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Anguwan Manomi,SSA,8.235509,10.751633,80,7,grid - Intensification,10
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Anguwan Gagarau,SSA,8.238495,10.751798,104,20,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_9,HA,8.260406,10.858263,64,14,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_8,HA,8.256087,10.854547,71,15,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_3,HA,8.248776,10.849614,161,31,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Badakoshi B,HA,8.304262,10.833512,79,16,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Badakoshi A,SSA,8.302529,10.838474,196,37,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_84,HA,8.500748,10.917338,104,20,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_17,HA,8.429682,11.01,83,17,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_10,HA,8.558355,10.748106,313,56,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_79,HA,8.456892,10.883433,80,16,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Unguwan Sabo,HA,8.380352,10.748467,207,11,grid - Intensification,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Rugar Halliru,HA,8.390553,10.744309,75,15,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Rugar Waziri,HA,8.394311,10.743476,161,31,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_12,HA,8.391085,10.733876,177,34,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Rugar Juli,HA,8.305015,11.100308,229,12,grid - Intensification,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,Dassan Sallo,SSA,8.298957,11.049024,191,11,grid - Intensification,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_5,HA,8.375871,11.057427,272,48,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_1,HA,8.376105,10.50407,129,23,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Rugar Ardo Fara (Wuro Baso),HA,8.367146,10.503612,650,113,grid,10
+Kaduna,KD,Kubau,KD1507,Kuban,19015,Rugar Shadari,HA,8.134378,10.771547,149,28,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_6,HA,8.553994,10.743014,37,10,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_3,HA,8.548415,10.73989,177,34,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_17,HA,8.254242,10.885786,159,31,grid,10
+Kaduna,KD,Zabi,KD1510,Kuban,19015,HA_5,HA,8.125948,10.726205,162,31,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_55,HA,8.247637,11.030449,259,46,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_26,HA,8.425482,11.080882,115,21,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_35,HA,8.450555,10.807486,67,14,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_29,HA,8.445928,10.801978,92,18,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_25,HA,8.445756,10.79565,76,16,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_36,HA,8.442857,10.80701,28,9,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_30,HA,8.439117,10.80295,79,16,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_45,HA,8.350776,10.793938,136,24,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Maimama 2,HA,8.360815,10.799458,222,40,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rinkyu,HA,8.450066,10.925052,124,22,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Rugar Muhammadu Sani,HA,8.185132,10.705149,91,18,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_8,HA,8.537116,10.747858,40,10,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_11,HA,8.537534,10.754619,79,16,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_12,HA,8.524941,10.758093,54,12,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_20,HA,8.519674,10.768521,58,13,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Rugar Tanbaya,HA,8.530647,10.771131,264,46,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_17,HA,8.514001,10.763196,140,25,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_14,HA,8.511429,10.754622,52,12,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_9,HA,8.52022,10.744618,209,39,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_2,HA,8.519617,10.737716,134,24,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_4,HA,8.508112,10.737114,149,28,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_13,HA,8.505176,10.75395,64,14,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_18,HA,8.501736,10.760669,38,10,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_16,HA,8.49654,10.760871,92,18,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_19,HA,8.48706,10.766956,281,49,grid,10
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Unguwar Fulani,SSA,8.141306,10.725346,270,13,grid - Intensification,10
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Unguwar Fulani Cikin Gari,SSA,8.140626,10.726253,459,19,grid - Intensification,10
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_2,HA,8.236141,10.710808,176,34,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_76,HA,8.49954,10.865151,100,19,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_7,HA,8.316363,10.947597,57,13,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Kinkirmi,SSA,8.201017,10.894303,69,15,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_5,HA,8.450399,10.737963,191,36,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_13,HA,8.328995,10.737136,99,19,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_45,HA,8.45213,11.048905,90,18,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Rugar Ciroma,HA,8.32854,11.131418,141,25,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Hayin Turkurwa,HA,8.320118,10.963576,43,11,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_40,HA,8.326576,10.964983,110,20,grid,10
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_1,HA,8.243827,10.700428,133,24,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_46,HA,8.265703,11.064106,25,8,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_48,HA,8.269903,11.069041,80,16,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Kwankwarmi,SSA,8.338419,10.972327,125,22,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Kwinu,SSA,8.368432,10.920956,146,27,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Kuntun Haustein,HA,8.572136,10.843666,180,35,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,Rugar Adamu,HA,8.260179,11.015914,108,20,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_60,HA,8.466447,11.069138,131,23,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_46,HA,8.48047,11.067499,85,17,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_19,HA,8.482008,11.072931,274,48,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_37,HA,8.235249,11.024861,142,26,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_33,HA,8.233861,11.019032,64,14,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,Malamawa Iii,SSA,8.574714,10.860976,332,60,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_66,HA,8.475599,10.860614,57,13,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Maguri,SSA,8.263203,10.640105,122,22,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_13,HA,8.327692,10.843516,92,18,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Ungwan Jifa,HA,8.357784,10.968712,160,10,grid - Intensification,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Rafin Busa,SSA,8.35547,10.96622,103,19,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Rugar Fulani Madaki,HA,8.218579,10.665842,185,35,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_18,HA,8.412035,10.748076,141,25,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_36,HA,8.22937,11.025052,46,11,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_15,HA,8.463892,11.072778,157,30,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,SSA_3,SSA,8.44468,10.933081,84,17,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Rugar Fullani,HA,8.220372,10.821583,237,12,grid - Intensification,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Rugar Fulani,HA,8.221257,10.831991,141,25,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Rugar Maude,HA,8.228292,10.817897,70,15,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_35,HA,8.49712,11.094919,93,18,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_55,HA,8.502858,11.096347,65,14,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_56,HA,8.497892,11.089411,73,15,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Gidan Alhaji Fulani,HA,8.485613,10.983146,101,19,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_5,HA,8.161147,10.842418,130,23,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Rugar Mallam Bello,SSA,8.163921,10.842574,25,8,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Rugar Alhaji Yau,HA,8.172925,10.836775,97,19,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Liman Wawariya,HA,8.51114,11.079904,162,31,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_11,HA,8.294384,10.604496,74,15,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_66,HA,8.561158,10.908567,144,26,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Rugar Hardo,HA,8.215798,10.839948,62,14,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,HA_19,HA,8.192282,10.700973,51,12,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Tudun Gaiya,SSA,8.365265,10.744579,200,11,grid - Intensification,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_20,HA,8.28283,10.983689,101,19,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_90,HA,8.398895,10.913937,21,8,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_27,HA,8.532591,11.011643,147,27,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_88,HA,8.490897,10.748258,87,17,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_7,HA,8.487777,10.743464,44,11,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_8,HA,8.557272,10.960433,87,17,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_58,HA,8.573017,11.043968,132,23,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_77,HA,8.472575,10.899506,110,20,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_47,HA,8.332719,11.164509,93,18,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_13,HA,8.527263,10.98036,58,13,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_56,HA,8.204782,11.104143,72,15,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_68,HA,8.426474,10.858548,57,13,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_39,HA,8.476389,11.039555,79,16,grid,10
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_7,HA,8.229896,10.733668,107,8,grid - Intensification,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_93,HA,8.463791,10.933303,45,11,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_4,HA,8.471411,10.941744,139,25,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_75,HA,8.514293,10.863509,36,10,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_57,HA,8.188383,11.102142,73,15,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_27,HA,8.475453,11.094119,73,15,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Dokar Dauru,SSA,8.337053,11.12657,39,10,grid,10
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,Rugar Maiyaya,HA,8.25743,10.738744,40,10,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_2,HA,8.383667,11.053395,31,9,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,Makarfi,HA,8.389565,11.062237,81,16,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_17,HA,8.422018,10.744643,51,12,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_49,HA,8.348732,11.166209,48,12,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_3,HA,8.492859,10.936959,66,14,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_20,HA,8.320977,11.08336,68,14,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_16,HA,8.448916,11.079513,86,17,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_48,HA,8.443178,11.07027,96,18,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_24,HA,8.247966,10.992651,4,5,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,HA_23,HA,8.254711,10.991354,34,10,grid,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_44,HA,8.407073,10.793982,45,11,grid,10
+Kaduna,KD,Pambegua,KD1509,Kuban,19015,Maraban Inkeru,HA,8.325666,10.595985,63,14,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Unguwar Dila Mai Kaji,HA,8.498038,10.984461,77,16,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_22,HA,8.261726,10.894924,44,11,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_41,HA,8.411198,11.025876,17,7,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_36,HA,8.497006,11.030031,57,13,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Santa Bakin Daji B,HA,8.471405,11.032041,36,10,grid,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,Rugar Kankaru,HA,8.196089,10.839246,209,11,grid - Intensification,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_1,HA,8.34134,10.662141,75,15,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_24,HA,8.532918,11.003567,20,8,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_23,HA,8.542256,11.003435,46,11,grid,10
+Kaduna,KD,Kargi,KD1506,Kuban,19015,HA_56,HA,8.35697,11.167837,29,9,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_12,HA,8.464463,10.969976,39,10,grid,10
+Kaduna,KD,Zuntu,KD1511,Kuban,19015,HA_21,HA,8.21254,10.787721,147,9,grid - Intensification,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_27,HA,8.331581,10.907104,32,6,grid - Intensification,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_18,HA,8.304202,10.873431,46,11,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,Gidan Ciroma,HA,8.251969,11.075134,253,12,grid - Intensification,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_30,HA,8.449681,11.020314,52,6,grid - Intensification,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Gidan Alhaji Garba,HA,8.451218,11.015884,137,9,grid - Intensification,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_49,HA,8.539931,11.073811,31,9,grid,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_87,HA,8.535965,10.942595,21,8,grid,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,HA_23,HA,8.333776,10.900976,123,8,grid - Intensification,10
+Kaduna,KD,Anchau,KD1501,Kuban,19015,Kachachare,SSA,8.330589,10.898943,31,6,grid - Intensification,10
+Kaduna,KD,Dutsen Wai,KD1503,Kuban,19015,HA_10,HA,8.169483,10.860578,154,9,grid - Intensification,10
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_78,HA,8.56556,10.881327,70,15,grid,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,Katsalle,SSA,8.34781,11.026253,253,12,grid - Intensification,10
+Kaduna,KD,Zabi,KD1510,Kuban,19015,Rukunin Alhaji Ungori,HA,8.104614,10.693475,33,6,grid - Intensification,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,HA_41,HA,8.502418,11.04175,40,10,grid,10
+Kaduna,KD,Haskiya,KD1504,Kuban,19015,Fanzan Zare,SSA,8.461146,10.956489,231,12,grid - Intensification,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,HA_3,HA,8.368172,10.695879,48,6,grid - Intensification,10
+Kaduna,KD,Kareh,KD1505,Kuban,19015,Hayin Nasaru,SSA,8.31473,10.664606,147,9,grid - Intensification,10
+Kaduna,KD,Mah,KD1508,Kuban,19015,Gidan Tella,HA,8.264562,11.092219,23,8,mini-grid,NA
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_1,HA,8.49126,10.722191,39,10,mini-grid,NA
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_48,HA,8.382149,10.826177,35,10,mini-grid,NA
+Kaduna,KD,Damau,KD1502,Kuban,19015,HA_45,HA,8.398227,10.82209,28,9,mini-grid,NA

@@ -1,0 +1,118 @@
+State,Statecode,Ward,Wardcode,Lga,Lgacode,Name,Type,X,Y,Population,Target.Household.Count,Recommended.Access.Categories,DecileByHH
+Kaduna,KD,Malagum,KD1308,Kaura,19013,HA_1,HA,8.390593,9.707883,42,11,grid,3
+Kaduna,KD,Kaura,KD1305,Kaura,19013,Unguwan Yakubu Zamani,HA,8.455376,9.668139,8536,307,grid - Intensification,4
+Kaduna,KD,Fada,KD1303,Kaura,19013,Unguwar Didam,BUA,8.389588,9.610092,11982,363,grid - Intensification,4
+Kaduna,KD,Zankan,KD1310,Kaura,19013,Unguwar Bulus Bwanhuat,HA,8.551239,9.658708,3561,130,grid - Intensification,4
+Kaduna,KD,Kukum,KD1307,Kaura,19013,Kukum,BUA,8.387537,9.604092,2191,70,grid - Intensification,4
+Kaduna,KD,Kpak,KD1306,Kaura,19013,U/Tukum,HA,8.415004,9.627753,472,19,grid - Intensification,4
+Kaduna,KD,Agban,KD1301,Kaura,19013,Unguwar Mungwab,HA,8.380793,9.591222,8524,307,grid - Intensification,4
+Kaduna,KD,Kpak,KD1306,Kaura,19013,Unguwar Uzah Alau Anet,HA,8.421215,9.634566,4640,168,grid - Intensification,4
+Kaduna,KD,Agban,KD1301,Kaura,19013,Ungwan Duwai Kaboshoi,HA,8.342889,9.587933,1862,69,grid - Intensification,5
+Kaduna,KD,Manchok,KD1309,Kaura,19013,Ungwan Gambo Tibishi,BUA,8.512384,9.670656,6315,229,grid - Intensification,5
+Kaduna,KD,Kadarko,KD1304,Kaura,19013,Unguwar Adamu Zatiok,HA,8.446777,9.662803,1086,41,grid - Intensification,5
+Kaduna,KD,Kpak,KD1306,Kaura,19013,Kpak,BUA,8.402904,9.612256,5954,183,grid - Intensification,5
+Kaduna,KD,Agban,KD1301,Kaura,19013,Ungwan Makaranta,BUA,8.329376,9.59822,1352,44,grid - Intensification,5
+Kaduna,KD,Malagum,KD1308,Kaura,19013,Unguwan Yusuf Jankarau,HA,8.382477,9.697905,99,19,grid,5
+Kaduna,KD,Malagum,KD1308,Kaura,19013,Unguwan Mugu Tellah,HA,8.374002,9.701804,4395,749,grid,5
+Kaduna,KD,Bondong,KD1302,Kaura,19013,Unguwan Joseph Takaici,HA,8.526099,9.696153,2423,90,grid - Intensification,5
+Kaduna,KD,Malagum,KD1308,Kaura,19013,Monday Tachio,HA,8.393116,9.634337,340,15,grid - Intensification,5
+Kaduna,KD,Bondong,KD1302,Kaura,19013,Ungwar Kambai Adamu,HA,8.556659,9.707163,5132,186,grid - Intensification,6
+Kaduna,KD,Manchok,KD1309,Kaura,19013,Rugan Bayero Gene,HA,8.492457,9.709568,507,89,grid,6
+Kaduna,KD,Manchok,KD1309,Kaura,19013,Ungwan Gambo Juri,HA,8.501222,9.705998,3560,608,grid,6
+Kaduna,KD,Kadarko,KD1304,Kaura,19013,Unguwar Vincent Bature,HA,8.447485,9.632977,6576,237,grid - Intensification,6
+Kaduna,KD,Kpak,KD1306,Kaura,19013,Unguwar Peter,HA,8.400192,9.624569,1576,60,grid - Intensification,7
+Kaduna,KD,Manchok,KD1309,Kaura,19013,Ungwan Joshua Amam,HA,8.50563,9.714292,1088,187,grid,7
+Kaduna,KD,Fada,KD1303,Kaura,19013,Unguwar Joshua,HA,8.341702,9.649713,226,41,grid,7
+Kaduna,KD,Fada,KD1303,Kaura,19013,Unguwar Audu,HA,8.351227,9.638167,2292,392,grid,7
+Kaduna,KD,Malagum,KD1308,Kaura,19013,David Kudi,HA,8.398813,9.662678,120,8,grid - Intensification,7
+Kaduna,KD,Malagum,KD1308,Kaura,19013,Ishaku Yashim,HA,8.400306,9.666919,316,14,grid - Intensification,7
+Kaduna,KD,Kpak,KD1306,Kaura,19013,Unguwar Tukan,HA,8.403388,9.674266,1203,207,grid,7
+Kaduna,KD,Kadarko,KD1304,Kaura,19013,Anthony Rapheal,HA,8.452291,9.628192,316,57,grid,7
+Kaduna,KD,Malagum,KD1308,Kaura,19013,Andrew Yashim,HA,8.388446,9.648139,8154,294,grid - Intensification,7
+Kaduna,KD,Bondong,KD1302,Kaura,19013,Unguwan Gambo Yayock,HA,8.51203,9.727394,352,63,grid,7
+Kaduna,KD,Bondong,KD1302,Kaura,19013,Unguwa Samaila Aba,HA,8.521934,9.735042,379,67,grid,7
+Kaduna,KD,Bondong,KD1302,Kaura,19013,Unguwa Mutuwa Agang,HA,8.530355,9.731993,801,139,grid,7
+Kaduna,KD,Fada,KD1303,Kaura,19013,Unguwar Mathew,HA,8.346795,9.656551,305,55,grid,7
+Kaduna,KD,Kaura,KD1305,Kaura,19013,Unguwan Samaila Zaria,BUA,8.507205,9.665381,3780,138,grid - Intensification,8
+Kaduna,KD,Agban,KD1301,Kaura,19013,HA_4,HA,8.334106,9.59201,16,5,grid - Intensification,8
+Kaduna,KD,Manchok,KD1309,Kaura,19013,Unguwar Samaila Turman,HA,8.523077,9.659454,4600,167,grid - Intensification,8
+Kaduna,KD,Manchok,KD1309,Kaura,19013,HA_5,HA,8.517734,9.679039,150,9,grid - Intensification,8
+Kaduna,KD,Manchok,KD1309,Kaura,19013,Rugan Ardo Hassan Goma,HA,8.496221,9.719548,100,19,grid,8
+Kaduna,KD,Kpak,KD1306,Kaura,19013,U/Uzah Alau Anet,HA,8.421894,9.638661,451,18,grid - Intensification,8
+Kaduna,KD,Zankan,KD1310,Kaura,19013,Unguwar Thaddeus Kaka,HA,8.500889,9.626229,3835,140,grid - Intensification,8
+Kaduna,KD,Fada,KD1303,Kaura,19013,Unguwar Gabriel,HA,8.380755,9.648184,128,9,grid - Intensification,8
+Kaduna,KD,Fada,KD1303,Kaura,19013,Unguwar Ayuba,HA,8.372183,9.643364,355,64,grid,8
+Kaduna,KD,Fada,KD1303,Kaura,19013,Unguwar Kajang,HA,8.375563,9.630858,501,89,grid,8
+Kaduna,KD,Fada,KD1303,Kaura,19013,Unguwar Markus,HA,8.371315,9.651916,294,52,grid,8
+Kaduna,KD,Fada,KD1303,Kaura,19013,HA_2,HA,8.393415,9.602621,184,10,grid - Intensification,8
+Kaduna,KD,Manchok,KD1309,Kaura,19013,Unguwan Titus Philip,HA,8.49029,9.633097,5225,189,grid - Intensification,9
+Kaduna,KD,Kukum,KD1307,Kaura,19013,Unguwan Thaddeus Bosan,HA,8.355707,9.611539,3099,114,grid - Intensification,9
+Kaduna,KD,Kukum,KD1307,Kaura,19013,HA_1,HA,8.360971,9.618418,31,9,grid,9
+Kaduna,KD,Kukum,KD1307,Kaura,19013,Unguwan Monday Yashim,HA,8.367552,9.615376,481,85,grid,9
+Kaduna,KD,Agban,KD1301,Kaura,19013,Unguwar Daniel Atiyong,SSA,8.364214,9.573038,116,8,grid - Intensification,9
+Kaduna,KD,Zankan,KD1310,Kaura,19013,HA_14,HA,8.563664,9.659047,125,9,grid - Intensification,9
+Kaduna,KD,Zankan,KD1310,Kaura,19013,HA_15,HA,8.579187,9.662772,86,17,grid,9
+Kaduna,KD,Manchok,KD1309,Kaura,19013,HA_3,HA,8.575677,9.672049,766,133,grid,9
+Kaduna,KD,Bondong,KD1302,Kaura,19013,HA_2,HA,8.582453,9.680261,39,10,grid,9
+Kaduna,KD,Bondong,KD1302,Kaura,19013,Barry Passal,HA,8.579883,9.69255,1213,209,grid,9
+Kaduna,KD,Bondong,KD1302,Kaura,19013,Ungwar Bobai Bature,HA,8.572882,9.704607,72,15,grid,9
+Kaduna,KD,Bondong,KD1302,Kaura,19013,John Mally,HA,8.573732,9.711462,268,47,grid,9
+Kaduna,KD,Bondong,KD1302,Kaura,19013,Ungwar Gabriel Mutuwa,HA,8.564851,9.728353,3926,670,grid,9
+Kaduna,KD,Kukum,KD1307,Kaura,19013,Unguwar Emmanuel Aboi,HA,8.36775,9.599503,2126,79,grid - Intensification,9
+Kaduna,KD,Manchok,KD1309,Kaura,19013,Unguwar Zakariya Kakan,HA,8.556198,9.676233,480,85,grid,9
+Kaduna,KD,Manchok,KD1309,Kaura,19013,Unguwar Likita Bature,HA,8.541099,9.680174,494,87,grid,9
+Kaduna,KD,Bondong,KD1302,Kaura,19013,Ruga Ardo Lere,HA,8.554176,9.729723,8,6,grid,9
+Kaduna,KD,Bondong,KD1302,Kaura,19013,Ungwar Abui Yayock,SSA,8.554377,9.74161,79,16,grid,9
+Kaduna,KD,Bondong,KD1302,Kaura,19013,Unguwa Danjuma Tanimu,SSA,8.550601,9.742073,141,25,grid,9
+Kaduna,KD,Kukum,KD1307,Kaura,19013,Unguwan Zamani Abba,HA,8.324053,9.614751,2904,106,grid - Intensification,9
+Kaduna,KD,Kpak,KD1306,Kaura,19013,Unguwan Fafan,HA,8.412034,9.616005,517,20,grid - Intensification,10
+Kaduna,KD,Fada,KD1303,Kaura,19013,Unguwar Daniel,HA,8.428655,9.59898,89,17,grid,10
+Kaduna,KD,Fada,KD1303,Kaura,19013,Unguwar Ishaya,HA,8.426972,9.580068,233,42,grid,10
+Kaduna,KD,Fada,KD1303,Kaura,19013,Unguwar Katung,HA,8.436916,9.576747,171,33,grid,10
+Kaduna,KD,Fada,KD1303,Kaura,19013,Unguwar John,HA,8.442434,9.570113,910,157,grid,10
+Kaduna,KD,Bondong,KD1302,Kaura,19013,Unguwa Shekeri Lekwot,SSA,8.549324,9.699732,59,7,grid - Intensification,10
+Kaduna,KD,Kaura,KD1305,Kaura,19013,Rugan Abdullahi Adamu,HA,8.497988,9.664176,359,16,grid - Intensification,10
+Kaduna,KD,Bondong,KD1302,Kaura,19013,HA_1,HA,8.587139,9.672597,167,33,grid,10
+Kaduna,KD,Manchok,KD1309,Kaura,19013,Unguwan Richard Yakap,HA,8.48459,9.633604,38,6,grid - Intensification,10
+Kaduna,KD,Manchok,KD1309,Kaura,19013,HA_2,HA,8.476144,9.630574,230,42,grid,10
+Kaduna,KD,Manchok,KD1309,Kaura,19013,Ungwan Daniel Adamu,HA,8.511472,9.676714,846,34,grid - Intensification,10
+Kaduna,KD,Zankan,KD1310,Kaura,19013,HA_12,HA,8.561987,9.651792,34,6,grid - Intensification,10
+Kaduna,KD,Zankan,KD1310,Kaura,19013,Unguwan Musa Zamani,HA,8.551367,9.640414,136,24,grid,10
+Kaduna,KD,Zankan,KD1310,Kaura,19013,Rugan Bayero,HA,8.559597,9.635037,77,16,grid,10
+Kaduna,KD,Zankan,KD1310,Kaura,19013,HA_9,HA,8.558646,9.622162,528,92,grid,10
+Kaduna,KD,Zankan,KD1310,Kaura,19013,HA_7,HA,8.56513,9.615024,327,59,grid,10
+Kaduna,KD,Manchok,KD1309,Kaura,19013,Unguwar James,HA,8.498248,9.677348,2725,100,grid - Intensification,10
+Kaduna,KD,Kaura,KD1305,Kaura,19013,HA_1,HA,8.487856,9.667044,71,7,grid - Intensification,10
+Kaduna,KD,Zankan,KD1310,Kaura,19013,HA_8,HA,8.54481,9.627227,12,6,grid,10
+Kaduna,KD,Zankan,KD1310,Kaura,19013,HA_11,HA,8.532185,9.630783,439,77,grid,10
+Kaduna,KD,Zankan,KD1310,Kaura,19013,HA_5,HA,8.52729,9.605595,24,8,grid,10
+Kaduna,KD,Zankan,KD1310,Kaura,19013,HA_2,HA,8.524235,9.601705,28,9,grid,10
+Kaduna,KD,Zankan,KD1310,Kaura,19013,HA_4,HA,8.51044,9.590635,785,136,grid,10
+Kaduna,KD,Zankan,KD1310,Kaura,19013,HA_1,HA,8.527707,9.596257,4,5,grid,10
+Kaduna,KD,Zankan,KD1310,Kaura,19013,HA_6,HA,8.535549,9.599783,39,10,grid,10
+Kaduna,KD,Zankan,KD1310,Kaura,19013,HA_3,HA,8.54009,9.590968,357,64,grid,10
+Kaduna,KD,Zankan,KD1310,Kaura,19013,HA_10,HA,8.472046,9.631294,42,11,grid,10
+Kaduna,KD,Zankan,KD1310,Kaura,19013,Unguwan Yahaya Saleh,HA,8.52254,9.650695,1996,73,grid - Intensification,10
+Kaduna,KD,Agban,KD1301,Kaura,19013,Unguwar Habila Abba,HA,8.361642,9.570462,514,20,grid - Intensification,10
+Kaduna,KD,Malagum,KD1308,Kaura,19013,Umguwa Hosea Audu,HA,8.381829,9.685383,70,15,grid,10
+Kaduna,KD,Kadarko,KD1304,Kaura,19013,Unguwar Yakubu Moma,HA,8.450591,9.653367,194,11,grid - Intensification,10
+Kaduna,KD,Kaura,KD1305,Kaura,19013,Ruga Haruna Dodo,HA,8.456064,9.649679,106,8,grid - Intensification,10
+Kaduna,KD,Zankan,KD1310,Kaura,19013,Unguwar Donatus Tiyagnet,HA,8.45872,9.645591,1337,49,grid - Intensification,10
+Kaduna,KD,Kukum,KD1307,Kaura,19013,Unguwan Sunday Billy,HA,8.347884,9.601269,950,37,grid - Intensification,10
+Kaduna,KD,Fada,KD1303,Kaura,19013,Unguwar Ishaku,HA,8.414203,9.58593,148,27,grid,10
+Kaduna,KD,Manchok,KD1309,Kaura,19013,HA_4,HA,8.500884,9.684351,42,11,grid,10
+Kaduna,KD,Manchok,KD1309,Kaura,19013,Rugan Aminu Jagaba,HA,8.505056,9.687482,57,13,grid,10
+Kaduna,KD,Kaura,KD1305,Kaura,19013,Unguwan Musa Yabwat,HA,8.506855,9.656626,547,21,grid - Intensification,10
+Kaduna,KD,Bondong,KD1302,Kaura,19013,HA_5,HA,8.591494,9.683987,88,17,grid,10
+Kaduna,KD,Zankan,KD1310,Kaura,19013,Unguwan Yakubu Aba,HA,8.51493,9.64699,67,14,grid,10
+Kaduna,KD,Kadarko,KD1304,Kaura,19013,Unguwar Isa Bayero,HA,8.43098,9.67178,142,26,grid,10
+Kaduna,KD,Kukum,KD1307,Kaura,19013,Unguwar Akai Latung,HA,8.389592,9.598396,429,18,grid - Intensification,10
+Kaduna,KD,Fada,KD1303,Kaura,19013,Unguwar Gwani,HA,8.385799,9.620605,760,31,grid - Intensification,10
+Kaduna,KD,Bondong,KD1302,Kaura,19013,HA_4,HA,8.592121,9.719934,38,10,grid,10
+Kaduna,KD,Bondong,KD1302,Kaura,19013,HA_3,HA,8.600266,9.714094,120,22,grid,10
+Kaduna,KD,Bondong,KD1302,Kaura,19013,Ugwar Mahuta Jaji,HA,8.595863,9.709778,35,10,grid,10
+Kaduna,KD,Kpak,KD1306,Kaura,19013,U/Mai Kai Ruga,HA,8.421738,9.656776,7,6,grid,10
+Kaduna,KD,Manchok,KD1309,Kaura,19013,HA_1,HA,8.498041,9.590916,30,9,grid,10
+Kaduna,KD,Manchok,KD1309,Kaura,19013,Unguwar Stephen Anthony,HA,8.494322,9.62183,152,9,grid - Intensification,10
+Kaduna,KD,Kaura,KD1305,Kaura,19013,HA_2,HA,8.448783,9.673452,63,7,grid - Intensification,10
+Kaduna,KD,Fada,KD1303,Kaura,19013,HA_1,HA,8.44974,9.598556,28,9,mini-grid,NA

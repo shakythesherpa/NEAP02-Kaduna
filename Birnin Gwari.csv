@@ -1,0 +1,1246 @@
+State,Statecode,Ward,Wardcode,Lga,Lgacode,Name,Type,X,Y,Population,Target.Household.Count,Recommended.Access.Categories,DecileByHH
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_10,HA,6.944057,11.24639,699,27,grid - Intensification,3
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Tudun Raha,HA,6.230335,10.668306,1482,255,grid,3
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Unguwar Galadima,BUA,6.951822,11.25204,15338,550,grid - Intensification,4
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Magajin Gari 2,BUA,6.537592,10.669703,47488,1697,grid - Intensification,4
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Ung Ayuba Sabuwan Unguwa,BUA,6.899289,11.056261,8684,313,grid - Intensification,4
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Mando,BUA,6.565747,10.71138,2430,90,grid - Intensification,4
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Meagan 2,BUA,6.624249,10.70931,3175,116,grid - Intensification,4
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Ldi Labo,SSA,6.49559,10.648786,110,20,grid,4
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,FARIN RUWA UNGUWAR SARKI,BUA,6.787307,11.071778,1158,44,grid - Intensification,4
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Magajin Gari 1,BUA,6.545333,10.662934,26700,955,grid - Intensification,4
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Mangwarori,HA,6.168499,10.563868,427,75,grid,4
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Hayin Mata,BUA,6.907173,11.21461,4627,168,grid - Intensification,4
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Unguwar Alhaji Musa,HA,6.216221,10.695733,336,61,grid,4
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Layin Mai Gwar,BUA,6.711422,10.837157,3968,145,grid - Intensification,4
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Kiriyoyi 1,HA,6.730573,10.87276,612,107,grid,4
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Sabon Gari Gabas,BUA,7.086146,11.039311,9267,333,grid - Intensification,4
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Alhaji,BUA,6.143095,10.547463,7565,273,grid - Intensification,4
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Labi,HA,6.185056,10.580352,244,44,grid,4
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Layin Tambai Machanic,BUA,6.638446,10.792715,10680,384,grid - Intensification,4
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwan Nakiya,HA,6.511321,10.627624,154,29,grid,4
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Babban Udawa,HA,7.014315,10.633383,274,48,grid,4
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Unguwar Abubakar Bakaniki,BUA,6.75533,10.924472,9223,332,grid - Intensification,4
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Tashar Keji Mai anguwa Hassan,BUA,6.394258,10.662666,1416,53,grid - Intensification,4
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Dangamji Unguwan Saidu,HA,6.668214,10.800795,275,48,grid,5
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Fiyau,HA,6.225163,10.683374,339,61,grid,5
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Sabon Garin Gagumi,BUA,6.226472,10.652342,2292,85,grid - Intensification,5
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Bafarawa,HA,6.810925,11.107327,308,14,grid - Intensification,5
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Jaruwa,BUA,6.95608,11.054099,1074,41,grid - Intensification,5
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Unguwar Makera Alhaji Ya'u,SSA,6.866077,11.189185,310,56,grid,5
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwan Kadagi,HA,6.213687,10.627652,202,38,grid,5
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Unguwar Shehu Bala,BUA,6.746938,10.726193,2058,76,grid - Intensification,5
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Marmara II,HA,6.617382,10.777746,291,52,grid,5
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Unguwan Gobirawa,BUA,6.354772,10.651731,9081,327,grid - Intensification,5
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_166,HA,6.148446,10.550825,364,16,grid - Intensification,5
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,RUGAN MALLAM IDI,HA,6.813837,11.061925,229,41,grid,5
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Chikwarba Anguwan Na Umma,HA,6.280078,10.648107,460,81,grid,5
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Hayin Gada,BUA,6.976396,11.044426,2040,75,grid - Intensification,5
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Danfillo,HA,6.20137,10.610781,308,55,grid,5
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwan Rimi,HA,6.426463,10.665241,418,73,grid,5
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Janruwa,HA,6.793198,10.980825,522,92,grid,5
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Chikwarba Anguwan Dutse,SSA,6.299547,10.653809,145,27,grid,5
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Falwaya 1,BUA,6.687793,10.705807,1700,64,grid - Intensification,5
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,BUA_12,BUA,6.983318,11.297001,3314,121,grid - Intensification,5
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Jiba,SSA,7.037429,11.038418,248,44,grid,5
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Unguwar Liman,HA,6.583724,10.682486,161,31,grid,5
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,Unguwar Ahmed,BUA,7.005052,11.330587,1568,60,grid - Intensification,5
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Bula,SSA,6.187573,10.586114,129,23,grid,5
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Tudun Wada,HA,6.336697,10.643368,1699,64,grid - Intensification,5
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Bagoma,BUA,6.529389,10.647497,2519,93,grid - Intensification,5
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Amana,SSA,6.972806,11.046358,72,7,grid - Intensification,5
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,SSA_14,SSA,6.98831,11.307287,211,11,grid - Intensification,5
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Unguwar Liman Umaru,BUA,6.208456,10.705883,2583,95,grid - Intensification,5
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Kungi,BUA,6.606648,10.756682,946,37,grid - Intensification,5
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Jangali,HA,6.517551,10.639979,138,25,grid,5
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,RUGAN MALLAM MU AZU,HA,6.835877,11.073991,203,38,grid,5
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Farin Batu,SSA,6.923545,11.229755,397,17,grid - Intensification,5
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Kwanar Shehu,HA,6.593675,10.691827,688,120,grid,5
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Tandama,HA,6.192096,10.595001,156,30,grid,5
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Unguwan Katsinawa A,BUA,6.991033,11.045553,20330,728,grid - Intensification,5
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Tashar Keji Mai anguwa Ibrahim,BUA,6.390249,10.662802,1574,60,grid - Intensification,5
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Badole Old Gwari Ung Dan Dandutse,SSA,6.791295,11.024027,218,11,grid - Intensification,6
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Takama,SSA,7.057237,11.034472,251,12,grid - Intensification,6
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Kirazo,SSA,6.72159,10.859399,267,13,grid - Intensification,6
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Mangorori,BUA,6.855742,11.166182,2058,76,grid - Intensification,6
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Unguwar Shekarau,HA,6.563101,10.676768,265,13,grid - Intensification,6
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Gobirawa Gabasawa,BUA,6.834141,11.12666,1854,69,grid - Intensification,6
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,UNGUWAR MALLAM SALEH,HA,6.802822,11.060669,63,14,grid,6
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Fadaman Rake,HA,6.234091,10.639478,1010,175,grid,6
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Gwandu,SSA,6.882252,11.19669,380,16,grid - Intensification,6
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Anguwan Sarkin Noma,SSA,6.573035,10.679196,81,16,grid,6
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Marmara,HA,6.465004,10.649018,64,14,grid,6
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,BUA_15,BUA,6.979896,11.289236,1684,63,grid - Intensification,6
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Old Gwari Unguwar Hassan Makama,HA,6.786256,11.017897,877,35,grid - Intensification,7
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_87,HA,6.482197,10.640572,36,10,grid,7
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Kanama,SSA,6.296402,10.65242,68,14,grid,7
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_101,HA,6.820868,11.066456,140,25,grid,7
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_46,HA,6.688702,10.81329,223,41,grid,7
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,RUGAR NOMAU GORA,HA,6.796699,11.060641,167,33,grid,7
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Unguwar Alhaji,HA,6.855012,11.174783,299,14,grid - Intensification,7
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,SSA_15,SSA,6.98726,11.304136,309,14,grid - Intensification,7
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Rugan Alhaji Yunusa,HA,6.502888,10.617184,226,41,grid,7
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwan Galadima,HA,6.17373,10.575571,180,35,grid,7
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Ldi Tela,HA,6.494833,10.645541,281,49,grid,7
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Unguwan Zaria,HA,6.610955,10.775352,175,34,grid,7
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Chikwarba Anguwan Goga,HA,6.276147,10.642796,296,53,grid,7
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Rugar Muhammadu Bello,HA,6.255928,10.65526,632,110,grid,7
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_7,HA,6.211678,10.619203,316,57,grid,8
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Ganai,HA,6.631351,10.772618,560,98,grid,8
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_62,HA,6.268952,10.649967,55,13,grid,8
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Chikwarba Anguwan Goje,HA,6.288647,10.654353,793,137,grid,8
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Unguwar Wakili Maitama,HA,6.641234,10.771212,554,96,grid,8
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Low Cost,HA,6.557118,10.671969,191,11,grid - Intensification,8
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Badole Old Gwari Ung Alhaji Audu,SSA,6.79197,11.022012,127,9,grid - Intensification,8
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_98,HA,6.509688,10.65417,113,21,grid,8
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwan Fari Hakimi,HA,6.51074,10.66111,571,99,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Unguwan Ori,HA,7.040617,11.039447,171,33,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rugan Musa,HA,7.041626,11.053582,369,66,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Hayin Madaki,SSA,7.04062,11.059517,256,45,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Gwanda,BUA,7.044838,11.066716,1144,197,grid,8
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,Tashar Bawa,HA,7.012154,11.347302,667,116,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Unguwan Malamai,SSA,7.043738,11.071772,188,36,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Ritafi,SSA,7.031102,11.077182,122,22,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rugan Yalli,HA,7.030488,11.086539,54,12,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,SSA_25,SSA,7.028032,11.092276,237,43,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Maikulu 1,SSA,7.024306,11.090021,288,51,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Maikulu2,SSA,7.020038,11.087583,71,15,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_202,HA,7.011101,11.091084,141,25,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_509,HA,7.007181,11.099825,69,15,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_510,HA,6.997012,11.102298,90,18,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Jaae,HA,6.987813,11.11378,18,7,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Anguwar Sule,BUA,7.002951,11.121418,4795,818,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Unguwan Maitebiri,HA,7.011696,11.106991,502,89,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Hayin Nakaka,SSA,7.020602,11.109361,188,36,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rugan Alhaji Iliya,HA,7.031698,11.11403,219,40,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_20,HA,7.029085,11.120934,155,29,grid,8
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Unguwan Mori,HA,7.031092,11.130598,173,34,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Unguwar Maro,HA,7.025857,11.142952,647,113,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Alhaji Haruna,HA,7.02436,11.148807,168,33,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Alhaji Ahassan,HA,7.02958,11.151747,73,15,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Gidan Malam Shehu,HA,7.032258,11.156923,115,21,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Alhaji Isa,HA,7.021743,11.163293,112,21,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Ayubawa,HA,7.015169,11.173605,138,25,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Maigadi,HA,7.020073,11.17582,38,10,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Barza,BUA,7.032,11.175166,3463,591,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Hayin Jibo,HA,7.043018,11.174721,286,51,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Tashar Kade,BUA,7.054982,11.176869,5615,957,grid,8
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_157,HA,6.784393,10.961785,55,13,grid,8
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Chikwarba Anguwan Bawa,HA,6.288861,10.665124,170,33,grid,8
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Nagani,SSA,6.286601,10.670613,82,16,grid,8
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Chikwarba Anguwan Sule Magani,HA,6.288195,10.677609,112,21,grid,8
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,SSA_50,SSA,6.297781,10.687438,62,14,grid,8
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Kurgi,HA,6.303775,10.701546,1146,198,grid,8
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Unguwan Sarki Kurgi,HA,6.292622,10.706847,1480,254,grid,8
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Fasalla,HA,6.563238,10.726381,57,13,grid,8
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_19,HA,6.558669,10.735019,655,114,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Gidan Yusubu,HA,7.018742,11.185202,111,20,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Dahiru,HA,7.015395,11.194035,74,15,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_5,HA,6.993744,11.175666,943,163,grid,8
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_8,HA,6.987732,11.18315,1713,294,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,SSA_21,SSA,6.986523,11.165746,225,41,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,SSA_28,SSA,6.985106,11.165787,314,57,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_164,HA,6.983813,11.157665,164,32,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Anguwar Maje,SSA,6.987227,11.157487,277,49,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Kano,HA,6.976592,11.156255,108,20,grid,8
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Bahu,HA,6.971495,11.156083,742,129,grid,8
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Rigar Alhaji Shanu,HA,6.963203,11.169625,984,170,grid,8
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Kurosha,HA,7.023009,10.638541,470,83,grid,9
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_147,HA,6.790207,10.956284,245,44,grid,9
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,RUGAN JULI BAGOMA,HA,6.839757,11.086109,117,21,grid,9
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,TASHAN LEDA,SSA,6.834979,11.08675,289,51,grid,9
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_107,HA,6.833833,11.08525,286,51,grid,9
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_9,HA,6.97991,11.188794,41,11,grid,9
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Rigar Murnai Ali,HA,6.970882,11.199315,102,19,grid,9
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Unguwar Usman Gere,SSA,6.977945,11.215772,324,59,grid,9
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,SSA_3,SSA,6.977726,11.22336,96,18,grid,9
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Dinya Unguwar Umar,BUA,6.975568,11.226125,1508,259,grid,9
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Unguwan Dan Gude,BUA,6.205581,10.711099,4691,170,grid - Intensification,9
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_227,HA,6.210968,10.611853,210,39,grid,9
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,SSA_1,SSA,6.980265,11.225929,207,38,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_3,HA,6.961287,11.145009,153,29,grid,9
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Rugar Mallam Sani Maigadi,HA,6.955078,11.151523,549,96,grid,9
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,RUGAR ALHAJI KEDA,HA,6.825888,11.064794,424,74,grid,9
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Idi Tela,HA,6.498781,10.639766,172,33,grid,9
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_307,HA,6.878962,11.066984,85,17,grid,9
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwar Fari,HA,6.518032,10.649646,393,17,grid - Intensification,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Sani,HA,7.04503,11.15332,545,95,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Audu,HA,7.045132,11.143722,234,42,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Kanawar Mai Daji,HA,7.057014,11.147762,693,120,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_43,HA,7.057835,11.154132,278,49,grid,9
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwan Mayana,HA,6.554239,10.699958,157,30,grid,9
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Dogon Hawa I,HA,6.485708,10.609638,162,31,grid,9
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Hawan Kano,HA,6.497164,10.652325,68,14,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Hayin Maikomo,HA,7.05903,11.182376,405,71,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Anguwar Makeri,SSA,7.022915,11.187163,121,22,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Kanawar Mai Daji,SSA,7.05992,11.147579,309,55,grid,9
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Galadima,HA,6.277353,10.706508,153,29,grid,9
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Yakomo,HA,6.274462,10.702247,105,20,grid,9
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Shuwaka,HA,6.261024,10.694239,237,43,grid,9
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Sarkin Noma,HA,6.266285,10.688694,579,101,grid,9
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_92,HA,6.485341,10.646793,50,12,grid,9
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Maraban Shirya,SSA,6.189102,10.600971,79,16,grid,9
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Shirya,SSA,6.179433,10.606846,211,39,grid,9
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_224,HA,6.173067,10.605937,205,38,grid,9
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_6,HA,6.17028,10.597242,221,40,grid,9
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Unguwan Maigadi,SSA,6.995685,11.098931,152,29,grid,9
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rugan Alhaji Aminu,HA,7.044449,11.089015,163,32,grid,9
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rugan Basu,HA,7.057591,11.088947,508,90,grid,9
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Rugan Alhaji Bukko,HA,7.064685,11.092557,132,23,grid,9
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Rugan Mallam Jika,HA,7.07107,11.084455,321,58,grid,9
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rugan Alhaji Zuwa,HA,7.030853,11.0265,262,46,grid,9
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_120,HA,7.028843,11.022983,15,7,grid,9
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_280,HA,7.029577,11.012593,107,20,grid,9
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_103,HA,7.02264,11.005052,62,14,grid,9
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_15,HA,7.031648,10.997064,633,110,grid,9
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,HA_93,HA,6.99737,11.313045,241,43,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Miya Miya,SSA,7.074136,11.152012,162,31,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_40,HA,7.076876,11.150253,243,43,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_42,HA,7.083317,11.151836,91,18,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Gide Zuberu,HA,7.088935,11.160535,14,7,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Jikan Ladan,HA,7.085634,11.164862,66,14,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Gwandawa,SSA,7.078984,11.169798,218,40,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Ma aruf,HA,7.074179,11.178701,637,111,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Marmara,SSA,7.098179,11.1605,120,22,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Kwashi,SSA,7.10301,11.151392,117,21,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_41,HA,7.104508,11.148629,169,33,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Hayin Gwari,HA,7.112095,11.143654,399,70,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rigar Alhaji Bello,HA,7.119678,11.138583,113,21,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rigar Alhaji Shagari,HA,7.115937,11.132413,277,49,grid,9
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rigar Usaini,HA,7.12358,11.133987,134,24,grid,9
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,HA_182,HA,7.078546,11.074138,178,34,grid,9
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Kalgo,HA,7.074934,11.062563,488,86,grid,9
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,SSA_11,SSA,6.984642,11.225484,204,38,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_85,HA,6.508327,10.640569,146,27,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_3,HA,6.981247,11.172417,165,32,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_146,HA,6.900551,11.044705,83,7,grid - Intensification,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Unguwan Wanzamai,HA,6.894679,11.044691,111,8,grid - Intensification,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,S S A,BUA,6.895263,11.036033,3531,603,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwan Bula,HA,6.190136,10.587179,344,62,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwan Laya,SSA,6.5383,10.712232,156,30,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Rugan Alhaji Kwaire,HA,6.529007,10.739313,888,154,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,SSA_32,SSA,6.204056,10.630386,133,24,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_19,HA,6.195799,10.636179,605,105,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Kurbau,HA,6.183335,10.631605,373,66,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_191,HA,7.014562,11.077701,371,66,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_123,HA,6.415401,10.676198,131,23,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_133,HA,6.409363,10.678798,146,27,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwan Mai Dawa,HA,6.419837,10.688519,138,25,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Sabon Gidan,HA,6.415674,10.697944,163,32,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Dagara 1,SSA,6.421575,10.715005,83,17,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Dagara Unguwan Nasiru,HA,6.417921,10.71603,484,85,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Dagara Unguwan Adamu,SSA,6.430102,10.72379,186,35,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Tofa,SSA,6.436389,10.716093,95,18,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Dagara 2,HA,6.441206,10.722252,156,30,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Rugan Hassan,HA,6.461566,10.711493,561,98,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwan Dan Magaji,HA,6.46856,10.712555,122,22,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Bugai Area,SSA,6.473553,10.724216,112,21,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Bugai 1,SSA,6.473421,10.726105,145,27,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_159,HA,6.472059,10.728824,234,42,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Bugai 2,BUA,6.468641,10.732405,1374,236,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Gidan Namama,SSA,6.195286,10.650083,145,27,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Gidan Zari,SSA,6.199967,10.65752,122,22,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Kimbi,BUA,6.190178,10.660733,838,145,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Yalwan Ya'U,HA,6.356823,10.670812,338,61,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Hayin Yalwa,HA,6.352468,10.674862,183,35,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Kashimaturi,HA,6.203568,10.579429,217,40,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_186,HA,6.203353,10.566155,121,22,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Bitari,HA,6.212369,10.556145,204,38,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Ijinga,SSA,6.216223,10.559282,106,20,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Rugar Danladi,HA,6.225634,10.554992,81,16,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_169,HA,6.239553,10.556736,237,43,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Anguwar Idi,HA,6.239161,10.539774,291,52,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_133,HA,6.240748,10.530845,76,16,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_111,HA,6.256019,10.518584,367,65,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_123,HA,6.269892,10.527774,83,17,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_15,HA,6.279762,10.539737,819,142,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Nasarawa,HA,6.275607,10.552205,878,152,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_160,HA,6.21935,10.54618,175,34,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Tari,HA,6.208431,10.544081,470,83,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Shehu Sani,HA,6.60437,10.715069,266,47,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Bature,SSA,6.181633,10.649113,59,13,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwan Tsauni,SSA,6.173295,10.641502,74,15,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Magu,SSA,6.160479,10.639861,99,19,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Danbarahaza,HA,6.160269,10.655675,148,27,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Yahaya,SSA,6.14522,10.650101,48,12,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwan Buba,SSA,6.133698,10.654939,77,16,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Gidan Kigana,HA,6.141075,10.665328,87,17,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_188,HA,6.146954,10.669317,91,18,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Dogon Sarki,SSA,6.142459,10.681251,111,20,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Ango Adudubi,HA,6.12142,10.697225,314,57,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Ginsa,SSA,6.126744,10.708221,183,35,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Saye,HA,6.126701,10.725619,133,24,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Seye dogo,HA,6.122476,10.730296,128,23,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Bawa,SSA,6.12115,10.743693,182,35,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_46,HA,6.123614,10.746797,408,71,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Ishiwai Anguwan Dogo,HA,6.112408,10.769391,468,82,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Ishiwai,HA,6.113631,10.784346,504,89,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_21,HA,6.120443,10.798049,40,10,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Dakkarawa church,HA,6.138273,10.819823,761,132,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Gandan hausawa,BUA,6.142281,10.822651,1101,189,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Mai Dawa,HA,6.135984,10.738853,609,106,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Dan Fulani,HA,6.145453,10.727147,191,36,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Rugar Hausawa,HA,6.156553,10.727683,61,13,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Dan Gwari,HA,6.1765,10.729613,107,20,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Maaji,HA,6.185171,10.739312,304,54,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan dan Mayana,BUA,6.182622,10.746026,736,128,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Katakaki Anguwan Sarki,BUA,6.181544,10.774102,3318,567,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Sarkin Fawa,HA,6.178084,10.722457,196,37,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Tanko Noma,HA,6.147385,10.68755,99,19,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Abubakar Isa Magami,HA,6.162056,10.688931,372,66,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Rugar Lafiya,HA,6.171363,10.692266,140,25,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_18,HA,6.176414,10.688805,216,40,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Kiyafa Kolo,HA,6.182666,10.687157,157,30,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Bakin Kogi,HA,6.154881,10.676149,233,42,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Funtua Badadi Kudu,SSA,7.135083,11.042533,165,32,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Hayin Dan Kasuwa,HA,7.122904,11.039156,154,29,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Rafin Gora Kudu,HA,7.114724,11.037716,929,160,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Gidan Alhaji. Bature,HA,7.141271,11.05119,232,42,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Rugan Bala,HA,7.144493,11.057947,348,63,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Rugan Usman,HA,7.136914,11.057798,22,8,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Rugan Alhaji Surajo,HA,7.132935,11.053974,302,54,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,HA_7,HA,7.159538,11.123329,57,13,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,HA_147,HA,7.155667,11.116085,91,18,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,HA_6,HA,7.150338,11.11782,113,21,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,SSA_45,SSA,7.147164,11.109634,73,15,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Rugar Audu Hari,HA,7.139564,11.114537,608,106,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Alhaji Wada,HA,7.134789,11.118716,225,41,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Samunaka,HA,7.126079,11.112586,303,54,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Rugan majana,HA,7.121122,11.116571,24,8,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Aduhu,SSA,7.107509,11.111028,244,44,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Rugan Chiroma,HA,7.103172,11.120654,124,22,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Anguwan Danko Gabas,BUA,7.094926,11.119322,1518,261,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Rugar Ibrahim Boyi,HA,6.589499,10.692411,65,14,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Yusuf Suleiman,HA,6.651442,10.776008,205,38,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_17,HA,6.682175,10.703172,212,11,grid - Intensification,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwan Sadauki,HA,6.474978,10.613421,200,37,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwar Bako,HA,6.470856,10.608785,136,24,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwar Dan Fulani,HA,6.466793,10.62161,204,38,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Gidan Audu,HA,7.038895,11.1305,358,64,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_164,HA,6.683117,10.801122,53,12,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_166,HA,6.692138,10.802241,115,21,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_37,HA,6.696253,10.80801,136,24,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_152,HA,6.697752,10.814534,228,41,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_319,HA,6.873662,11.073747,69,15,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_164,HA,6.878332,11.084873,34,10,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_361,HA,6.869368,11.091997,85,17,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_173,HA,6.861392,11.091832,99,19,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_543,HA,6.864312,11.10011,37,10,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_548,HA,6.865099,11.111171,100,19,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_8,HA,6.861848,11.120554,260,46,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_1,HA,6.866166,11.128473,153,29,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_416,HA,6.864091,11.136444,99,19,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_424,HA,6.87106,11.143201,38,10,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Rigar Sale,HA,6.883838,11.14658,230,42,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_439,HA,6.881473,11.156337,108,20,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Unguwar Kanawa,SSA,6.876168,11.160007,296,53,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Unguwar Gara,SSA,6.870353,11.160152,234,42,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_206,HA,6.883289,11.163934,52,12,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_208,HA,6.890568,11.173043,96,18,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_210,HA,6.898261,11.187468,95,18,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_457,HA,6.907383,11.182038,25,8,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Unguwar Dahiru,SSA,6.920278,11.18922,91,18,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Manda,HA,6.928302,11.199927,497,88,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Shado Unguwar Na'ana,BUA,6.94173,11.193507,2939,502,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Dabawa Fulani Sallau,HA,6.931518,11.212623,482,85,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Kamukawa,SSA,6.179218,10.776633,260,46,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Yalwan Yusha'U,HA,6.362901,10.681319,494,87,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Haruna Auragi,HA,6.156921,10.555013,149,9,grid - Intensification,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_162,HA,6.161283,10.548128,142,26,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Maikara,HA,6.157622,10.541576,73,15,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Alhaji Bala,HA,6.1498,10.528805,122,22,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Danbindi,HA,6.142819,10.527412,199,37,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_128,HA,6.133583,10.529427,65,14,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_29,HA,6.127933,10.516606,243,43,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_12,HA,6.132502,10.509627,225,41,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_117,HA,6.114763,10.522295,111,20,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Ukuga,HA,6.11465,10.537215,966,167,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Rugar Umaru,HA,6.108925,10.541466,237,43,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Gidan Boka Audu,HA,6.889043,11.155467,133,24,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Gidan Rabo Mutari,HA,6.896995,11.15574,23,8,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_2,HA,6.894627,11.148621,165,32,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Rigar Ibrahim Maimashin,HA,6.901387,11.139045,778,135,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_504,HA,6.995265,11.096207,156,30,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,Rugar Alhaji Isuwu,HA,6.978145,11.328548,327,59,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,Rugar Abdu Tsalha,HA,6.963477,11.321289,460,81,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,Dokan Ruwa Alhaji Ladi,HA,6.94344,11.338397,169,33,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,HA_4,HA,6.938184,11.334047,209,39,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,Dokan Ruwan Mallam Jibrin,HA,6.937591,11.350082,127,23,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,Dokan Ruwa Gamji,SSA,6.934574,11.356381,185,35,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,Jargaba Ahmadu,HA,6.916112,11.356261,160,31,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,Rugar Ado Mai Udare,HA,6.897496,11.371527,33,9,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,BUA_8,BUA,6.884847,11.366186,2712,463,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_209,HA,6.220652,10.578784,310,56,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_16,HA,6.231624,10.576294,263,46,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Tudun Rahama,HA,7.109299,11.033365,120,22,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Unguwar Zarumai,HA,6.235007,10.69531,235,42,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Unguwar Mai Dawa,HA,6.229573,10.706502,202,38,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_15,HA,6.24251,10.712497,84,17,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Fadamar Gaude,HA,6.246141,10.706966,325,59,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Fulani Jan Ruwa,HA,6.786764,10.969793,120,22,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_6,HA,6.301762,10.65733,60,13,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Tambaya,HA,6.179005,10.784083,146,27,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Chikwakwa,HA,6.172321,10.801022,207,38,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Gidan Mai Mata Guda,HA,6.173645,10.806763,151,28,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Mashigi Sabon Wuri,HA,6.176309,10.826739,593,103,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Barau Boka Mai Anguwa Zaure,HA,6.178314,10.838392,604,105,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_20,HA,6.195306,10.846199,489,86,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,SSA_36,SSA,6.194963,10.850946,93,18,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Sampoti,HA,6.306994,10.648231,90,18,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_77,HA,6.770276,10.929903,143,26,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_96,HA,6.444603,10.645041,231,42,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_82,HA,6.444213,10.638295,92,18,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_76,HA,6.43648,10.632878,65,14,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwan Adabo,HA,6.431167,10.637299,161,31,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_72,HA,6.431153,10.630117,125,22,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_36,HA,6.42132,10.628186,20,8,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Rugar Maisaje,HA,6.415015,10.626783,148,27,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_57,HA,6.409833,10.621835,62,14,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_47,HA,6.407607,10.613484,232,42,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_37,HA,6.400319,10.611715,77,16,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Rugar Chiroma,HA,6.394348,10.612434,17,7,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_17,HA,6.394505,10.606711,24,8,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_1,HA,6.384608,10.605996,450,79,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_22,HA,6.396015,10.594477,138,25,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_3,HA,6.398323,10.584431,322,58,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwan Makera,HA,6.406542,10.591306,458,80,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,SSA_6,SSA,6.38503,10.593345,119,22,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Rigan Alhaji Audu,HA,6.38457,10.583482,190,36,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwan Abaki,HA,6.387205,10.572707,108,20,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwan Algaita,SSA,6.380698,10.568518,108,20,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwan Badugu,HA,6.384093,10.559273,356,64,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Ganun Gari Gidan Abakar Badade,HA,6.365803,10.548603,202,38,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_149,HA,6.36951,10.541949,168,33,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwan Lawal,HA,6.362688,10.538968,291,52,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Ganun Gari,SSA,6.357346,10.538893,204,38,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Rugan Abubakar Usman,HA,6.3905,10.617412,316,57,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Rugar Sani,HA,6.379578,10.618269,445,78,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,SSA_10,SSA,6.37181,10.618118,75,15,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_4,HA,6.367162,10.616053,12,6,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Rugan Isubu Sadau,HA,6.358529,10.615098,185,35,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Rugan Anguwan Lemu,HA,6.354339,10.620905,527,92,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Dan Baki,HA,6.342325,10.61983,522,92,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_33,HA,6.328292,10.621208,148,27,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_28,HA,6.321188,10.613245,93,18,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Kanoma,HA,6.30854,10.628188,648,113,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,SSA_59,SSA,6.299649,10.629854,271,47,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,SSA_2,SSA,6.313019,10.60053,149,28,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Zakara,HA,6.297136,10.59862,1413,243,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Gidan Bakanike,HA,6.209651,10.661443,281,49,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_52,HA,6.640365,10.724853,68,14,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_21,HA,6.641796,10.730843,163,32,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Maisaje,HA,6.652879,10.730965,248,44,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rugan Bello,HA,6.942031,11.034005,300,54,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Gelobai A,HA,6.954995,11.025191,289,51,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rugan Ahlaji Sale,HA,6.949755,11.020054,104,20,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rugan Alhaji Betti,HA,6.944139,11.017819,262,46,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_34,HA,7.050675,11.127138,36,10,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Gidan Alhaji Garba,HA,7.057203,11.116418,376,67,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_26,HA,7.057443,11.129493,42,11,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_30,HA,7.056055,11.13401,153,29,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Kanawar idi,SSA,7.074455,11.130105,432,76,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_62,HA,6.950158,11.0098,77,16,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_17,HA,6.94306,11.00418,90,18,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Unguwan Bilya A,HA,6.935503,10.997625,732,127,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_147,HA,6.233961,10.583186,92,18,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_20,HA,6.233694,10.588686,153,29,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_52,HA,6.395033,10.621824,81,16,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Kolo Hayi,HA,6.394274,10.630032,75,15,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwar Mai Tsamiya,HA,6.398976,10.633337,232,42,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_38,HA,6.200523,10.770898,360,64,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Hardo Majadu,HA,6.633461,10.733064,144,26,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_19,HA,6.357687,10.607263,94,18,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_3,HA,6.367196,10.604718,525,92,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_3,HA,6.323473,10.589327,27,9,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_5,HA,6.32607,10.587868,253,45,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Sabon Sara,HA,6.684322,10.821609,147,27,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Unguwan Ori Dan Masarari,HA,6.630943,10.741684,89,17,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_90,HA,6.627413,10.745047,24,8,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_104,HA,6.633155,10.747508,26,8,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_65,HA,6.638808,10.753236,40,10,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Unguwan Rilwanu,HA,6.641591,10.745034,239,43,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Magaji Dau,HA,6.642226,10.755782,191,36,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,GIDAN SANYI,HA,6.804498,11.067758,202,38,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_21,HA,6.366067,10.596167,67,14,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwan Pangu,HA,6.361228,10.592412,511,90,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_96,HA,6.778098,10.952459,84,17,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_3,HA,6.672326,10.830184,43,11,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_5,HA,6.655847,10.824144,32,9,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_6,HA,6.643087,10.838337,32,9,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_7,HA,6.646059,10.847162,81,16,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_17,HA,6.635091,10.858105,24,8,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_31,HA,6.642149,10.880744,35,10,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_52,HA,6.632459,10.892547,43,11,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_25,HA,6.634948,10.920606,58,13,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_73,HA,6.630253,10.928645,46,11,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Maikirya Mai Anguwa Bawa,SSA,6.60815,10.914908,342,62,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,SABON GARI,BUA,6.569388,10.910313,2754,471,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HAYIN MAIJAKI,SSA,6.570114,10.905027,231,42,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Rugan Dan Wuntu,HA,6.630484,10.859773,142,26,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_66,HA,6.443531,10.625655,190,36,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_35,HA,6.649937,10.878128,59,13,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_40,HA,6.650521,10.88443,195,37,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Dangamji Unguwan Danladi,SSA,6.672406,10.800257,79,16,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwan Dan Iya,HA,6.364769,10.584256,277,49,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Unguwan Bilya B,HA,6.929367,10.994507,221,40,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_10,HA,6.932279,10.985435,171,33,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_5,HA,6.929567,10.982188,376,67,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_22,HA,6.933868,10.974325,521,91,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,BUA_4,BUA,6.942425,10.972126,636,111,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugan Aliyu,HA,6.746584,10.886615,157,30,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwan Zobe,SSA,6.369201,10.577922,88,17,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_201,HA,6.36061,10.574849,318,57,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,Rigar Ibrahim Dogo,HA,6.975655,11.332314,57,13,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_193,HA,6.358214,10.570104,185,35,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_16,HA,6.709441,10.726279,54,12,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Tudun Raha,HA,6.345419,10.566135,235,42,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_173,HA,6.34628,10.55755,71,15,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_120,HA,6.337456,10.558315,72,15,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_184,HA,6.331105,10.563362,82,16,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Dawakin Basa,HA,6.324842,10.561028,106,20,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwan Mamman na madugu,BUA,6.31868,10.562561,2040,349,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_44,HA,6.449311,10.612847,128,23,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_46,HA,6.454765,10.612687,193,36,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_42,HA,6.701828,10.730657,96,18,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Musa,HA,6.696532,10.72573,350,63,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Mukwana Anguwan Alasan,HA,6.315909,10.669342,292,52,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_91,HA,6.427834,10.641302,63,14,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Yahaya,HA,7.043914,11.183473,173,34,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_107,HA,6.461216,10.659901,155,9,grid - Intensification,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_113,HA,6.460547,10.665111,71,15,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_116,HA,6.461549,10.672245,55,13,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_115,HA,6.4662,10.67043,146,27,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwan Dafau,HA,6.472045,10.682351,120,22,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwan Ayangu,HA,6.486997,10.679212,137,24,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwan Hassan Badewa,HA,6.497031,10.682126,111,20,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Rema,HA,6.497236,10.6912,611,106,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugan Mallam Umar,HA,6.875454,11.049901,107,20,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugan Alh Illyasu,HA,6.871205,11.046115,50,12,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugan Gambo,HA,6.870109,11.040769,151,28,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_169,HA,7.013955,11.070854,20,8,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Unguwan Mallam Bature,HA,7.019807,11.060679,240,43,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_11,HA,6.412575,10.588621,97,19,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Rugan Bawa Dogo,HA,6.415248,10.594497,179,34,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Gwandaran Musa NA kaya,SSA,7.141886,11.00021,56,13,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Gwandara,SSA,7.142428,11.003539,149,28,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Goburawa,SSA,7.141106,10.99831,54,12,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_50,HA,6.744317,10.890756,54,12,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_49,HA,6.738904,10.89437,31,9,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_55,HA,6.734573,10.899314,106,20,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_61,HA,6.721378,10.899927,50,12,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_67,HA,6.721719,10.905522,73,15,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Sauran Gwari,HA,6.722065,10.911297,122,22,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rijiyan Ladan,HA,6.731883,10.91717,75,15,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_91,HA,6.728453,10.925329,326,59,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Ruga Alhaji Maikudi,HA,6.725291,10.93612,210,39,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_119,HA,6.722314,10.945817,242,43,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,SSA_10,SSA,6.987976,11.305655,269,13,grid - Intensification,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,HA_301,HA,7.139517,10.995781,122,22,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Labi 2,HA,7.044606,10.645744,889,36,grid - Intensification,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Kwiga Bubai,HA,6.605741,10.873064,441,77,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Anguwan Kolo,SSA,7.133083,10.988977,111,20,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Unguwan Alhaji Dangagare,HA,7.124424,10.980906,381,67,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Hayin Barzo,BUA,7.123797,10.972506,1313,226,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_209,HA,7.04147,11.101359,184,35,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_85,HA,6.717811,10.918604,121,22,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,HA_1,HA,6.860086,11.343945,32,9,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,Unguwar Yero,HA,6.865674,11.335753,6,6,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,HA_134,HA,6.861234,11.330936,23,8,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,Mai Kyasuwa,BUA,6.858907,11.327617,1515,260,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Bulali,HA,6.254863,10.665422,70,15,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Unguwan Agero,SSA,6.260645,10.668177,158,30,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_62,HA,6.629771,10.751071,49,12,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_1,HA,6.657748,10.820083,45,11,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Janruwa B Ung Alh Hamza,HA,6.76769,10.960226,185,35,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Dakwaro,BUA,6.170564,10.86001,735,128,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_186,HA,6.764263,10.972497,65,14,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_89,HA,6.758481,10.979625,127,23,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_105,HA,6.754716,10.985629,90,18,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_23,HA,6.747211,10.979382,59,13,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugar Malam Lawan,HA,6.749263,10.971458,205,38,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_142,HA,6.739163,10.983896,69,15,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_156,HA,6.735696,10.990723,115,21,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_190,HA,6.738548,11.003979,73,15,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_192,HA,6.744062,11.004032,28,9,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_130,HA,6.746526,11.008161,105,20,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_271,HA,6.750182,11.01326,119,22,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_141,HA,6.746775,11.020042,107,20,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_135,HA,6.740847,11.01566,303,54,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_299,HA,6.754033,11.02564,78,16,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_139,HA,6.757708,11.019809,92,18,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_303,HA,6.766031,11.023114,420,73,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_350,HA,6.769618,11.039355,717,124,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_63,HA,6.7635,11.011438,229,41,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_45,HA,6.762385,11.000947,162,31,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_54,HA,6.756075,11.002698,177,34,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_247,HA,6.771376,10.998059,138,25,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Unguwar Makera Amadu,SSA,6.867913,11.191532,166,10,grid - Intensification,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_209,HA,6.882803,11.175519,109,20,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_8,HA,6.51809,10.66961,148,27,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Unguwan Fannono,HA,6.154891,10.848873,330,60,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_302,HA,6.950763,11.058785,76,7,grid - Intensification,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_308,HA,6.949844,11.069167,32,9,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_311,HA,6.955294,11.070274,29,9,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,SSA_1,SSA,6.965652,11.075655,257,45,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_387,HA,6.972301,11.079608,103,19,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rugan Lawal,HA,6.978048,11.080368,29,9,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rugan Rabiu,HA,6.97554,11.084773,531,93,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_35,HA,6.677487,10.79138,213,39,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_291,HA,6.936645,11.056735,31,9,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,HA_5,HA,7.15602,11.086768,208,39,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_57,HA,6.712583,10.896253,202,38,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Mukwana Anguwan Bai,HA,6.325271,10.674153,371,66,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_309,HA,6.742928,11.026765,25,8,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_312,HA,6.735517,11.027887,86,17,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_250,HA,6.733654,11.037997,35,10,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_391,HA,6.733855,11.050692,185,35,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_298,HA,6.739171,11.058626,134,24,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_149,HA,6.743032,11.061832,62,14,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugar Yusufu,HA,6.74124,11.067514,159,31,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugar Gwarjo,HA,6.735407,11.072031,267,47,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugan Alhaji Filani,HA,6.721737,11.07544,162,31,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugan Dan Googo,HA,6.718405,11.089569,117,21,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_541,HA,6.721441,11.096528,156,30,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,SSA_37,SSA,6.71846,11.101649,274,48,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugar Daugi,HA,6.729666,11.088623,401,70,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_367,HA,6.739702,11.099936,55,13,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_381,HA,6.742805,11.110389,60,13,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugar Alhaji Burde,HA,6.743431,11.120233,184,35,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugan Alhaji Sadau,HA,6.752089,11.121928,168,33,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugar Abdul Aziz,HA,6.741423,11.127398,130,23,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rihanna Natuntu,HA,6.74366,11.135827,204,38,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugan Ado,HA,6.741805,11.143493,36,10,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugan Ayuba,HA,6.750562,11.148861,284,50,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Tungar Isa,HA,6.734331,11.123688,317,57,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_197,HA,6.724367,11.1253,90,18,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Ruga Goro Goma,HA,6.72592,11.117952,493,87,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_151,HA,6.749014,11.063055,121,22,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_74,HA,6.450701,10.628409,99,19,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_163,HA,6.20036,10.549376,29,9,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Tari,SSA,6.196616,10.544263,104,20,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Bitari,HA,6.187444,10.540406,189,36,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Gangare,HA,6.595912,10.737974,80,16,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_8,HA,6.387444,10.66485,421,17,grid - Intensification,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_120,HA,6.457946,10.675626,23,8,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_140,HA,6.458825,10.687646,168,33,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_210,HA,6.355312,10.584508,136,24,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Fiyau,HA,6.201825,10.673451,139,25,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Unguwan Sani Baduku,HA,6.203914,10.680207,100,19,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Unguwan Badaji,HA,6.203328,10.685366,133,24,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_26,HA,6.448927,10.604919,82,16,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_143,HA,6.444907,10.598972,130,23,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Badole A Ung Sirajo,SSA,6.757552,10.930478,226,12,grid - Intensification,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_408,HA,7.005882,11.047576,168,10,grid - Intensification,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Unguwan Mallam Hassan,HA,6.648995,10.753493,159,31,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_158,HA,6.325132,10.54538,237,43,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Alhaji Shere,HA,7.022745,11.198147,137,24,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Labi,HA,6.309258,10.539825,83,17,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Jabino 2,HA,6.308469,10.528181,90,18,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Jabino 1,HA,6.319541,10.526102,128,23,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Loko,HA,6.325122,10.516097,374,66,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_99,HA,6.322842,10.509939,120,22,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_92,HA,6.31283,10.50233,110,20,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Ali,HA,6.29514,10.499228,108,20,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Anguwar Nagani,HA,6.280513,10.505102,451,79,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Kungi,BUA,6.274248,10.498405,1444,248,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,HA_4,HA,7.147696,11.080496,139,25,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Gidan Janare,HA,7.141624,11.075632,69,15,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Kurbawan Dari,SSA,7.133348,11.078283,201,38,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Wusan,HA,7.116619,11.066719,338,61,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_79,HA,6.804569,11.032798,70,15,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_241,HA,6.810762,11.03201,17,7,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_78,HA,6.811684,11.025601,225,41,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Rugan Haruna Wusan,HA,7.111822,11.072355,88,17,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_184,HA,6.756549,11.106739,19,7,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_179,HA,6.763532,11.101097,69,15,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_345,HA,6.761908,11.087253,49,12,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugar Umaru Yaji,HA,6.75587,11.081148,113,21,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugan Bazanfari,HA,6.745262,11.084516,351,63,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_462,HA,6.765271,11.070975,173,34,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_428,HA,6.769738,11.057673,216,40,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Makera,SSA,7.008275,11.13475,126,23,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Ibrahim,HA,7.005166,11.143442,330,60,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_2,HA,6.960474,11.007514,144,26,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rafin Kaji,SSA,7.11884,10.98932,115,21,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,HA_41,HA,7.11968,11.005365,80,16,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,HA_113,HA,7.115503,11.013246,83,17,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,HA_1,HA,7.122634,11.013943,155,29,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,HA_2,HA,7.125638,11.021391,112,21,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,HA_3,HA,7.129809,11.023833,99,19,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Rafin Tukurwa,SSA,7.101466,11.005127,193,36,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_97,HA,7.090211,11.002712,191,36,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Tsaunin Ruga,SSA,7.078252,11.007702,135,24,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Unguwan Ishaka,HA,7.065078,11.014099,133,24,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_110,HA,7.061193,11.010493,329,60,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,SSA_6,SSA,7.007667,11.303599,176,34,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,SSA_66,SSA,6.850007,11.314994,201,38,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_227,HA,6.826926,11.292567,29,9,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_514,HA,6.819905,11.285422,54,12,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_509,HA,6.817297,11.280231,63,14,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_499,HA,6.809367,11.264117,44,11,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_593,HA,6.799574,11.245461,14,7,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_482,HA,6.794718,11.240019,34,10,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_487,HA,6.780154,11.243002,186,35,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_219,HA,6.76829,11.247004,26,8,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_491,HA,6.76878,11.254608,6,6,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_220,HA,6.764071,11.255849,169,33,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_223,HA,6.769041,11.267482,86,17,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,BUA_9,BUA,6.786415,11.266971,1975,338,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_215,HA,6.769065,11.236817,65,14,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_214,HA,6.749786,11.233643,351,63,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Dan Kumbo,HA,7.033398,11.203547,108,20,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Goshi,HA,7.031034,11.207125,114,21,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_239,HA,7.083618,10.991907,99,19,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_74,HA,7.084529,10.977738,61,13,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_257,HA,7.087983,10.973607,91,18,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_27,HA,7.073544,10.973088,330,60,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_246,HA,7.067407,10.964741,148,27,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,SSA_4,SSA,7.064413,10.966192,197,37,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,SSA_23,SSA,7.063833,10.963923,252,45,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Kambari,SSA,6.275574,10.667196,150,28,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Mallam Hambali,HA,6.721795,11.13298,91,18,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rugan Kiri,HA,7.052238,11.071873,111,20,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Rugar Buba,HA,6.140776,10.563458,64,14,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Kunini,HA,6.133804,10.567883,235,42,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwan Dan Baraje,HA,6.409715,10.644726,192,36,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_366,HA,6.725434,11.04931,89,17,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_384,HA,6.718509,11.049727,170,33,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_194,HA,6.150046,10.571004,91,18,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,SSA_25,SSA,6.146965,10.579693,91,18,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Falallai,HA,6.143566,10.587878,162,31,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_154,HA,6.137761,10.588223,93,18,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Kadagi,HA,6.132069,10.599179,290,51,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Unguwan Goge,HA,6.637769,10.694087,159,31,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_3,HA,6.925043,11.064518,116,21,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_1,HA,6.921025,11.067954,45,11,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Barwai,HA,6.91235,11.067833,99,19,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_328,HA,6.916133,11.076924,19,7,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_335,HA,6.929848,11.081247,42,11,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_4,HA,6.933897,11.078595,310,56,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_63,HA,6.944299,11.188069,54,12,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_16,HA,6.939578,11.179894,140,25,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rugan Chiroma,HA,7.059386,11.074403,89,17,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_390,HA,6.711691,11.051533,144,26,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_7,HA,6.938144,10.985939,64,14,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_11,HA,6.943285,10.991748,82,16,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rugsn Gero,HA,6.950299,10.991984,259,46,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_92,HA,6.607471,10.689452,37,10,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Hayin Makau,HA,6.613782,10.677971,294,52,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Hayin Makau Bafulace,HA,6.616763,10.676157,100,19,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_48,HA,6.620975,10.685971,151,28,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_436,HA,6.699799,11.058521,252,45,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Yalwan Madugu,HA,6.371402,10.69338,114,21,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Obu,HA,6.374792,10.702131,144,26,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Rafin Maigora,HA,6.383574,10.715905,256,45,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Alhaji Mallam,HA,6.689189,10.731609,118,21,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwan Madaki,HA,6.300554,10.556087,433,76,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_77,HA,7.072708,10.980894,86,17,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_84,HA,7.068978,10.989665,118,21,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_9,HA,7.059605,10.981811,161,31,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_73,HA,7.05586,10.974975,70,15,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_8,HA,7.043651,10.970981,640,112,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_207,HA,6.242595,10.580172,115,21,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Rugar Dahiru,HA,6.181688,10.5747,2,5,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_370,HA,6.688832,11.050392,91,18,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_357,HA,6.690062,11.044209,344,62,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Gelobai B,SSA,6.958405,11.029812,60,13,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Umaru Maisaje,HA,6.688639,10.739793,243,43,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Rugan Majo,HA,6.604805,10.662654,119,22,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Rugan Alhaji Maikudi,HA,6.589061,10.655249,114,21,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Rugan Alhaji Baleri,HA,6.587922,10.649279,154,29,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_33,HA,6.586283,10.632717,44,11,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Anguwan Baraje,HA,6.570781,10.636984,1068,184,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Anguwan Tanimu,HA,6.55582,10.640984,284,50,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_100,HA,6.745292,10.937778,161,31,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_51,HA,6.706344,10.890288,48,12,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_41,HA,6.705501,10.879366,185,35,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Inusa Nadada,HA,7.063868,11.197842,207,38,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_226,HA,6.955218,10.986939,26,8,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_134,HA,6.949049,10.980351,35,10,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_80,HA,6.954975,10.971207,49,12,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_47,HA,6.95288,10.955075,114,21,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_14,HA,6.957183,10.948736,126,23,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,SSA_55,SSA,6.952753,10.947028,143,26,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,BUA_18,BUA,6.944865,10.941233,939,162,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Makera,HA,6.141854,10.644801,126,23,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_83,HA,6.809368,11.048027,146,27,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Anguwar Aboki,SSA,6.26338,10.495521,110,20,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwan Magajin Gari,HA,6.268238,10.487933,69,15,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Magajin Gari,HA,6.269235,10.483399,177,34,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_63,HA,6.274272,10.474401,114,21,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_64,HA,6.284152,10.475328,154,29,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_75,HA,6.285621,10.484298,273,48,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_86,HA,6.739813,10.944618,102,19,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_36,HA,6.149628,10.75261,175,34,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_34,HA,6.157023,10.748865,168,33,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_109,HA,6.993512,11.221192,130,23,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_28,HA,6.767424,10.984374,113,21,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_48,HA,6.717859,10.823046,161,31,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_156,HA,6.724521,10.816841,164,32,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_41,HA,6.713272,10.811367,294,52,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugar Alhaji Gyam,HA,6.897013,11.022768,99,19,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugar Baushe Maifurfura,HA,6.901819,11.014688,124,22,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Maianguwa Buda,HA,6.900839,11.00036,453,80,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Ruwan Rana,HA,6.396787,10.697418,221,40,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_66,HA,7.042704,10.961121,22,8,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_4,HA,7.05079,10.960743,116,21,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_174,HA,7.047163,10.951199,103,19,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_159,HA,7.052966,10.941854,44,11,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_60,HA,7.057531,10.93788,152,29,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_155,HA,7.064918,10.938045,129,23,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_147,HA,7.070746,10.936571,73,15,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_148,HA,7.078266,10.936575,88,17,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_133,HA,7.07972,10.929701,45,11,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_49,HA,7.0753,10.923877,725,126,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_62,HA,7.085629,10.94183,85,17,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_215,HA,7.091169,10.943133,88,17,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_143,HA,7.101187,10.933488,76,16,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rugan Alhaji Bojjo,HA,7.11805,10.938327,177,34,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_58,HA,7.115805,10.923815,691,120,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Anguwar Tanimu,SSA,6.25723,10.479348,153,29,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Yako,HA,6.251135,10.467218,125,22,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_48,HA,6.243119,10.462846,64,14,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_39,HA,6.248994,10.454129,174,34,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_60,HA,6.227644,10.471775,52,12,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Kajimba,HA,6.221239,10.480126,110,20,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_67,HA,6.212429,10.477182,145,27,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_66,HA,6.204323,10.480209,57,13,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Kunun Gayya,HA,6.18608,10.477105,171,33,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_71,HA,6.181556,10.480694,75,15,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_73,HA,6.170423,10.483561,117,21,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_77,HA,6.165364,10.487427,43,11,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Mallam Kigana,HA,6.167241,10.491793,135,24,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_8,HA,6.154357,10.495394,109,20,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_81,HA,6.143131,10.491175,63,14,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_4,HA,6.132836,10.490421,333,60,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_9,HA,6.159891,10.503009,51,12,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_13,HA,6.16558,10.512981,45,11,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Kikyakya,HA,6.168688,10.519401,326,59,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_124,HA,6.169246,10.527198,221,40,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Kigana,HA,6.172645,10.496879,104,20,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,SSA_14,SSA,6.178662,10.464856,118,21,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_40,HA,6.178797,10.456988,55,13,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Imagu,HA,6.187278,10.459988,213,39,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Birugu Sabuwa,HA,6.191191,10.448291,133,24,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_24,HA,6.197701,10.44733,75,15,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_26,HA,6.201818,10.445749,229,41,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Birugu,SSA,6.207727,10.449389,136,24,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Tsalfe,HA,6.231865,10.481061,252,45,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Gonau,HA,6.176947,10.448335,94,18,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_1,HA,6.168493,10.442384,211,39,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Abdulhamid,HA,7.061425,11.168895,133,24,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_25,HA,6.454142,10.60457,43,11,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_406,HA,6.680692,11.054805,54,12,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_402,HA,6.676057,11.053004,126,23,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_162,HA,7.047584,11.195207,151,28,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_256,HA,6.644005,11.03861,53,12,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_347,HA,6.627017,11.038122,89,17,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_143,HA,6.626739,11.019717,32,9,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_116,HA,6.632912,10.999683,28,9,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_160,HA,6.624844,10.99209,24,8,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_174,HA,6.617505,10.994942,42,11,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_128,HA,6.606398,10.976539,35,10,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Kambamawa,HA,6.590681,10.98329,55,13,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_120,HA,6.590671,10.998773,75,15,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Goron Dutsi Kogi,BUA,6.570557,11.007948,2389,409,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_225,HA,6.625419,10.98819,128,23,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_172,HA,7.120359,10.949007,127,23,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Anguwan Musa,HA,6.961059,11.081656,113,21,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_23,HA,6.172183,10.428553,25,8,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_22,HA,6.188697,10.42524,113,21,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Kuki,HA,6.194206,10.414322,394,69,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_11,HA,6.210251,10.403472,194,37,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwan Auragi,SSA,6.208571,10.382887,146,27,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Danbaba A,HA,6.190656,10.388506,510,90,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Nabungudu,HA,6.221003,10.407227,55,13,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_10,HA,6.221852,10.402132,146,27,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_17,HA,6.223522,10.413926,108,20,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Korau,HA,6.21526,10.417447,214,39,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Telu,HA,6.226641,10.420825,129,23,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Gidan Kankani,HA,6.281166,10.609556,47,11,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Kubou,HA,6.267805,10.603304,203,38,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_10,HA,6.263818,10.62377,365,65,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Unguwan Kisaya,HA,6.256967,10.600066,158,30,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_16,HA,6.378433,10.664667,278,13,grid - Intensification,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_234,HA,7.063776,10.958433,45,11,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_40,HA,7.110738,10.910032,129,23,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_45,HA,7.103831,10.914064,161,31,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_101,HA,7.101058,10.910662,89,17,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_186,HA,7.095776,10.915679,182,35,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Bammi,HA,6.725273,10.721939,42,11,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_46,HA,6.659155,10.890068,117,21,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_169,HA,6.84959,11.087708,109,20,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_176,HA,6.95641,10.996431,17,7,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_36,HA,6.962154,10.992159,42,11,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_16,HA,6.968327,10.999495,108,20,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_13,HA,6.972038,10.994889,67,14,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_229,HA,6.980167,10.98745,2,5,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,SSA_1,SSA,6.986887,10.98928,227,41,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Lartha,SSA,7.089637,11.080159,132,23,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_33,HA,6.685841,10.787501,57,13,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_31,HA,6.691763,10.784134,79,16,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_34,HA,6.695258,10.787728,88,17,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Anguwan Wakili,HA,6.952562,11.088005,319,58,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Gyangyadawa,SSA,6.145856,10.598309,80,16,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Adda,HA,6.147221,10.61254,202,38,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Dogari,HA,6.146621,10.629223,198,37,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_95,HA,6.902482,10.986604,2,5,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_138,HA,6.900441,10.983737,43,11,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_535,HA,6.895789,10.97395,7,6,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_70,HA,6.900997,10.970587,54,12,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_44,HA,6.901711,10.95561,13,7,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Bala Boka,HA,6.891051,10.949944,83,17,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Mubela,HA,6.88348,10.949356,6,6,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rigar Lawan Mai Toggo,HA,6.876834,10.96242,63,14,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Chubauna,SSA,6.876925,10.970839,437,77,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Gidan Adamu Gajere,HA,6.872127,10.987903,37,10,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rigar Alhaji Zubairu,HA,6.878609,10.989688,115,21,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Malan Bala,HA,6.870779,10.993516,187,36,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Anguwan Ziki,SSA,6.876851,10.999341,51,12,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Dadin Kowa,SSA,6.878903,11.004215,441,77,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_5,HA,6.268993,10.58751,275,48,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_87,HA,6.75316,11.052752,112,21,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Birugu,HA,6.193289,10.462028,66,14,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_8,HA,6.609441,10.656739,174,34,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_8,HA,6.79973,10.771303,57,13,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_77,HA,6.794481,10.76648,117,21,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_25,HA,6.790893,10.758262,135,24,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Mai Laka,SSA,6.571069,10.615225,87,17,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Anguwar Boka Ga Allah,HA,6.559451,10.610767,113,21,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_30,HA,6.560973,10.603383,36,10,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Anguwar Dogari,HA,6.555974,10.60277,181,35,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_21,HA,6.539462,10.606812,506,89,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_29,HA,6.537688,10.617004,274,48,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_27,HA,6.53083,10.616213,94,18,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_24,HA,6.700307,10.86669,94,18,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_15,HA,6.695807,10.855183,156,30,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_69,HA,6.163858,10.482473,2,5,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_54,HA,6.164991,10.469696,57,13,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_52,HA,6.154997,10.46735,91,18,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_28,HA,6.146172,10.474544,267,47,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_175,HA,6.982836,11.072432,49,12,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rugan Mallam Gambo,HA,6.993543,11.063456,185,35,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_98,HA,7.093957,10.907848,93,18,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_49,HA,6.418135,10.616701,104,20,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Unguwan Mallam ibrahim Arewa,BUA,6.793927,11.087621,2649,97,grid - Intensification,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Rugar Usman,HA,6.235222,10.496689,120,22,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Murofo,HA,6.245366,10.495404,257,45,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_310,HA,6.729701,11.028196,139,25,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Bawa,HA,6.630628,10.644884,181,35,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Unguwan Zako,HA,6.647375,10.643244,181,35,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_18,HA,6.662368,10.639437,67,14,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_22,HA,6.681288,10.647644,233,42,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_15,HA,6.698472,10.63562,77,16,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Gagafada,HA,6.713468,10.636077,894,155,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_13,HA,6.713907,10.626012,159,31,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Hayin Bado,SSA,6.963356,11.228229,138,25,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_20,HA,6.962393,10.714146,414,72,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_66,HA,6.656932,10.751114,101,19,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_168,HA,6.883431,11.086828,101,19,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_177,HA,6.882584,11.096556,144,26,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_239,HA,6.225486,10.631036,83,17,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Rugan Sani Magaji,HA,6.426275,10.612908,55,13,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwar Ibrahim Tsaka Tsami,HA,6.425789,10.606954,75,15,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_327,HA,6.751307,11.034095,81,16,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_237,HA,6.127004,10.62726,222,40,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Tunga Mallam jappi,SSA,6.71519,11.124857,130,23,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugan Sakin Fulani,HA,6.713581,11.118228,227,41,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Boka Nayashi,HA,6.809212,11.073205,32,9,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rugar Rumawa,HA,6.804951,11.075104,88,17,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Rigar Umaru Abdullahi,HA,7.003202,11.205667,168,33,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_99,HA,6.707239,10.935367,168,33,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_165,HA,6.970026,11.061508,129,23,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_42,HA,6.367349,10.625336,69,15,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_11,HA,6.372543,10.63392,93,18,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_54,HA,6.366822,10.636715,60,13,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_113,HA,6.336093,10.520127,94,18,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_83,HA,6.33999,10.515002,69,15,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Kawala,HA,6.992437,11.13669,195,37,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Ado Baushe,HA,6.904722,11.024143,65,14,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_38,HA,6.729047,10.806938,158,30,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Awaro,BUA,6.447461,10.660135,1439,54,grid - Intensification,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Mallam Saleh,HA,6.737931,10.725289,63,7,grid - Intensification,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Mal Ibrahim Agwai,HA,6.739749,10.710213,101,19,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Unguwan Gazaye,SSA,6.73718,10.692535,113,21,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_26,HA,6.739427,10.691121,30,9,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Ibrahim,HA,6.726136,10.681296,108,20,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Tafyau,HA,6.717507,10.683489,103,19,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Sakainu,HA,6.713412,10.689463,97,19,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Alhaji Buba,HA,6.718072,10.67572,54,12,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Unguwan Kushama,HA,6.724166,10.66571,145,27,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_154,HA,6.635463,10.983933,102,19,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_23,HA,6.602489,10.733925,117,21,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Anguwar Saidu,HA,6.577642,10.654277,124,22,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_4,HA,6.411943,10.580464,38,10,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_5,HA,6.421682,10.580174,118,21,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_124,HA,6.862684,11.001341,307,55,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_110,HA,6.302886,10.519602,90,18,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_171,HA,6.892487,11.088515,137,24,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_4,HA,6.906741,11.094451,137,24,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_2,HA,6.912818,11.101839,136,24,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_234,HA,6.22681,10.621486,58,13,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Kisaya Fulani,HA,6.229735,10.614125,59,13,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_223,HA,6.224281,10.605097,124,22,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_465,HA,7.057789,10.946367,47,11,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Kindigai,HA,6.566214,11.00039,43,11,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,BUA_1,BUA,6.490304,11.011486,787,136,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_203,HA,7.000827,11.086637,106,20,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Kubasa,SSA,6.211926,10.507507,97,19,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Nabara,HA,6.217336,10.515917,200,37,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Kashimaturi,HA,6.1964,10.507277,199,37,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_105,HA,7.056665,11.004654,72,15,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_108,HA,7.050064,11.011738,99,19,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_24,HA,6.694637,10.749199,99,19,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Bello,HA,6.701323,10.749637,44,11,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Nabikari,HA,6.708922,10.74786,103,19,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_137,HA,6.724881,10.980084,107,20,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_84,HA,6.715106,10.975453,37,10,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_64,HA,6.7209,10.966389,227,41,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_113,HA,6.784578,10.948506,48,12,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,SSA_3,SSA,6.729504,10.803312,72,15,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_185,HA,6.930349,11.107245,64,14,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_191,HA,6.928881,11.111608,71,15,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_394,HA,6.926051,11.1172,66,14,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Alamawa,HA,6.908256,11.121302,171,33,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Anguwan Barau,HA,6.943027,11.119945,146,27,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_382,HA,6.874855,11.109396,59,13,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_193,HA,6.88091,11.114664,78,16,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_200,HA,6.323433,10.570618,69,15,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_173,HA,7.034942,10.950841,74,15,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_162,HA,7.032774,10.942865,17,7,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_158,HA,7.026432,10.941525,25,8,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_212,HA,7.019695,10.942681,68,14,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_177,HA,7.005577,10.951087,55,13,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_184,HA,7.000849,10.957525,38,10,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_68,HA,7.010071,10.961898,67,14,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_204,HA,7.00387,10.967998,12,6,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_253,HA,7.009509,10.97149,26,8,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_76,HA,7.007829,10.977064,152,29,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Ruwan Sarki,SSA,7.015354,10.988155,101,19,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Hayin Danmori,HA,7.007888,10.997184,479,84,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Jega,SSA,6.964305,11.184818,133,24,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_45,HA,6.655761,10.663675,171,33,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_61,HA,6.667474,10.749661,21,8,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_87,HA,6.666183,10.742204,91,18,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Turin Wada,SSA,7.082597,11.026731,146,9,grid - Intensification,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Tudun Sabon Kudi,HA,7.087806,11.020954,124,22,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_49,HA,6.143063,10.466126,68,14,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_182,HA,6.77814,10.970516,57,13,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_36,HA,6.730474,10.797674,88,17,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_34,HA,6.750271,10.87758,67,14,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_108,HA,6.701472,10.994671,202,38,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Rugan Maikudl,HA,7.126301,11.086626,104,20,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_21,HA,6.939162,10.966594,63,14,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_47,HA,6.697972,10.737,39,10,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_163,HA,6.690287,10.99065,108,20,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_133,HA,6.725764,10.837599,89,17,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Rigar Ado Dan Iya,HA,6.884815,10.940501,55,13,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_221,HA,6.725209,11.018166,125,22,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_142,HA,6.746664,10.801239,127,23,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_138,HA,6.748106,10.792803,158,30,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_24,HA,6.5826,10.594782,76,16,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Anguwan Wakili,HA,6.572006,10.57946,227,41,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_11,HA,6.56845,10.570698,32,9,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_6,HA,6.555988,10.566717,30,9,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_2,HA,6.554438,10.555927,117,21,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_1,HA,6.540074,10.548356,36,10,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_5,HA,6.535768,10.557931,176,34,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_4,HA,6.535018,10.562867,85,17,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_7,HA,6.527675,10.566654,135,24,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Unguwan Hassan Bala,SSA,6.497985,10.698665,83,17,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_123,HA,6.687074,11.002966,62,14,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_207,HA,6.687445,11.011148,88,17,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Rugan Hari Bakabana,HA,6.922081,10.998098,120,22,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_306,HA,6.720123,11.066847,24,8,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_447,HA,6.70852,11.070011,172,33,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_17,HA,6.332591,10.605907,26,8,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_14,HA,6.338448,10.603898,43,11,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_7,HA,6.34382,10.601161,57,13,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_215,HA,6.342697,10.595438,68,14,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_180,HA,6.995221,10.954449,36,10,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_213,HA,6.794244,11.23431,67,14,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_55,HA,6.492884,10.622325,27,9,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_410,HA,6.962304,11.093991,23,8,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_34,HA,6.96144,11.098389,40,10,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_424,HA,6.9611,11.104613,6,6,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Anguwar Nabiba,SSA,6.970815,11.108627,106,20,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,HA_421,HA,6.97484,11.102371,72,15,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_279,HA,6.856661,11.012806,103,19,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_132,HA,6.862876,11.01554,37,10,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_33,HA,6.763368,10.876893,104,20,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,SSA_8,SSA,6.991653,11.305014,221,11,grid - Intensification,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_400,HA,6.87197,11.120905,60,13,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_25,HA,6.205476,10.437631,140,25,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,RUGAN MALLAM DABO,HA,6.787373,11.090359,110,8,grid - Intensification,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_188,HA,6.786734,11.109969,110,20,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_407,HA,6.783304,11.126443,89,17,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_411,HA,6.775217,11.128402,109,20,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_583,HA,6.78151,11.142487,98,19,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_202,HA,6.773099,11.144442,95,18,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_117,HA,6.843791,11.001491,78,16,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_180,HA,6.837776,10.998589,7,6,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_165,HA,6.841395,10.994475,29,9,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_140,HA,6.834579,10.983182,9,6,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_148,HA,6.829606,10.983143,23,8,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_150,HA,6.825469,10.984527,44,11,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_111,HA,6.82426,10.993055,148,27,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_110,HA,6.81962,10.994943,48,12,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_18,HA,6.997283,11.010001,132,23,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Starly Quaters,SSA,6.532986,10.651487,13,5,grid - Intensification,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_32,HA,6.749416,10.786314,27,9,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_482,HA,6.989268,11.009382,43,11,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Dangi,HA,6.744151,10.775443,43,11,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Marafa,HA,6.732539,10.776525,128,23,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_259,HA,6.693421,11.005017,31,9,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_20,HA,6.93172,10.955436,81,16,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_18,HA,6.922034,10.949257,76,16,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_69,HA,6.696381,10.758318,45,11,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_75,HA,6.701527,10.764132,47,11,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_67,HA,6.993234,10.962516,43,11,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_222,HA,6.120937,10.60236,78,16,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_6,HA,7.043303,10.98349,115,21,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_39,HA,6.490421,10.630569,16,7,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_63,HA,6.480439,10.626339,88,17,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Rugan Alhaji Sani,HA,7.119289,11.094218,42,11,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,HA_8,HA,7.110395,11.095166,58,13,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_2,HA,6.75771,10.861243,43,11,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_57,HA,6.755771,10.861575,18,7,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_56,HA,6.757846,10.850704,89,17,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_50,HA,6.218967,10.467001,63,14,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_75,HA,6.561949,10.696605,39,10,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_41,HA,6.572362,10.656626,18,7,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_468,HA,6.799133,11.230199,85,17,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_154,HA,6.970394,10.940816,41,11,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_145,HA,6.970838,10.933697,6,6,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_131,HA,6.96415,10.928052,44,11,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_12,HA,6.95208,10.925226,28,9,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_26,HA,6.936567,10.921845,38,10,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_13,HA,6.929243,10.932716,150,28,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_19,HA,6.938515,10.913672,38,10,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_58,HA,6.940956,10.904276,88,17,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_16,HA,6.943263,10.898996,70,15,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_9,HA,6.926837,10.910887,87,17,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_14,HA,7.028116,10.62967,12,6,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_12,HA,7.023752,10.6255,56,13,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_88,HA,6.688013,10.777303,27,9,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_161,HA,6.685104,10.756112,58,13,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_96,HA,6.110943,10.506049,122,22,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Rugar Mamman,HA,7.08943,11.143363,57,13,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Rugan Abdullahi Dogo,HA,6.517158,10.703452,126,23,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_66,HA,6.948503,10.904701,33,9,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Ekar Mu'azu Isah,HA,6.978882,11.13248,73,15,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_5,HA,7.017665,10.595358,91,18,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Badole,HA,7.030712,10.589751,139,25,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_251,HA,6.622346,11.038109,43,11,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_196,HA,6.33379,10.573498,49,12,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Lalama,SSA,6.618808,10.713488,172,10,grid - Intensification,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_314,HA,6.710237,11.02857,115,21,grid,10
+Kaduna,KD,Kutemeshi,KD0109,Birnin Gwari,19001,Gidan Nagiroki,HA,6.94726,11.099185,67,14,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_158,HA,6.902125,11.078732,71,15,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Gidan Agungu,HA,6.10657,10.712635,143,26,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_27,HA,6.949627,10.889091,58,13,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_43,HA,6.726244,10.885337,59,13,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Jan Tsauni,HA,6.331505,10.700565,157,30,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_321,HA,6.694798,11.075891,44,11,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_10,HA,6.685128,11.076492,68,14,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_533,HA,6.696885,11.089971,78,16,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_145,HA,6.492556,10.700518,10,6,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Fulani Boji,HA,6.681106,10.842073,69,15,grid,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Leventis,HA,7.082101,11.047109,486,19,grid - Intensification,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_334,HA,6.811349,11.080973,21,8,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_26,HA,6.191406,10.822322,100,19,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_14,HA,6.095579,10.515,93,18,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_19,HA,6.614558,10.735907,49,12,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_11,HA,6.663846,10.618182,48,12,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_9,HA,6.658829,10.612286,31,9,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Umar,HA,6.64101,10.612998,40,10,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Abubakar Dogo,HA,6.641342,10.622433,186,35,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_293,HA,7.05297,10.995223,35,10,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_53,HA,6.779172,10.743367,41,11,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_59,HA,6.767502,10.749026,64,14,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_49,HA,6.679866,10.689154,18,7,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_211,HA,6.836982,11.010295,41,11,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,HA_91,HA,6.946122,11.289946,63,14,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,HA_92,HA,6.948352,11.294679,93,18,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_2,HA,7.034452,10.582575,34,10,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_114,HA,6.449047,10.665538,219,11,grid - Intensification,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_9,HA,6.440426,10.675032,65,14,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Rugan Alhaji Tela,HA,6.444913,10.685496,65,14,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_166,HA,6.446904,10.742818,20,8,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_23,HA,6.437844,10.745165,102,19,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,Magajiya Unguwan Bello,SSA,6.435621,10.746279,79,16,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_470,HA,6.806233,11.232284,23,8,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,Alhaji Yadi,HA,6.604439,10.96666,98,19,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_183,HA,7.088509,10.957802,62,14,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,Rigar Tukur Abdullahi,HA,6.905763,11.20859,96,8,grid - Intensification,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_6,HA,7.05801,10.597483,84,17,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_3,HA,7.066809,10.584361,135,24,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_126,HA,6.90722,11.162119,80,16,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_221,HA,7.033426,10.979571,19,7,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_217,HA,7.030503,10.976288,17,7,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_3,HA,6.562189,10.552587,22,8,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_212,HA,6.824412,11.2325,16,7,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_216,HA,6.828137,11.239758,81,16,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_40,HA,6.770473,10.812383,133,24,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_1,HA,6.265573,10.573918,61,13,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_2,HA,6.264831,10.458397,82,16,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_18,HA,6.170899,10.417346,31,9,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Maigora,HA,6.163938,10.416767,51,12,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_189,HA,6.922429,11.003683,14,7,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Mai Dawa Gagumi,HA,6.220379,10.649313,155,9,grid - Intensification,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,UNGUWAR UMAR GYARARRE,HA,6.794222,11.069444,66,7,grid - Intensification,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,LAMBADA,HA,6.832437,11.049727,57,13,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_7,HA,6.622207,10.605799,63,14,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_16,HA,6.625247,10.59764,51,12,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_9,HA,6.615807,10.589545,37,10,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_1,HA,7.02759,10.962685,44,11,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_596,HA,6.826034,11.277928,17,7,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_20,HA,6.535669,10.592614,43,11,grid,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,Unguwan Shalami,HA,6.996083,11.03423,523,20,grid - Intensification,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,SSA_4,SSA,6.608279,11.042955,42,11,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_81,HA,6.750231,10.772462,2,5,grid,10
+Kaduna,KD,Tabanni,KD0111,Birnin Gwari,19001,HA_2,HA,6.836314,11.349457,100,19,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_217,HA,6.613295,11.018757,17,7,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_218,HA,6.602728,11.018206,35,10,grid,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,HA_26,HA,6.614917,10.614478,21,8,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_204,HA,6.9262,11.152582,69,15,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Rugar Alhaji Mai Galari,HA,6.239783,10.649308,91,8,grid - Intensification,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_515,HA,6.865444,11.288618,41,11,grid,10
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_224,HA,6.859004,11.282693,86,17,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Adamu,HA,6.685122,10.715233,76,7,grid - Intensification,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Rugar Muhammadu,HA,6.68347,10.719525,202,11,grid - Intensification,10
+Kaduna,KD,Damari,KD0107,Birnin Gwari,19001,HA_136,HA,6.923707,11.01669,27,9,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Unguwar Kusa,HA,6.204517,10.717849,223,11,grid - Intensification,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_29,HA,6.711509,11.134131,32,9,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,HA_27,HA,6.219601,10.440318,45,11,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_173,HA,6.466212,10.77037,124,22,grid,10
+Kaduna,KD,Randagi,KD0106,Birnin Gwari,19001,Unguwar Danbaba B,HA,6.167924,10.398113,59,13,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_109,HA,6.593833,10.963076,21,8,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_12,HA,6.180468,10.881603,83,17,grid,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Unguwar Abuja,SSA,6.21256,10.719913,214,11,grid - Intensification,10
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,HA_2,HA,6.292137,10.576829,65,14,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_48,HA,6.57663,10.962063,41,11,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Unguwan Fangu,HA,6.748262,10.732763,122,8,grid - Intensification,10
+Kaduna,KD,Magajin Gari 1,KD0103,Birnin Gwari,19001,Kuka,HA,6.58088,10.567547,20,8,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_37,HA,6.709409,11.142231,14,7,grid,10
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_81,HA,6.433119,10.683622,6,6,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,Sabon Gida,HA,7.039755,10.642199,74,7,grid - Intensification,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,HA_306,HA,7.095297,11.036898,131,9,grid - Intensification,10
+Kaduna,KD,Dogondawa,KD0108,Birnin Gwari,19001,Tudun Mai Gunda,HA,7.099241,11.050254,13,7,grid,10
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_39,HA,6.696112,11.147731,4,5,grid,10
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_1,HA,7.056136,10.561348,72,15,mini-grid,NA
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_520,HA,6.666604,10.855508,37,10,mini-grid,NA
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_11,HA,6.834232,10.894498,88,17,mini-grid,NA
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,SSA_3,SSA,6.729951,10.5972,69,15,mini-grid,NA
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_129,HA,6.807099,10.82886,12,6,mini-grid,NA
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_139,HA,6.81075,10.845479,28,9,mini-grid,NA
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_51,HA,6.860867,10.827232,43,11,mini-grid,NA
+Kaduna,KD,Kuyello,KD0110,Birnin Gwari,19001,HA_7,HA,6.777602,11.316598,78,16,mini-grid,NA
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_98,HA,6.618215,10.953582,21,8,mini-grid,NA
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_55,HA,6.870541,10.841777,22,8,mini-grid,NA
+Kaduna,KD,Kakangi,KD0102,Birnin Gwari,19001,Anguwan Mai Yara,SSA,6.128973,10.839927,14,7,mini-grid,NA
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_54,HA,6.813238,10.834332,16,7,mini-grid,NA
+Kaduna,KD,Magajin Gari 2,KD0104,Birnin Gwari,19001,HA_10,HA,6.510228,11.027115,8,6,mini-grid,NA
+Kaduna,KD,Magajin Gari 3,KD0105,Birnin Gwari,19001,HA_71,HA,6.624605,10.907217,23,8,mini-grid,NA
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_103,HA,6.961551,10.799915,10,6,mini-grid,NA
+Kaduna,KD,Gayam,KD0101,Birnin Gwari,19001,HA_4,HA,7.089487,10.589612,31,9,mini-grid,NA

@@ -1,0 +1,136 @@
+State,Statecode,Ward,Wardcode,Lga,Lgacode,Name,Type,X,Y,Population,Target.Household.Count,Recommended.Access.Categories,DecileByHH
+Kaduna,KD,Chori,KD0601,Jaba,19006,Jodeph Buzu A,HA,8.067292,9.543644,36,6,grid - Intensification,3
+Kaduna,KD,Chori,KD0601,Jaba,19006,Hardo Adamu Shadari,SSA,8.046669,9.52664,26,6,grid - Intensification,3
+Kaduna,KD,Dura Bitaro,KD0603,Jaba,19006,Unguwar Amadu,BUA,7.966459,9.485206,5626,204,grid - Intensification,3
+Kaduna,KD,Chori,KD0601,Jaba,19006,Musa Danbakuntu,HA,8.053824,9.541616,6999,253,grid - Intensification,3
+Kaduna,KD,Dura Bitaro,KD0603,Jaba,19006,Unguwar Tanko,HA,7.968232,9.476341,1920,71,grid - Intensification,3
+Kaduna,KD,Nduya,KD0606,Jaba,19006,Unguwan Ribi Masha,SSA,7.972334,9.362776,121,8,grid - Intensification,4
+Kaduna,KD,Samban,KD0610,Jaba,19006,Unguwan Sarki Samban Daji,HA,8.016835,9.421699,4892,178,grid - Intensification,4
+Kaduna,KD,Nok,KD0607,Jaba,19006,Nok,BUA,8.021,9.489829,8834,318,grid - Intensification,4
+Kaduna,KD,Sabchem,KD0608,Jaba,19006,Ungwar Yakubu Madaki A,HA,8.007084,9.437872,13176,473,grid - Intensification,4
+Kaduna,KD,Sabchem,KD0608,Jaba,19006,Sabchem,BUA,8.011581,9.451773,7309,263,grid - Intensification,4
+Kaduna,KD,Dura Bitaro,KD0603,Jaba,19006,Unguwar Ema,HA,7.988694,9.429942,2329,87,grid - Intensification,4
+Kaduna,KD,Chori,KD0601,Jaba,19006,Ismaila Gyemu,HA,8.024013,9.55765,750,130,grid,4
+Kaduna,KD,Nduya,KD0606,Jaba,19006,Unguwan Dagaci,HA,7.970178,9.364476,486,19,grid - Intensification,4
+Kaduna,KD,Nduya,KD0606,Jaba,19006,Ungwan Chiroma Ayet,HA,7.974974,9.399608,3446,126,grid - Intensification,4
+Kaduna,KD,Chori,KD0601,Jaba,19006,Unguwar Inuwa Tafiya,HA,8.043048,9.49818,1830,68,grid - Intensification,4
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Unguwar Sarki Unguwar Habila Bage,HA,8.136644,9.553224,499,88,grid,4
+Kaduna,KD,Samban,KD0610,Jaba,19006,Unguwar Turaki,BUA,8.030558,9.372192,3564,130,grid - Intensification,5
+Kaduna,KD,Fada,KD0604,Jaba,19006,Fada,BUA,8.005163,9.457417,10605,381,grid - Intensification,5
+Kaduna,KD,Sabzuro,KD0609,Jaba,19006,Ungwar Zom Kura,BUA,8.007538,9.463842,6701,1141,grid,5
+Kaduna,KD,Nok,KD0607,Jaba,19006,Ungwar Mallam Musa,HA,8.020957,9.502987,1015,39,grid - Intensification,5
+Kaduna,KD,Samban,KD0610,Jaba,19006,Unguwar Chiroma,BUA,8.052393,9.455258,6367,230,grid - Intensification,5
+Kaduna,KD,Nduya,KD0606,Jaba,19006,Unguwan Sabo Sarwa,HA,7.965308,9.383663,1585,60,grid - Intensification,5
+Kaduna,KD,Fada,KD0604,Jaba,19006,Unguwar Tanko Kuchi,HA,8.019181,9.448841,3184,117,grid - Intensification,5
+Kaduna,KD,Nduya,KD0606,Jaba,19006,Unguwan Bulus Gimba,BUA,8.025576,9.348062,1503,57,grid - Intensification,5
+Kaduna,KD,Sabzuro,KD0609,Jaba,19006,Ungwar Shanono,BUA,7.999702,9.460114,2830,484,grid,5
+Kaduna,KD,Sabzuro,KD0609,Jaba,19006,HA_2,HA,7.995882,9.46016,1056,182,grid,5
+Kaduna,KD,Chori,KD0601,Jaba,19006,Unguwar Dodo Gaiya,HA,8.075957,9.530102,1109,42,grid - Intensification,5
+Kaduna,KD,Nduya,KD0606,Jaba,19006,HA_5,HA,8.016165,9.397566,648,113,grid,5
+Kaduna,KD,Fai,KD0605,Jaba,19006,Unguwar Danjuma Musa,HA,7.953645,9.535482,219,11,grid - Intensification,5
+Kaduna,KD,Fai,KD0605,Jaba,19006,Unguwar Soja,HA,7.967809,9.540118,525,92,grid,5
+Kaduna,KD,Fai,KD0605,Jaba,19006,Unguwar Haruna,BUA,7.973169,9.538569,4994,851,grid,5
+Kaduna,KD,Nduya,KD0606,Jaba,19006,Unguwan Waje Dow,HA,8.006743,9.392863,1278,220,grid,5
+Kaduna,KD,Dura Bitaro,KD0603,Jaba,19006,Unguwar Bako,SSA,7.98074,9.421569,270,13,grid - Intensification,5
+Kaduna,KD,Samban,KD0610,Jaba,19006,HA_4,HA,8.037456,9.451783,139,25,grid,5
+Kaduna,KD,Dura Bitaro,KD0603,Jaba,19006,Unguwar Daniel,SSA,7.980493,9.419877,514,20,grid - Intensification,5
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Ishaku Gyani,HA,8.115916,9.548034,917,36,grid - Intensification,6
+Kaduna,KD,Nduya,KD0606,Jaba,19006,HA_1,HA,8.03129,9.345759,138,9,grid - Intensification,6
+Kaduna,KD,Dura Bitaro,KD0603,Jaba,19006,Rugar Ilu,HA,7.973431,9.415215,42,6,grid - Intensification,6
+Kaduna,KD,Nduya,KD0606,Jaba,19006,Ungwan Yusuf Turaki,HA,7.95993,9.410805,2867,490,grid,6
+Kaduna,KD,Nduya,KD0606,Jaba,19006,Unguwan Bitrus Masha,SSA,7.964567,9.384048,284,13,grid - Intensification,6
+Kaduna,KD,Fai,KD0605,Jaba,19006,Unguwar Philip Simon,HA,7.957917,9.586544,5350,194,grid - Intensification,6
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Sabon Gari Kurmin Kwara Unguwar Silas Gaiya,SSA,8.145632,9.544831,107,20,grid,7
+Kaduna,KD,Fai,KD0605,Jaba,19006,Unguwar James Gama,HA,7.949524,9.62792,662,116,grid,7
+Kaduna,KD,Samban,KD0610,Jaba,19006,Unguwan Ndan,HA,8.058148,9.440805,6780,245,grid - Intensification,7
+Kaduna,KD,Nok,KD0607,Jaba,19006,Ungwar Madaki,HA,8.008691,9.568299,287,51,grid,7
+Kaduna,KD,Fai,KD0605,Jaba,19006,Unguwar Iliya Iko,HA,7.997448,9.574927,415,72,grid,7
+Kaduna,KD,Fai,KD0605,Jaba,19006,Kadani,HA,7.99178,9.579576,903,156,grid,7
+Kaduna,KD,Fai,KD0605,Jaba,19006,Burgem,HA,7.988085,9.572146,190,36,grid,7
+Kaduna,KD,Fai,KD0605,Jaba,19006,Unguwar Iliya,HA,7.983074,9.559449,2172,372,grid,7
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Kurmin Kwara,BUA,8.116261,9.552568,5480,199,grid - Intensification,7
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Joshua Yakubu,HA,8.115033,9.559062,253,12,grid - Intensification,7
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Musa Gizo,HA,8.113031,9.566267,275,48,grid,7
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Ayuba Christopher,HA,8.114498,9.573875,992,172,grid,7
+Kaduna,KD,Daddu,KD0602,Jaba,19006,HA_4,HA,8.124656,9.577441,48,12,grid,7
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Unguwar Alhaji Rabo,HA,8.125006,9.583796,20,8,grid,7
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Ungwar Tambaya Kura,HA,8.126093,9.594523,941,162,grid,7
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Unguwar Musa Adamu,HA,8.11994,9.584938,398,70,grid,7
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Unguwar Michael Kyom,HA,8.114959,9.592004,344,62,grid,7
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Unguwar Shekara Waziri,HA,8.116173,9.607391,298,53,grid,7
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Unguwar Gambo Adamu,HA,8.102771,9.613139,2201,377,grid,7
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Unguwar Ishaku Danbaki,HA,8.15292,9.558002,1535,263,grid,7
+Kaduna,KD,Daddu,KD0602,Jaba,19006,HA_3,HA,8.148803,9.596147,52,12,grid,7
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Ungwar Kaduna Sukai,HA,8.141393,9.587295,1577,271,grid,7
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Ungwar Ishaya Marcus,SSA,8.142027,9.586577,98,19,grid,7
+Kaduna,KD,Chori,KD0601,Jaba,19006,HA_1,HA,8.10221,9.497405,669,117,grid,8
+Kaduna,KD,Chori,KD0601,Jaba,19006,Rugar Alhaji Kaye,HA,8.099239,9.525586,20,8,grid,8
+Kaduna,KD,Chori,KD0601,Jaba,19006,Unguwar Francis Dogo,HA,8.106089,9.515347,571,99,grid,8
+Kaduna,KD,Dura Bitaro,KD0603,Jaba,19006,HA_1,HA,7.95394,9.450398,14,7,grid,8
+Kaduna,KD,Dura Bitaro,KD0603,Jaba,19006,Unguwar Jock Kundi,HA,7.952437,9.441625,734,127,grid,8
+Kaduna,KD,Chori,KD0601,Jaba,19006,HA_3,HA,8.03374,9.542189,55,6,grid - Intensification,8
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Unguwar Giwa,HA,8.104259,9.583658,1058,182,grid,8
+Kaduna,KD,Chori,KD0601,Jaba,19006,Unguwar Malam Dan Dutse,HA,8.084762,9.512675,5591,203,grid - Intensification,8
+Kaduna,KD,Chori,KD0601,Jaba,19006,HA_4,HA,8.023125,9.54254,103,19,grid,8
+Kaduna,KD,Fai,KD0605,Jaba,19006,Rugar Mallam Jaye,HA,8.007867,9.542654,28,9,grid,8
+Kaduna,KD,Fai,KD0605,Jaba,19006,Unguwar Fari,HA,8.001393,9.539512,634,111,grid,8
+Kaduna,KD,Nok,KD0607,Jaba,19006,Ungwar Salisu,HA,8.000256,9.552815,599,104,grid,8
+Kaduna,KD,Fai,KD0605,Jaba,19006,Unguwar Sunday,HA,7.965672,9.557015,480,85,grid,8
+Kaduna,KD,Fai,KD0605,Jaba,19006,Unguwar Daniel Kura,HA,7.949371,9.529316,1725,65,grid - Intensification,9
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Unguwar Daniel Garba,HA,8.16697,9.566791,85,17,grid,9
+Kaduna,KD,Nduya,KD0606,Jaba,19006,Unguwan Kena,SSA,7.972948,9.361743,216,11,grid - Intensification,9
+Kaduna,KD,Samban,KD0610,Jaba,19006,Rugan Alh. Samaila,HA,8.05623,9.476965,654,25,grid - Intensification,9
+Kaduna,KD,Nduya,KD0606,Jaba,19006,Unguwan Madaki,SSA,7.975129,9.361475,148,9,grid - Intensification,9
+Kaduna,KD,Nduya,KD0606,Jaba,19006,Unguwan Dauda,HA,7.982134,9.344519,372,66,grid,9
+Kaduna,KD,Sabzuro,KD0609,Jaba,19006,HA_1,HA,7.998705,9.469551,161,31,grid,9
+Kaduna,KD,Nduya,KD0606,Jaba,19006,Unguwan Gimba Ali,HA,8.005711,9.325709,165,32,grid,10
+Kaduna,KD,Chori,KD0601,Jaba,19006,HA_5,HA,8.075067,9.54593,46,11,grid,10
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Rugan Alhaji Nanaye Garba,HA,8.070774,9.557311,103,19,grid,10
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Domenic Ibrahim,HA,8.079999,9.559382,753,131,grid,10
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Unguwar Yunana Chom,BUA,8.104525,9.536504,3565,130,grid - Intensification,10
+Kaduna,KD,Nok,KD0607,Jaba,19006,Ungwar Ibrahim Madaki,HA,7.999957,9.508829,1567,60,grid - Intensification,10
+Kaduna,KD,Chori,KD0601,Jaba,19006,Rugar Buba Kabiru,HA,8.090602,9.520766,56,6,grid - Intensification,10
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Danladi Gunda,HA,8.09179,9.581828,91,18,grid,10
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Kato Bitrus,HA,8.086768,9.580522,4,5,grid,10
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Caleb Kyos,HA,8.090032,9.569524,373,66,grid,10
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Sunday Luka,HA,8.10339,9.563806,158,30,grid,10
+Kaduna,KD,Fai,KD0605,Jaba,19006,Unguwar Kunana,HA,7.996264,9.532593,119,22,grid,10
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Unguwar Sarki Unguwar Monday Bako,HA,8.128405,9.556102,413,17,grid - Intensification,10
+Kaduna,KD,Samban,KD0610,Jaba,19006,HA_5,HA,8.044856,9.455268,819,33,grid - Intensification,10
+Kaduna,KD,Samban,KD0610,Jaba,19006,Rugan Alh. Obi,HA,8.080994,9.439421,75,15,grid,10
+Kaduna,KD,Nduya,KD0606,Jaba,19006,Unguwan Danladi Gaiya,SSA,7.917224,9.323585,113,21,grid,10
+Kaduna,KD,Nduya,KD0606,Jaba,19006,Unguwan Kare,HA,7.942487,9.321642,198,37,grid,10
+Kaduna,KD,Daddu,KD0602,Jaba,19006,HA_1,HA,8.098935,9.533817,24,6,grid - Intensification,10
+Kaduna,KD,Nduya,KD0606,Jaba,19006,Unguwan Christopher Dogo,HA,8.021719,9.364244,180,10,grid - Intensification,10
+Kaduna,KD,Nduya,KD0606,Jaba,19006,HA_4,HA,8.011879,9.369815,100,19,grid,10
+Kaduna,KD,Dura Bitaro,KD0603,Jaba,19006,Gidan Kundi Border,HA,7.943915,9.440667,38,10,grid,10
+Kaduna,KD,Dura Bitaro,KD0603,Jaba,19006,Rugar Bawuro,HA,7.972757,9.435116,42,11,grid,10
+Kaduna,KD,Samban,KD0610,Jaba,19006,Ruga Shudi,SSA,8.026768,9.421996,76,7,grid - Intensification,10
+Kaduna,KD,Samban,KD0610,Jaba,19006,Rugan Alh. Ajire,HA,8.040259,9.423001,84,17,grid,10
+Kaduna,KD,Samban,KD0610,Jaba,19006,Rugan Yau And Rugan Audu Musa,HA,8.045377,9.421781,56,13,grid,10
+Kaduna,KD,Samban,KD0610,Jaba,19006,Ruga Yau Have Migrated,HA,8.043255,9.416661,26,8,grid,10
+Kaduna,KD,Fai,KD0605,Jaba,19006,Rugar Alhaji Naure Diko,HA,7.978291,9.588049,111,20,grid,10
+Kaduna,KD,Dura Bitaro,KD0603,Jaba,19006,HA_2,HA,7.97512,9.451203,45,11,grid,10
+Kaduna,KD,Fai,KD0605,Jaba,19006,Rugar Jato,HA,7.940915,9.576464,99,8,grid - Intensification,10
+Kaduna,KD,Dura Bitaro,KD0603,Jaba,19006,Rugar Yahaya,HA,7.980948,9.431475,30,6,grid - Intensification,10
+Kaduna,KD,Samban,KD0610,Jaba,19006,Rugan Alh. Dako,HA,8.040129,9.463318,30,9,grid,10
+Kaduna,KD,Fada,KD0604,Jaba,19006,Rugar Buhari Umaru,HA,8.031135,9.468507,37,10,grid,10
+Kaduna,KD,Sabchem,KD0608,Jaba,19006,Rugar Adamu Abubakar,HA,8.008669,9.423864,35,6,grid - Intensification,10
+Kaduna,KD,Samban,KD0610,Jaba,19006,Rugan Alh. Lere,HA,8.005105,9.414737,41,11,grid,10
+Kaduna,KD,Dura Bitaro,KD0603,Jaba,19006,Rugar Galma,HA,7.961534,9.431831,38,10,grid,10
+Kaduna,KD,Nok,KD0607,Jaba,19006,HA_1,HA,8.001235,9.49153,36,10,grid,10
+Kaduna,KD,Nduya,KD0606,Jaba,19006,HA_3,HA,7.95186,9.363728,45,11,grid,10
+Kaduna,KD,Nduya,KD0606,Jaba,19006,HA_2,HA,7.9413,9.367243,38,10,grid,10
+Kaduna,KD,Fai,KD0605,Jaba,19006,Unguwar Daniel Maji,HA,7.970618,9.510776,113,21,grid,10
+Kaduna,KD,Dura Bitaro,KD0603,Jaba,19006,Rugar Samuel,HA,7.975142,9.429114,36,6,grid - Intensification,10
+Kaduna,KD,Samban,KD0610,Jaba,19006,HA_2,HA,8.06758,9.433706,26,8,grid,10
+Kaduna,KD,Chori,KD0601,Jaba,19006,HA_2,HA,8.073584,9.503506,39,10,grid,10
+Kaduna,KD,Dura Bitaro,KD0603,Jaba,19006,Rugar Buhari Dura,HA,7.984727,9.413983,32,6,grid - Intensification,10
+Kaduna,KD,Dura Bitaro,KD0603,Jaba,19006,Rugar Idi,HA,7.987093,9.406708,12,5,grid - Intensification,10
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Rugan Alhaji Aliyu Muhammad,HA,8.06954,9.57251,31,9,grid,10
+Kaduna,KD,Samban,KD0610,Jaba,19006,Rugar Alh Karimu Baba,HA,8.041106,9.368726,71,7,grid - Intensification,10
+Kaduna,KD,Daddu,KD0602,Jaba,19006,HA_2,HA,8.109645,9.533418,46,6,grid - Intensification,10
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Kurmin Kwara Rugar Alhaji Garwaje,HA,8.118831,9.52242,16,7,grid,10
+Kaduna,KD,Chori,KD0601,Jaba,19006,Ruga Fulani,HA,8.040325,9.502978,31,6,grid - Intensification,10
+Kaduna,KD,Nok,KD0607,Jaba,19006,Rugan Madaki,HA,8.006159,9.514449,87,7,grid - Intensification,10
+Kaduna,KD,Daddu,KD0602,Jaba,19006,Sabon Gari Kurmin Kwara Rugar Madaki,HA,8.141385,9.523483,16,7,mini-grid,NA

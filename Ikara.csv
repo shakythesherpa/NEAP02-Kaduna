@@ -1,0 +1,656 @@
+State,Statecode,Ward,Wardcode,Lga,Lgacode,Name,Type,X,Y,Population,Target.Household.Count,Recommended.Access.Categories,DecileByHH
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Rugar Sa Adu,HA,8.039552,11.374025,29,6,grid - Intensification,3
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_11,HA,8.166403,11.313011,13,5,grid - Intensification,3
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Jamaa,SSA,8.20414,11.190044,27,6,grid - Intensification,3
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Damau,HA,8.125587,11.199085,431,75,grid,3
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Kartau,SSA,8.206288,11.147429,451,18,grid - Intensification,4
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Ikara,BUA,8.223652,11.170474,27585,987,grid - Intensification,4
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Tashar Hassan,BUA,8.17981,11.181325,1595,274,grid,4
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Anguwar Talle,HA,8.270973,11.126672,654,114,grid,4
+Kaduna,KD,Paki,KD0506,Ikara,19005,Fada,BUA,8.154873,11.500441,9156,329,grid - Intensification,4
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Unguwar Malam Idi,BUA,8.00547,11.404586,6794,245,grid - Intensification,4
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Anguwar Madaki,HA,8.277492,11.115391,495,88,grid,4
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Kwankwani,SSA,8.19068,11.176518,312,56,grid,4
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Gidan Kwari,SSA,8.247267,11.207871,244,44,grid,4
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Kulun,BUA,8.106149,11.207444,5806,210,grid - Intensification,4
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Hambawa,SSA,8.249073,11.206254,360,64,grid,4
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Unguwar Mahauta,BUA,8.100135,11.338976,5853,211,grid - Intensification,4
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Unguwar Malam Uba Gardi,BUA,8.034739,11.363586,7863,283,grid - Intensification,4
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwar Chiroma,SSA,8.168848,11.201252,183,35,grid,4
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Jammarmara,SSA,8.070661,11.374608,328,15,grid - Intensification,4
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Shadauro,SSA,7.992422,11.45032,594,22,grid - Intensification,4
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Unguwan Dutse,HA,8.236296,11.187413,215,11,grid - Intensification,5
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Sabon Garin Auchan,BUA,8.018064,11.412449,2381,89,grid - Intensification,5
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Kankanki,SSA,8.163617,11.173005,296,14,grid - Intensification,5
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Tashar Nabai,HA,8.103456,11.401958,2214,82,grid - Intensification,5
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Anguwar Gabas,BUA,8.172626,11.17701,2716,99,grid - Intensification,5
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Allah Gaba,BUA,8.028102,11.443077,1980,73,grid - Intensification,5
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Anguwar Turaki,SSA,8.257626,11.164994,303,14,grid - Intensification,5
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Saya Saya Sarki,BUA,8.364108,11.218264,2668,98,grid - Intensification,5
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Wambai,BUA,7.993396,11.367637,6321,229,grid - Intensification,5
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Anguwar Mai Alli,SSA,8.213582,11.179332,243,12,grid - Intensification,5
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Alhaji Yusuf,HA,8.147606,11.191059,428,75,grid,5
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Gidan Kyauro,HA,8.125025,11.345253,973,38,grid - Intensification,5
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Anguwar Ajo,HA,8.254987,11.214242,241,12,grid - Intensification,5
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Gangarida,SSA,8.080435,11.388605,532,21,grid - Intensification,5
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Tashan Namama,HA,8.080494,11.21918,369,66,grid,5
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Pampaida Makaranta,HA,8.164438,11.319671,1300,48,grid - Intensification,5
+Kaduna,KD,Ikara,KD0502,Ikara,19005,HA_5,HA,8.236617,11.176985,11,5,grid - Intensification,5
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Kwari Gari,SSA,8.12689,11.364236,527,20,grid - Intensification,5
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Nasarawa,SSA,8.011343,11.407374,150,9,grid - Intensification,5
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Malikanchi,BUA,8.290522,11.161502,10271,370,grid - Intensification,5
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Daguji,HA,8.015679,11.361052,2833,104,grid - Intensification,5
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Kwabe Gangare,HA,7.994045,11.43925,3017,111,grid - Intensification,5
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Rigar Hardo,HA,8.127386,11.330656,1037,40,grid - Intensification,5
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Hayin Jigawa,SSA,8.081149,11.387442,214,11,grid - Intensification,6
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_23,HA,8.073712,11.377849,275,13,grid - Intensification,6
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Guga,SSA,8.169938,11.203626,150,9,grid - Intensification,6
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Tashar Angola South,SSA,8.127714,11.412658,506,20,grid - Intensification,6
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Rugar Yamde,HA,8.080101,11.358663,555,97,grid,6
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Bawa,HA,8.001563,11.363847,1087,41,grid - Intensification,6
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Hayin Dan Inna,HA,8.242519,11.194969,296,14,grid - Intensification,6
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwar Kedau,HA,8.073887,11.225067,168,33,grid,6
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Anguwar Amadu Dogo,SSA,8.19096,11.146315,505,20,grid - Intensification,6
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Gidan Wanzamai,HA,8.203096,11.180905,1038,40,grid - Intensification,6
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Gidan Mani,SSA,8.204938,11.178747,217,11,grid - Intensification,6
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Tashar Daru,SSA,8.27029,11.122778,309,55,grid,6
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Unguwar Kanawa,SSA,8.122376,11.332623,283,13,grid - Intensification,6
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Runji,SSA,8.102944,11.403066,331,15,grid - Intensification,6
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Nakunne,SSA,8.14779,11.323802,228,12,grid - Intensification,6
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Agalawa,SSA,8.255106,11.165717,126,9,grid - Intensification,6
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Gidan Mai Dawa,HA,8.154937,11.183999,344,62,grid,6
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Kiyawa,SSA,8.16786,11.192071,238,43,grid,6
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Anguwar Sarkin Zaki,SSA,8.207767,11.178727,192,11,grid - Intensification,6
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Anguwar Liman,SSA,8.267909,11.11921,265,47,grid,6
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Fulani Gudari,HA,8.261265,11.121612,713,124,grid,6
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Agalawa,HA,7.973485,11.429623,1805,309,grid,7
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Kayale,HA,7.973586,11.424451,863,150,grid,7
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Jampalan,SSA,8.232938,11.156454,429,18,grid - Intensification,7
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Anguwar Makera,SSA,8.213039,11.154101,465,19,grid - Intensification,7
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Rinjin Zabo,SSA,7.96418,11.376319,524,92,grid,7
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Hayin Boyi,SSA,7.964394,11.374141,250,44,grid,7
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Hawan Day,SSA,8.211079,11.175158,170,10,grid - Intensification,7
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Hayin Malam Yako,SSA,8.118117,11.39392,421,74,grid,7
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Dan Amfana,HA,8.118307,11.3886,414,72,grid,7
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Dan Chiroma,HA,8.120121,11.382057,1104,190,grid,7
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Kwanar Jalli,HA,8.281309,11.169758,331,15,grid - Intensification,7
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Gishiri,SSA,7.968401,11.395911,232,42,grid,7
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Gabas,SSA,7.971657,11.397141,662,116,grid,7
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Anguwan Dungu,HA,7.980717,11.407999,1164,201,grid,7
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Kawule,HA,7.988648,11.412307,830,144,grid,7
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Danlami,HA,7.964523,11.449387,1133,195,grid,7
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Kwarfi,SSA,8.019798,11.440416,238,12,grid - Intensification,7
+Kaduna,KD,Auchan,KD0501,Ikara,19005,HA_5,HA,8.017722,11.442023,250,12,grid - Intensification,7
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Kaudayaro,HA,8.012477,11.444756,438,77,grid,7
+Kaduna,KD,Rumi,KD0508,Ikara,19005,HA_5,HA,8.014585,11.452765,251,45,grid,7
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Angwan Karo,HA,8.01266,11.455264,1143,197,grid,7
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Rugar Fulani Tukur,HA,8.022511,11.45951,147,27,grid,7
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Gidan Kubashi,HA,8.031749,11.457854,873,151,grid,7
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Unguwar Dutse,SSA,8.031601,11.467181,159,31,grid,7
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Unguwar Bature,SSA,8.031781,11.477749,173,34,grid,7
+Kaduna,KD,Auchan,KD0501,Ikara,19005,HA_7,HA,8.038572,11.478161,133,24,grid,7
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Gidan Iliya Kwankwan,HA,8.045949,11.476328,41,11,grid,7
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Hayin Liman,HA,8.047026,11.481242,154,29,grid,7
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Mahuta,SSA,8.049944,11.481733,380,67,grid,7
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Unguwar Kudu Karama,HA,8.051826,11.478715,473,83,grid,7
+Kaduna,KD,Paki,KD0506,Ikara,19005,Gidan Fulani,HA,8.057989,11.480358,258,46,grid,7
+Kaduna,KD,Paki,KD0506,Ikara,19005,Fada,BUA,8.064817,11.48703,8888,1513,grid,7
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Gidan Makera,HA,8.082985,11.35118,555,97,grid,7
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Dandurugu,SSA,7.982457,11.404454,399,70,grid,7
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Tsamiya,SSA,7.971728,11.354306,401,70,grid,7
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Kwarin Malamai,SSA,7.97293,11.35525,396,69,grid,7
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Makera,SSA,7.978141,11.354586,600,105,grid,7
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwar Daura,HA,8.088736,11.224166,521,91,grid,7
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwar Barau Tsakiya,BUA,8.146076,11.171444,7542,272,grid - Intensification,7
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Dangalo,SSA,8.177603,11.176206,213,39,grid,7
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Fulanin Cikin Dutse,HA,8.186141,11.18258,115,21,grid,7
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Rugar Fulani Bello,HA,8.093739,11.206703,113,8,grid - Intensification,7
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Rugar Abdulkarim,HA,8.097193,11.198191,210,11,grid - Intensification,7
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwar Alhaji Dabi Giroga,HA,8.087875,11.199137,346,62,grid,7
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwar Rufai,HA,8.076541,11.200325,1202,207,grid,7
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_3,HA,8.069716,11.190504,160,31,grid,7
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Sabon Layi,SSA,8.065074,11.195985,363,65,grid,7
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Marke,HA,8.061491,11.204859,843,146,grid,7
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Rugar Alhaji Bello,HA,8.051704,11.19719,1141,197,grid,7
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Kodagora,SSA,8.176978,11.18938,326,59,grid,7
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Anguwar Dukawa,HA,8.251383,11.155751,591,22,grid - Intensification,7
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Rugar Saidu,HA,8.022257,11.371249,1310,48,grid - Intensification,8
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Jidis,SSA,8.251678,11.160016,592,22,grid - Intensification,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_17,HA,8.099257,11.328825,182,10,grid - Intensification,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_16,HA,8.098892,11.320517,107,20,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Tsaunin Miki,HA,8.087531,11.313635,1354,233,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Tudun Gaja,HA,8.121884,11.359693,241,12,grid - Intensification,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Unguwar Saida,HA,8.114196,11.356493,805,140,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Pampaida Maidoki,HA,8.15976,11.31289,277,13,grid - Intensification,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Hayin Tambaya,HA,8.153497,11.309724,508,90,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_8,HA,8.149685,11.308153,45,11,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_7,HA,8.149538,11.302046,116,21,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Katsinawa B,HA,8.156073,11.295711,1321,227,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Hayin Wada,HA,8.144156,11.311638,367,16,grid - Intensification,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Kurmin Barkono,SSA,8.134624,11.316073,160,31,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Gidan Riga,SSA,8.126953,11.311915,200,37,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Barebari,SSA,8.122385,11.310944,205,38,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Tudun Labi,SSA,8.120591,11.310786,402,70,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Sabon Gida,SSA,8.12084,11.302245,259,46,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Gidan Saulawa,SSA,8.111916,11.303264,206,38,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Gobirawa,BUA,8.111973,11.307874,2374,406,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_10,HA,8.105767,11.299826,377,67,grid,8
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Bala,HA,7.984365,11.400161,497,88,grid,8
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Tashar Dauda,SSA,8.301734,11.180432,221,11,grid - Intensification,8
+Kaduna,KD,Rumi,KD0508,Ikara,19005,HA_1,HA,7.992952,11.344331,243,43,grid,8
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Unguwar Duka,SSA,7.99538,11.350854,439,77,grid,8
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Sabuwar Unguwa,SSA,8.015699,11.43626,146,27,grid,8
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Kwankiyal,SSA,8.023462,11.479876,382,67,grid,8
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Maikwankiyal,HA,8.02379,11.485074,609,106,grid,8
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Wali,SSA,8.028775,11.488474,487,86,grid,8
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Gidan Tanko,SSA,8.232018,11.160407,282,13,grid - Intensification,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Gidan Madaki,SSA,8.076298,11.352354,309,55,grid,8
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Dahiru,SSA,7.965629,11.386441,390,69,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Fadamar Kale,SSA,8.122281,11.315541,206,38,grid,8
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwan Madaki,HA,8.073085,11.18288,359,64,grid,8
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Science School,SSA,8.23802,11.169684,193,11,grid - Intensification,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_18,HA,8.137629,11.330199,205,11,grid - Intensification,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,HA_4,HA,8.111643,11.416143,589,22,grid - Intensification,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Rigar Babajo Gobirawa,HA,8.105816,11.421056,681,118,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,HA_5,HA,8.115742,11.421936,200,37,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Ayi Dakyau,SSA,8.111613,11.426836,156,30,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Rugar,HA,8.116496,11.431622,616,107,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Kaza Sabon Gida,HA,8.113396,11.439733,326,59,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Unguwar Jaka,SSA,8.11363,11.44468,348,63,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,HA_9,HA,8.104813,11.447332,120,22,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,HA_6,HA,8.093841,11.443832,359,64,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Hayin Dogo Kuya,SSA,8.082735,11.448705,453,80,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Kuya Gari,SSA,8.081578,11.45061,687,119,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Gidan Wakili,HA,8.076378,11.445726,309,55,grid,8
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Gidan Abdulrahman,HA,8.072995,11.448758,93,18,grid,8
+Kaduna,KD,Auchan,KD0501,Ikara,19005,HA_3,HA,8.074395,11.456082,177,34,grid,8
+Kaduna,KD,Auchan,KD0501,Ikara,19005,HA_6,HA,8.068021,11.458929,168,33,grid,8
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Unguwar Adamu,HA,8.059931,11.45671,1295,223,grid,8
+Kaduna,KD,Paki,KD0506,Ikara,19005,Layin Tibi,HA,8.07255,11.46853,468,82,grid,8
+Kaduna,KD,Paki,KD0506,Ikara,19005,Unguwar Malam Hassan Na Jabba,HA,8.064431,11.470038,543,95,grid,8
+Kaduna,KD,Paki,KD0506,Ikara,19005,Jigawa,HA,8.061512,11.494472,86,17,grid,8
+Kaduna,KD,Paki,KD0506,Ikara,19005,Kafanga,HA,8.069282,11.494077,94,18,grid,8
+Kaduna,KD,Paki,KD0506,Ikara,19005,HA_1,HA,8.080621,11.493326,82,16,grid,8
+Kaduna,KD,Paki,KD0506,Ikara,19005,Unguwar Sallau,HA,8.08616,11.491368,168,33,grid,8
+Kaduna,KD,Paki,KD0506,Ikara,19005,Fegi,HA,8.082427,11.48534,555,97,grid,8
+Kaduna,KD,Paki,KD0506,Ikara,19005,HA_4,HA,8.086943,11.480743,51,12,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Gidan Bado,SSA,8.088671,11.477016,227,41,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Gidan Zubairu,HA,8.089143,11.471467,1649,283,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Kukoki Gari,SSA,8.088069,11.462512,338,61,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Kuya Tasha,HA,8.095123,11.45589,504,89,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Hayin Isyaku,HA,8.139505,11.30594,326,59,grid,8
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Gidan Gambo,HA,8.062886,11.451276,389,68,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Kaza Mai Rimi,SSA,8.109632,11.454244,322,58,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Unguwar Arewa,SSA,8.107851,11.459739,264,46,grid,8
+Kaduna,KD,Rumi,KD0508,Ikara,19005,HA_4,HA,7.973069,11.380882,221,40,grid,8
+Kaduna,KD,Rumi,KD0508,Ikara,19005,HA_2,HA,7.983681,11.387333,607,106,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_21,HA,8.128042,11.354904,190,10,grid - Intensification,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_22,HA,8.135371,11.350952,119,22,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_25,HA,8.136754,11.356762,96,8,grid - Intensification,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Hayin Kwari,HA,8.143855,11.370541,1049,181,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Gidan Toka,HA,8.138862,11.347479,413,72,grid,8
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Jallawa,HA,8.136994,11.340706,401,70,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,HA_1,HA,8.111743,11.360168,106,20,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Rugar Alhaji Yau,HA,8.104648,11.361225,396,69,grid,8
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Anguwan Kanawa,SSA,8.231173,11.194638,307,14,grid - Intensification,8
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwar Bala,SSA,8.129656,11.192718,187,36,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,HA_10,HA,8.091389,11.481241,84,17,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Anguwan Likita,HA,8.096758,11.48531,408,71,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Gidan Boka,SSA,8.095361,11.493418,160,31,grid,8
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Babban Saura,HA,8.093065,11.498936,643,112,grid,8
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Rafi Tabo Tudu,SSA,8.130092,11.190248,299,53,grid,8
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Rafi Tabo Kwari,SSA,8.125653,11.190719,370,66,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Shar,SSA,8.436645,11.114031,228,41,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,HA_1,HA,8.45393,11.118526,71,15,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Kare,HA,8.457723,11.126298,138,25,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Alhaji Yau,HA,8.463261,11.125452,84,17,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,HA_2,HA,8.4708,11.126882,41,11,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Alhaji Bello,HA,8.471838,11.131181,107,20,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Toro,HA,8.472842,11.137192,313,56,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Kaki Wanki,HA,8.474921,11.143087,46,11,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Unguwar Takalmi,SSA,8.473155,11.151984,222,40,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Malami,HA,8.473002,11.158996,745,129,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Anguwar Alhaji Dahiru,HA,8.462273,11.159609,295,52,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Anguwar Bila,HA,8.460405,11.14723,363,65,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Kuli,BUA,8.448659,11.13842,6728,1146,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Pansamu Arewa,SSA,8.464039,11.117647,410,71,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Gwanto,HA,8.484089,11.143712,155,29,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Kafi Awo,HA,8.489888,11.144554,297,53,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Anguwar Adamu,HA,8.489586,11.148321,148,27,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Anguwar Fulani Hussaini A,HA,8.488475,11.158699,888,154,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Jagaba,HA,8.499081,11.143805,495,88,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Bibi,HA,8.418841,11.111896,1295,223,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Sango,SSA,8.413369,11.120298,150,28,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Runji Arewa,HA,8.415304,11.12213,185,35,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Bature,HA,8.414513,11.129692,129,23,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Jata,HA,8.409414,11.128058,212,39,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,HA_9,HA,8.387472,11.166117,76,16,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Tulli,HA,8.377859,11.171315,868,150,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Kadirawa,HA,8.39814,11.16169,108,20,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,HA_6,HA,8.40543,11.16322,174,34,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Chara,SSA,8.415669,11.162294,241,43,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Kaga Dama,SSA,8.417759,11.165372,402,70,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Kundurun,SSA,8.420144,11.172837,167,33,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Tashar Dogo,HA,8.416854,11.174681,510,90,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,HA_10,HA,8.423108,11.174254,265,47,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Alhaji Adamu,SSA,8.420321,11.177246,155,29,grid,8
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Gidan Kota,SSA,8.424072,11.178588,428,75,grid,8
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Gidan Mudi,SSA,8.427057,11.180018,192,36,grid,8
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Dogon Jeji,SSA,8.427735,11.183005,281,49,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Ware Ware,HA,8.433391,11.184949,950,164,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Auguwar Magaji,SSA,8.435492,11.187571,211,39,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Kawari,SSA,8.43712,11.186644,114,21,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Auguwar Liman,SSA,8.437582,11.188833,155,29,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Tashar Kawuri,SSA,8.440353,11.189159,248,44,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Anguwar Kudu,SSA,8.443639,11.189287,303,54,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Anguwar Gabas,SSA,8.445875,11.192205,165,32,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Dan Alpha,SSA,8.445563,11.193974,340,61,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Kura,SSA,8.422902,11.157907,242,43,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Bage,SSA,8.423939,11.155171,63,14,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Rugar Alhaji Maudi,HA,8.417264,11.149175,413,72,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gabari,SSA,8.414737,11.14678,280,49,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Dauda,HA,8.428787,11.15711,231,42,grid,8
+Kaduna,KD,Pala,KD0507,Ikara,19005,Bambarai,SSA,8.431534,11.158481,274,48,grid,8
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Gidan Maiturmi,SSA,8.423893,11.181676,99,19,grid,8
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Tudun Tsakuwa,SSA,8.423432,11.183338,89,17,grid,8
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Sabuwar Kaura,SSA,8.419909,11.182423,268,47,grid,8
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Sabon Gari Bunsira,SSA,8.413518,11.184215,299,53,grid,8
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Fulani Iliya,HA,8.411175,11.183793,222,40,grid,8
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Nakwabe,SSA,8.409023,11.18864,61,13,grid,8
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Gidan Nababa,SSA,8.405881,11.19439,105,20,grid,8
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Hayin Gammo,SSA,8.404754,11.197883,144,26,grid,8
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Katsalle,HA,8.399121,11.199652,166,33,grid,8
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Yakasai,SSA,8.398614,11.207118,124,22,grid,8
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Yakasai 2,SSA,8.397916,11.209268,164,32,grid,8
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Kulin,BUA,8.391785,11.21503,2714,464,grid,8
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Bunsura Gari,HA,8.398772,11.195207,737,128,grid,8
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Tuduwada Kwankiya,SSA,8.021038,11.47418,457,80,grid,8
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Katsalle,SSA,8.153566,11.160262,360,64,grid,9
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Katsalle,HA,8.152388,11.157639,620,108,grid,9
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Zage Zagi,SSA,8.246428,11.191332,292,14,grid - Intensification,9
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Kwabo,HA,7.979129,11.368593,451,79,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Yada Doya,SSA,8.261734,11.132182,310,56,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,HA_3,HA,8.134699,11.415397,119,8,grid - Intensification,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Sabin Gida,SSA,8.136426,11.418438,232,12,grid - Intensification,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Rigar Mobbe,HA,8.138547,11.428589,532,93,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Dogon Juri,SSA,8.137615,11.439615,157,30,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Dogon Juri,HA,8.136046,11.439738,383,68,grid,9
+Kaduna,KD,Pala,KD0507,Ikara,19005,Nahuce,SSA,8.427845,11.166489,329,60,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Gidan Audu,HA,8.102263,11.487748,226,41,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Fulani Gidan Wake,HA,8.09883,11.504981,201,38,grid,9
+Kaduna,KD,Paki,KD0506,Ikara,19005,Gidan Wake,SSA,8.095741,11.506807,100,19,grid,9
+Kaduna,KD,Paki,KD0506,Ikara,19005,Gidan Liman,HA,8.091472,11.512586,828,144,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Anguwan Dan Kande,SSA,8.104028,11.478907,118,21,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Unguwar Makaurata,HA,8.100627,11.468899,584,102,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Rugar Amadu,HA,8.254792,11.132518,69,15,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Anguwar Adamu,SSA,8.251637,11.131112,316,57,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Anguwar Bawa,SSA,8.25024,11.133646,157,30,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Gangare Mai Dafara,SSA,8.251515,11.123092,308,55,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Rugar Hardon Charika,HA,8.250756,11.11451,459,81,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,HA_7,HA,8.124411,11.447644,510,90,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Gidan Ali,HA,8.088448,11.43574,314,57,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Gidan Dabargi,HA,8.08784,11.428489,331,60,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Unguwar Aikau,SSA,8.081953,11.427603,173,34,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Anguwar Mai Dawa,SSA,8.100942,11.365551,171,33,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Babban Saura,SSA,8.089314,11.500835,139,25,grid,9
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Gwanki,HA,8.010674,11.475184,388,68,grid,9
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Danko,SSA,8.010736,11.471848,119,22,grid,9
+Kaduna,KD,Pala,KD0507,Ikara,19005,HA_8,HA,8.459973,11.163465,497,88,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Madaki,SSA,8.136773,11.198185,104,20,grid,9
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Katsinawa,HA,8.320674,11.21237,420,73,grid,9
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Unguwar Hardo,HA,8.310375,11.216508,607,106,grid,9
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Juda,SSA,8.007738,11.477635,145,27,grid,9
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Unguwar Murtala,SSA,8.007516,11.484304,280,49,grid,9
+Kaduna,KD,Rumi,KD0508,Ikara,19005,HA_7,HA,7.999258,11.484691,302,54,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_2,HA,8.127036,11.179947,148,27,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Alitu,SSA,8.12637,11.168754,285,50,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_1,HA,8.112846,11.165919,213,39,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwar Gwani,HA,8.108907,11.182515,1047,181,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Gidan Dan Mara,HA,8.252062,11.110005,230,42,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Gidan Dikko,SSA,8.29248,11.119576,181,35,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Gidan Bakula,SSA,8.292357,11.126829,348,63,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Gidan Tati,HA,8.291058,11.130237,819,142,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Bamuyayi Hayi,SSA,8.123581,11.460541,221,40,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Gidan Alhaji Tanko,SSA,8.124008,11.462965,173,34,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Rigar Hamisu,HA,8.119792,11.473503,443,78,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Kumbuli,HA,8.140406,11.195161,511,90,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Anguwar Sada,SSA,8.085829,11.368557,280,49,grid,9
+Kaduna,KD,Pala,KD0507,Ikara,19005,Pansamu Kudu,SSA,8.473317,11.119938,259,46,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Anguwar M Nuhu,SSA,8.24671,11.106705,161,31,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Chareka,SSA,8.240347,11.111292,319,58,grid,9
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Hayin Kanfa,SSA,8.355834,11.220276,106,8,grid - Intensification,9
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Gidan Mudi Sayasaya,SSA,8.354318,11.226247,160,10,grid - Intensification,9
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Gidan Dogara,HA,8.347512,11.221457,87,17,grid,9
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Gumduma Mai Rimi,SSA,8.34496,11.227941,362,65,grid,9
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Anguwan Alasan,HA,8.341996,11.230081,410,71,grid,9
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Gumduma Gari,SSA,8.34016,11.224309,404,71,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Haruna,HA,8.122238,11.205875,148,27,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Bamuyayi,SSA,8.129695,11.459771,486,86,grid,9
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_9,HA,8.092701,11.289034,82,16,grid,9
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Unguwar Kozo,SSA,8.08768,11.292361,305,55,grid,9
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Yan Gwari,HA,8.077775,11.29672,904,156,grid,9
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Arewachi,SSA,8.335009,11.228805,242,43,grid,9
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Hayin Magaji,HA,8.109564,11.313991,489,86,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Gidan Duna,HA,8.237969,11.122745,606,106,grid,9
+Kaduna,KD,Pala,KD0507,Ikara,19005,HA_5,HA,8.497123,11.13091,563,98,grid,9
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Tashar Tunku,SSA,8.205181,11.173848,133,9,grid - Intensification,9
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Gidan Kunkun,HA,8.044193,11.464996,331,60,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Danlawan,BUA,8.178436,11.213119,1220,45,grid - Intensification,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Gidan Baibu,SSA,8.283816,11.134116,245,44,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Danlawan Bakin Titi,SSA,8.181802,11.211551,140,9,grid - Intensification,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Bakin Kasuwa,SSA,8.179984,11.208715,131,9,grid - Intensification,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Goga,SSA,8.178969,11.204217,67,7,grid - Intensification,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Anguwar Liman,HA,8.181894,11.197044,973,168,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Anguwar Audun Kulu,SSA,8.272868,11.172104,324,59,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Gidan Shawai,SSA,8.233208,11.147785,280,13,grid - Intensification,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Gidan Jaki,SSA,8.233166,11.142202,243,12,grid - Intensification,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Jobe,HA,8.2416,11.14287,695,121,grid,9
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_6,HA,8.104063,11.288303,130,23,grid,9
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_5,HA,8.108633,11.281865,352,63,grid,9
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Gidan Mal Bawa,SSA,8.116572,11.2757,170,33,grid,9
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_2,HA,8.121504,11.275045,126,23,grid,9
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Gidan Gamji,SSA,8.122486,11.278844,129,23,grid,9
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Mafera,SSA,8.125654,11.277705,303,54,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Karamawa,SSA,8.244157,11.173697,167,10,grid - Intensification,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Rugar Alhaji Na Yari,HA,8.251922,11.179137,152,29,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Rugar Galeji,HA,8.258201,11.177396,39,10,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Anguwar Ganuwa,SSA,8.260642,11.185431,220,40,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Anguwar Makera,HA,8.266109,11.192978,424,74,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Hayin Maikai,SSA,8.276525,11.191653,276,48,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Anguwar Soda,SSA,8.276218,11.18867,290,51,grid,9
+Kaduna,KD,Ikara,KD0502,Ikara,19005,HA_6,HA,8.269724,11.201028,197,37,grid,9
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Anguwar Aji,SSA,8.266977,11.202113,200,37,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Gangare Unguwar Fari,SSA,8.296123,11.138096,212,39,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Fulani Aminu,HA,8.298938,11.143873,441,77,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Sarkin Rafi,SSA,8.183552,11.205875,105,8,grid - Intensification,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Tinau,HA,8.190072,11.200389,231,42,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwar Haruna,SSA,8.186757,11.208174,164,10,grid - Intensification,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Anguwar Turaki,SSA,8.197659,11.21135,165,32,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Anguwar Dule,HA,8.206189,11.218356,262,46,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Mai Kyan Gemu,HA,8.201268,11.222254,131,23,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Ruggar Malam Shitu,HA,8.19641,11.226517,280,49,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_7,HA,8.188266,11.228833,45,11,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Galadima Toka,HA,8.17916,11.235898,278,49,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Bature,HA,8.170185,11.229184,159,31,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Guna,SSA,8.17072,11.226357,187,36,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Gambo,HA,8.161211,11.23353,356,64,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Barangwaje,HA,8.158203,11.239799,579,101,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Dan Yaro,HA,8.159717,11.249085,87,17,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Tudu Sani,SSA,8.16356,11.254288,132,23,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Dukku,HA,8.165844,11.25652,200,37,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Dukku,SSA,8.167828,11.257252,137,24,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Dan Sarki,HA,8.171919,11.248908,279,49,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Mato Mai Jakai,HA,8.176106,11.261477,68,14,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Bagwayawa,SSA,8.183064,11.26384,87,17,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Ruggar Alhaji Idi,HA,8.187639,11.270289,255,45,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Mato Jina,SSA,8.190636,11.279178,144,26,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwar Barde,HA,8.200896,11.280514,154,29,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Furana,BUA,8.209078,11.273322,2684,459,grid,9
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Auchanawa,BUA,8.256951,11.219997,1167,44,grid - Intensification,9
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Rugar Tambaya,HA,8.071133,11.43949,48,12,grid,9
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Gidan Dan Lami,SSA,8.06687,11.438863,166,33,grid,9
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Gidan Na Jude,SSA,8.06709,11.435103,169,33,grid,9
+Kaduna,KD,Auchan,KD0501,Ikara,19005,HA_2,HA,8.01376,11.434272,258,46,grid,9
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Gidan Baushe,HA,8.348073,11.213025,96,18,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Rago,SSA,8.195663,11.136269,250,12,grid - Intensification,9
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Fulanin Dutsen Bauna,HA,8.134237,11.276501,193,36,grid,9
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_1,HA,8.131325,11.267921,114,21,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_19,HA,8.130394,11.263594,114,21,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_18,HA,8.131227,11.2582,61,13,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwar Magajin Gari,SSA,8.124282,11.250552,195,37,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwar Jaki B,HA,8.123798,11.247787,435,76,grid,9
+Kaduna,KD,Ikara,KD0502,Ikara,19005,HA_9,HA,8.250772,11.222004,72,7,grid - Intensification,9
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Tubawa,SSA,8.250183,11.227541,89,7,grid - Intensification,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Mahangi,BUA,8.24756,11.237935,2503,428,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Dogari,SSA,8.245822,11.241339,148,27,grid,9
+Kaduna,KD,Pala,KD0507,Ikara,19005,HA_4,HA,8.426633,11.131138,71,15,grid,9
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Yau,HA,8.431491,11.131467,228,41,grid,9
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Kundi,SSA,8.431363,11.143281,555,97,grid,9
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Filanin Tsaunin Miki,HA,8.090612,11.306116,206,38,grid,9
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Gidan Dan Koko,SSA,8.304448,11.143766,279,49,grid,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Tashar Angola North,SSA,8.126547,11.414404,263,13,grid - Intensification,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Kyabiri,HA,8.125258,11.239823,191,36,grid,9
+Kaduna,KD,Ikara,KD0502,Ikara,19005,HA_1,HA,8.159787,11.121048,247,44,grid,9
+Kaduna,KD,Ikara,KD0502,Ikara,19005,HA_3,HA,8.158027,11.128793,153,29,grid,9
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Rugar Wakili Idi West,HA,8.151906,11.136829,990,171,grid,9
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_14,HA,8.132764,11.319702,111,20,grid,9
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Rugar Adamu Tella,HA,8.152191,11.349796,366,65,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Ruggar Fulani Tukur,HA,8.199319,11.234744,98,19,grid,9
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Ruggar Alhaji Ibrahim,HA,8.205001,11.236993,504,89,grid,9
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Rugar Naudafa,HA,8.024304,11.406676,530,21,grid - Intensification,9
+Kaduna,KD,Kuya,KD0505,Ikara,19005,HA_8,HA,8.106579,11.510963,45,11,grid,10
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Gidan Dawaki,HA,8.112148,11.512869,204,38,grid,10
+Kaduna,KD,Paki,KD0506,Ikara,19005,Ganzamawa,HA,8.120223,11.514613,72,15,grid,10
+Kaduna,KD,Paki,KD0506,Ikara,19005,Zuri,HA,8.120841,11.504559,507,89,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_12,HA,8.115054,11.242838,103,19,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwar Lado,SSA,8.10962,11.251692,255,45,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Kufan Sarki,SSA,8.114202,11.255217,94,18,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_21,HA,8.11698,11.262155,289,51,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Gidan Kadiri,HA,8.334695,11.196349,270,47,grid,10
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Gidan Geri,HA,8.088566,11.417253,269,47,grid,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Masaka,SSA,8.226029,11.121456,171,33,grid,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Gidan Tarago,HA,8.019319,11.43211,284,13,grid - Intensification,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Tsakuwa,SSA,7.99875,11.475448,235,42,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_17,HA,8.15894,11.256124,104,20,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_20,HA,8.153447,11.263275,101,19,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Ruggar Maude,HA,8.145723,11.266032,646,113,grid,10
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Gidan Chino,SSA,8.091118,11.344307,169,10,grid - Intensification,10
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Rugar Jelli,HA,8.080682,11.336029,203,38,grid,10
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_19,HA,8.076299,11.334812,132,23,grid,10
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Sullubawa,HA,8.068296,11.330862,494,87,grid,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Rugar Mama,HA,8.306453,11.133173,287,51,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Lakace,SSA,8.141606,11.197076,183,35,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_14,HA,8.205938,11.246312,96,18,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Bayan Dutse,HA,8.212509,11.254986,238,43,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Fafafa,SSA,8.222105,11.2586,155,29,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gwangwamawa,HA,8.22628,11.252035,520,91,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_15,HA,8.22036,11.246791,103,19,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_13,HA,8.225078,11.24054,302,54,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Kadanya Biyar,HA,8.216147,11.240731,203,38,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Dindibis,SSA,8.257955,11.209662,131,9,grid - Intensification,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Chamayo,SSA,8.262386,11.211538,43,6,grid - Intensification,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Magara,SSA,8.264046,11.213646,234,12,grid - Intensification,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Unguwar Maza,SSA,8.269952,11.214016,191,36,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Kurmin Tsada,SSA,8.276047,11.208619,197,37,grid,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Asakale,SSA,8.283543,11.205323,387,68,grid,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Anguwar Jakada,SSA,8.286463,11.200375,229,41,grid,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Hayin Maidara,SSA,8.290738,11.200099,233,42,grid,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Unguwar Tsamiya,SSA,8.292953,11.199367,273,48,grid,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Gangare,SSA,8.29916,11.193893,236,42,grid,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,HA_3,HA,8.304699,11.194619,234,42,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,HA_5,HA,8.334201,11.19004,27,9,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,HA_4,HA,8.337944,11.189425,137,24,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Gidan Musa,HA,8.337481,11.184689,669,117,grid,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Sani,HA,7.971312,11.445566,165,32,grid,10
+Kaduna,KD,Paki,KD0506,Ikara,19005,Gidan Nakaura,SSA,8.081435,11.497007,74,15,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Gidan Shekarau,SSA,8.211225,11.17836,74,7,grid - Intensification,10
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Tashar Angola North,HA,8.126542,11.416745,417,17,grid - Intensification,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,HA_1,HA,8.225792,11.107827,286,51,grid,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Gidan Magawata,SSA,8.059104,11.446488,132,23,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwar Sarkin Huda,HA,8.202661,11.292226,317,57,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Karafka,HA,8.21338,11.28547,751,130,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Tsirya,SSA,8.18785,11.223855,92,18,grid,10
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Gidan Dangai,SSA,8.112325,11.501092,166,33,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_4,HA,8.148279,11.204961,219,40,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Unguwar Liman,SSA,8.229389,11.205176,311,14,grid - Intensification,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Rugar Damageru,HA,8.254805,11.138945,128,23,grid,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Rugar Shabba U,HA,8.028051,11.439095,653,25,grid - Intensification,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Tudun Wada Ayamakawa,SSA,8.242867,11.223144,215,11,grid - Intensification,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Rugar Alhaji Baba Wuro,HA,8.051978,11.378235,156,9,grid - Intensification,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Hayin Gide,SSA,8.046948,11.38439,124,22,grid,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Gidan Katanga,SSA,8.045721,11.388703,276,48,grid,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Gidan Kwara,SSA,8.047861,11.388968,141,25,grid,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Yauran,SSA,7.988922,11.461138,677,26,grid - Intensification,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Hayin Jaji,SSA,8.089366,11.245592,117,21,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwar Zangi,HA,8.091106,11.251506,273,48,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwar Zangi,SSA,8.090489,11.253301,168,33,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Kasuwar Tumatiri,SSA,8.114562,11.204488,125,9,grid - Intensification,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_5,HA,8.14419,11.212901,34,10,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Galadima Sarkin Rawa,SSA,8.150872,11.220611,97,19,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Dutse,HA,8.151396,11.227131,378,67,grid,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Kudu,SSA,7.995824,11.427449,309,14,grid - Intensification,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Dokoki,SSA,8.237397,11.227862,259,13,grid - Intensification,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Sammako,SSA,8.232127,11.225539,144,9,grid - Intensification,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Kankaru,HA,8.224536,11.227679,328,60,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Yaro Kafi,SSA,8.149039,11.249831,269,47,grid,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,HA_1,HA,8.000069,11.411735,404,17,grid - Intensification,10
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Gidan Liman Murtala,HA,8.08571,11.394824,1588,61,grid - Intensification,10
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Gidan Lumu,SSA,8.081669,11.325856,174,34,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Gidan Dantani,SSA,8.346119,11.183512,135,24,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,HA_2,HA,8.346823,11.18572,137,24,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Gidan Maaji,SSA,8.349508,11.192587,191,36,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Botari Mai Gwodo,SSA,8.357351,11.189144,385,68,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Botari Mai Chediya,SSA,8.364735,11.185616,291,52,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,HA_7,HA,8.367626,11.196972,313,56,grid,10
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Gidan Bello,HA,8.137692,11.456662,155,29,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Ruggar Sabo,HA,8.199289,11.299436,78,16,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Jikar Gunda,SSA,8.195261,11.299525,206,38,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Hassan,SSA,8.197942,11.303112,155,29,grid,10
+Kaduna,KD,Pala,KD0507,Ikara,19005,Kanlabi,SSA,8.443864,11.188198,163,32,grid,10
+Kaduna,KD,Pala,KD0507,Ikara,19005,Gidan Alhaji Isah,HA,8.430149,11.124921,129,23,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Fulani Habu,HA,8.362302,11.200337,137,24,grid,10
+Kaduna,KD,Pala,KD0507,Ikara,19005,Zariyawa,SSA,8.482861,11.126653,168,33,grid,10
+Kaduna,KD,Pala,KD0507,Ikara,19005,HA_3,HA,8.482734,11.132216,140,25,grid,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,HA_4,HA,8.03358,11.439225,36,6,grid - Intensification,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Gidan Na Kafi,SSA,8.044423,11.441487,147,27,grid,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Gidan Danshi,HA,8.041953,11.446385,135,24,grid,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Gidan Hasan,SSA,8.047839,11.433875,127,23,grid,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Dogon Awo,SSA,8.049727,11.430723,137,24,grid,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Gidan Alhaji Haruna,SSA,8.054417,11.429774,121,22,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Ruggar Dahiro,HA,8.209006,11.305424,395,69,grid,10
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_13,HA,8.061523,11.319663,139,25,grid,10
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_4,HA,8.065407,11.312994,214,39,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Kaoye Nagoje,HA,8.374325,11.201395,153,29,grid,10
+Kaduna,KD,Paki,KD0506,Ikara,19005,Tudun Soda,SSA,8.14132,11.470037,150,28,grid,10
+Kaduna,KD,Paki,KD0506,Ikara,19005,HA_2,HA,8.145708,11.469883,147,27,grid,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Fulanin Bokolo,HA,8.272055,11.162055,153,29,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Jallawa,HA,8.132847,11.222135,53,12,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_8,HA,8.136246,11.228729,286,51,grid,10
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Runji Gidan Sarki,SSA,8.10456,11.405021,78,7,grid - Intensification,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Rugar Auta,HA,8.256366,11.199913,146,27,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Alwalawa,SSA,8.187358,11.292397,80,16,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Unguwar Alhaji Haruna,SSA,8.184516,11.298037,177,34,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_25,HA,8.178064,11.289111,66,14,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Ruggar Shaffatu,HA,8.171349,11.283369,230,42,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Gidan Gaude,SSA,8.207597,11.174368,121,8,grid - Intensification,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Rugar Ibrahim,HA,7.98132,11.468266,211,11,grid - Intensification,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Ciroma,HA,7.978179,11.473236,313,56,grid,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Gimbawa,SSA,8.309609,11.177901,453,18,grid - Intensification,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Fulani Idi,HA,8.400287,11.212642,246,44,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Bayan Dutse,SSA,8.403833,11.226179,119,22,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Karamin Hayi,HA,8.406247,11.228388,323,58,grid,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Anguwar Ganuwa,SSA,8.288192,11.168062,241,12,grid - Intensification,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_47,HA,8.205244,11.312478,42,11,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Bakwalon Furana,HA,8.220969,11.316943,377,67,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Marmara,SSA,8.229679,11.319254,170,33,grid,10
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Unguwar Fulani Kawaje,HA,8.090056,11.404151,229,41,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Makera Garba,SSA,8.412261,11.196975,133,24,grid,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Unguwar Liman,SSA,7.976675,11.463641,684,26,grid - Intensification,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Dan Gambo,SSA,7.978631,11.458881,397,17,grid - Intensification,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Zankeke,SSA,8.250891,11.240608,156,30,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Anguwan Karofi,HA,8.220426,11.200927,310,14,grid - Intensification,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Rugar Shanono,HA,8.216961,11.196085,127,23,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Rugar Burgagau,HA,8.20983,11.195818,124,22,grid,10
+Kaduna,KD,Kuya,KD0505,Ikara,19005,HA_2,HA,8.089227,11.373577,71,15,grid,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Rugar Magaji,HA,8.263477,11.161333,299,14,grid - Intensification,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Kwarin Barde,SSA,8.010016,11.427925,170,33,grid,10
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Gidan Ali,SSA,8.127855,11.344418,232,12,grid - Intensification,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,HA_6,HA,8.422761,11.198197,154,29,grid,10
+Kaduna,KD,Pala,KD0507,Ikara,19005,Kwalele,SSA,8.396238,11.187465,182,35,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Katsinawa,HA,8.26399,11.242056,278,49,grid,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Kwakwa 2,SSA,8.039563,11.408527,390,16,grid - Intensification,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Layin Mai Unguwar Yar Gora,SSA,8.044821,11.390225,130,23,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Daba,HA,8.249693,11.31454,302,54,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_16,HA,8.258456,11.255792,14,7,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Anguwar Kawo,SSA,8.254399,11.258187,146,27,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Ruggar Jamma,HA,8.254519,11.267837,126,23,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Ruggar Alhaji Baiti,HA,8.255869,11.271956,50,12,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Bakwalo,HA,8.255275,11.285135,765,133,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Gidan Iro,HA,8.412266,11.200633,33,9,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Ruggar Samaila,HA,8.145967,11.272784,70,15,grid,10
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_3,HA,8.147297,11.279857,93,18,grid,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Nayarima,HA,7.991395,11.425563,539,21,grid - Intensification,10
+Kaduna,KD,Pala,KD0507,Ikara,19005,Rinji,SSA,8.449626,11.162528,94,18,grid,10
+Kaduna,KD,Pala,KD0507,Ikara,19005,HA_7,HA,8.446268,11.16621,106,20,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Alhazawa,SSA,8.243456,11.208507,111,20,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,HA_4,HA,8.158611,11.154098,73,15,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Rugar Wakili Idi East,HA,8.168056,11.150715,123,22,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_11,HA,8.143389,11.241969,104,20,grid,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Rafin Rogo Arewa,SSA,8.016002,11.394207,698,27,grid - Intensification,10
+Kaduna,KD,Pala,KD0507,Ikara,19005,HA_12,HA,8.426716,11.199172,33,9,grid,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Rugar Alhaji Wada,HA,8.049896,11.405169,165,10,grid - Intensification,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Unguwar Barka,SSA,8.058812,11.406762,173,34,grid,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Rugar Chiroma Manu,HA,8.055565,11.415304,111,20,grid,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,HA_4,HA,8.313526,11.195707,88,17,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Turfi,SSA,8.369636,11.219846,291,14,grid - Intensification,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Gidan Ajju,HA,8.378031,11.225311,214,39,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Zaki,SSA,8.194422,11.247654,133,24,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Hayi,SSA,8.161628,11.178909,576,22,grid - Intensification,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,HA_2,HA,8.27411,11.157141,61,13,grid,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Anguwar Rimi,SSA,8.226992,11.147608,721,29,grid - Intensification,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_6,HA,8.103307,11.219189,292,14,grid - Intensification,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_9,HA,8.101074,11.233051,181,35,grid,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,HA_6,HA,7.984899,11.480268,109,20,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Anguwar Chado,HA,8.208466,11.171992,151,9,grid - Intensification,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_30,HA,8.09775,11.259495,86,17,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Anguwar Nuhu,SSA,8.201219,11.167186,396,17,grid - Intensification,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Rugar Salekamfani,HA,8.032029,11.420846,730,29,grid - Intensification,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Jangargari,SSA,8.279073,11.157646,482,19,grid - Intensification,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,HA_1,HA,8.34662,11.170969,173,34,grid,10
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Tsanyawa,SSA,8.088677,11.389188,184,10,grid - Intensification,10
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_12,HA,8.166096,11.302984,70,15,grid,10
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Garangarmai,HA,8.172206,11.305043,88,17,grid,10
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Rugar Iro Dan Adama,HA,8.081962,11.382441,273,13,grid - Intensification,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Baushe Kagulun,HA,8.244739,11.267785,61,13,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_22,HA,8.238863,11.260969,103,19,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Gidan Maidara,SSA,8.367894,11.225087,217,11,grid - Intensification,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Shatambaya,SSA,8.028196,11.43568,143,9,grid - Intensification,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,HA_2,HA,8.178567,11.129283,77,16,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Hayin Jamo,HA,8.266482,11.273299,114,21,grid,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Dokan Wayya,HA,8.221524,11.145605,347,15,grid - Intensification,10
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Gidan Kadiri,HA,8.078816,11.403664,72,15,grid,10
+Kaduna,KD,Pala,KD0507,Ikara,19005,HA_11,HA,8.393583,11.17686,79,16,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Ruggar Ja'E Samanu,HA,8.158423,11.273183,75,15,grid,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Dantsauni,SSA,8.221712,11.162003,227,12,grid - Intensification,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Hayin Mande,SSA,8.282665,11.152198,370,16,grid - Intensification,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Rumin Daddawa,SSA,8.018279,11.368364,227,12,grid - Intensification,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,HA_3,HA,8.370938,11.183405,40,10,grid,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Hayin Tura,SSA,8.294519,11.158609,250,12,grid - Intensification,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Anguwan Yusha'U,SSA,7.980067,11.454117,252,12,grid - Intensification,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,HA_12,HA,8.27173,11.269941,59,13,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Kutama,HA,8.237447,11.212342,416,17,grid - Intensification,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,Gidan Kare,HA,8.232946,11.21706,388,16,grid - Intensification,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Hayin Bawa,HA,8.249981,11.21597,205,11,grid - Intensification,10
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Rugar Mal Habu,HA,8.090706,11.382061,416,17,grid - Intensification,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Kariya Arewa,HA,8.285731,11.262309,60,13,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,HA_11,HA,8.287523,11.255839,70,15,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Kariya Kudu,HA,8.282483,11.24811,130,23,grid,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Gidan Abu Secetary,HA,7.992082,11.403632,484,19,grid - Intensification,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_38,HA,8.196702,11.269666,45,11,grid,10
+Kaduna,KD,Pala,KD0507,Ikara,19005,HA_13,HA,8.453164,11.180157,73,15,grid,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Tsaka Tsaka,SSA,8.008206,11.387956,380,16,grid - Intensification,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Rugar Alhaji Datti,HA,8.265839,11.171744,21,8,grid,10
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Baking Kuya,SSA,8.073943,11.38716,190,10,grid - Intensification,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Gidan Chino,HA,8.242376,11.154677,415,17,grid - Intensification,10
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_20,HA,8.173139,11.339895,57,6,grid - Intensification,10
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Pampaida Dutse,HA,8.178743,11.335562,464,19,grid - Intensification,10
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,HA_15,HA,8.186421,11.323627,115,21,grid,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Rugar Alhaji Sule,HA,8.040512,11.394521,38,10,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,HA_8,HA,8.415086,11.215691,57,13,grid,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Kurmin Jau,HA,8.430058,11.226111,125,22,grid,10
+Kaduna,KD,Kurmin Kogi,KD0504,Ikara,19005,HA_24,HA,8.221083,11.289686,36,10,grid,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,HA_7,HA,8.280039,11.221108,55,13,grid,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,HA_13,HA,7.989582,11.431129,94,8,grid - Intensification,10
+Kaduna,KD,Kuya,KD0505,Ikara,19005,Goburawa,SSA,8.103719,11.416212,133,9,grid - Intensification,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,HA_8,HA,8.27209,11.231049,39,10,grid,10
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Kwatau,SSA,8.154093,11.332787,233,12,grid - Intensification,10
+Kaduna,KD,Jampalan,KD0503,Ikara,19005,Rugar Yakuba,HA,8.301693,11.189156,128,9,grid - Intensification,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,HA_3,HA,8.011401,11.37004,189,10,grid - Intensification,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Rugar Alhaji Zubairu,HA,8.016627,11.421788,299,14,grid - Intensification,10
+Kaduna,KD,Rumi,KD0508,Ikara,19005,Rugar Hardo Zariya,HA,8.000955,11.396013,231,12,grid - Intensification,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,Anguwar Bako,SSA,8.210142,11.163965,118,8,grid - Intensification,10
+Kaduna,KD,Ikara,KD0502,Ikara,19005,HA_10,HA,8.293346,11.238108,39,10,grid,10
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Hayin Almu,SSA,8.11341,11.323686,213,11,grid - Intensification,10
+Kaduna,KD,Auchan,KD0501,Ikara,19005,Rugar Namata,HA,8.033648,11.399632,135,9,grid - Intensification,10
+Kaduna,KD,Saya Saya,KD0510,Ikara,19005,Rugar Saleh,HA,8.372302,11.213433,47,6,grid - Intensification,10
+Kaduna,KD,Saulawa,KD0509,Ikara,19005,Rigar Malam Adamu,HA,8.101934,11.351118,73,7,grid - Intensification,10
